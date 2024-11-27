@@ -40,9 +40,9 @@ jobs:
           . venv/bin/activate
           pip install pytest
           pip install -r requirements.txt
-          
+
       - name: Run Pytest
         run: |
           . venv/bin/activate
-          pytest --maxfail=5 --disable-warnings
+          pytest tests --maxfail=5 --disable-warnings
 
