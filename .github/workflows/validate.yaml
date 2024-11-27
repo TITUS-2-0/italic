@@ -1,0 +1,45 @@
+name: Validate
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Subrepo
+        uses: actions/checkout@v3
+
+      - name: Clone Workbench Repository
+        run: |
+          git clone https://github.com/TITUS-2-0/datasets.git workbench
+
+      - name: Copy Tests to Subrepo
+        run: |
+          cp -r datasets/tests ./tests
+          cp datasets/titus_tei_lite.dtd ./
+          cp datasets/tei_lite.dtd ./
+
+      - name: Set Up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install Dependencies
+        run: |
+          python -m venv venv
+          . venv/bin/activate
+          pip install -r requirements.txt
+          pip install pytest
+
+      - name: Run Pytest
+        run: |
+          . venv/bin/activate
+          pytest --maxfail=5 --disable-warnings
+
