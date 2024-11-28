@@ -8,6 +8,9 @@ jobs:
   close-issues:
     if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: read
 
     steps:
       - name: Checkout Repository
