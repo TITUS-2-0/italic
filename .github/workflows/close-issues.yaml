@@ -30,19 +30,19 @@ jobs:
           cat $GITHUB_EVENT_PATH
           echo "${{ github.event }}"
 
-
       - name: Identify Datasets in Pull Request
         id: find-datasets
         run: |
-          BEFORE_SHA=${{ github.event.before }}
-          AFTER_SHA=${{ github.sha }}
+          git fetch origin main
+          BASE_SHA=$(git merge-base main HEAD)
+          echo "Merge base is $BASE_SHA"
 
-          echo "Comparing changes from $BEFORE_SHA to $AFTER_SHA"
-
-          MODIFIED_FILES=$(git diff --name-only $BEFORE_SHA $AFTER_SHA)
+          MODIFIED_FILES=$(git diff --name-only $BASE_SHA HEAD)
+          echo "$MODIFIED_FILES"
           echo "MODIFIED_FILES=$MODIFIED_FILES" >> $GITHUB_ENV
 
           CLOSED_IDS=$(echo "$MODIFIED_FILES" | grep -E '^[^/]+\.yaml$' | sed 's|\.yaml$||')
+          echo "$CLOSED_IDS"
           echo "CLOSED_IDS=$CLOSED_IDS" >> $GITHUB_ENV
 
       - name: Close Issues for Datasets
