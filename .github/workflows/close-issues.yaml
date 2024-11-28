@@ -3,8 +3,7 @@ name: Close Dataset Issues
 on:
   pull_request:
     types: [closed]
-    branches:
-      - main
+
 jobs:
   close-issues:
     if: github.event.pull_request.merged == true
