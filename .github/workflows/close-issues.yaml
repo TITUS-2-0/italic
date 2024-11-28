@@ -3,7 +3,8 @@ name: Close Dataset Issues
 on:
   pull_request:
     types: [closed]
-
+    branches:
+      - main
 jobs:
   close-issues:
     if: github.event.pull_request.merged == true
@@ -13,7 +14,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 2
+          fetch-depth: 0
       - name: Load Issue Mapping
         id: load-mapping
         run: |
@@ -27,8 +28,14 @@ jobs:
       - name: Identify Datasets in Pull Request
         id: find-datasets
         run: |
-          MODIFIED_FILES=$(git diff --name-only main HEAD)
+          BEFORE_SHA=${{ github.event.before }}
+          AFTER_SHA=${{ github.sha }}
+
+          echo "Comparing changes from $BEFORE_SHA to $AFTER_SHA"
+
+          MODIFIED_FILES=$(git diff --name-only $BEFORE_SHA $AFTER_SHA)
           echo "MODIFIED_FILES=$MODIFIED_FILES" >> $GITHUB_ENV
+
           CLOSED_IDS=$(echo "$MODIFIED_FILES" | grep -E '^[^/]+\.yaml$' | sed 's|\.yaml$||')
           echo "CLOSED_IDS=$CLOSED_IDS" >> $GITHUB_ENV
 
