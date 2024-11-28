@@ -18,11 +18,18 @@ jobs:
         id: load-mapping
         run: |
           if [ -f .github/issue_mapping.yaml ]; then
+            echo "ISSUE_MAPPING=$(cat .github/issue_mapping.yaml)"
             echo "ISSUE_MAPPING=$(cat .github/issue_mapping.yaml)" >> $GITHUB_ENV
           else
             echo "No issue mapping file found."
             exit 1
           fi
+      - name: Debug Event Payload
+        run: |
+          echo "Dumping event payload for inspection:"
+          cat $GITHUB_EVENT_PATH
+          echo "${{ github.event }}"
+
 
       - name: Identify Datasets in Pull Request
         id: find-datasets
