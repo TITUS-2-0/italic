@@ -44,9 +44,6 @@ jobs:
           echo "$CLOSED_IDS"
           echo "CLOSED_IDS=$CLOSED_IDS" >> $GITHUB_ENV
 
-      - name: Debug Modified Files
-        run: echo "Modified Files: ${{ env.MODIFIED_FILES }}"
-
       - name: Close Issues for Datasets
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
