@@ -30,20 +30,22 @@ jobs:
           cat $GITHUB_EVENT_PATH
           echo "${{ github.event }}"
 
-      - name: Identify Datasets in Pull Request
-        id: find-datasets
+      - name: Fetch Main Branch
+        run: git fetch origin test
+
+      - name: Get Modified Files
+        id: get-modified-files
         run: |
-          git fetch origin main
-          BASE_SHA=$(git merge-base main HEAD)
-          echo "Merge base is $BASE_SHA"
-
+          BASE_SHA=${{ github.event.pull_request.base.sha }}
           MODIFIED_FILES=$(git diff --name-only $BASE_SHA HEAD)
-          echo "$MODIFIED_FILES"
           echo "MODIFIED_FILES=$MODIFIED_FILES" >> $GITHUB_ENV
-
+          echo "$MODIFIED_FILES"
           CLOSED_IDS=$(echo "$MODIFIED_FILES" | grep -E '^[^/]+\.yaml$' | sed 's|\.yaml$||')
           echo "$CLOSED_IDS"
           echo "CLOSED_IDS=$CLOSED_IDS" >> $GITHUB_ENV
+
+      - name: Debug Modified Files
+        run: echo "Modified Files: ${{ env.MODIFIED_FILES }}"
 
       - name: Close Issues for Datasets
         env:
