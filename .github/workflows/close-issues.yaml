@@ -38,10 +38,9 @@ jobs:
         run: |
           BASE_SHA=${{ github.event.pull_request.base.sha }}
           MODIFIED_FILES=$(git diff --name-only $BASE_SHA HEAD)
-          echo "MODIFIED_FILES=$MODIFIED_FILES" >> $GITHUB_ENV
-          echo "$MODIFIED_FILES"
+          echo "modified files: $MODIFIED_FILES"
           CLOSED_IDS=$(echo "$MODIFIED_FILES" | grep -E '^[^/]+\.yaml$' | sed 's|\.yaml$||')
-          echo "$CLOSED_IDS"
+          echo "closed ids: $CLOSED_IDS"
           echo "CLOSED_IDS=$CLOSED_IDS" >> $GITHUB_ENV
 
       - name: Close Issues for Datasets
