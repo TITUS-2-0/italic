@@ -3,6 +3,8 @@ name: Close Dataset Issues
 on:
   pull_request:
     types: [closed]
+    branches:
+      - main
 
 jobs:
   close-issues:
@@ -32,9 +34,6 @@ jobs:
           echo "Dumping event payload for inspection:"
           cat $GITHUB_EVENT_PATH
           echo "${{ github.event }}"
-
-      - name: Fetch Main Branch
-        run: git fetch origin test
 
       - name: Get Modified Files
         id: get-modified-files
