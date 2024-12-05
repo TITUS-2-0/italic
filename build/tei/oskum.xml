@@ -3,6 +3,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title />
+				<author>Unknown</author>
 			</titleStmt>
 			<editionStmt>
 				<edition n="1" />
@@ -12,7 +13,9 @@
 				<pubPlace>Frankfurt</pubPlace>
 				<date>2024</date>
 			</publicationStmt>
-			<sourceDesc />
+			<sourceDesc>
+				<p>Missing metadata</p>
+			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
