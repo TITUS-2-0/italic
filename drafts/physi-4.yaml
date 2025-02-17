@@ -13,8 +13,10 @@
       - In aperiendo * sicut et in cantico canticorum testatur sponsus de se
       - ipso »Ego dormio et cor meum vigilat«.... Caro enim domini
       - quievit, divinitas autem semper ad dexteram patris vigilat. ...
-      - Cum leena peperit catulum, mortuum cum
-      - eum)
+      - 'Cum leena peperit catulum, mortuum '
+      - choice:
+        - reg: eum
+        - orig: cum
       - generans, custodit
       - tribus diebus, donec veniens pater ejus die tertio sufflat in faciem ejus
       - et vivificat eum. Sic et deus omnipotens pater filium suum dominum
@@ -67,8 +69,10 @@
     - p:
       - Est et aliud animal, quod est in Nilo flumine et vocatur hydrus. ...
       - satis hoc animal inimicum est corcodrillo. ... Cum viderit corcodrillum
-      - in litore fluminis dormientem ore aperto, vadit et volitat
-      - volutat)
+      - 'in litore fluminis dormientem ore aperto, vadit et '
+      - choice:
+        - reg: volutat
+        - orig: volitat
       - se in luto ... veniensque insiliet in os corcodrilli, qui subito
       - pb[type=edition]: 127
       - vivum transgluciet. Hydrus autem dilanians omnia viscera ejus, exiet
@@ -80,28 +84,44 @@
     - head: De sirenis et onocenthauris.
     - p:
       - '... Sirene ... animalia sunt mortifera, que [a capite] usque ad'
-      - umbilicum figuram femine habent. Extrema pars
-      - parte)
+      - 'umbilicum figuram femine habent. Extrema '
+      - choice:
+        - reg: parte
+        - orig: pars
       - '[usque'
       - ad pedes] volatilis imaginem tenent atque musicum quoddam dulcissimum
-      - melodie carmen canant
-      - canunt),
+      - 'melodie carmen '
+      - choice:
+        - reg: canunt),
+        - orig: canant
       - per quod homines navigantes
-      - decipiuntur, ita ut persepe auditum demulcentes
-      - per
+      - 'decipiuntur, ita ut persepe auditum '
+      - choice:
+        - reg: per
+        - orig: demulcentes
       - auditum demulcentem?)
-      - sensumque delimentes
-      - delenientem?)
+      - 'sensumque '
+      - choice:
+        - reg: delenientem?
+        - orig: delimentes
       - in
-      - soporem vertuntur
-      - vertantur).
-      - Et tunc ille videntes, eo
-      - eos)
+      - 'soporem '
+      - choice:
+        - reg: vertantur).
+        - orig: vertuntur
+      - 'Et tunc ille videntes, '
+      - choice:
+        - reg: eos
+        - orig: eo
       - esse sopitos, invadunt et laniant carnes eorum. Sic igitur decipiuntur
-      - illi, qui diabolicis pompis et theatralibus voluptatibus delectari
-      - delectari)
-      - '... efficiuntur ad adverse virtutis avidissima'
-      - adversarii
+      - 'illi, qui diabolicis pompis et theatralibus voluptatibus '
+      - choice:
+        - reg: delectari
+        - orig: delectari
+      - '... efficiuntur ad adverse virtutis '
+      - choice:
+        - reg: adversarii
+        - orig: avidissima
       - avidissimi ?)
       - preda. Eo modo onocenthaurus duabus naturis
       - constat ... Nam superior pars homini similis est posteriorque asino
@@ -112,8 +132,10 @@
     - pb[type=edition]: 128
     - head: De hiena.
     - p:
-      - Est et aliud animal, quod graece dicunt
-      - dicitur)
+      - 'Est et aliud animal, quod graece '
+      - choice:
+        - reg: dicitur
+        - orig: dicunt
       - hiena ...
       - aliquando quidem masculus, aliquando quidem femina est et ideo inmundum
       - animal est. Cui similes estimati sunt filii Israal, qui primum
@@ -124,13 +146,19 @@
     - head: De onagro.
     - p:
       - Est et animal aliud, quod dicitur onager ... XXV. die mensis
-      - faminoltt, qui est martus
-      - martii)
-      - duodecies
-      - duodecimus ?),
+      - 'faminoltt, qui est '
+      - choice:
+        - reg: martii
+        - orig: martus
+      - 
+      - choice:
+        - reg: duodecimus ?),
+        - orig: duodecies
       - in
-      - nocte ruget
-      - rugiet),
+      - 'nocte '
+      - choice:
+        - reg: rugiet),
+        - orig: ruget
       - similiter et die, tunc quia cognoscitur, quod
       - equinoctium sit et dies noctesque ex numero horarum adequantur.
       - Onager igitur figuram diaboli gerit ... Neque rugiet aliquando, nisi
@@ -152,13 +180,17 @@
       - duo elephantes masculus et femina figuram habent Adam et Eve,
       - qui erant in paradiso dei ante prevaricationem gloria circumdati,
       - nescientes ullum malum, non concupiscencie desideria nec commixtionis
-      - cogitum
-      - coitum).
+      - 
+      - choice:
+        - reg: coitum).
+        - orig: cogitum
       - Cum ergo de interdicta arbore gustavit
       - mulier, ... tunc precipitati sunt de paradiso in hunc mundum,
       - quasi in stagnum aquarum multarum. Quod aliquando aque presens
-      - seculum significat
-      - significant),
+      - 'seculum '
+      - choice:
+        - reg: significant),
+        - orig: significat
       - '... David insinuat, cum dicit'
       - »Salvum me fac, deus ...«.
   - text[n=9]:
@@ -175,13 +207,19 @@
       - pb[type=edition]: 130
       - evadere non potest, gracilibus virgulis circumseptus. Et tunc quilibet
       - venatorum absconditus, audiens vocem ejus, currit et ligatum inveniens
-      - occidit. ... et tu, homo, qui profeceris
-      - profiteris)
+      - 'occidit. ... et tu, homo, qui '
+      - choice:
+        - reg: profiteris
+        - orig: profeceris
       - abstinentiam,...
-      - abscidisti fore
-      - forte?)
-      - detractiones, cupitidates
-      - cupiditates),
+      - 'abscidisti '
+      - choice:
+        - reg: forte?
+        - orig: fore
+      - 'detractiones, '
+      - choice:
+        - reg: cupiditates),
+        - orig: cupitidates
       - libidines, silvam secularem et pompam diaboli ... Sed
       - noli ludere cum vino, in quo est luxuria, nec te obliges et incidas in
       - muscipulam adversarii ... vir autem sapiens et prudens a vino et
@@ -195,10 +233,14 @@
       - diu fecerit talia, pennas ad se revocat, quia et lassitudine et unda
       - revocatur in pristinum locum. Mare significat hunc mundum. Naves
       - sunt prophete et apostoli, qui transierunt hunc mundum et vicerunt
-      - adversarias potestas
-      - potestates?)
-      - aeris
-      - aevi)
+      - 'adversarias '
+      - choice:
+        - reg: potestates?
+        - orig: potestas
+      - 
+      - choice:
+        - reg: aevi
+        - orig: aeris
       - hujus. Serra vero,
       - que non potuit perseverare cum navibus, significat eos, qui temporaliter
       - profitentur abstinentiam, sed non perseverant usque in
@@ -224,11 +266,15 @@
       - quando veniamus aquam bibere, id est sermones divinos in ecclesia
       - dei audire, non afferamus nobiscum pulvereas et maculosas secularesque
       - concupiscentias. ... Tertia vero natura draconis talis est,
-      - ut, cum viderit nudum hominem, timens fugiet
-      - fugiat)
+      - 'ut, cum viderit nudum hominem, timens '
+      - choice:
+        - reg: fugiat
+        - orig: fugiet
       - eum, si
-      - autem vestitum prospexerit, insiliet
-      - insiliat)
+      - 'autem vestitum prospexerit, '
+      - choice:
+        - reg: insiliat
+        - orig: insiliet
       - super eum. Et nos
       - pb[type=edition]: 132
       - prudenter intelligamus, quando pater noster erat in paradiso nudus,
@@ -236,8 +282,10 @@
   - text[n=12]:
     - head: De lacerta id est saura.
     - p:
-      - Est aquatite
-      - volatile)
+      - 'Est '
+      - choice:
+        - reg: volatile
+        - orig: aquatite
       - animal, quod lacerta dicitur, clarum ut
       - sol. ... quando senuerit, utrisque oculis impeditur, ita ut nec solis
       - lumen videat ... Inquirit parietem, adtendentem contra ori[g]entem
