@@ -2,8 +2,18 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Physiologus Latinus</title>
-				<author>Unknown</author>
+				<title>Physiologus</title>
+				<title type="sub">The Latin Version</title>
+				<respStmt>
+					<resp>digitization</resp>
+					<name>Thomas Klein</name>
+					<note>Bonn, 2005-2006</note>
+				</respStmt>
+				<respStmt>
+					<resp>TITUS version</resp>
+					<name>Jost Gippert</name>
+					<note>Frankfurt a/M, 29.4.2006</note>
+				</respStmt>
 			</titleStmt>
 			<editionStmt>
 				<edition n="1" />
@@ -13,8 +23,16 @@
 				<pubPlace>Frankfurt</pubPlace>
 				<date>2024</date>
 			</publicationStmt>
+			<notesStmt>
+				<note>Extract parallel to the OHG version</note>
+			</notesStmt>
 			<sourceDesc>
-				<p>Missing metadata</p>
+				<bibl xml:id="stein-ahd">
+					<author>
+						<name>authors, Various</name>
+					</author>. n.d.. <title level="m">Die Kleineren Althochdeutschen Sprachdenkmäler</title>. Edited by <editor>
+						<name>Emil Elias Steinmeyer</name>
+					</editor>. <publisher>Weidmann</publisher>.</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
