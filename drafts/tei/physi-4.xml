@@ -21,7 +21,7 @@
 			<publicationStmt>
 				<publisher>Goethe-Universität</publisher>
 				<pubPlace>Frankfurt</pubPlace>
-				<date>2024</date>
+				<date>2025</date>
 			</publicationStmt>
 			<notesStmt>
 				<note>Extract parallel to the OHG version</note>
@@ -30,7 +30,7 @@
 				<bibl xml:id="stein-ahd">
 					<author>
 						<name>Steinmeyer, Emil</name>
-					</author>. n.d.. <title level="m">Die Kleineren Althochdeutschen Sprachdenkmäler</title>. <publisher>Weidmann</publisher>.</bibl>
+					</author>. n.d.. <title level="m">Die Kleineren Althochdeutschen Sprachdenkmäler</title>. <pubPlace>Berlin</pubPlace>: <publisher>Weidmann</publisher>.</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
