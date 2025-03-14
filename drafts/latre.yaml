@@ -1,6 +1,6 @@
 - front:
   - p:
-    - pb: 3
+    - pb[n=3]
     - Qui comincia lo 'nsegnamento di rettorica, lo quale è
     - ritratto in vulgare de' libri di Tullio e di molti filosofi per
     - ser Burnetto Latino da Firenze. Là dove è la lettera grossa
@@ -8,7 +8,7 @@
     - lo sponitore. Incomincia il prologo.
 - body:
   - part[n=1]:
-    - milestone[unit=chapter]: I
+    - milestone[unit=chapter,n=I]
     - p:
       - Sovente e molto ò io pensato in me medesimo
       - se lla copia del dicere e lo sommo studio della
@@ -22,7 +22,7 @@
     - p[n=1]:
       - 'Rettorica èe scienzia di due maniere: una la quale'
       - insegna dire, e di questa tratta Tulio nel suo libro; l' altra
-      - pb: 4
+      - pb[n=4]
       - insegna dittare, e di questa, perciò che esso non ne trattò
       - così del tutto apertamente, sì nne tratterà lo sponitore nel
       - processo del libro, in suo luogo e tempo come si converrà.
@@ -48,7 +48,7 @@
       - quella scienzia per la quale noi sapemo ornatamente
       - 'dire e dittare. Inn altra guisa è così diffinita: Rettorica è'
       - scienzia di ben dire sopra la causa proposta, cioè per la
-      - pb: 5
+      - pb[n=5]
       - quale noi sapemo ornatamente dire sopra la quistione
       - 'aposta. Anco àe una più piena diffinizione in questo modo:'
       - Rettorica è scienza d' usare piena e perfetta eloquenzia nelle
@@ -76,7 +76,7 @@
       - dalle Vigne, il quale perciò fue agozetto di Federigo secondo
       - imperadore di Roma e tutto sire di lui e dello 'mperio.
       - Onde dice Vittorino che orator, cioè lo parlatore,
-      - pb: 6
+      - pb[n=6]
       - è uomo buono e bene insegnato di dire, lo quale usa piena
       - e perfetta eloquenzia nelle cause publiche e private.
     - p[n=6]:
@@ -104,7 +104,7 @@
       - a colui per cui amore e' si mette a ffare questo
       - trattato de parlare ornatamente sopra ciascuna quistione
       - proposta.
-      - pb: 7
+      - pb[n=7]
     - p[n=9]:
       - Et e' tratta secondo la forma del libro di Tulio di
       - 'tutte e V le parti generali di rettorica. Verbigrazia: Inventio,'
@@ -135,7 +135,7 @@
       - L' utilitade di questo libro è grandissima, però che
       - ciascuno che saprà bene ciò che comanda lo libro e l' arte,
       - sì saprà dire interamente sopra la quistione apposta.
-      - pb: 8
+      - pb[n=8]
     - p[n=12]:
       - Il titolo di questo libro, sì come davanti appare nel
       - "cominciamento, si è cotale: Qui comincia lo 'nsegnamento"
@@ -169,7 +169,7 @@
       - e a' divisi.
     - p[n=14]:
       - Onde Tulio purgando questi tre gravi
-      - pb: 9
+      - pb[n=9]
       - 'articoli procede in questo modo: Che in prima dice che'
       - sovente e molto àe pensato che effetto proviene d' eloquenzia.
       - Nella seconda parte pruova lo bene e 'l male che 'nde
@@ -196,7 +196,7 @@
       - nel testo di sopra potemo intendere apertamente che in
       - queste medesime parole ove dice che i mali che per eloquenzia
       - sono advenuti e che non si possono celare, in quelle
-      - pb: 10
+      - pb[n=10]
       - medesime la difende abassando e menimando la malizia.
       - Ché là dove dice «dannaggi» sì suona che siano lievi danni
       - de' quali poco cura la gente.
@@ -219,7 +219,7 @@
       - come dice il buono poeta Lucano, nonn è conceduto alle
       - grandissime cose durare lungamente; e l' altro dice che lle
       - grandissime cose rovinano per lo peso di sé medesime.
-      - pb: 11
+      - pb[n=11]
       - Et così non pare che eloquenzia sia la cagione del male
       - che viene alle grandissime cittadi. Et là dove dice che
       - danni sono advenuti per uomini molto parlanti sanza sapienzia,
@@ -243,7 +243,7 @@
       - Sì come quando ordino di ritrarre dell' antiche
       - scritte le cose che sono fatte lontane dalla nostra ricordança
       - per loro antichezza, intendo che eloquenzia
-      - pb: 12
+      - pb[n=12]
       - congiunta con ragione d' animo, cioè con sapienzia,
       - piùe agevolemente àe potuto conquistare e mettere inn
       - opera ad hedifficare cittadi, a stutare molte battaglie,
@@ -264,7 +264,7 @@
       - tra lloro invidia e per la 'nvidia le guerre e le battaglie.
       - Poi li savi parladori astutaro le battaglie, et apresso gli
       - uomini fecero compagnie usando e mercatando insieme; e
-      - pb: 13
+      - pb[n=13]
       - di queste compagnie cuminciaro a ffare ferme amicizie per
       - eloquenzia e per sapienzia.
     - p[n=3]:
@@ -295,7 +295,7 @@
       - amore» perché non sia per guadagneria o solo per utilitade,
       - ma sia per constante vertude. Et così pare manifestamente
       - che quella amistade ch' è per utilitade e per dilettamento
-      - pb: 14
+      - pb[n=14]
       - nonn è verace, ma partesi da che 'l diletto e
       - l' uttilitade menoma.
     - p[n=7]:
@@ -321,7 +321,7 @@
       - uomo e cittadino utilissimo ed amicissimo alle sue et
       - alle publiche ragioni.
     - p[n=1]:
-      - pb: 15
+      - pb[n=15]
       - Lo sponitore.
       - Poi che Tulio avea dette le prime due parti del suo
       - prologo, sì comincia la terza parte, nella quale dice tre
@@ -349,7 +349,7 @@
       - in opera che noi siamo discreti e giusti e bene costumati.
     - p[n=4]:
       - Et però chi ssi parte da sapienzia e da le vertudi e studia
-      - pb: 16
+      - pb[n=16]
       - pure in dire le parole, di lui adviene cotale frutto che,
       - però che non sente quel medesimo che dice, conviene che
       - di lui avegna male e danno a ssé et al paese, però che
@@ -373,7 +373,7 @@
       - Tulio molti argomenti, li quali debbono e possono così
       - essere, e tali che conviene che sia pur così e di tali ch' è
       - onesta cosa pur di così essere; e sopra ciò ecco il testo
-      - pb: 17
+      - pb[n=17]
       - di Tulio in lettera grossa, e poi seguisce la disposta in
       - lettera sottile secondo la forma del libro.
   - part[n=4]:
@@ -384,7 +384,7 @@
       - o per studio o per usanza o per forza di natura, noi
       - troveremo che sia nato d' onestissime cagioni e che ssia
       - mosso d' ottima ragione.
-    - milestone[unit=chapter]: II
+    - milestone[unit=chapter,n=II]
     - p:
       - Acciò che fue un
       - tempo che in tutte parti isvagavano gli uomini per
@@ -400,7 +400,7 @@
       - cioè la cupiditade, per mettere in opera sé medesima
       - misusava le forze del corpo con aiuto di pessimi seguitatori.
     - p[n=1]:
-      - pb: 18
+      - pb[n=18]
       - Lo sponitore.
       - In questa quarta parte del prologo vogliendo Tulio
       - dimostrare che eloquenzia nasce e muove per cagione e
@@ -420,7 +420,7 @@
       - delle cose, sì che appena puote discernere bene da
       - male, sì come in tempo passato nell' anime di molti le
       - quali erano agravate de' pesi de' corpi, e però quelli uomini
-      - pb: 19
+      - pb[n=19]
       - erano sì falsi et indiscreti che non conosceano Dio né lloro
       - medesimi. Onde misusavano le forze del corpo uccidendo
       - l' uno l' altro, tolliendo le cose per forza e per furto, luxuriando
@@ -450,7 +450,7 @@
       - Et là dove dice «tutte cose quasi faceano per forza e
       - non per ragione» intendo che dice «quasi» ché non faceano
       - però tutte cose per forza, ma alquante ne faceano
-      - pb: 20
+      - pb[n=20]
       - per ragione e per senno, cioè favellare, disiderare et altre
       - cose che ssi muovono dall' animo.
     - p[n=7]:
@@ -485,7 +485,7 @@
       - conosce il prode e 'l danno.
     - p[n=13]:
       - Et là dove dice «folle
-      - pb: 21
+      - pb[n=21]
       - ardita» intendo che folli arditi sono uomini matti e
       - ratti a ffare cose che non sono da ffare.
     - p[n=14]:
@@ -514,7 +514,7 @@
       - la ragione e per bel dire; e ssì lli arecò umili e mansueti
       - dalla fierezza e dalla crudeltà che aveano.
     - p[n=1]:
-      - pb: 22
+      - pb[n=22]
       - Lo sponitore.
       - In questa parte vuole Tulio dimostrare da cui e come
       - 'cominciò eloquenzia et in che cose; et è la tema cotale:'
@@ -537,7 +537,7 @@
       - modo ch' è detto.
     - p[n=3]:
       - Donde questo savio costrinse - e dice
-      - pb: 23
+      - pb[n=23]
       - che i «costrinse» però che non si voleano raunare - e
       - raunò - e dice «raunò» poi che elli volloro. Che 'l savio
       - uomo fece tanto per senno e per eloquenzia, mostrando
@@ -563,7 +563,7 @@
       - uccidea l' uno l' altro - e feceli umili e mansueti, cioè volontarosi
       - di ragioni e di virtudi e partitori dal male.
     - p[n=5]:
-      - pb: 24
+      - pb[n=24]
       - Ora à detto Tulio chi cominciò eloquenzia et intra cui
       - e come; or dicerà per che ragione, sanza la quale non
       - potea ciò fare.
@@ -592,7 +592,7 @@
       - savio uomo arebbe bene potuto fare queste cose per sapienzia,
       - ma non così avaccio né così subitamente come
       - fece abiendo eloquenzia e sapienzia. Et là dove dice «in
-      - pb: 25
+      - pb[n=25]
       - diverse ragioni di vita» intendo che uno fece cavalieri, un
       - altro fece cherico, e così fece d' altri mistieri.
   - part[n=7]:
@@ -612,7 +612,7 @@
       - e soave parladura; tanto era loro allegra la primiera
       - usanza, la quale era tanto durata lungamente
       - che parea et era in loro convertita in natura. Donde
-      - pb: 26
+      - pb[n=26]
       - pare a me che così anticamente e da prima nasceo e
       - mosse eloquenzia, e poi s' innalzò in altissime utilitadi
       - delli uomini nelle vicende di pace e di guerra.
@@ -640,7 +640,7 @@
       - loda Tulio eloquenzia con sapienzia congiunta, che
       - sanza ciò le grandissime cose non s' arebbono potute mettere
       - in compimento, e dice che poi àe molto de ben fatto
-      - pb: 27
+      - pb[n=27]
       - in guerra et in pace. Et per questa parola intendo che tutti
       - i convenenti de' comuni e delle speciali persone corrono
       - per due stati o di pace o di guerra, e nell' uno e nell' altro
@@ -654,7 +654,7 @@
       - usaro et inforzaro tutto loro ingegno in malizia,
       - per che convenne che lle cittadi sine guastassero e li
       - uomini si comprendessero di quella ruggine.
-    - milestone[unit=chapter]: III
+    - milestone[unit=chapter,n=III]
     - p:
       - Et
       - poi che detto avemo la cumincianza del bene, contiamo
@@ -670,7 +670,7 @@
       - Et sopra ciò la
       - 'tema è cotale: Furono uomini folli sanza discrezione, li'
       - quali, veggendo che alquanti erano in grande onoranza e
-      - pb: 28
+      - pb[n=28]
       - montati in alto stato per lo bello parlare ch' usavano secondo
       - li comandamenti di questa arte, sì studiaro solo
       - in parlare e tralasciaro lo studio di sapienzia, e divennero
@@ -695,7 +695,7 @@
       - in conto la 'ncumincianza del male che 'nde seguitò.
       - 'Et dice in questo modo nel testo:'
   - part[n=10]:
-    - pb: 29
+    - pb[n=29]
     - p:
       - Tullio tratta della comincianza del male
       - advenuto per eloquenzia.
@@ -718,7 +718,7 @@
       - e che ciascuno atoriasse le sue bisogne; e così,
       - parendo molte fiate che quello ch' avea impresa sola
       - eloquenzia sanza sapienzia fosse pare o talora più innanzi
-      - pb: 30
+      - pb[n=30]
       - che quello che avea eloquenzia congiunta con
       - sapienzia, avenìa che, per giudicio di moltitudine di
       - gente e di sé medesimo, paresse essere degno di reggiere
@@ -740,13 +740,13 @@
       - Ma questo studio di rettorica fue abandonato quasi
       - da tutti loro, e perciò tornò a neente, in tal tempo
       - quando più inforzatamente si dovea mantenere e più
-      - pb: 31
+      - pb[n=31]
       - studiosamente crescere; perciò che quando più indegnamente
       - la presumptione e l' ardire de' folli impronti
       - manimettea e guastava la cosa onestissima e dirittissima
       - con troppo gravoso danno del comune, allora
       - era più degna cosa contrastare e consigliare la cosa publica.
-    - milestone[unit=chapter]: IV
+    - milestone[unit=chapter,n=IV]
     - p:
       - Della qual cosa non fugìo il nostro Catone
       - né Lelius né, al ver dire, il loro discepolo Affricano,
@@ -770,7 +770,7 @@
       - e le comunanze e le cose publiche, avendo le signorie
       - e li officii e li onori e le grandi cose, e non si trametteano
       - delle cause private, cioè delle vicende delli
-      - pb: 32
+      - pb[n=32]
       - uomini speciali, né di fare lavoriere né altre picciole
       - "cose. Ma erano altri uomini di due maniere: l' una che"
       - non erano parlatori, l' autra che non aveano sapienzia, ma
@@ -798,7 +798,7 @@
       - l' una che pigliano a ffare di grandi cose con provedimento
       - di ragione, e questi sono savi; li altri che pigliano
       - a ffare le grandi cose sanza provedenza di ragione,
-      - pb: 33
+      - pb[n=33]
       - e questi sono folli arditi.
     - p[n=5]:
       - Donde in questo contrastare
@@ -827,7 +827,7 @@
     - p[n=7]:
       - «Per
       - la qual cosa eloquenzia cadde in tanto odio et invidia»....
-      - pb: 34
+      - pb[n=34]
       - Et nota che odio non è altro se nno ira invecchiata; e
       - così i buoni savi erano stati lungamente irosi, veggiendo
       - i folli arditi segnoreggiare le cittadi. Et invidia è aflizione
@@ -860,7 +860,7 @@
       - a quel tempo che eloquenzia avea più grande bisogno
       - per lo male che faceano i folli arditi nelle cittadi, e perché
       - guastavano la cosa onestissima e dirittissima, cioè
-      - pb: 35
+      - pb[n=35]
       - eloquenzia che ssi pertiene alle cose oneste e diritte.
     - p[n=11]:
       - Dalla qual cosa non fugìo il nostro Catone né quelli
@@ -888,7 +888,7 @@
       - cosa la quale molto s' appartiene a tutte cose, e publiche
       - e private, e per essa diviene la vita sicura,
       - onesta, inlustre e iocunda; e per essa medesima molte
-      - pb: 36
+      - pb[n=36]
       - utilitadi avengono in comune se fia presta la modonatrice
       - di tutte cose, cioè sapienzia; e per lei medesima
       - abonda a coloro che ll' acquistano lode, onore, dignitade;
@@ -909,7 +909,7 @@
       - al comune et al diviso, e come per lei diviene l' uomo sicuro,
       - cioè che sicuramente puote gire a trattare le cause,
       - et appena troverai chi 'l sappia contradiare; e dice
-      - pb: 37
+      - pb[n=37]
       - che 'nde diviene la vita «onesta», cioè laudato intra coloro
       - che 'l cognoscono; e dice «illustre», cioè laudato intra
       - li strani; e dice «ioconda», cioè vita piacevole, però che'
@@ -938,7 +938,7 @@
       - cose sono minori e più fievoli che lle bestie, in questa
       - una cosa l' avanzano, che possono parlare; e donque
       - pare che colui conquista cosa nobile et altissima
-      - pb: 38
+      - pb[n=38]
       - il quale sormonta li altri uomini in quella medesima
       - cosa per la quale gli uomini avanzano le bestie.
     - p[n=1]:
@@ -963,7 +963,7 @@
       - Tullio dice di che elli tratterà.
       - Et questa altissima cosa, cioè eloquenzia, non
       - si acquista solamente per natura né solamente per
-      - pb: 39
+      - pb[n=39]
       - usanza, ma per insegnamento d' arte altressì. Donque
       - non è disavenante di vedere ciò che dicono coloro i
       - quali sopra ciò ne lasciaro alquanti comandamenti.
@@ -983,14 +983,14 @@
       - che seguirà, e così pone fine al suo prolago e viene al
       - 'fatto in questo modo:'
   - part[n=17]:
-    - milestone[unit=chapter]: V
+    - milestone[unit=chapter,n=V]
     - p:
       - Tullio àe finito il prolago, e comincia a dire di eloquenzia.
       - Una ragione è delle cittadi la quale richiede
       - et è di molte cose e di grandi, intra lle quali è una
       - grande et ampia parte l' artificiosa eloquenzia, la quale
       - è appellata Rettorica. Ché al ver dire né cci acordiamo
-      - pb: 40
+      - pb[n=40]
       - con quelli che non credono che lla scienzia delle cittadi
       - abbia bisogno d' eloquenzia, e molto ne discordiamo
       - da coloro che pensano ch' ella del tutto si tegna
@@ -1020,7 +1020,7 @@
     - p[n=3]:
       - Onde Tulio dice di rettorica sotto
       - quale genere si comprende, per meglio mostrare il fondamento
-      - pb: 41
+      - pb[n=41]
       - e lla natura sua. Et dice così che lla ragione
       - delle cittadi, cioè il reggimento e lla vita del comune e
       - delle speciali persone, richiede molte e grandi cose, in
@@ -1047,7 +1047,7 @@
       - tanto vale a dire come «amore della sapienzia»; per la
       - qual cosa neuno puote essere filosofo se non ama la sapienzia
       - tanto ch' elli intralasci tutte altre cose e dia ogne studio
-      - pb: 42
+      - pb[n=42]
       - et opera ad avere intera sapienzia. Onde dice uno
       - "savio cotale diffinizione di filosofia: ch' ella è inquisizione"
       - delle naturali cose e connoscimento delle divine et umane
@@ -1070,7 +1070,7 @@
     - p[n=8]:
       - Or
       - è vero che anticamente per nescietà delli uomini furon
-      - pb: 43
+      - pb[n=43]
       - mosse tre quistioni delle quali dubitavano, e non senza
       - cagione, però che sopr' esse tre questioni si girano tutte
       - le scienzie. La prima quistione era che dovesse l' uomo
@@ -1085,7 +1085,7 @@
       - dimostrare la prima questione, cioè che debbia uomo fare
       - e che lasciare. La seconda scienzia, cioè logica, è per dimostrare
       - la seconda quistione, cioè per che ragione dovesse
-      - pb: 44
+      - pb[n=44]
       - quel fare e quello altro lasciare.
     - p[n=10]:
       - Et questa
@@ -1104,7 +1104,7 @@
       - teorica, sia partita in tre scienzie, ciò sono Teologia,
       - 'Fisica e Matematica, sì come dimostra questo arbore:'
     - p[n=12]:
-      - pb: 45
+      - pb[n=45]
       - Onde la prima di queste tre scienze, cioè teologia,
       - la quale è appellata divinitade, sì tratta la natura delle
       - cose incorporali le quali non conversano intra lle corpora,
@@ -1121,7 +1121,7 @@
       - musica, geometria et astronomia, sì come appare
       - 'in questo arbore:'
     - p[n=13]:
-      - pb: 46
+      - pb[n=46]
       - La prima scienzia, cioè arismetrica, tratta de' conti
       - e de' nomeri, sì come l' abaco e più fondatamente. La seconda
       - scienza, cioè musica, tratta di concordare voci e
@@ -1141,7 +1141,7 @@
     - p[n=15]:
       - La prima di queste, cioè etica, sì è insegnamento
       - di bene vivere e costumatamente, e dà connoscimento delle
-      - pb: 47
+      - pb[n=47]
       - cose oneste e dell' utili e del lor contrario; e questo fa per
       - assennamento di quatro vertudi, ciò sono prudenzia, iustizia,
       - fortitudo e temperanza, e per divieto de' vizi, ciò sono
@@ -1162,7 +1162,7 @@
       - Quella maniera ch' è in fatti sì sono l' arti e' magisterii
       - che in cittadi si fanno, come fabbri e drappieri e
       - li altri artieri, sanza i quali la cittade non potrebbe durare.
-      - pb: 48
+      - pb[n=48]
       - Quella ch' è in detti è quella scienzia che ss' adopera
       - colla lingua solamente; et in questa si contiene tre scienze,
       - ciò sono Gramatica, Dialettica, Rettorica, sì come dimostra
@@ -1178,7 +1178,7 @@
       - sue parole; e certo chi vuole bene dire e bene dittare
       - conviene che mostri ragioni per che, sicché le sue parole
       - abbiano provanza in tal guisa che lli uditori le credano
-      - pb: 49
+      - pb[n=49]
       - e diano fede a cciò che dice. La terza scienza ciò è Rettorica,
       - la quale truova et adorna le parole avenanti alla
       - materia, per le quali l' uditore s' accheta e crede e sta
@@ -1207,7 +1207,7 @@
       - a ben fare.
     - p[n=22]:
       - Altressì quella civile scienzia ch' è con
-      - pb: 50
+      - pb[n=50]
       - lite è di due maniere, ch' è ll' una artificiosa, l' altra non
       - artificiosa. Artificiosa è quella nella quale il parliere che
       - connosce bene la natura e llo stato della materia, vi reca
@@ -1230,7 +1230,7 @@
       - Or è detto del genere; omai dicerà Tulio dello offizio di
       - rettorica e del fine.
   - part[n=18]:
-    - pb: 51
+    - pb[n=51]
     - p:
       - Tullio dice che è l' ufficio di questa arte.
       - Officio di questa arte pare che sia dicere appostatamente
@@ -1254,7 +1254,7 @@
       - parole di buone sentenze dette secondo che comanda quest'
       - arte; e questo dice per divisare il parlare di questo dicitore
       - dal parlare de' gramatici, che non curano d' ornare
-      - pb: 52
+      - pb[n=52]
       - parole. E dice «per far credere», cioè dicere sì compostamente
       - che ll' uditore creda ciò che ssi dice. Et questo dice
       - per divisare il detto de' poeti, che curano più di dire belle
@@ -1282,7 +1282,7 @@
       - dice Tulio che officio è quello che 'l parliere de' fare nel
       - suo parlamento secondo lo 'nsegnamento di questa arte.
       - Ma fine è quello per cui cagione il parlieri dice compostamente;
-      - pb: 53
+      - pb[n=53]
       - e certo questa cagione e questo fine nonn è
       - altro se non fare credere ciò che dice. Et di ciò pone
       - exemplo del medico, e dice che llo officio del medico è
@@ -1306,7 +1306,7 @@
       - rettorico, fue in oppinione che el parladore possa molto
       - bene dire di tutte cose. Et questi pare che dea a questa
       - arte grandissima materia sanza fine. Ma Aristotile, il
-      - pb: 54
+      - pb[n=54]
       - quale diede a questa arte molti aiuti et adornamenti,
       - extimò che ll' officio del parlatore sia sopra tre generazioni
       - di cose, ciò sono dimostrativo, diliberativo e giudiciale.
@@ -1334,7 +1334,7 @@
       - Ma Aristotile, a cui è molto da credere, perciò che
       - diede molti aiuti et adornamenti a questa arte in perciò
       - che fece uno libro d' invenzione et un altro della parladura,
-      - pb: 55
+      - pb[n=55]
       - dice che rettorica èe sopra tre maniere di cose, e catuna
       - maniera èe generale delle sue parti; e queste sono dimostrativo,
       - diliberativo e iudiciale, come in questi cercoletti
@@ -1356,7 +1356,7 @@
     - p[n=5]:
       - Et ecco
       - l' exemplo in questa diceria che fie proposta in questo
-      - pb: 56
+      - pb[n=56]
       - 'modo: «È da sbandire in exilio Marco Tulio Cicero o no,'
       - che davanti al popolo di Roma fece anegare molti romani
       - a tempo che 'l comune era in dubbio?» In questa
@@ -1379,7 +1379,7 @@
       - altrimenti non potrebbe intendere quello che viene innanzi;
       - e dicerà prima del dimostrativo.
   - part[n=20]:
-    - pb: 57
+    - pb[n=57]
     - p:
       - Del dimostramento.
       - Dimostrativo è quello che ssi reca in laude o
@@ -1406,7 +1406,7 @@
       - Il fatto
       - della causa è quel detto o quel fatto per lo quale alcuno
       - 'viene in causa e questione; et in ciò sia cotale exemplo:'
-      - pb: 58
+      - pb[n=58]
       - 'Dice Pompeio a Catellina: «Tu fai tradimento nel comune'
       - 'di Roma». Et Catellina risponde: «Non fo». In questo'
       - convenente Pompeio e Catellina sono le persone de' parlieri;
@@ -1441,7 +1441,7 @@
       - "è da laudare». Dice l' altro: «Non è, anzi è da vituperare»."
       - E di questo nasce quistione, se 'l forte è degno
       - di lode o di vituperio, e perciò èe dimostrativa, ma non
-      - pb: 59
+      - pb[n=59]
       - nomina certa persona, e perciò è speciale.
     - p[n=8]:
       - La causa
@@ -1469,7 +1469,7 @@
       - et a dimandare tra' cittadini, riceve detto per
       - sentenzia.
     - p[n=1]:
-      - pb: 60
+      - pb[n=60]
       - Lo sponitore.
       - In questa parte dice Tulio che causa diliberativa
       - è quella ch' è messa e detta a' cittadini a contendere il lor
@@ -1498,7 +1498,7 @@
     - p[n=5]:
       - Speciale è quella nella quale si considera
       - d' alcuna cosa s' ella è utile o s' ell' è dannosa, non
-      - pb: 61
+      - pb[n=61]
       - "nominando alcuna certa persona. Et ecco l' exemplo: Dice"
       - "uno: «Pace è da tenere intra cristiani». Dice l' altro:"
       - «Non è». Et di ciò nasce causa diliberativa speciale, se
@@ -1526,7 +1526,7 @@
       - Judiciale è quello il quale, posto in iudicio, à
       - in sé accusazione e difensione o petizione e recusazione.
     - p[n=1]:
-      - pb: 62
+      - pb[n=62]
       - Lo sponitore.
       - La natura di iudicamento si è una forma la quale
       - si conviene al parladore per cagione di mostrare la iustizia
@@ -1557,7 +1557,7 @@
       - «Non è».
     - p[n=4]:
       - Quella che non si puote partire è quella
-      - pb: 63
+      - pb[n=63]
       - nella quale il parliere si sforza di mostrare una cosa essere
       - iusta o no, nominando certa persona; in questo
       - "modo: «È da impendere Guido ch' à fatto furto, o no?»."
@@ -1574,14 +1574,14 @@
       - Et sì come porta la nostra oppinione, l' arte del
       - parliere e la sua scienzia è di questa materia partita
       - in tre.
-    - milestone[unit=chapter]: VI
+    - milestone[unit=chapter,n=VI]
     - p:
       - Ché certo non pare che Ermagoras
       - attenda quello che dice né attenda ciò che promette,
       - acciò che dovide la materia di questa arte in causa
       - et in questione.
     - p[n=1]:
-      - pb: 64
+      - pb[n=64]
       - Lo sponitore.
       - Poi che Tulio àe detto davanti le tre partite della
       - materia di rettorica sì come fue oppinione d' Aristotile, in
@@ -1608,7 +1608,7 @@
       - il vero, e' troverà che confortamento e disconfortamento
       - sono solamente sopra quelle cose che già sono pervenute
       - "all' anima. Verbigrazia: Lo sponitore avea propensato di"
-      - pb: 65
+      - pb[n=65]
       - fare questo libro, ma per negligenzia lo intralasciava;
       - onde da questa negligenzia il potea bene alcuno ritrattare
       - per confortamento, e questo conforto viene sopra
@@ -1636,7 +1636,7 @@
       - dimostrazione non era materia di questa arte, anzi era
       - materia di poete, però ch' a' poete s' apartiene di lodare e
       - di vituperare altrui. Et avegna che Tulio no lli riprenda
-      - pb: 66
+      - pb[n=66]
       - nominatamente, assai si puote intendere la riprensione di
       - loro in ciò ch' e' conferma la sentenza d' Aristotile che disse
       - che dimostrazione e deliberazione e iudicazione sono materia
@@ -1664,7 +1664,7 @@
       - Poi che Tulio avea detto che Ermagoras non intese
       - se stesso dicendo che causa e questione sono materia di
       - questa scienzia, sì dice in questa parte che Ermagoras
-      - pb: 67
+      - pb[n=67]
       - dicea che fosse causa.
     - p[n=2]:
       - Et causa appella una cosa della
@@ -1692,7 +1692,7 @@
       - nelle quali noi troviamo essere consumata la somma
       - dello 'ngegno de' filosofi con grandissima fatica.
     - p[n=1]:
-      - pb: 68
+      - pb[n=68]
       - Sponitore.
       - Ora dice Tulio che Ermagoras appellava questione
       - quella cosa sopra la quale era controversia intra molti,
@@ -1716,7 +1716,7 @@
       - dicono ch' è lungo, o otangolo, o quadrato.
     - p[n=5]:
       - Altressì
-      - pb: 69
+      - pb[n=69]
       - era questione della grandezza del sole, ché alcuni dicono
       - che 'l sole è otto tanti che lla terra, altri più et altri meno.
       - Et questa misura si sforzavano di cogliere i maestri di
@@ -1748,7 +1748,7 @@
       - la sua sapienzia; e sopr' a cciò ecco 'l testo
       - di Tulio.
   - part[n=26]:
-    - pb: 70
+    - pb[n=70]
     - p:
       - Tullio dice in somma ciò ch' elli avea detto davanti.
       - Che se Ermagoras avesse in queste cose avuto
@@ -1771,7 +1771,7 @@
       - Lo sponitore.
       - In questa parte dice Tulio che se Ermagoras fosse
       - stato bene savio, sicché potesse trattare le quistioni e le
-      - pb: 71
+      - pb[n=71]
       - cause, parrebbe ch' avesse detto falso, cioè che avesse dato
       - al parliere quello officio che nonn è suo; e così non avrebbe
       - mostrata la forza dell' arte, ma averebbe mostrata la sua.
@@ -1799,7 +1799,7 @@
     - p[n=5]:
       - Adonque è da tenere
       - la sentenzia d' Aristotile, che dice che materia di questa
-      - pb: 72
+      - pb[n=72]
       - arte è dimostrativo, deliberativo e iudiciale. Et omai è
       - detto sofficientemente e diligentemente del genere, cioè
       - generalmente, dell' officio e della fine di rettorica; or sì
@@ -1825,7 +1825,7 @@
       - esse la 'nformano et ordinano e la fanno tutta essere,
       - altressì come 'l fondamento, la parete e 'l tetto sono
       - parti d' una casa sì che la fanno essere, e s' alcuna ne
-      - pb: 73
+      - pb[n=73]
       - fallisse non sarebbe la casa compiuta.
     - p[n=3]:
       - Et dice Tulio
@@ -1856,7 +1856,7 @@
       - o che dica incontro ad un' altra.
     - p[n=2]:
       - E questo puote
-      - pb: 74
+      - pb[n=74]
       - 'così intendere il porto dello sponitore. Verbigrazia:'
       - Aviene una materia sopra la quale conviene dire parole,
       - o difendendo l' una parte o dicendo contra l' altra; o per
@@ -1886,7 +1886,7 @@
       - Dispositio èe assettamento delle cose trovate
       - per ordine.
     - p[n=1]:
-      - pb: 75
+      - pb[n=75]
       - Sponitore.
       - Perciò che trovare argomenti per provare e far credere
       - il suo dire non vale neente chi no· lli sae asettare per
@@ -1918,7 +1918,7 @@
       - Perciò che neente vale trovare od ordinare chi non
       - sae ornare lo suo dire e mettere parole piacevoli e piene
       - di buone sentenze secondo che ssi conviene alla materia
-      - pb: 76
+      - pb[n=76]
       - trovata, sì dice Tulio che è elocutio. Et dice che è quella
       - scienzia per la quale noi sapemo giungere ornamento di
       - parole e di sentenze a quello che noi avemo trovato et
@@ -1949,7 +1949,7 @@
       - Memoria è fermo ricevimento nell' animo delle
       - cose e delle parole e dell' ordinamento d' esse.
     - p[n=1]:
-      - pb: 77
+      - pb[n=77]
       - Sponitore.
       - Et perciò che neente vale trovare, ordinare o aconciare
       - le parole, se noi no· lle ritenemo nella memoria sicché
@@ -1979,7 +1979,7 @@
       - Pronuntiatio è avenimento della persona e della
       - voce secondo la dignitade delle cose e delle parole.
     - p[n=1]:
-      - pb: 78
+      - pb[n=78]
       - Sponitore.
       - Et al ver dire poco vale trovare, ordinare, ornare
       - parole et avere memoria chi non sae profferere e dicere le
@@ -2010,7 +2010,7 @@
     - p[n=4]:
       - Tutto altrimenti dee in fatto
       - di pace avere umile advenimento del corpo, la ciera amorevole,
-      - pb: 79
+      - pb[n=79]
       - la voce soave, la parola paceffica, le mani chete;
       - e 'l suo cavallo dee essere chetissimo e pieno di tanta
       - posa e sì guernito di soavitade che sopr' a llui non si
@@ -2040,7 +2040,7 @@
       - dimostrare il genere e ll' officio e lla fine di
       - quest' arte, però che bisognano di molte parole e non
       - sono di tanta opera a mostrare la propietade e lle
-      - pb: 80
+      - pb[n=80]
       - comandamenta dell' arte. Ma colui che scrive l' arte rettorica
       - pare a noi che 'l convenga scrivere dell' altre due,
       - cioè della materia e delle parti. E io perciò voglio
@@ -2066,7 +2066,7 @@
       - causa dimostrativa, e quando sia deliberativa, e quando
       - sia iudiciale; e tratterà sì comunemente che mosterrà
       - come sia da trovare in catuna di queste cause, e come
-      - pb: 81
+      - pb[n=81]
       - ordinare e come ornare la diceria, e come tenere a memoria
       - e come profferere le sue parole.
       - Lo sponitore parla all' amico suo. -
@@ -2082,7 +2082,7 @@
       - secondo lo 'nsegnamento dell' arte, il libro e lo sponitore
       - ne riceveranno perpetua laude.
   - part[n=34]:
-    - milestone[unit=chapter]: VIII
+    - milestone[unit=chapter,n=VIII]
     - p:
       - Della constituzione e delle quattro sue parti.
       - Ogne cosa la quale àe alcuna controversia
@@ -2094,7 +2094,7 @@
       - 'intenzione in questo modo: «Facesti »-«Non feci»'
       - o «Feci per ragione».
     - p[n=1]:
-      - pb: 82
+      - pb[n=82]
       - Sponitore.
       - Poi che Tulio àe detto di mostrare e trattare della
       - invenzione e della materia insieme, sì mostra lo sponitore
@@ -2124,7 +2124,7 @@
       - Constituzione si prende et intende in
       - quelle medesime significazioni che sono dette davanti.
     - p[n=6]:
-      - pb: 83
+      - pb[n=83]
       - Stato è appellato il detto e 'l fatto dell' aversario,
       - però che' parliere stanno a provare quel detto o quel
       - fatto; e questo medesimo è appellato constituzione perciò
@@ -2158,7 +2158,7 @@
     - p[n=12]:
       - Nel sesto
       - luogo mostra quante sono esse parti e quali e che sia da
-      - pb: 84
+      - pb[n=84]
       - ffare in ciascuna.
     - p[n=13]:
       - Et disponesi così il testo di Tulio
@@ -2187,7 +2187,7 @@
       - molto peggiore che furto, perciò che colui commette
       - sacrilegio che fura cosa sacrata di luogo sacrato. Donde
       - di questo nasce una questione del nome di quel fatto,
-      - pb: 85
+      - pb[n=85]
       - cioè se dee avere nome furto o sacrilegio, e però è appellata
       - questione del nome.
     - p[n=16]:
@@ -2219,7 +2219,7 @@
       - questo nome. Et dice che constituzione è la prima pugna
       - delle cause, cioè quello sopra che da prima contendono
       - i parlieri, cioè il detto dell' uno e 'l detto dell' altro, e
-      - pb: 86
+      - pb[n=86]
       - questo sopra che de prima contendono i parlieri si è il
       - nascimento, cioè che muove del contrastamento della
       - intenzione, cioè del detto di colui che ssi difende contra
@@ -2249,7 +2249,7 @@
       - In questa parte dice Tulio che quando la contenzione
       - è per alcuno fatto che sia apposto ad altrui, sì come
       - davanti si dice, sì conviene ch' ella sia provata per congetture,
-      - pb: 87
+      - pb[n=87]
       - 'cioè per suspezioni e per presunzioni. Verbigrazia:'
       - 'Dice uno contra un altro: «Veramente tu uccidesti'
       - Aiaces, ch' io ti trovai e vidi traiere il coltello del
@@ -2280,7 +2280,7 @@
       - 'Verbigrazia:'
       - Un uomo è accusato che tolse uno calice d' uno luogo sacrato
       - et è lli apposto che sia sacrilegio, et esso si difende
-      - pb: 88
+      - pb[n=88]
       - dicendo che non è sacrilegio ma furto. Or sopra questa
       - controversia si è tutta la questione per lo nome di questo
       - 'fatto: è sacrilegio o furto?'
@@ -2312,7 +2312,7 @@
       - servito al comune di Roma quanto Catone.
     - p[n=3]:
       - La comparazione
-      - pb: 89
+      - pb[n=89]
       - 'del fatto si è cotale: di due partiti qual sia'
       - migliore, sì come fue questione quando i Romani presono
       - Cartagine qual era il meglio tra disfarla o lasciarla.
@@ -2336,7 +2336,7 @@
       - In questa parte dice Tulio della controversia dell'
       - azione, che quando sopr' a cciò è lla questione e' si
       - conviene che ll' azione si tramuti in tutto o in parte, e
-      - pb: 90
+      - pb[n=90]
       - perciò à nome translativa, cioè tramutativa. Et questo
       - è o puote essere per sette maniere, le quali sono nominate
       - 'nel testo, cioè:'
@@ -2370,7 +2370,7 @@
       - tempo d' attendere a cotali convenenti».
     - p[n=6]:
       - O non muove
-      - pb: 91
+      - pb[n=91]
       - 'questione a quella lege che ssi conviene. Verbigrazia: Uno'
       - cittadino di Roma era in Parigi e volea piatire contra
       - uno francesco secondo la legge di Roma; ma quel francesco
@@ -2402,7 +2402,7 @@
       - fosse alcuna, certo in quella non porrebbe avere contraversia,
       - e perciò conviene che non sia tenuta causa.
     - p[n=1]:
-      - pb: 92
+      - pb[n=92]
       - Lo sponitore.
       - Poi che Tulio àe divisate le parti della constituzione
       - et àe detto che e come è ciascuna di quelle parti
@@ -2430,7 +2430,7 @@
       - Del fatto.
       - La contraversia del fatto si puote distribuire in
       - 'tutti tempi: ché ssi puote fare quistione che è essuto'
-      - pb: 93
+      - pb[n=93]
       - 'fatto, in questo modo: «Ulixes uccise Aiace o no?».'
       - Et puotesi fare questione che ssi fa ora, in questo
       - 'modo: «Sono i Fregelliani in buono animo verso lo'
@@ -2458,7 +2458,7 @@
       - vicende, alle quali altre non sapea pervenire, e perciò
       - adoperò e' più di male contra' Troiani per lo suo senno
       - che non fecero quasi tutta l' oste per arme, et alla fine
-      - pb: 94
+      - pb[n=94]
       - si parve manifestamente, ch' elli fue trovatore del cavallo
       - per lo quale fue Troia perduta e tradita; ma veramente
       - in guerra non si fatigava molto con arme e non era di
@@ -2487,7 +2487,7 @@
       - di buono animo o no.
     - p[n=7]:
       - Nel futuro mette Tulio
-      - pb: 95
+      - pb[n=95]
       - l' exemplo di Cartagine, la quale fue una delle più nobili
       - cittadi e delle più poderose del mondo, e tenne guerra
       - contro a Roma, sì ch' alla fine i Romani vinsero e presero
@@ -2515,7 +2515,7 @@
       - parole e brevemente discritta, come se alcuno à tolta
       - una cosa sacrata d' uno luogo privato, se dee essere
       - giudicato furo o sacrilego, ché certo in essa questione
-      - pb: 96
+      - pb[n=96]
       - conviene difinire l' uno e l' altro, che sia furo e che
       - sacrilego, e mostrare per sua discrezione che lla cosa
       - conviene avere altro nome che quello che dicono li
@@ -2544,12 +2544,12 @@
       - di controversia si conviene che 'l parliere che dice sopra
       - questa materia diffinisca e faccia conto in brevi parole
       - che cosa è sacrilegio e che è furto; e così dee mostrare
-      - pb: 97
+      - pb[n=97]
       - come questo fatto non à quel nome che dice l' aversario.
       - Et è detto della controversia del nome; omai dicerà Tulio
       - 'di quella del genere, in questo modo:'
   - part[n=42]:
-    - milestone[unit=chapter]: IX
+    - milestone[unit=chapter,n=IX]
     - p:
       - Del genere.
       - Controversia del genere è quando il
@@ -2574,7 +2574,7 @@
       - città di Roma; l' accusato confessa il fatto e 'l nome del
       - "facto. Dice l' accusatore: «Questo è grande danno». Dice"
       - "l' accusato: «Non è grande, ma piccolo». Ed è la discordia"
-      - pb: 98
+      - pb[n=98]
       - tra lloro della quantità, cioè se quel male è grande o piccolo.
     - p[n=3]:
       - O sono in discordia del modo, cioè della comparazione
@@ -2608,7 +2608,7 @@
       - A questo genere Ermagoras sottopuose quattro
       - parti, ciò sono deliberativo, demostrativo, iudiciale e
       - negoziale. Il quale suo fallimento non mezanamente
-      - pb: 99
+      - pb[n=99]
       - pare che ssia da riprendere, ma in breve, perciò che sse
       - noi ci ne passiamo così tacendo fosse pensato che noi
       - lo seguissimo sanza cagione; o se lungamente soprastessimo
@@ -2635,10 +2635,10 @@
       - tre son generi delle cause, e così deliberamento e dimostramento
       - non possono essere a diritto tenute parti
       - d' alcuno genere di causa. Dunque malamente disse
-      - pb: 100
+      - pb[n=100]
       - ch' elli fossero parte della constituzione del genere.
   - part[n=45]:
-    - milestone[unit=chapter]: X
+    - milestone[unit=chapter,n=X]
     - p:
       - Et s' elle non possono essere tenute diritte
       - parti della causa del genere, molto meno fien tenute
@@ -2665,7 +2665,7 @@
       - Et in altrettale isconvenevile fie condotto, se esso dica
       - che constituzione sia la prima confermazione dell' accusatore
       - o lla prima preghiera del difenditore; e così
-      - pb: 101
+      - pb[n=101]
       - seguiranno lui tutti questi sconvenevoli.
   - part[n=47]:
     - p:
@@ -2693,7 +2693,7 @@
       - Lo sponitore.
       - In questa parte dice Tulio che Ermagoras dicea che
       - lla controversia del genere avea quattro parti sotto sé,
-      - pb: 102
+      - pb[n=102]
       - ciò sono deliberativo, demostrativo, iudiciale e negoziale;
       - della qual cosa Tulio lo riprende in tutte guise, e mostra
       - molte ragioni come Ermagoras errava malamente, e questo
@@ -2712,7 +2712,7 @@
       - sì come qui dinanzi fue detto. Et in ciò incomincia la
       - 'sentenzia di Tullio in questo modo:'
   - part[n=48]:
-    - milestone[unit=chapter]: XI
+    - milestone[unit=chapter,n=XI]
     - p:
       - Le parti della constituzione generale.
       - Questa constituzione del genere pare a
@@ -2723,7 +2723,7 @@
       - delle quattro parti, sì dice la sua sentenza e dice che sono
       - 'pur due parti, cioè quelle altre due che dicea Ermagoras:'
       - iudiciale e negoziale; et immantenente detta la sua sentenza,
-      - pb: 103
+      - pb[n=103]
       - la quale vince quella d' Ermagoras e d' ogn' altro, sì
       - dice e dimostra che è iudiciale e che è negoziale, in questo
       - 'modo:'
@@ -2744,7 +2744,7 @@
     - p[n=2]:
       - Altressì è iudiciale
       - quella nella quale è questione d' alcuno per sapere s' egli
-      - pb: 104
+      - pb[n=104]
       - 'è degno di pena o di merito. Verbigrazia: «Alobroges è'
       - degno d' avere merito di ciò che manifestò la congiurazione
       - di Catellina?», e questionasi del sì o del no. Et
@@ -2772,7 +2772,7 @@
       - Et intra la iudiciale e la negoziale
       - 'àe cotale differenzia: che lla iudiciale tratta sopra le cose'
       - passate et intorno le leggi scritte e trovate; ma la negoziale
-      - pb: 105
+      - pb[n=105]
       - intende intorno le presenti e future et intorno le
       - legi et usanze che saranno scritte e trovate.
     - p[n=3]:
@@ -2797,7 +2797,7 @@
       - Sponitore.
       - In questa parte dice Tulio che quella questione la
       - quale è iudiciale, sì come davanti è mostrato, sì à due
-      - pb: 106
+      - pb[n=106]
       - "parti: una ch' è appellata assoluta e l' altra la quale è appellata"
       - assuntiva; e dicerà di catuna per sé.
   - part[n=52]:
@@ -2818,7 +2818,7 @@
     - p[n=2]:
       - 'Verbigrazia: Fecero quelli da'
       - Teba giusto o ingiusto quando per segnale della loro vittoria
-      - pb: 107
+      - pb[n=107]
       - fecero un trofeo di metallo? Et certo questo fatto,
       - cioè fare un trofeo di metallo per segnale di vittoria,
       - piace per sé sanza neuna giunta et in sé contiene forza
@@ -2837,7 +2837,7 @@
       - fermezza per difendersi da quello peccato ch' è a llui apposto,
       - ma d' un altro fatto di fuori da quello prende argomento
       - da difendersi; sì come nella questione d' Orestes,
-      - pb: 108
+      - pb[n=108]
       - che fue accusato ch' avea morta la sua madre, et elli
       - dicea che ll' avea morta giustamente. Et certo il suo dire
       - parea crudel fatto, sì che queste parole per sé non ànno
@@ -2866,7 +2866,7 @@
       - e dice che quella constituzione è appellata concessione
       - quando l' accusato concede il peccato e confessa d' averlo
       - fatto, ma domanda che ssia perdonato; e questo puote
-      - pb: 109
+      - pb[n=109]
       - 'essere in due maniere: o per purgazione o per preghiera,'
       - e di ciascuna di queste dirà Tulio partitamente, e prima
       - della purgazione.
@@ -2889,7 +2889,7 @@
       - loro crudel fortuna di tempo che lli mise in pericolosa
       - paura, per la quale si botaro che s' elli scampassero
       - e pervenissero a porto che elli offerrebboro delle loro
-      - pb: 110
+      - pb[n=110]
       - cose a quello deo che là fosse, et e' medesimi l' adorrebbero.
       - Alla fine arrivaro ad uno porto nel quale era
       - adorato Malcometto ed era tenuto deo. Questi mercatanti
@@ -2915,7 +2915,7 @@
     - p[n=4]:
       - La terza maniera è necessitade, cioè che conviene
       - 'che ssia così et altro non potea fare. Verbigrazia:'
-      - pb: 111
+      - pb[n=111]
       - Statuto era in Costantinopoli che qualunque nave viniziana
       - arrivasse nel porto loro, la nave e ciò che entro
       - vi fosse si publicasse al segnore. Avenne che mercatanti
@@ -2940,7 +2940,7 @@
       - Della preghiera.
       - Preghiera è quando l' accusato confessa ch' elli àe
       - commesso quel peccato e confessa che ll' àe fatto pensatamente,
-      - pb: 112
+      - pb[n=112]
       - ma sì domanda che lli sia perdonato, la
       - qual cosa molte rade fiate puote advenire.
     - p[n=1]:
@@ -2966,7 +2966,7 @@
       - giurati a lege sìe che non ànno podere di perdonare. Ben
       - puote alcuna fiata lo 'mperadore e 'l sanato avere provedenza
       - in perdonare gravi misfatti, sì come poteano li anziani
-      - pb: 113
+      - pb[n=113]
       - del popolo di Firenze ch' aveano podere di gravare
       - e di disgravare secondo lo loro parimento.
     - p[n=4]:
@@ -2989,7 +2989,7 @@
       - mette sopr' altrui dicendo che dovea un altro e potea
       - fare quel fatto.
     - p[n=1]:
-      - pb: 114
+      - pb[n=114]
       - Sponitore.
       - In questo luogo dice Tullio ch' è rimuovere lo peccato
       - 'e come si puote fare, et è cotale il caso: Uno è accusato'
@@ -3016,7 +3016,7 @@
       - questi ambasciadori fuorono accusati, ma elli si levaro
       - la colpa e la cagione e miserla sopra 'l signore e sopra 'l
       - camarlingo, i quali aveano la forza e la segnoria e non
-      - pb: 115
+      - pb[n=115]
       - fecero lo pagamento.
     - p[n=3]:
       - Mettere il fatto sopr' altrui è
@@ -3041,7 +3041,7 @@
       - che no· ll' arebbe potuto fare, perciò ch' elli era malato di
       - sua persona. Et così recava il fatto e la colpa sopra Catellina,
       - perciò che 'l dovea fare come di suo nemico e
-      - pb: 116
+      - pb[n=116]
       - poteal fare, ch' era sano e forte e di reo animo.
     - p[n=4]:
       - Et poi
@@ -3069,7 +3069,7 @@
       - Et poi che Tullio àe insegnato riferire lo peccato,
       - sì insegnerà omai che è comparazione.
   - part[n=59]:
-    - pb: 117
+    - pb[n=117]
     - p:
       - Tullio dice che è comparazione.
       - Comparazione è quando alcuno altro fatto si
@@ -3098,7 +3098,7 @@
       - diritto, cioè per scampare la terra di tanta distruzione,
       - e quello scampamento non potea fare sanza quella dispesa;
       - e così mostra che 'l fatto del quale elli è ripreso
-      - pb: 118
+      - pb[n=118]
       - fue fatto per bene.
     - p[n=3]:
       - Et poi che Tullio àe detto delle
@@ -3125,7 +3125,7 @@
       - fallito non pur in prudenzia; ché certo manifesta cosa
       - è che sono impediti per invidia e per maltrattamento
     - p[n=1]:
-      - pb: 119
+      - pb[n=119]
       - Sponitore.
       - Questo testo di Tullio è assai aperto in sé medesimo,
       - e spezialmente perciò che della questione o constituzione
@@ -3149,7 +3149,7 @@
     - p[n=3]:
       - Et dice Tullio che Ermagoras fue trovatore
       - della translativa constituzione, cioè che lla mise nel conto
-      - pb: 120
+      - pb[n=120]
       - delle quatro constituzioni sì come detto fue inn adietro.
       - Et di ciò fue ripreso da alquanti che non erano bene
       - savi e che aveano invidia e maltrattamento contra lui.
@@ -3159,7 +3159,7 @@
     - p:
       - Tullio dice che davanti dicerà
       - exempli in ciascuna maniera di constituzioni.
-    - milestone[unit=chapter]: XII
+    - milestone[unit=chapter,n=XII]
     - p:
       - Già avemo disposte le constituzioni e
       - le loro parti; ma li axempli di ciascuna maniera parrà
@@ -3177,7 +3177,7 @@
       - delle cause, cioè nel deliberativo e nel dimostrativo e nel
       - iudiciale, quando tratterà il libro di ciascuno in suo stato.
       - E da cciò si parte il conto e torna a trattare secondo
-      - pb: 121
+      - pb[n=121]
       - che ssi conviene all' ordine del libro per insegnamento
       - dell' arte.
   - part[n=62]:
@@ -3203,7 +3203,7 @@
       - 'questione assoluta in questo modo: «Stanzieremo noi'
       - battaglia contra coloro di Corinto o non?».
     - p[n=1]:
-      - pb: 122
+      - pb[n=122]
       - Lo sponitore.
       - Dice Tullio che quella causa è simpla la quale è pur
       - d' uno fatto e che non è se non d' una questione solamente.
@@ -3224,7 +3224,7 @@
       - Poi che Tullio à detto della causa simpla, sì dice
       - della congiunta, dicendo che quella causa è congiunta
       - 'nella quale àe due o tre o quattro o più questioni. Verbigrazia:'
-      - pb: 123
+      - pb[n=123]
       - I Romani vinsero a forza d' arme la cittade
       - di Cartagine, et erano alcuni che diceano che al postutto
       - si disfacesse; altri diceano che lla cittade fosse
@@ -3249,7 +3249,7 @@
       - di più cose, nella quale si considera qual partito sia il
       - migliore de' due o di tre o di più, e se tutti sono buoni e
       - l' uno migliore che ll' altro, per sapere qual sia finissimo,
-      - pb: 124
+      - pb[n=124]
       - cioè il sovrano di tutti.
     - p[n=2]:
       - 'Verbigrazia: I Romani aveano'
@@ -3276,7 +3276,7 @@
       - di cose e di parole scritte, e qual nasce pur di ragionamento,
       - cioè di dire parole e di cose che non sono scritte;
       - e così vuole Tullio apertamente insegnare per rettorica
-      - pb: 125
+      - pb[n=125]
       - ciò c' altre de' dire a ciascun ponto di tutte le cause che
       - possano intervenire; e perciò dicerà della scritta per sé
       - e del ragionamento per sé, e di ciascuno partitamente
@@ -3286,7 +3286,7 @@
       - Della contraversia che nasce di cose scritte.
       - Contraversia inn iscritta è quella che nasce d' alcuna
       - qualitade di scrittura.
-    - milestone[unit=chapter]: XIII
+    - milestone[unit=chapter,n=XIII]
     - p:
       - Et certo le maniere
       - di questa che sono partite delle constituzioni
@@ -3303,7 +3303,7 @@
       - la terza apelliamo dubiosa, la quarta appelliamo di ragionevole,
       - la quinta apelliamo diffinitiva.
     - p[n=0]:
-      - pb: 126
+      - pb[n=126]
       - Lo sponitore.
       - Poi che Tullio à dimostrato qual causa sia pur d' un
       - fatto o di più, immantenente vuole dimostrare qual contraversia
@@ -3333,7 +3333,7 @@
       - leggi, perciò che pare che due leggi o più discordino
       - 'intra sé stesse. Verbigrazia: Una legge era cotale, che'
       - chiunque uccidesse il tiranno prendesse del senato cheunque
-      - pb: 127
+      - pb[n=127]
       - merito volesse. Et nota che tiranno è detto quelli
       - che per forza di suo corpo o d' avere o di gente sottomette
       - altrui al suo podere. Un' altra legge dice che morto il
@@ -3362,7 +3362,7 @@
       - di quello ch' è discritto si truova e se ne ritrae altro che
       - 'no è scritto. Verbigrazia: Marcello entrò nella chiesa di'
       - Santo Petro di Roma e ruppe il crocifixo, e tagliò le
-      - pb: 128
+      - pb[n=128]
       - imagini di là entro. Fue accusato, ma non si truova neuna
       - legge scritta sopra così fatto malificio, né convenevole
       - non era che nne scampasse sanza pena; e perciò il suo
@@ -3390,7 +3390,7 @@
       - e dicasi il proprio intendimento.
     - p[n=6]:
       - Già à detto
-      - pb: 129
+      - pb[n=129]
       - Tullio di quella contraversia la quale è in iscritta e delle
       - sue cinque parti. Omai dicerà di quella contraversia ch' è
       - in ragionamento.
@@ -3415,7 +3415,7 @@
       - Delle quattro parti della causa.
       - Adunque, poi che considerato è il genere della
       - causa e cognosciuta la constituzione et inteso quale è
-      - pb: 130
+      - pb[n=130]
       - simpla e quale è congiunta, e veduto quale contraversia
       - è di scritto e di ragionamento, omai fie da vedere
       - quale è la quistione e quale è la ragione e quale è il
@@ -3439,7 +3439,7 @@
       - tutte muovono e nascono della constituzione, ciò viene a
       - dire che la constituzione è il cominciamento di queste cose.
   - part[n=70]:
-    - pb: 131
+    - pb[n=131]
     - p:
       - Della questione.
       - Questione è quella contraversia la quale s' ingenera
@@ -3460,7 +3460,7 @@
       - «Tu non ài fatta ragione, ché tu prendesti il mio cavallo»;
       - 'e la parte che ssi difende risponde e dice: «Sì, feci ragione».'
       - Or è la causa ordinata, cioè che ciascuna parte à
-      - pb: 132
+      - pb[n=132]
       - detto, l' una accusando e l' altra difendendo, e questa è appellata
       - constituzione.
     - p[n=2]:
@@ -3489,7 +3489,7 @@
       - se ne fosse tolta non rimarrebbe alcuna cosa in contraversia.
       - In questo modo mosterremo, per cagione
       - d' insegnare, un leggieri e manifesto exemplo. Se Orestres
-      - pb: 133
+      - pb[n=133]
       - 'fosse accusato di matricidio et elli non dicesse:'
       - «Io il feci a ragione, perciò ch' ella avea morto il mio
       - padre», non avrebbe difensione; e se non l' avesse non
@@ -3519,7 +3519,7 @@
       - matricidio. Et poi che Tullio à dimostrato che è questione
       - e che ragione, sì dimosterrà che è giudicamento.
   - part[n=72]:
-    - pb: 134
+    - pb[n=134]
     - p:
       - Del giudicamento.
       - Giudicamento è quella contraversia la quale
@@ -3529,7 +3529,7 @@
       - 'padre». Dice il savio: «Sanza te figliuolo convenia'
       - ch' essa madre fosse uccisa; perciò che 'l suo fatto si
       - potea bene punire sanza tuo perverso adoperamento».
-    - milestone[unit=chapter]: XIV
+    - milestone[unit=chapter,n=XIV]
     - p:
       - Di questo mostramento della ragione nasce
       - quella somma controversia la quale noi appelliamo
@@ -3544,7 +3544,7 @@
       - "in che luogo sia. Verbigrazia: L' accusato assegna ragione"
       - perché fece quel fatto e conferma la sua difensa per quella
       - ragione. L' accusatore dice contra questa difensa et indebolisce
-      - pb: 135
+      - pb[n=135]
       - la ragione dell' accusato. Unde di ciò che conferma
       - l' uno et inforza la sua difensione e l' altro la infievolisce
       - e falla debole, sì ne nasce una questione la quale è appellata
@@ -3572,7 +3572,7 @@
       - Fermamento è il firmissimo et appostissimo argomento
       - al giudicamento, come se Orestres volesse dire
       - che ll' animo il quale la madre avea contra il suo padre,
-      - pb: 136
+      - pb[n=136]
       - quel medesimo avea contra lui e contra le sue sorelle
       - e contra il reame e contra l' alto pregio della sua ingenerazione
       - e della sua familia, sicché in tutte guise
@@ -3596,7 +3596,7 @@
       - Fermamento.
       - Poi che lla questione del giudicamento è nata, sì
       - conviene che ll' accusato tragga innanzi i fermissimi argomenti
-      - pb: 137
+      - pb[n=137]
       - 'bene apposti contra il giudicamento. Verbigrazia:'
       - Orestres à detto che uccise la madre perciò ch' ella avea
       - morto il padre, e così assegna la ragione perch' elli l' uccise;
@@ -3624,7 +3624,7 @@
       - sì come quella fece uccidendo il re Agamenon. Et
       - quello è crudele fatto il quale alcuno adopera contra'
       - suoi, sì come quella fece contra la sua famiglia. Et quello
-      - pb: 138
+      - pb[n=138]
       - è malizioso fatto il quale è molto fuori d' uso, sì com' è
       - contra naturale usanza ch' alcuna femina uccida il suo
       - marito e figliuoli e distrugga un alto reame.
@@ -3652,7 +3652,7 @@
       - per lui è stato detto davanti, così si possono trovare giudicamenti
       - inn ogne constituzione; salvo che nella constituzione
       - congetturale, della quale è molto trattato inn
-      - pb: 139
+      - pb[n=139]
       - adietro, perciò che in essa l' accusato nonn asegna neuna
       - ragione, anzi niega, al postutto non ne puote nascere giudicamento.
     - p[n=2]:
@@ -3678,7 +3678,7 @@
       - da considerare ciascuna parte della causa; ch' al ver
       - dire non si dee pur pensare prima ciò che ssi dee dicere
       - in prima; perciò che se le parole che sono da dire
-      - pb: 140
+      - pb[n=140]
       - in prima tu vuoli inforzatamente congiungere et adunare
       - colla causa, conviene che d' esse medesime traghe
       - quelle che sono da dire poi.
@@ -3702,7 +3702,7 @@
       - il mezzo e la fine. Tutto altressì fae il buono drappiere,
       - che non pensa prima pur della lana, ma considera
       - tutto il drappo insieme anzi che llo cominci, e de' aver
-      - pb: 141
+      - pb[n=141]
       - la lana e 'l colore e la grandezza del drappo, e provedesi
       - di tutte cose che sono mistieri, e poi comincia e fae il
       - drappo.
@@ -3723,7 +3723,7 @@
       - innanzi pensi tutte le parti della causa per accordare
       - il mezzo e la fine colla comincianza del suo dire,
       - sì che sia l' una parola nata dell' altra, sì dice esso medesimo
-      - pb: 142
+      - pb[n=142]
       - che poi che tutto questo ch' è fatto, e trovato il
       - giudicamento della causa e ciò che vi bisogna secondo i
       - comandamenti di rettorica (i quali si convengono trattare
@@ -3748,7 +3748,7 @@
       - sono in tencione, et insegna cognoscere le cause e lle questioni,
       - e per mettere exempli dice sovente dell' accusato
       - e dell' accusatore, penserebbe per aventura un grosso intenditore
-      - pb: 143
+      - pb[n=143]
       - che Tullio parlasse delle piatora che sono in
       - corte, e non d' altro.
     - p[n=4]:
@@ -3779,7 +3779,7 @@
       - di questo non puote nascere questione se non di
       - sapere se quella cosa che niega elli l' à fatta o detta o no.
       - Ma quando l' uno appone e l' altro difende, sì è la causa
-      - pb: 144
+      - pb[n=144]
       - incominciata et ordinata tra lloro. Et questo è la constituzione
       - della quale nasce la questione, cioè se lla sua
       - difesa è a ragione o no; e poi ciascuno contende come
@@ -3808,7 +3808,7 @@
       - no. Et questo è quello che Tullio appella questione.
     - p[n=9]:
       - Et
-      - pb: 145
+      - pb[n=145]
       - perciò l' uno, poi ch' elli àe detto e consigliato quello che
       - llui ne pare, immantenente assegna la ragione per la
       - quale il suo consiglio èe buono e diritto. Et questo è quello
@@ -3840,7 +3840,7 @@
       - di tutte e quattro sì come fue dimostrato di sopra.
     - p[n=13]:
       - Quest' è la diceria del primo parliere. E poi ch' elli à
-      - pb: 146
+      - pb[n=146]
       - consigliato e posto fine al suo dire, immantenente si
       - leva un altro consigliere e dice tutto il contrario che àe
       - detto colui davanti; e così è fatta la constituzione, cioè
@@ -3863,7 +3863,7 @@
       - et indebolisce quelle del pregatore. In questi et in
       - molti altri exempli si puote assai bene intendere che lla
       - rettorica di Tullio non è pure ad insegnare piategiare
-      - pb: 147
+      - pb[n=147]
       - alle corti di ragione, avegna che neuno possa buono advocato
       - essere né perfetto se non favella secondo l' arte di
       - rettorica.
@@ -3884,7 +3884,7 @@
     - p[n=16]:
       - Ma chi volesse bene considerare la propietà d' una
       - lettera o d' una canzone, ben potrebbe apertamente vedere
-      - pb: 148
+      - pb[n=148]
       - che colui che lla fa o che lla manda intende ad alcuna
       - cosa che vuole che sia fatta per colui a cui e' la manda.
       - Et questo puote essere o pregando o domandando o comandando
@@ -3913,7 +3913,7 @@
       - Et ecco Tullio che
       - incomincia a dire di quelle partite della diceria o d' una
       - lettera dittata, delle quali non avea detto neente in
-      - pb: 149
+      - pb[n=149]
       - 'adietro: e queste parti sono sei, sì come apare in questo'
       - arbore.
       - Queste sono le sei parti che Tullio mostra certamente
@@ -3932,7 +3932,7 @@
       - manda ad un altro, nel quale la mente favella et è udito
       - colui che tace e di lontana terra dimanda et acquista la
       - grazia, la grazia ne 'nforza e l' amore ne fiorisce, e molte
-      - pb: 150
+      - pb[n=150]
       - cose mette inn iscritta le quali si temerebbe e non saprebbe
       - dire a lingua in presenzia; sì dirae lo sponitore
       - un poco dell' oppinione de' savi e della sua medesima in
@@ -3965,7 +3965,7 @@
       - che, sì come dice Boezio, ogne cosa proposta a dire puote
       - essere materia del dittatore; et in questo si divisa dalla
       - sentenzia di Tullio, che dice che lla materia del parliere
-      - pb: 151
+      - pb[n=151]
       - non è se non in tre cose, ciò sono dimostrativo, deliberativo
       - e iudiciale. Et dice «convenevolemente aconcio a
       - quella cosa» perciò che conviene al dittatore asettare le
@@ -3994,7 +3994,7 @@
       - e contato il fatto et e' sì viene partiendo la sua ragione
       - "e quella dell' aversario e dice: «Questo fue così, e"
       - quest' altro così»; et in questo modo acoglie quelle partite
-      - pb: 152
+      - pb[n=152]
       - che sono a llui più utili e più contrarie all' aversario, et
       - afficcale all' animo dell' uditore; et allora pare ch' al tutto
       - abbia detto tutto 'l fatto. IV. Et dice che confermamento
@@ -4017,7 +4017,7 @@
       - pistola colla diceria, cioè nello exordio, narrazione e
       - nella conclusione; ma ll' altre tre, cioè partigione, confermamento
       - e reprensione, possono più lievemente rimanere
-      - pb: 153
+      - pb[n=153]
       - e non avere luogo nella pistola. Tutto altressì la pistola
       - àe cinque parti, delle quali l' una può bene rimanere e
       - non avere luogo nella diceria, cioè «salutatio»; l' autra,
@@ -4034,7 +4034,7 @@
       - Certa cosa è che Tullio nel suo libro tratta delle dicerie
       - che ssi fanno in presenzia, nelle quali non bisogna di
       - contare il nome del parlieri né dell' uditore. Ma nella
-      - pb: 154
+      - pb[n=154]
       - pistola bisogna di mettere le nomora del mandante e del
       - ricevente, c' altrimente non si puote sapere a certo né
       - l' uno né l' altro. Apresso ciò, la salutazione pare che sia
@@ -4064,7 +4064,7 @@
     - p[n=28]:
       - Adunque
       - pare manifestamente che lla salutazione è così parte della
-      - pb: 155
+      - pb[n=155]
       - pistola come l' occhio dell' uomo. Et se l' occhio è nobile
       - membro del corpo dell' uomo, dunque la salutazione è
       - nobile parte della pistola, c' altressì allumina tutta la lettera
@@ -4084,7 +4084,7 @@
       - d' amore, o per solazzo, talora si mandano altre parole
       - che portano più incarnamento e giuoco che non fa a dire
       - pur salute. Et a' maggiori non dee uomo mandare salute,
-      - pb: 156
+      - pb[n=156]
       - ma altre parole che significhino reverenzia e devozione;
       - e talvolta no scrivemo a' nemici altro che lle nomora e
       - tacemo la salute, o per aventura mettemo alcuna altra
@@ -4109,7 +4109,7 @@
       - con parole di sua onoranza e metterlo dinanzi; apresso
       - dee nominare sé medesimo e la sua dignitade, e poi dee
       - scrivere la sua affezione, cioè quello che desidera che
-      - pb: 157
+      - pb[n=157]
       - venga a colui che riceve la lettera, sì come salute o altro
       - che sia avenante, tuttavolta guardando che questa affezione
       - sia di quella guisa e di quelle parole che ssi convegnono
@@ -4136,7 +4136,7 @@
       - si mette nella salutazione, e che 'l nome del mandante
       - si mette in terza persona per significamento di maggiore
       - umilitade, e che tal fiata si scrive pur la primiera lettera
-      - pb: 158
+      - pb[n=158]
       - del nome, par che tocchi più a' dittatori in latino che 'n
       - volgare, sene passerà lo sponitore brevemente e seguirà
       - la materia di Tullio per dicere dell' altre parti della diceria
@@ -4160,12 +4160,12 @@
       - dell' altre parti della diceria, sì ll' apella principe dell' altre
       - "parti tutte; e certo è de ragione: l' una perciò che ssi"
       - mette e si dice tuttora davanti a l' autre, l' altra perciò che
-      - pb: 159
+      - pb[n=159]
       - nel exordio pare che noi aconciamo et apparecchiamo
       - l' animo dell' uditore ad intendere tutto ciò che noi volemo
       - dire di poi.
   - part[n=78]:
-    - milestone[unit=chapter]: XV
+    - milestone[unit=chapter,n=XV]
     - p:
       - Dell' exordio.
       - Exordio è un detto el quale acquista
@@ -4189,7 +4189,7 @@
     - p[n=2]:
       - Nel secondo luogo divide l' exordio in due parti, cioè
       - principio et «insinuatio», e mostrane in qual convenentre
-      - pb: 160
+      - pb[n=160]
       - noi dovemo usare principio et in quale «insinuatio».
     - p[n=3]:
       - Nel terzo luogo ne fa intendere donde noi potemo
@@ -4223,7 +4223,7 @@
       - di chente ingenerazione sia la sua causa non puote bene
       - advenire alle tre cose che sono dette inn adietro, cioè
       - che ll' uditore sia benivolo, intento e docile, sì dicerà
-      - pb: 161
+      - pb[n=161]
       - Tullio quante e quali sono le generazioni delle cause, in
       - 'questo modo:'
   - part[n=79]:
@@ -4252,7 +4252,7 @@
       - essere e non essere; ma le prime tre sono substanziali
       - che non si possono mutare.
   - part[n=80]:
-    - pb: 162
+    - pb[n=162]
     - p:
       - Dell' onesta.
       - Onesta qualitade di causa è quella la quale
@@ -4280,7 +4280,7 @@
       - convenente che dispiace all' uditore, perciò ch' è di sozza
       - e di crudele operazione. Et perciò l' animo dell' uditore è
       - contra noi et è straniato dalla nostra parte; et in questo
-      - pb: 163
+      - pb[n=163]
       - abisogna d' acquistare benivolenzia sì che l' uditore intenda,
       - sì come nella causa di colui c' avesse morto il suo
       - padre o fatto furto o incendio.
@@ -4311,7 +4311,7 @@
       - dubia o la causa è in parte onesta et in parte è sozza
       - e disonesta, sicché ingenera benivolenzia e offensione.
     - p[n=1]:
-      - pb: 164
+      - pb[n=164]
       - Sponitore.
       - Quella causa è appellata dubitosa nella quale l' uditore
       - non è certo a che la cosa debbia pervenire o a che
@@ -4336,7 +4336,7 @@
       - per aventura la causa è impigliata di convenenti troppo
       - malagevoli a conoscere.
     - p[n=1]:
-      - pb: 165
+      - pb[n=165]
       - Lo sponitore.
       - Dice Tullio che quella causa è appellata oscura
       - nella quale l' uditore è tardo, cioè che non intende ciò che
@@ -4358,7 +4358,7 @@
       - Perciò - dice Tullio - che le generazioni e le qualitadi
       - delle cause sono tanto diverse, cioè che sono in
       - cinque modi sì come detto è qui di sopra, e l' uno modo
-      - pb: 166
+      - pb[n=166]
       - non è accordante all' altro, sì conviene che in ciascuna
       - qualità di cause et in catuno de' detti cinque modi abbia
       - suo modo di fare exordio, tale che ssi convegna alla qualitade
@@ -4383,7 +4383,7 @@
       - Quella maniera de exordio è appellata principio
       - quando il parlieri o 'l dittatore quasi incontanente
       - alla comincianza del suo dire, sanza molte parole e
-      - pb: 167
+      - pb[n=167]
       - sanza neuno infingimento ma parlando tutto fuori et apertamente,
       - fa l' animo dell' uditore benvolente a llui et alla
       - sua causa, o talora il fa docile o intento, sì come fece
@@ -4405,7 +4405,7 @@
       - «insinuatio» quando il parlieri o 'l dittatore fa dinanzi
       - un lungo prolago di parole coverte, infingendo di volere
       - ciò che non vuole, o di non volere quello che dee volere,
-      - pb: 168
+      - pb[n=168]
       - e così va dintorno con molte parole per sorprendere l' animo
       - dell' uditore sì che sia benevolo o docile o intento; sì come
       - disse Sino parlando a coloro che riteneano la sua persona
@@ -4433,7 +4433,7 @@
       - pace e benivoglienza dalle persone adirate non
       - solamente non si truova, ma cresce et infiamasi l' odio.
     - p[n=1]:
-      - pb: 169
+      - pb[n=169]
       - Lo sponitore.
       - Inn adietro è bene detto che quella causa è appellata
       - mirabile la quale è di rea operazione, sicché pare che
@@ -4457,7 +4457,7 @@
       - l' odio; e perciò dee andare dintorno et entrarli
       - sotto covertamente.
   - part[n=89]:
-    - pb: 170
+    - pb[n=170]
     - p:
       - Della causa vile.
       - Nella causa la quale è di vile convenente, per
@@ -4482,7 +4482,7 @@
       - sicché paia che tutta la causa ritorni in onesta
       - qualitade.
     - p[n=1]:
-      - pb: 171
+      - pb[n=171]
       - Lo sponitore.
       - La causa dubitosa, sì come fue detto in adietro, èe
       - "in due maniere: l' una che lla sentenzia è dubbia, sì come"
@@ -4502,7 +4502,7 @@
       - Quando la causa fie onesta, o potemo intralasciare
       - lo principio, o, se ne pare convenevole, comincieremo
       - alla narrazione o dalla legge, o d' alcuna fermissima
-      - pb: 172
+      - pb[n=172]
       - ragione della nostra diceria. Ma se ne piace usare
       - principio, dovemo usare le parti di benivoglienza per
       - accrescere quella che è.
@@ -4525,8 +4525,8 @@
       - perciò in detto caso il nostro principio dee essere in parole
       - apropiate a benivolenza.
   - part[n=92]:
-    - milestone[unit=chapter]: XVI
-    - pb: 173
+    - milestone[unit=chapter,n=XVI]
+    - pb[n=173]
     - p:
       - Della causa obscura.
       - Nella causa la quale è oscura conviene
@@ -4546,7 +4546,7 @@
       - d' intendere il fatto, noi andremo innanzi a dire la nostra
       - ragione sì come si conviene al fatto.
   - part[n=93]:
-    - pb: 174
+    - pb[n=174]
     - p:
       - Le ragioni delle cose.
       - Et perciò che infin ad ora noi avemo detto che
@@ -4571,7 +4571,7 @@
       - In questa parte insegna Tullio acquistare benivolenza,
       - e perciò ch' ella non si puote avere se non per quello
       - che ss' apartiene alle persone et al fatto, sì dice che quattro
-      - pb: 175
+      - pb[n=175]
       - luogora sono dalle quali muove benivolenza. Il primo
       - luogo si è la nostra persona e di coloro per cui noi dicemo.
       - Il secondo luogo si è la persona de' nostri adversarii
@@ -4594,7 +4594,7 @@
       - Sponitore.
       - Conquistare benivolenza dalla nostra persona si è
       - dicere della persona nostra, o di coloro per cui noi dicemo,
-      - pb: 176
+      - pb[n=176]
       - quelle pertenenze per le quali l' uditore sia benivolo verso
       - noi. Et sappie che certe cose s' apartengono alle persone
       - e certe alla causa; e di queste pertinenze tratterà il conto
@@ -4623,7 +4623,7 @@
     - p[n=4]:
       - Il secondo modo si
       - è se noi ne leviamo da dosso a noi et a' nostri le colpe
-      - pb: 177
+      - pb[n=177]
       - e le disoneste sospeccioni che cci sono messe et apposte
       - sopra; et intendi che colpe sono appellati que' peccati
       - che sono apposti altrui apertamente davanti al viso, sì
@@ -4652,7 +4652,7 @@
       - non dovrebbe impaurire l' altrui bellezza».
     - p[n=6]:
       - Il terzo
-      - pb: 178
+      - pb[n=178]
       - modo è se noi contiamo i mali che sono advenuti e li
       - "'ncrescimenti che sono presenti. Così Boezio, contando"
       - ciò ch' avenuto era, acquistò la benivolenza dell' uditore
@@ -4678,7 +4678,7 @@
       - ultimi fatti e delli anni della mia fine, perché non mi
       - convenga essere servo in vecchiezza, il quale sono usato
       - di segnoreggiare in giovane etade». Et queste preghiere
-      - pb: 179
+      - pb[n=179]
       - talfiata sono aperte, sì come quelle di Pompeio, talfiata
       - sono ascose, sì come quelle di Dido in queste parole ch' ella
       - 'mandò ad Eneas: «Io» disse ella «non dico queste parole'
@@ -4698,7 +4698,7 @@
       - sono a noi; omai dirà il secondo luogo, cioè della persona
       - delli adversarii e di coloro contra cui noi dicemo.
   - part[n=96]:
-    - pb: 180
+    - pb[n=180]
     - p:
       - Sopra il secondo prolago.
       - Dalla persona delli aversarii se noi li mettemo
@@ -4724,7 +4724,7 @@
       - Noi potemo i nostri adversarii mettere inn odio dell'
       - uditore se noi dicemo ch' elli ànno alcuna cosa fatta isnaturalmente,
       - contra l' ordine di natura, sì come mangiare
-      - pb: 181
+      - pb[n=181]
       - carne umana et altre simili cose delle quali lo sponitore
       - si tace presentemente. O se noi dicemo ch' elli abian fatto
       - superbiamente, cioè non temendo né curando de' signori
@@ -4748,7 +4748,7 @@
       - in odio et in malavoglienza dell' uditore. Da quinci innanzi
       - dicerà come noi li potemo mettere in loro invidia.
   - part[n=98]:
-    - pb: 182
+    - pb[n=182]
     - p:
       - Tullio.
       - In invidia dicendo la loro forza, la potenza, le
@@ -4774,7 +4774,7 @@
       - usa in tradimenti e distruzioni di terre e di genti». Così
       - "disse Catellina contra ' Romani: «Appo loro sono li onori"
       - e le potenzie, ma a nnoi ànno lasciati i pericoli e le povertadi».
-      - pb: 183
+      - pb[n=183]
       - Et ora è detto della invidia contra i nostri
       - adversarii; sì dicerà il conto come noi li potemo mettere
       - in dispetto.
@@ -4799,7 +4799,7 @@
     - p[n=2]:
       - Et ora
       - à detto il conto come noi potemo acquistare la benivolienza
-      - pb: 184
+      - pb[n=184]
       - dell' uditore dalla persona de' nostri adversarii
       - mettendoli inn odio et in invidia et in dispetto, et à
       - insegnato come si puote ciò fare. Omai tornerà alla materia
@@ -4820,7 +4820,7 @@
       - le loro opere per fortezza e per franchezza e per prodezza,
       - per senno e per mansuetudine, cioè per misurata umilitade,
       - e dicendo come la gente crede di loro tutto bene
-      - pb: 185
+      - pb[n=185]
       - et onestade, e come la gente aspetta la loro sentenza
       - sopra questo fatto, credendo fermamente che fie sì giusta
       - e di tanta autoritade che in perpetuo si debbia così oservare
@@ -4852,7 +4852,7 @@
     - p[n=6]:
       - D' attendere la sua buona sentenza
       - 'lodò Tullio Cesare parlando di Marco Marcello:'
-      - pb: 186
+      - pb[n=186]
       - «La sentenza ch' è ora attesa da te sopra questo convenente
       - non tocca pure ad una cosa, ma à ad convenire
       - a tutte le somiglianti, perciò che quello che voi giudicarete
@@ -4876,7 +4876,7 @@
       - 'confortando la sua gente alla guerra di Cesare: «La'
       - nostra causa piena di diritto e di giustizia, perciò ch' ella
       - è migliore che quella de' nemici, ne dà ferma speranza
-      - pb: 187
+      - pb[n=187]
       - d' avere Dio in nostro adiuto».
     - p[n=2]:
       - Et omai à divisato
@@ -4899,7 +4899,7 @@
       - Sponitore.
       - Avendo Tullio dato intero insegnamento d' acquistare
       - la benivolenza di quelle persone davante cui noi
-      - pb: 188
+      - pb[n=188]
       - proponemo le nostre parole, sì che l' animo s' adirizzi et
       - invii in piacere di noi e della nostra causa e che siano
       - contrarii e malevoglienti a' nostri adversarii, sì vuole Tullio
@@ -4925,7 +4925,7 @@
       - avenuto o puote advenire per le novitadi che fatte sono,
       - 'sì come disse Catellina: «Poi che lla forza del comune'
       - è divenuta alle mani della minuta gente et in podere
-      - pb: 189
+      - pb[n=189]
       - del populo grasso, noi nobili, noi potenti a cui si convengono
       - li onori, siemo divenuti vile populo sanza onore
       - e sanza grazia e sanza autoritade».
@@ -4944,7 +4944,7 @@
       - che 'l convenente sopra 'l quale dee essere il mio parlamento
       - a tutti tocca od a coloro che ll' odono, sì come disse
       - 'Cato parlando della congiurazione di Catellina: «Congiurato'
-      - pb: 190
+      - pb[n=190]
       - ànno i nobilissimi cittadini incendere e distruggere
       - la patria nostra, e 'l lor capitano ne sta sopra capo.
       - Adunque dovete compensare che voi dovete sentenziare
@@ -4965,7 +4965,7 @@
     - p[n=8]:
       - Altressì fie intento
       - s' io dico nel principio di dire la mia causa brevemente
-      - pb: 191
+      - pb[n=191]
       - et in poche parole, sì come disse il poeta per contare la storia
       - 'di Troia: «Io dirò la somma, come Elena fue rapita'
       - per solo inganno e come Troia per solo inganno fue presa
@@ -4988,7 +4988,7 @@
       - potemo fare intento l' uditore, sì dirà come noi il potemo
       - fare docile.
   - part[n=103]:
-    - pb: 192
+    - pb[n=192]
     - p:
       - Come l' uditore sia docile.
       - Docili faremo li uditori se noi proporremo
@@ -5011,7 +5011,7 @@
       - in mal dire, che tu la perda in mal udire».
     - p[n=2]:
       - Questo
-      - pb: 193
+      - pb[n=193]
       - et altri molti exempli potrei io mettere per fare l' uditore
       - docile, sì come buono intenditore puote vedere
       - e sapere in ciò ch' è detto davanti. Et perciò che 'l conto
@@ -5021,7 +5021,7 @@
       - docile et intento, sì dirà lo 'nsegnamento della insinuazione
       - 'in questo modo:'
   - part[n=104]:
-    - milestone[unit=chapter]: XVII
+    - milestone[unit=chapter,n=XVII]
     - p:
       - Lo 'nsegnamento della Insinuazione.
       - Oramai pare che sia a dire come
@@ -5037,7 +5037,7 @@
       - cosa, non meno che per le due primiere, sovente s' offende
       - l' animo dell' uditore.
     - p[n=1]:
-      - pb: 194
+      - pb[n=194]
       - Sponitore.
       - In adietro è detto sofficientemente come noi potemo
       - acquistare la benivolenza dell' uditore e farlo docile et intento
@@ -5062,7 +5062,7 @@
       - pare essere in suo odio. Adunque ne conviene vedere in
       - quanti e quali casi la nostra causa puote essere mirabile,
       - e poi vedere come noi potemo contraparare a ciascuno;
-      - pb: 195
+      - pb[n=195]
       - e sono tre casi.
     - p[n=4]:
       - Primo caso si è quando sie nella causa
@@ -5091,7 +5091,7 @@
       - rimedi di parole incontra ciascuno caso contrario, secondo
       - lo 'nsegnamento di Tulio.
   - part[n=105]:
-    - pb: 196
+    - pb[n=196]
     - p:
       - Della laidezza della causa.
       - Se la laidezza della causa mette l' offensione,
@@ -5112,7 +5112,7 @@
       - oscuramente facciendolo allunghi quanto puoi da lloro
       - la volontade dell' uditore; e proferere la sentenzia d' altri
       - in somiglianti cose, o altoritade che sia degna d' essere
-      - pb: 197
+      - pb[n=197]
       - seguita; et apresso dimostrare che presentemente si
       - tratta simile cosa, o maggiore o minore.
     - p[n=1]:
@@ -5138,7 +5138,7 @@
       - com' elli era nato di Telamone, il quale altra fiata
       - prese Troia al tempo del forte Hercole; e così mettea
       - la persona avanti amata e graziosa in luogo di sé
-      - pb: 198
+      - pb[n=198]
       - et in suo aiuto, per piacerne alla gente e per avere buona
       - causa.
     - p[n=3]:

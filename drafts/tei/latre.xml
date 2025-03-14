@@ -52,7 +52,7 @@
 		</front>
 		<body>
 			<div n="1" xml:id="part-1" type="part" data-level="1">
-				<milestone unit="chapter" xml:id="part-1-milestone-1" n="I" />
+				<milestone unit="chapter" n="I" xml:id="part-1-milestone-1" />
 				<p xml:id="part-1-p-2">
 					<lb n="6" />Sovente e molto ò io pensato in me medesimo<lb n="7" />se lla copia del dicere e lo sommo studio della
 <lb n="8" />eloquenzia àe fatto più bene o più male agli uomini
@@ -386,7 +386,7 @@
 <lb n="6" />o per studio o per usanza o per forza di natura, noi
 <lb n="7" />troveremo che sia nato d' onestissime cagioni e che ssia
 <lb n="8" />mosso d' ottima ragione.</p>
-				<milestone unit="chapter" xml:id="part-4-milestone-2" n="II" />
+				<milestone unit="chapter" n="II" xml:id="part-4-milestone-2" />
 				<p xml:id="part-4-p-39">
 					<lb n="9" />Acciò che fue un<lb n="10" />tempo che in tutte parti isvagavano gli uomini per
 <lb n="11" />li campi in guisa di bestie e conduceano lor vita in
@@ -628,7 +628,7 @@
 <lb n="9" />usaro et inforzaro tutto loro ingegno in malizia,
 <lb n="10" />per che convenne che lle cittadi sine guastassero e li
 <lb n="11" />uomini si comprendessero di quella ruggine.</p>
-				<milestone unit="chapter" xml:id="part-8-milestone-3" n="III" />
+				<milestone unit="chapter" n="III" xml:id="part-8-milestone-3" />
 				<p xml:id="part-8-p-69">
 					<lb n="12" />Et<lb n="13" />poi che detto avemo la cumincianza del bene, contiamo
 <lb n="14" />come cuminciò questo male.</p>
@@ -712,7 +712,7 @@
 <lb n="3" />manimettea e guastava la cosa onestissima e dirittissima
 <lb n="4" />con troppo gravoso danno del comune, allora
 <lb n="5" />era più degna cosa contrastare e consigliare la cosa publica.</p>
-				<milestone unit="chapter" xml:id="part-12-milestone-4" n="IV" />
+				<milestone unit="chapter" n="IV" xml:id="part-12-milestone-4" />
 				<p xml:id="part-12-p-78">
 					<lb n="6" />Della qual cosa non fugìo il nostro Catone<lb n="7" />né Lelius né, al ver dire, il loro discepolo Affricano,
 <lb n="8" />né i Gracchi nepoti d' Affricano, ne' quali uomini
@@ -922,7 +922,7 @@
 <lb n="17" />fatto in questo modo:</p>
 			</div>
 			<div n="17" xml:id="part-16" type="part" data-level="1">
-				<milestone unit="chapter" xml:id="part-16-milestone-5" n="V" />
+				<milestone unit="chapter" n="V" xml:id="part-16-milestone-5" />
 				<p xml:id="part-16-p-101">
 					<lb n="18" />Tullio àe finito il prolago, e comincia a dire di eloquenzia.<lb n="19" />Una ragione è delle cittadi la quale richiede
 <lb n="20" />et è di molte cose e di grandi, intra lle quali è una
@@ -1446,7 +1446,7 @@
 <lb n="11" />Et sì come porta la nostra oppinione, l' arte del
 <lb n="12" />parliere e la sua scienzia è di questa materia partita
 <lb n="13" />in tre.</p>
-				<milestone unit="chapter" xml:id="part-22-milestone-6" n="VI" />
+				<milestone unit="chapter" n="VI" xml:id="part-22-milestone-6" />
 				<p xml:id="part-22-p-162">
 					<lb n="14" />Ché certo non pare che Ermagoras<lb n="15" />attenda quello che dice né attenda ciò che promette,
 <lb n="16" />acciò che dovide la materia di questa arte in causa
@@ -1897,7 +1897,7 @@
 <lb n="13" />ne riceveranno perpetua laude.</p>
 			</div>
 			<div n="34" xml:id="part-33" type="part" data-level="1">
-				<milestone unit="chapter" xml:id="part-33-milestone-7" n="VIII" />
+				<milestone unit="chapter" n="VIII" xml:id="part-33-milestone-7" />
 				<p xml:id="part-33-p-225">
 					<lb n="14" />Della constituzione e delle quattro sue parti.<lb n="15" />Ogne cosa la quale àe alcuna controversia
 <lb n="16" />in diceria o in questione contiene in sé questione
@@ -2306,7 +2306,7 @@
 <lb n="3" />di quella del genere, in questo modo:</p>
 			</div>
 			<div n="42" xml:id="part-41" type="part" data-level="1">
-				<milestone unit="chapter" xml:id="part-41-milestone-8" n="IX" />
+				<milestone unit="chapter" n="IX" xml:id="part-41-milestone-8" />
 				<p xml:id="part-41-p-284">
 					<lb n="4" />Del genere.<lb n="5" />Controversia del genere è quando il
 <lb n="6" />fatto è conceduto e sono certi del nome d' esso fatto,
@@ -2386,7 +2386,7 @@
 					<lb n="1" />ch' elli fossero parte della constituzione del genere.</p>
 			</div>
 			<div n="45" xml:id="part-44" type="part" data-level="1">
-				<milestone unit="chapter" xml:id="part-44-milestone-9" n="X" />
+				<milestone unit="chapter" n="X" xml:id="part-44-milestone-9" />
 				<p xml:id="part-44-p-293">
 					<lb n="2" />Et s' elle non possono essere tenute diritte<lb n="3" />parti della causa del genere, molto meno fien tenute
 <lb n="4" />parti della diritta parte della causa; e parte della
@@ -2456,7 +2456,7 @@
 <lb n="16" />sentenzia di Tullio in questo modo:</p>
 			</div>
 			<div n="48" xml:id="part-47" type="part" data-level="1">
-				<milestone unit="chapter" xml:id="part-47-milestone-10" n="XI" />
+				<milestone unit="chapter" n="XI" xml:id="part-47-milestone-10" />
 				<p xml:id="part-47-p-298">
 					<lb n="17" />Le parti della constituzione generale.<lb n="18" />Questa constituzione del genere pare a
 <lb n="19" />noi ch' abbia due parti: Iudiciale e negoziale.</p>
@@ -2853,7 +2853,7 @@
 			<div n="61" xml:id="part-60" type="part" data-level="1">
 				<p xml:id="part-60-p-347">
 					<lb n="6" />Tullio dice che davanti dicerà<lb n="7" />exempli in ciascuna maniera di constituzioni.</p>
-				<milestone unit="chapter" xml:id="part-60-milestone-11" n="XII" />
+				<milestone unit="chapter" n="XII" xml:id="part-60-milestone-11" />
 				<p xml:id="part-60-p-348">
 					<lb n="8" />Già avemo disposte le constituzioni e<lb n="9" />le loro parti; ma li axempli di ciascuna maniera parrà
 <lb n="10" />che noi possiamo meglio divisare quando noi daremo
@@ -2969,7 +2969,7 @@
 				<p xml:id="part-66-p-361">
 					<lb n="5" />Della contraversia che nasce di cose scritte.<lb n="6" />Contraversia inn iscritta è quella che nasce d' alcuna
 <lb n="7" />qualitade di scrittura.</p>
-				<milestone unit="chapter" xml:id="part-66-milestone-12" n="XIII" />
+				<milestone unit="chapter" n="XIII" xml:id="part-66-milestone-12" />
 				<p xml:id="part-66-p-362">
 					<lb n="8" />Et certo le maniere<lb n="9" />di questa che sono partite delle constituzioni
 <lb n="10" />sono cinque: Che talvolta pare che lle parole medesimo
@@ -3192,7 +3192,7 @@
 <lb n="6" />padre». Dice il savio: «Sanza te figliuolo convenia
 <lb n="7" />ch' essa madre fosse uccisa; perciò che 'l suo fatto si
 <lb n="8" />potea bene punire sanza tuo perverso adoperamento».</p>
-				<milestone unit="chapter" xml:id="part-71-milestone-13" n="XIV" />
+				<milestone unit="chapter" n="XIV" xml:id="part-71-milestone-13" />
 				<p xml:id="part-71-p-383">
 					<lb n="9" />Di questo mostramento della ragione nasce<lb n="10" />quella somma controversia la quale noi appelliamo
 <lb n="11" />giudicamento, la quale è cotale: se fosse diritta cosa
@@ -3758,7 +3758,7 @@
 <lb n="3" />dire di poi.</p>
 			</div>
 			<div n="78" xml:id="part-77" type="part" data-level="1">
-				<milestone unit="chapter" xml:id="part-77-milestone-14" n="XV" />
+				<milestone unit="chapter" n="XV" xml:id="part-77-milestone-14" />
 				<p xml:id="part-77-p-436">
 					<lb n="4" />Dell' exordio.<lb n="5" />Exordio è un detto el quale acquista
 <lb n="6" />convenevolemente l' animo dell' uditore all' altre parole
@@ -4087,7 +4087,7 @@
 <lb n="19" />apropiate a benivolenza.</p>
 			</div>
 			<div n="92" xml:id="part-91" type="part" data-level="1">
-				<milestone unit="chapter" xml:id="part-91-milestone-15" n="XVI" />
+				<milestone unit="chapter" n="XVI" xml:id="part-91-milestone-15" />
 				<pb n="173" />
 				<p xml:id="part-91-p-478">
 					<lb n="1" />Della causa obscura.<lb n="2" />Nella causa la quale è oscura conviene
@@ -4528,7 +4528,7 @@
 <lb n="8" />in questo modo:</p>
 			</div>
 			<div n="104" xml:id="part-103" type="part" data-level="1">
-				<milestone unit="chapter" xml:id="part-103-milestone-16" n="XVII" />
+				<milestone unit="chapter" n="XVII" xml:id="part-103-milestone-16" />
 				<p xml:id="part-103-p-531">
 					<lb n="9" />Lo 'nsegnamento della Insinuazione.<lb n="10" />Oramai pare che sia a dire come
 <lb n="11" />si conviene trattare le insinuazioni. Insinuatio è da
