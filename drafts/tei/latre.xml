@@ -36,11 +36,11 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="32784-Latn-x-old-italian">Old Italian</language>
+				<language ident="ita-Latn">Old Italian</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
-	<text xml:lang="32784-Latn-x-old-italian">
+	<text xml:lang="ita-Latn">
 		<front xml:id="front-1">
 			<p xml:id="front-1-p-1">
 				<pb n="3" />
