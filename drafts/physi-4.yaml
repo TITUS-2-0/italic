@@ -1,6 +1,6 @@
 - body:
   - text[n=1]:
-    - pb[type=edition]: 124
+    - pb[type=edition,n=124]
     - head: De leone.
     - p:
       - '* Igitur Jacob benedicens filium suum Juda dicebat »Catulus leonis'
@@ -26,7 +26,7 @@
     - p:
       - Est et animal, quod dicitur panthera, vario quidem colore, sed
       - speciosum nimis et mansuetum valde. Physiologus dicit, quod inimicum
-      - pb[type=edition]: 125
+      - pb[type=edition,n=125]
       - sit solis draconibus. Cum [commederit] consaciaverit se diversis
       - venationibus, recipitur in speluncam suam ponensque se dormit
       - per triduum. Surgens autem a somno statim emittit rugitum peraltum
@@ -49,7 +49,7 @@
       - inimicum. ... tertia die surgens a mortuis ... statim exclamat
       - ita, ut in omnem terram audiretur vox ...
   - text[n=3]:
-    - pb[type=edition]: 126
+    - pb[type=edition,n=126]
     - head: Monoceros.
     - p:
       - Est aliud animal, quod graece dicitur monoceros, latine vero unicornis.
@@ -74,7 +74,7 @@
         - corr: volutat
         - sic: volitat
       - se in luto ... veniensque insiliet in os corcodrilli, qui subito
-      - pb[type=edition]: 127
+      - pb[type=edition,n=127]
       - vivum transgluciet. Hydrus autem dilanians omnia viscera ejus, exiet
       - vivus de visceribus ejus, corcodrillo jam mortuo ... et significat
       - mortem et infernum vel unumquemque inimicum salvatoris, qui tamen
@@ -129,7 +129,7 @@
       - moribus informes, habentes speciem pietatis, virtutem ejus
       - abnegantes ...
   - text[n=6]:
-    - pb[type=edition]: 128
+    - pb[type=edition,n=128]
     - head: De hiena.
     - p:
       - Est et aliud animal, quod graece
@@ -170,7 +170,7 @@
       - Item est bestia, elephans nomine ... intellectum magnum habet
       - in se, concupiscentiam vero carnis minime in se habere dicitur. Tempore
       - autem suo, cum voluerit filios procreare, vadit in orientem cum
-      - pb[type=edition]: 129
+      - pb[type=edition,n=129]
       - femina sua usque in proximum paradisi. Est autem ibidem herba
       - mandragora nomine. De cujus fructu femina prior degustet et tunc
       - masculum illuc deducet, ut persuasus manducet. Postquam vero manducaverint
@@ -206,7 +206,7 @@
       - sunt autem ibi virge viticee subtiles et molles. Incipit autem et animal
       - illud ludere cum virgulis istis et in ludendo obligat semet ipsum120   cornu,
         obligatusque ambis cornibus vociferat[que] cum rugitu, quia
-      - pb[type=edition]: 130
+      - pb[type=edition,n=130]
       - evadere non potest, gracilibus virgulis circumseptus. Et tunc quilibet
       - venatorum absconditus, audiens vocem ejus, currit et ligatum inveniens
       - occidit. ... et tu, homo, qui
@@ -248,7 +248,7 @@
       - profitentur abstinentiam, sed non perseverant usque in
       - finem ...
   - text[n=11]:
-    - pb[type=edition]: 131
+    - pb[type=edition,n=131]
     - head: De vipera.
     - p:
       - '... Phisiologus dicit de vipera sua. Quando coitum facit, masculus'
@@ -278,7 +278,7 @@
         - corr: insiliat
         - sic: insiliet
       - super eum. Et nos
-      - pb[type=edition]: 132
+      - pb[type=edition,n=132]
       - prudenter intelligamus, quando pater noster erat in paradiso nudus,
       - non prevalebat adversus eum diabolus serpens antiquus.
   - text[n=12]:
