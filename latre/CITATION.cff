@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: La Rettorica (1261)
+version: unreleased
+contributors:
+- name: Gisella Ferraresi
+  roles:
+  - digitization
+- name: Esther Rinke
+  roles:
+  - digitization
+- name: Maria Goldbach
+  roles:
+  - digitization
+- name: Jost Gippert
+  roles:
+  - TITUS version
+- name: Florian Matter
+  roles:
+  - TEI version
+message: 'Derived from: Latini, Brunetto. 1968. La Rettorica. Edited by Francesco
+  Maggini. 2th ed. Firenze: Le Monnier.'
+preferred-citation: 'TEI version of La Rettorica (1261) by Brunetto Latini (unreleased).
+  By: Gisella Ferraresi, Jost Gippert, Maria Goldbach, Florian Matter, Esther Rinke.
+  In: Carling, Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.'
