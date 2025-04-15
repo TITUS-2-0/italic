@@ -39,8 +39,8 @@ jobs:
           RESOLVER=tools/xmlresolver.jar
           JING=tools/jing.jar
 
-          git fetch origin main
-          CHANGED=$(git diff --name-only origin/main...HEAD | grep 'output.xml$' || true)
+          git fetch origin staging
+          CHANGED=$(git diff --name-only origin/staging...HEAD | grep 'output.xml$' || true)
 
           if [ -z "$CHANGED" ]; then
             echo "✅ No changed output.xml files to validate."
