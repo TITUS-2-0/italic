@@ -1,9 +1,6 @@
 name: Validate
 
 on:
-  push:
-    branches:
-      - main
   pull_request:
     branches:
       - staging
@@ -33,8 +30,7 @@ jobs:
           mkdir -p tools
           curl -L -o tools/Saxon-HE.jar https://repo1.maven.org/maven2/net/sf/saxon/Saxon-HE/11.4/Saxon-HE-11.4.jar
           curl -L -o tools/xmlresolver.jar https://repo1.maven.org/maven2/org/xmlresolver/xmlresolver/4.5.0/xmlresolver-4.5.0.jar
-          curl -L -o tools/jing.jar https://www.thaiopensource.com/download/jing.jar
-
+          curl -L -o tools/jing.jar https://repo1.maven.org/maven2/com/thaiopensource/jing/20091111/jing-20091111.jar
       - name: Validate only changed output.xml files
         run: |
           SCHEMA=titus_tei.rng
