@@ -14,6 +14,10 @@
 					<name>Jost Gippert</name>
 					<note>Frankfurt a/M, 29.4.2006</note>
 				</respStmt>
+				<respStmt>
+					<resp>TEI version</resp>
+					<name>Florian Matter</name>
+				</respStmt>
 			</titleStmt>
 			<editionStmt>
 				<edition n="1" />

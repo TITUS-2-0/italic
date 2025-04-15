@@ -2,7 +2,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>La Rettorica (1261), TITUS version</title>
+				<title>La Rettorica (1261)</title>
 				<author>Brunetto Latini</author>
 				<respStmt>
 					<resp>digitization</resp>
@@ -15,6 +15,10 @@
 					<resp>TITUS version</resp>
 					<name>Jost Gippert</name>
 					<note>Frankfurt a/M, 27.2.2010</note>
+				</respStmt>
+				<respStmt>
+					<resp>TEI version</resp>
+					<name>Florian Matter</name>
 				</respStmt>
 			</titleStmt>
 			<editionStmt>

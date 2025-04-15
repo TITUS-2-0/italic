@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: 'Physiologus: The Latin Version'
+version: unreleased
+contributors:
+- name: Thomas Klein
+  roles:
+  - digitization
+- name: Jost Gippert
+  roles:
+  - TITUS version
+- name: Florian Matter
+  roles:
+  - TEI version
+message: 'Derived from: Steinmeyer, Emil. n.d.. Die Kleineren Althochdeutschen Sprachdenkmäler.
+  Berlin: Weidmann.'
+preferred-citation: 'TEI version of Physiologus: The Latin Version (unreleased). By:
+  Jost Gippert, Thomas Klein, Florian Matter. In: Carling, Gerd & Jost Gippert (2025).
+  TITUS 2.0. Frankfurt: Goethe University.'
