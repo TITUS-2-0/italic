@@ -16,11 +16,12 @@ jobs:
       - name: Checkout Subrepo
         uses: actions/checkout@v3
 
-      - name: Clone Workbench Repository
-        env:
-          GITHUB_TOKEN: ${{ secrets.TESTING }}
-        run: |
-          git clone https://$GITHUB_TOKEN@github.com/TITUS-2-0/workbench.git datasets
+      - name: Checkout Workbench Repo
+        uses: actions/checkout@v3
+        with:
+          repository: TITUS-2-0/workbench
+          path: datasets
+          token: ${{ secrets.TESTING }}
 
       - name: Copy Schemas to Subrepo
         run: |
