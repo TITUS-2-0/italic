@@ -21,13 +21,16 @@
 					<name>Florian Matter</name>
 				</respStmt>
 			</titleStmt>
-			<editionStmt>
-				<edition n="1" />
-			</editionStmt>
 			<publicationStmt>
-				<publisher>Goethe-Universität</publisher>
+				<publisher>Goethe University</publisher>
 				<pubPlace>Frankfurt</pubPlace>
-				<date>2025</date>
+				<date when="2025-01-09">2025-01-09</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
+					<p>Preferred citation: <note type="citation">Digital version of La Rettorica (1261) by Brunetto Latini (unreleased). 2025-01-09. By: Gisella Ferraresi, Jost Gippert, Maria Goldbach, Florian Matter, Esther Rinke. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+					</p>
+				</availability>
+				<idno type="version">unreleased</idno>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl xml:id="latre">
