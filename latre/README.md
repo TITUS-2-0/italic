@@ -25,8 +25,8 @@ The TITUS 1 structural units are mapped onto TEI as follows:
 | Section | `part` | a more neutral term |
 | Paragraph | `p` |  |
 | Chapter | `milestone@chapter` | The chapters of Tullio's original are represented linearly, not hierarchically. |
-| Page | `Page` |  |
-| Line | `Line` |  |
+| Page | `pb` |  |
+| Line | `lb` |  |
 
 ### Structure Example
 
