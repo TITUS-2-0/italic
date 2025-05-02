@@ -8,7 +8,7 @@ text:
         - note:
           - foreign[lg=deu-Latn]: Substitui o sinal tironiano / por (et) e transcrevi
               et, quando assim está expresso no texto.
-        - ' p(re)cep(it) fac(er)e q(uo)d'
+        - p(re)cep(it) fac(er)e q(uo)d
         - ei fecit
       - lb[n=2]:
         - Velasc(us) Men(en)di. In p(ri)mis accepit ei LXX.a modios
@@ -58,5 +58,5 @@ text:
             - Segue-se uma rasura, onde devia estar a abreviatura de
             - foreign[lg=deu-Latn]: nihil
             - .
-        - ' q(uo)d recepissë'
+        - q(uo)d recepissë
       - lb[n=13]: hãc destructionë (et) malefactoriã q(uo)d recepi.
