@@ -8,7 +8,7 @@ text:
         - (e)
         - note[lg=por-Latn]:
           - Substituí o sinal tironiano 7 por (e), porque foi a copulativa
-          - foreign[lg=por-Latn]: e
+          - foreign[lg=und-Latn-x-glpt]: e
           - 'que o notário usou na segunda linha: «e as tres...»'
         - ' offeyro com o meu corpo'
       - lb[n=2]:
@@ -21,10 +21,10 @@ text:
         - us das Sestas como todo u outro h(er)dam(en)to que uaia
         - note[lg=por-Latn]:
           - Deve ser
-          - foreign[lg=por-Latn]: uala
+          - foreign[lg=und-Latn-x-glpt]: uala
           - '(= valha para o mosteiro...), porque no«Auto de partilhas» de 1192 há
             uma expressão equivalente: «'
-          - foreign[lg=por-Latn]: que uallam por en secula seculorum, amen
+          - foreign[lg=und-Latn-x-glpt]: que uallam por en secula seculorum, amen
           - », ou, então, «que vão para o mosteiro».
         - 
         - u moensteyro de Vayram por en s(e)c(u)la s(e)c(u)lor(um), am(en).
