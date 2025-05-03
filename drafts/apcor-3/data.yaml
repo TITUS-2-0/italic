@@ -5,9 +5,8 @@ text:
       - lb[n=1]:
         - H(ec) [est] mentio de malefactoria q(ua)m rex donn(us) Sanci(us)
         - fec(it) donno Laurëtio F(er)nandi (et)
-        - note:
-          - foreign[lg=deu-Latn]: Substitui o sinal tironiano / por (et) e transcrevi
-              et, quando assim está expresso no texto.
+        - note[lg=por-Latn]: Substitui o sinal tironiano / por (et) e transcrevi et,
+            quando assim está expresso no texto.
         - p(re)cep(it) fac(er)e q(uo)d
         - ei fecit
       - lb[n=2]:
@@ -53,10 +52,9 @@ text:
       - lb[n=12]:
         - Et sciãt o(mne)s homines q(ui) hãc sc(ri)pturã uid(er)int
         - q(uo)d ego Laurëti(us) F(er)nandi n(on) feci nec dixi
-        - note:
-          - foreign[lg=deu-Latn]:
-            - Segue-se uma rasura, onde devia estar a abreviatura de
-            - foreign[lg=deu-Latn]: nihil
-            - .
+        - note[lg=por-Latn]:
+          - Segue-se uma rasura, onde devia estar a abreviatura de
+          - foreign[lg=und-Latn-x-glpt]: nihil
+          - .
         - q(uo)d recepissë
       - lb[n=13]: hãc destructionë (et) malefactoriã q(uo)d recepi.
