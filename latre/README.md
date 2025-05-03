@@ -28,6 +28,25 @@ The TITUS 1 structural units are mapped onto TEI as follows:
 | Page | `pb` |  |
 | Line | `lb` |  |
 
+### Structural overview
+```text
+text (@xml:lang=ita-Latn)
+  front (@xml:id)
+    p (@xml:id)
+      [pb (@n)]
+      [lb (@n) (multiple)]
+  body
+    div (@data-level=1, @n, @type=part, @xml:id) (multiple)
+      p (@xml:id) (multiple)
+        [lb (@n) (multiple)]
+        [pb (@n) (multiple)]
+      p (@n, @xml:id) (multiple)
+        [lb (@n) (multiple)]
+        [pb (@n) (multiple)]
+      [milestone (@n, @unit=chapter, @xml:id) (multiple)]
+      [pb (@n) (multiple)]
+```
+
 ### Structure Example
 
 ```xml
