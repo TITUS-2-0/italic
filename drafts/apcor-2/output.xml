@@ -23,7 +23,7 @@
 		<profileDesc>
 			<langUsage>
 				<language ident="und-x-glpt">Galician–Portuguese</language>
-				<language ident="deu-Latn">German</language>
+				<language ident="por-Latn">Portuguese</language>
 				<language ident="lat-Latn">Latin</language>
 			</langUsage>
 		</profileDesc>
@@ -32,20 +32,8 @@
 		<body>
 			<div n="r." xml:id="item-1" type="item" data-level="1">
 				<p xml:id="item-1-p-1">
-					<lb n="1" />In Ch(risti) n(omi)ne, am(en). Eu Eluira Sanchiz offeyro o meu corpo aas virtudes de Sam Saluador do mo(c)n(steyro) de Vayram (e) <note xml:id="item-1-p-1-note-1">
-						<foreign xml:lang="deu-Latn">Substituí o sinal tironiano 7 por (e), porque foi a copulativa <foreign xml:lang="deu-Latn">e</foreign> que o notário usou na segunda linha: «e as tres...»</foreign>
-					</note>  offeyro com o meu corpo<lb n="2" />todo o h(er)damento que eu ey en Centegãus e as tres quartas do padroadigo dessa eygleyga (e) todo hu h(er)dam(en)to d(e) Crexe- mil assy<lb n="3" />us das Sestas como todo u outro h(er)dam(en)to que uaia <note xml:id="item-1-p-1-note-2">
-						<foreign xml:lang="deu-Latn">Deve ser <foreign xml:lang="deu-Latn">uala</foreign> (= valha para o mosteiro...), porque no«Auto de partilhas» de 1192 há uma expressão equivalente: « <foreign xml:lang="deu-Latn">que uallam por en secula seculorum, amen</foreign> », ou, então, «que vão para o mosteiro».</foreign>
-					</note>  u moensteyro de Vayram por en s(e)c(u)la s(e)c(u)lor(um), am(en). <foreign xml:lang="lat-Latn">F(a)c(t)a karta m(en)se S(ep)t(em)b(e)r E(ra)</foreign>
-					<lb n="4" />
-					<foreign xml:lang="lat-Latn">M <foreign xml:lang="lat-Latn">a</foreign> CC <foreign xml:lang="lat-Latn">a</foreign> XXX. I. <foreign xml:lang="lat-Latn">a</foreign> . M(e)n(en)d(us) Sanchiz ts., Steph(a)m</foreign>
-					<foreign xml:lang="lat-Latn">Suariz ts., Vermuíí Ordoniz ts.,<note xml:id="item-1-p-1-note-3">
-							<foreign xml:lang="deu-Latn">As duas últimas testemunhas subscreveram também o «Auto de partilhas» de 1192.</foreign>
-						</note>  Sancho Diaz ts., Gonsaluu Diaz</foreign>
-					<foreign xml:lang="lat-Latn">testes. Ego</foreign>
-					<lb n="5" />
-					<foreign xml:lang="lat-Latn">Gonsalu(us) Pet(ri) p(res)b(iter)r notauit.</foreign>
-				</p>
+					<lb n="1" />In Ch(risti) n(omi)ne, am(en). Eu Eluira Sanchiz offeyro o meu corpo aas virtudes de Sam Saluador do mo(c)n(steyro) de Vayram (e) <note xml:id="item-1-p-1-note-1" xml:lang="por-Latn">Substituí o sinal tironiano 7 por (e), porque foi a copulativa <foreign xml:lang="por-Latn">e</foreign> que o notário usou na segunda linha: «e as tres...»</note>  offeyro com o meu corpo<lb n="2" />todo o h(er)damento que eu ey en Centegãus e as tres quartas do padroadigo dessa eygleyga (e) todo hu h(er)dam(en)to d(e) Crexe- mil assy<lb n="3" />us das Sestas como todo u outro h(er)dam(en)to que uaia <note xml:id="item-1-p-1-note-2" xml:lang="por-Latn">Deve ser <foreign xml:lang="por-Latn">uala</foreign> (= valha para o mosteiro...), porque no«Auto de partilhas» de 1192 há uma expressão equivalente: « <foreign xml:lang="por-Latn">que uallam por en secula seculorum, amen</foreign> », ou, então, «que vão para o mosteiro».</note>  u moensteyro de Vayram por en s(e)c(u)la s(e)c(u)lor(um), am(en). <foreign xml:lang="lat-Latn">F(a)c(t)a karta m(en)se S(ep)t(em)b(e)r E(ra)</foreign>
+					<lb n="4" xml:lang="lat-Latn" />M <foreign xml:lang="lat-Latn">a</foreign> CC <foreign xml:lang="lat-Latn">a</foreign> XXX. I. <foreign xml:lang="lat-Latn">a</foreign> . M(e)n(en)d(us) Sanchiz ts., Steph(a)m Suariz ts., Vermuíí Ordoniz ts., <note xml:id="item-1-p-1-note-3" xml:lang="por-Latn">As duas últimas testemunhas subscreveram também o «Auto de partilhas» de 1192.</note>  Sancho Diaz ts., Gonsaluu Diaz testes. Ego<lb n="5" xml:lang="lat-Latn" />Gonsalu(us) Pet(ri) p(res)b(iter)r notauit.</p>
 			</div>
 		</body>
 	</text>
