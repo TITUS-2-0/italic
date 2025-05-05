@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>VIDA DE UMA MONJA </title>
+				<author>Unknown</author>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Goethe University</publisher>
+				<pubPlace>Frankfurt</pubPlace>
+				<date when="2025-05-01">2025-05-01</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
+					<p>Preferred citation: <note type="citation">Digital version of VIDA DE UMA MONJA  by Unknown (draft version). 2025-05-01. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+					</p>
+				</availability>
+				<idno type="version">unreleased</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Missing metadata</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="und-Latn-x-glpt" ana="primary">Galician–Portuguese</language>
+				<language ident="por-Latn" ana="meta">Portuguese</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="und-Latn-x-glpt">
+		<body>
+			<div n="73r" xml:id="item-1" type="item" data-level="1">
+				<p xml:id="item-1-p-1">
+					<lb n="1" />Aquy se comeca <note xml:id="item-1-p-1-note-1">comeca: <foreign xml:lang="por-Latn">JJN</foreign> começa.</note> a vida d'hũa <note xml:id="item-1-p-1-note-2">d'hüa: dhüa, <foreign xml:lang="por-Latn">JJN</foreign> de hüa.</note> muy sancta mõja <note xml:id="item-1-p-1-note-3">mõja: <foreign xml:lang="por-Latn">JJN</foreign> monja <foreign xml:lang="por-Latn">(comportamento sistemático em Nunes, que deixo de anotar).</foreign>
+					</note>
+				</p>
+			</div>
+			<div n="73v" xml:id="item-2" type="item" data-level="1">
+				<p xml:id="item-2-p-2">
+					<lb n="1" />Contou hũu padre santo, dizendo que era hũa<lb n="2" />virgem que aproveytara muito ë no <note xml:id="item-2-p-2-note-4">? no: <foreign xml:lang="por-Latn">JJN</foreign> em no.</note> amor<lb n="3" />de Deos, e em seu temor. E preguntey-a que quem <note xml:id="item-2-p-2-note-5">preguntey-a que quem: pgunteya q quem, <foreign xml:lang="por-Latn">JJN</foreign> preguntey-a (que) quem.</note>
+					<lb n="4" />a trouvera a tam boa conversaçom de vyda. E<lb n="5" />ella (me) disse <note xml:id="item-2-p-2-note-6">ella (me) disse: me <foreign xml:lang="por-Latn">em letra e tinta diferentes, sobre rasura ilegível.</foreign>
+					</note> ? Ô homë <note xml:id="item-2-p-2-note-7">hom?: <foreign xml:lang="por-Latn">JJN</foreign> homem <foreign xml:lang="por-Latn">(comportamento sistemático em Nunes, que deixo de anotar).</foreign>
+					</note> de Deos que tu ees <note xml:id="item-2-p-2-note-8">Deos que tu ees: <foreign xml:lang="por-Latn">ds</foreign> (...) q tuees: <foreign xml:lang="por-Latn">rasura de três letras; a primeira parece abrev. de</foreign> con-, <foreign xml:lang="por-Latn">a segunda, mais dificil de identificar, talvez um</foreign> -t-, <foreign xml:lang="por-Latn">a terceira um</foreign> -m <foreign xml:lang="por-Latn">; JJN</foreign> deos (que) dizem que tu és.</note> ë\quanto<lb n="6" />era moça avya meu padre e minha ma\dre<lb n="7" />que eram de desvayradas vidas.   Meu padre<lb n="8" />era manso e homildoso e fallava mui poucas<lb n="9" />vezes. E bem cuidavom, os que o nom conhoç\iam <note xml:id="item-2-p-2-note-9">conhoçiam: <foreign xml:lang="por-Latn">JJN</foreign> conhociam (comportamento sistemático em Nunes, que deixo de anotar).</note>
+					<lb n="10" />que era mudo tam pouca era a ssa fala e<lb n="11" />elle fraco e doente, ë tal guysa, que poucas vezes<lb n="12" />sse podya erger do leyto e quando se alçar p\odia,<lb n="13" />hya pera ssa terra e pera sas vinhas. E alá <note xml:id="item-2-p-2-note-10">E alá: Eeala, <foreign xml:lang="por-Latn">JJN</foreign> E alá.</note>
+					<lb n="14" />poinha todos seus dias, ë synplinzidade.  E<lb n="15" />minha madre era mui coriosa sem maneira.<lb n="16" />E era de muita fala, cõ quantos  hyã e viinham,<lb n="17" />em tal guisa que ssemelhava o sseu <note xml:id="item-2-p-2-note-11">sseu: <foreign xml:lang="por-Latn">JJN</foreign> seu.</note> corpo todo<lb n="18" />de lyngoa. E ella cometya muitas vezes ba\ralha<lb n="19" />cõ todas sas vizinhas e bevia do vinho<lb n="20" />mais que lhe conpria <note xml:id="item-2-p-2-note-12">conpria: <foreign xml:lang="por-Latn">JJN</foreign> compria.</note> E era mui luxuriosa. E m\uito<lb n="21" />estragadeyra do que tiinha. E nunca foy<lb n="22" />doente de pee nem de maão <note xml:id="item-2-p-2-note-13">maão: <foreign xml:lang="por-Latn">JJN</foreign> mãao (comportamento sistemático em Nunes, que deixo de anotar).</note> 13; mais ë toda ssa<lb n="23" />vyda foy ssaao <note xml:id="item-2-p-2-note-14">ssaao: <foreign xml:lang="por-Latn">JJN</foreign> sãao.</note> seu corpo. E morreo meu padre.<lb n="24" />E tamanhas forã as chuvas ë aquel tenpo<lb n="25" />que morreo e tamanha foy a tenpestade, que seus<lb n="26" />vizinhos, per tres dias, o nom poderõ soterar <note xml:id="item-2-p-2-note-15">soterar: <foreign xml:lang="por-Latn">JJN</foreign> soterrar.</note>
+					<lb n="27" />atee que lhe o corpo apodreçeo e delle lhe comerõ<lb n="28" />os caaes <note xml:id="item-2-p-2-note-16">caaes: <foreign xml:lang="por-Latn">JJN</foreign> cãaes.</note> e diziam os vizinhos que ë como lhe<lb n="29" />na vida fora mal, que assy lhe ffora mal em na</p>
+			</div>
+			<div n="74r" xml:id="item-3" type="item" data-level="1">
+				<p xml:id="item-3-p-3">
+					<lb n="1" />morte.   E despois desto, morreu minha madre<lb n="2" />a poucos dias, em seu huso de ssa vida ë como<lb n="3" />soia de viver. E ao tenpo de ssa morte, ffez tam<lb n="4" />boo tenpo que todos seus amigos a ssoterrarom<lb n="5" />mui honrradamente. E eu que depois fiquey da mor\te<lb n="6" />delles, começey de cuidar quaes  das vidas filh\arya,<lb n="7" />sse a de minha madre ou a de meu padre.<lb n="8" />E cõsiirey de filhar a de minha madre, que viveo ë<lb n="9" />sua vida avondada e aa sua morte muito honrra\da.<lb n="10" />E eu ? esto estando çarrou-se a nocte. E veo a mi <note xml:id="item-3-p-3-note-17">mi: <foreign xml:lang="por-Latn">JJN</foreign> mym.</note>
+					<lb n="11" />hũũ homë mui grande  de corpo e espantoso de sua<lb n="12" />cara e de sua fala e disse-me: - Que estás coidando? O que<lb n="13" />tu estás coidando? Vem ë pos <note xml:id="item-3-p-3-note-18">? pos: <foreign xml:lang="por-Latn">JJN</foreign> em pós.</note> mÿ e sigui-me e eu<lb n="14" />te mostrarey teu padre e tua madre. E o que cada hũu<lb n="15" />ha polla vida que fez. 8. E foy-me cõ elle e levou-me<lb n="16" />a hũũ canpo <note xml:id="item-3-p-3-note-19">canpo: <foreign xml:lang="por-Latn">JJN</foreign> campo.</note> ë no <note xml:id="item-3-p-3-note-20">? no: <foreign xml:lang="por-Latn">JJN</foreign> em no.</note> qual avia mui desvairadas<lb n="17" />arvores de desvairados fructos. E ervas muy<lb n="18" />verdes de desvairadas frores e aves que cantavã<lb n="19" />ë desvairadas maneyras. E muy fremosas, qual<lb n="20" />lyngua d'homë nom poderia dizer.   E ally vy eu<lb n="21" />estar meu padre que veo a mÿ. E abraçou-me. E eu<lb n="22" />lhe rrogava <note xml:id="item-3-p-3-note-21">rrogava: Rogava, <foreign xml:lang="por-Latn">JJN</foreign> rogava.</note> que me leixasse ficar cõsigo. E el me disse:<lb n="23" />- Nõ he ainda tenpo, mais se o meu caminho seg\uires,<lb n="24" />çedo verras <note xml:id="item-3-p-3-note-22">verras: <foreign xml:lang="por-Latn">JJN</foreign> verrás.</note> aqui. E aquel que me ally trouvera <note xml:id="item-3-p-3-note-23">trouvera:tuuera: o <foreign xml:lang="por-Latn">entrel. sobre</foreign> tu.</note>
+					<lb n="25" />me disse: - Anda e hir-t'ey mostrar tua madre, e fui a\diante<lb n="26" />a hũũ vale, e vy hũa cova mui negra e mui<lb n="27" />espantosa e tamanho era hy o bater dos dentes e<lb n="28" />o choro e os braados que se nom podiam hi ouvir<lb n="29" />huũs cõ os outros.   E vi minha madre jazer a\tolada<lb n="30" />ë fogo, atee os olhos, e desvairados verm\ëës<lb n="31" />que a</p>
+			</div>
+			<div n="74v" xml:id="item-4" type="item" data-level="1">
+				<p xml:id="item-4-p-4">
+					<lb n="1" />comiam de cada parte.  E ella começou<lb n="2" />a braadar e dizer: -Filha minha nenbra-te da cria\çom<lb n="3" />que fiz em ty e a door que ouve contigo e da\me<lb n="4" />a maão e tira-me deste logar, ca atormenta\da<lb n="5" />soo <note xml:id="item-4-p-4-note-24">soo: <foreign xml:lang="por-Latn">JJN</foreign> sõo.</note> assy como vees. E eu chorava do que via.<lb n="6" />E em esto estando espertey-me e achey-me em<lb n="7" />meu logar e cuidey em mÿ pera escolher a vi\da<lb n="8" />de meu padre. E per este emxenplo pode\mos<lb n="9" />ëtender que aquelles  que em este mundo sofrë<lb n="10" />pena e tribulaçom com paciençia, que melhor<lb n="11" />baratam que aquelles que se lançam ao prazer da carne, e a vyver em luxuria...</p>
+			</div>
+		</body>
+	</text>
+</TEI>
