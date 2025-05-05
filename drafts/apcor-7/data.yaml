@@ -3,6 +3,7 @@ text:
   - item[n=73r]:
     - p:
       - lb[n=1]:
+        - milestone[unit=part,n=1,type=inline]
         - Aquy se comeca
         - note:
           - 'comeca:'
@@ -22,7 +23,9 @@ text:
               anotar).
   - item[n=73v]:
     - p:
-      - lb[n=1]: Contou hũu padre santo, dizendo que era hũa
+      - lb[n=1]:
+        - milestone[unit=part,n=2,type=inline]
+        - Contou hũu padre santo, dizendo que era hũa
       - lb[n=2]:
         - virgem que aproveytara
         - muito ë no
@@ -73,7 +76,10 @@ text:
         - era moça avya meu padre e minha ma-
       - lb[n=7,break=no]:
         - dre
-        - que eram de desvayradas vidas.   Meu padre
+        - que eram
+        - de desvayradas vidas.
+        - milestone[unit=part,n=3,type=inline]
+        - Meu padre
       - lb[n=8]: era manso e homildoso e fallava mui poucas
       - lb[n=9]:
         - vezes. E bem cuidavom, os que o nom conhoç-
@@ -95,7 +101,10 @@ text:
           - 'E alá: Eeala,'
           - foreign[lg=por-Latn]: JJN
           - E alá.
-      - lb[n=14]: poinha todos seus dias, ë synplinzidade.  E
+      - lb[n=14]:
+        - poinha todos seus dias, ë synplinzidade.
+        - milestone[unit=part,n=4,type=inline]
+        - E
       - lb[n=15]: minha madre era mui coriosa sem maneira.
       - lb[n=16]: E era de muita fala, cõ quantos  hyã e viinham,
       - lb[n=17]:
@@ -126,7 +135,7 @@ text:
           - 'maão:'
           - foreign[lg=por-Latn]: JJN
           - mãao (comportamento sistemático em Nunes, que deixo de anotar).
-        - 13; mais ë toda ssa
+        - mais ë toda ssa
       - lb[n=23]:
         - vyda foy ssaao
         - note:
@@ -135,6 +144,7 @@ text:
           - sãao.
         - seu
         - corpo.
+        - milestone[unit=part,n=5,type=inline]
         - E morreo meu padre.
       - lb[n=24]: E tamanhas forã as chuvas ë aquel tenpo
       - lb[n=25]: que morreo e tamanha foy a tenpestade, que seus
@@ -159,7 +169,10 @@ text:
       - lb[n=29]: na vida fora mal, que assy lhe ffora mal em na
   - item[n=74r]:
     - p:
-      - lb[n=1]: morte.   E despois desto, morreu minha madre
+      - lb[n=1]:
+        - morte.
+        - milestone[unit=part,n=6,type=inline]
+        - E despois desto, morreu minha madre
       - lb[n=2]: a poucos dias, em seu huso de ssa vida ë como
       - lb[n=3]: soia de viver. E ao tenpo de ssa morte, ffez tam
       - lb[n=4]: boo tenpo que todos seus amigos a ssoterrarom
@@ -174,6 +187,7 @@ text:
       - lb[n=9]: sua vida avondada e aa sua morte muito honrra-
       - lb[n=10,break=no]:
         - da.
+        - milestone[unit=part,n=7,type=inline]
         - E eu
         - '? esto estando çarrou-se a nocte. E veo a mi'
         - note:
@@ -190,7 +204,11 @@ text:
           - em pós.
         - mÿ e sigui-me e eu
       - lb[n=14]: te mostrarey teu padre e tua madre. E o que cada hũu
-      - lb[n=15]: ha polla vida que fez. 8. E foy-me cõ elle e levou-me
+      - lb[n=15]:
+        - ha polla vida que fez.
+        - milestone[unit=part,n=8,type=inline]
+        - E foy-me cõ elle e
+        - levou-me
       - lb[n=16]:
         - a hũũ canpo
         - note:
@@ -206,7 +224,11 @@ text:
       - lb[n=17]: arvores de desvairados fructos. E ervas muy
       - lb[n=18]: verdes de desvairadas frores e aves que cantavã
       - lb[n=19]: ë desvairadas maneyras. E muy fremosas, qual
-      - lb[n=20]: lyngua d'homë nom poderia dizer.   E ally vy eu
+      - lb[n=20]:
+        - lyngua d'homë nom
+        - poderia dizer.
+        - milestone[unit=part,n=9,type=inline]
+        - E ally vy eu
       - lb[n=21]: estar meu padre que veo a mÿ. E abraçou-me. E eu
       - lb[n=22]:
         - lhe rrogava
@@ -238,7 +260,11 @@ text:
         - a hũũ vale, e vy hũa cova mui negra e mui
       - lb[n=27]: espantosa e tamanho era hy o bater dos dentes e
       - lb[n=28]: o choro e os braados que se nom podiam hi ouvir
-      - lb[n=29]: huũs cõ os outros.   E vi minha madre jazer a-
+      - lb[n=29]:
+        - huũs cõ os
+        - outros.
+        - milestone[unit=part,n=10,type=inline]
+        - E vi minha madre jazer a-
       - lb[n=30,break=no]:
         - tolada
         - ë fogo, atee os olhos, e desvairados verm-
@@ -264,7 +290,9 @@ text:
           - sõo.
         - assy como vees. E eu chorava do
         - que via.
-      - lb[n=6]: E em esto estando espertey-me e achey-me em
+      - lb[n=6]:
+        - milestone[unit=part,n=11,type=inline]
+        - E em esto estando espertey-me e achey-me em
       - lb[n=7]: meu logar e cuidey em mÿ pera escolher a vi-
       - lb[n=8,break=no]:
         - da
