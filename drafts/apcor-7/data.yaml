@@ -1,291 +1,282 @@
 text:
 - body:
-  - item[n=73r]:
-    - p:
-      - lb[n=1]:
-        - milestone[unit=part,n=1,type=inline]
-        - Aquy se comeca
-        - note:
-          - 'comeca:'
-          - foreign[lg=por-Latn]: JJN
-          - começa.
-        - a vida d'hũa
-        - note:
-          - "d'hüa: dhüa,"
-          - foreign[lg=por-Latn]: JJN
-          - de hüa.
-        - muy sancta mõja
-        - note:
-          - 'mõja:'
-          - foreign[lg=por-Latn]: JJN
-          - monja
-          - foreign[lg=por-Latn]: (comportamento sistemático em Nunes, que deixo de
-              anotar).
-  - item[n=73v]:
-    - p:
-      - lb[n=1]:
-        - milestone[unit=part,n=2,type=inline]
-        - Contou hũu padre santo, dizendo que era hũa
-      - lb[n=2]:
-        - virgem que aproveytara muito ë no
-        - note:
-          - '? no:'
-          - foreign[lg=por-Latn]: JJN
-          - em no.
-        - amor
-      - lb[n=3]:
-        - de Deos, e em seu temor. E preguntey-a  que quem
-        - note:
-          - 'preguntey-a que quem: pgunteya q quem,'
-          - foreign[lg=por-Latn]: JJN
-          - preguntey-a (que) quem.
-      - lb[n=4]: a trouvera a tam boa conversaçom de vyda. E
-      - lb[n=5]:
-        - ella (me) disse
-        - note:
-          - 'ella (me) disse: me'
-          - foreign[lg=por-Latn]: em letra e tinta diferentes, sobre rasura ilegível.
-        - '? Ô homë'
-        - note:
-          - 'hom?:'
-          - foreign[lg=por-Latn]: JJN
-          - homem
-          - foreign[lg=por-Latn]: (comportamento sistemático em Nunes, que deixo de
-              anotar).
-        - de
-        - Deos que tu ees
-        - note:
-          - 'Deos que tu ees:'
-          - foreign[lg=por-Latn]: ds
-          - '(...) q tuees:'
-          - foreign[lg=por-Latn]: rasura de três letras; a primeira parece abrev.
-              de
-          - con-,
-          - foreign[lg=por-Latn]: a segunda, mais dificil de identificar, talvez um
-          - -t-,
-          - foreign[lg=por-Latn]: a terceira um
-          - -m
-          - foreign[lg=por-Latn]: ; JJN
-          - deos (que) dizem que tu és.
-        - ë-
-      - lb[n=6,break=no]:
-        - quanto
-        - era moça avya meu padre e minha ma-
-      - lb[n=7,break=no]:
-        - dre
-        - que eram de desvayradas vidas.
-        - milestone[unit=part,n=3,type=inline]
-        - Meu padre
-      - lb[n=8]: era manso e homildoso e fallava mui poucas
-      - lb[n=9]:
-        - vezes. E bem cuidavom, os que o nom conhoç-
-        - note:
-          - iam
-          - 'conhoçiam:'
-          - foreign[lg=por-Latn]: JJN
-          - conhociam (comportamento sistemático em Nunes, que deixo de anotar).
-      - lb[n=10]: que era mudo tam pouca era a ssa fala e
-      - lb[n=11]: elle fraco e doente, ë tal guysa, que poucas vezes
-      - lb[n=12]: sse podya erger do leyto e quando se alçar p-
-      - lb[n=13,break=no]:
-        - odia,
-        - hya pera ssa terra e pera  sas vinhas. E alá
-        - note:
-          - 'E alá: Eeala,'
-          - foreign[lg=por-Latn]: JJN
-          - E alá.
-      - lb[n=14]:
-        - poinha todos seus dias, ë synplinzidade.
-        - milestone[unit=part,n=4,type=inline]
-        - E
-      - lb[n=15]: minha madre era mui coriosa sem maneira.
-      - lb[n=16]: E era de muita fala, cõ quantos  hyã e viinham,
-      - lb[n=17]:
-        - em tal guisa que ssemelhava o sseu
-        - note:
-          - 'sseu:'
-          - foreign[lg=por-Latn]: JJN
-          - seu.
-        - corpo todo
-      - lb[n=18]: de lyngoa. E ella cometya muitas vezes ba-
-      - lb[n=19,break=no]:
-        - ralha
-        - cõ todas sas vizinhas e bevia do vinho
-      - lb[n=20]:
-        - mais que lhe conpria
-        - note:
-          - 'conpria:'
-          - foreign[lg=por-Latn]: JJN
-          - compria.
-        - E era mui luxuriosa. E m-
-      - lb[n=21,break=no]:
-        - uito
-        - estragadeyra do que tiinha. E nunca foy
-      - lb[n=22]:
-        - doente de pee nem de maão
-        - note:
-          - 'maão:'
-          - foreign[lg=por-Latn]: JJN
-          - mãao (comportamento sistemático em Nunes, que deixo de anotar).
-        - mais ë toda ssa
-      - lb[n=23]:
-        - vyda foy ssaao
-        - note:
-          - 'ssaao:'
-          - foreign[lg=por-Latn]: JJN
-          - sãao.
-        - seu
-        - corpo.
-        - milestone[unit=part,n=5,type=inline]
-        - E morreo meu padre.
-      - lb[n=24]: E tamanhas forã as chuvas ë aquel tenpo
-      - lb[n=25]: que morreo e tamanha foy a tenpestade, que seus
-      - lb[n=26]:
-        - vizinhos, per  tres dias, o nom poderõ soterar
-        - note:
-          - 'soterar:'
-          - foreign[lg=por-Latn]: JJN
-          - soterrar.
-      - lb[n=27]: atee que lhe o corpo apodreçeo e delle lhe comerõ
-      - lb[n=28]:
-        - os caaes
-        - note:
-          - 'caaes:'
-          - foreign[lg=por-Latn]: JJN
-          - cãaes.
-        - e diziam os vizinhos que ë como lhe
-      - lb[n=29]: na vida fora mal, que assy lhe ffora mal em na
-  - item[n=74r]:
-    - p:
-      - lb[n=1]:
-        - morte.
-        - milestone[unit=part,n=6,type=inline]
-        - E despois desto, morreu minha madre
-      - lb[n=2]: a poucos dias, em seu huso de ssa vida ë como
-      - lb[n=3]: soia de viver. E ao tenpo de ssa morte, ffez tam
-      - lb[n=4]: boo tenpo que todos seus amigos a ssoterrarom
-      - lb[n=5]: mui honrradamente. E eu que depois fiquey da mor-
-      - lb[n=6,break=no]:
-        - te
-        - delles, começey de cuidar quaes  das vidas filh-
-      - lb[n=7,break=no]:
-        - arya,
-        - sse a de minha madre ou a de meu padre.
-      - lb[n=8]: E cõsiirey de filhar a de minha madre, que viveo ë
-      - lb[n=9]: sua vida avondada e aa sua morte muito honrra-
-      - lb[n=10,break=no]:
-        - da.
-        - milestone[unit=part,n=7,type=inline]
-        - E eu
-        - '? esto estando çarrou-se a nocte. E veo a mi'
-        - note:
-          - 'mi:'
-          - foreign[lg=por-Latn]: JJN
-          - mym.
-      - lb[n=11]: hũũ homë mui grande  de corpo e espantoso de sua
-      - lb[n=12]: 'cara e de sua fala e disse-me: - Que estás coidando? O que'
-      - lb[n=13]:
-        - tu estás coidando? Vem ë pos
-        - note:
-          - '? pos:'
-          - foreign[lg=por-Latn]: JJN
-          - em pós.
-        - mÿ e sigui-me e eu
-      - lb[n=14]: te mostrarey teu padre e tua madre. E o que cada hũu
-      - lb[n=15]:
-        - ha polla vida que fez.
-        - milestone[unit=part,n=8,type=inline]
-        - E foy-me cõ elle e
-        - levou-me
-      - lb[n=16]:
-        - a hũũ canpo
-        - note:
-          - 'canpo:'
-          - foreign[lg=por-Latn]: JJN
-          - campo.
-        - ë no
-        - note:
-          - '? no:'
-          - foreign[lg=por-Latn]: JJN
-          - em no.
-        - qual avia mui desvairadas
-      - lb[n=17]: arvores de desvairados fructos. E ervas muy
-      - lb[n=18]: verdes de desvairadas frores e aves que cantavã
-      - lb[n=19]: ë desvairadas maneyras. E muy fremosas, qual
-      - lb[n=20]:
-        - lyngua d'homë nom poderia dizer.
-        - milestone[unit=part,n=9,type=inline]
-        - E ally vy eu
-      - lb[n=21]: estar meu padre que veo a mÿ. E abraçou-me. E eu
-      - lb[n=22]:
-        - lhe rrogava
-        - note:
-          - 'rrogava: Rogava,'
-          - foreign[lg=por-Latn]: JJN
-          - rogava.
-        - 'que me leixasse ficar cõsigo. E el me disse:'
-      - lb[n=23]: '- Nõ he ainda tenpo, mais se o meu caminho seg-'
-      - lb[n=24,break=no]:
-        - uires,
-        - çedo verras
-        - note:
-          - 'verras:'
-          - foreign[lg=por-Latn]: JJN
-          - verrás.
-        - aqui.
-        - E aquel que me
-        - ally
-        - trouvera
-        - note:
-          - 'trouvera:tuuera:'
-          - o
-          - foreign[lg=por-Latn]: entrel. sobre
-          - tu.
-      - lb[n=25]: "me disse: - Anda e hir-t'ey mostrar tua madre, e fui a-"
-      - lb[n=26,break=no]:
-        - diante
-        - a hũũ vale, e vy hũa cova mui negra e mui
-      - lb[n=27]: espantosa e tamanho era hy o bater dos dentes e
-      - lb[n=28]: o choro e os braados que se nom podiam hi ouvir
-      - lb[n=29]:
-        - huũs cõ os outros.
-        - milestone[unit=part,n=10,type=inline]
-        - E vi minha madre jazer a-
-      - lb[n=30,break=no]:
-        - tolada
-        - ë fogo, atee os olhos, e desvairados verm-
-      - lb[n=31,break=no]:
-        - ëës
-        - que a
-  - item[n=74v]:
-    - p:
-      - lb[n=1]: comiam de cada parte.  E ella começou
-      - lb[n=2]: 'a braadar e dizer: -Filha minha nenbra-te da cria-'
-      - lb[n=3,break=no]:
-        - çom
-        - que fiz em ty e a door que ouve contigo e da-
-      - lb[n=4,break=no]:
-        - me
-        - a maão e tira-me deste logar, ca atormenta-
-      - lb[n=5,break=no]:
-        - da
-        - soo
-        - note:
-          - 'soo:'
-          - foreign[lg=por-Latn]: JJN
-          - sõo.
-        - assy como vees. E eu chorava do
-        - que via.
-      - lb[n=6]:
-        - milestone[unit=part,n=11,type=inline]
-        - E em esto estando espertey-me e achey-me em
-      - lb[n=7]: meu logar e cuidey em mÿ pera escolher a vi-
-      - lb[n=8,break=no]:
-        - da
-        - de meu padre. E per este emxenplo pode-
-      - lb[n=9,break=no]:
-        - mos
-        - ëtender que aquelles  que em este mundo sofrë
-      - lb[n=10]: pena e tribulaçom com paciençia, que melhor
-      - lb[n=11]: baratam que aquelles que se lançam ao prazer da carne, e a vyver
-          em luxuria...
+  - pb[n=73r]
+  - p:
+    - lb[n=1]:
+      - milestone[unit=part,n=1,type=inline]
+    - Aquy se comeca
+    - note:
+      - 'comeca:'
+      - foreign[lg=por-Latn]: JJN
+      - começa.
+    - a vida d'hũa
+    - note:
+      - "d'hüa: dhüa,"
+      - foreign[lg=por-Latn]: JJN
+      - de hüa.
+    - muy sancta mõja
+    - note:
+      - 'mõja:'
+      - foreign[lg=por-Latn]: JJN
+      - monja
+      - foreign[lg=por-Latn]: (comportamento sistemático em Nunes, que deixo de anotar).
+    - pb[n=73v]
+    - lb[n=1]:
+      - milestone[unit=part,n=2,type=inline]
+    - Contou hũu padre santo, dizendo que era hũa
+    - lb[n=2]
+    - virgem que aproveytara muito ë no
+    - note:
+      - '? no:'
+      - foreign[lg=por-Latn]: JJN
+      - em no.
+    - amor
+    - lb[n=3]: de Deos, e em seu temor. E preguntey-a que quem
+    - note:
+      - 'preguntey-a que quem: pgunteya q quem,'
+      - foreign[lg=por-Latn]: JJN
+      - preguntey-a (que) quem.
+    - lb[n=4]
+    - a trouvera a tam boa conversaçom de vyda. E
+    - lb[n=5]
+    - ella (me) disse
+    - note:
+      - 'ella (me) disse: me'
+      - foreign[lg=por-Latn]: em letra e tinta diferentes, sobre rasura ilegível.
+    - '? Ô homë'
+    - note:
+      - 'hom?:'
+      - foreign[lg=por-Latn]: JJN
+      - homem
+      - foreign[lg=por-Latn]: (comportamento sistemático em Nunes, que deixo de anotar).
+    - de Deos que tu ees
+    - note:
+      - 'Deos que tu ees:'
+      - foreign[lg=por-Latn]: ds
+      - '(...) q tuees:'
+      - foreign[lg=por-Latn]: rasura de três letras; a primeira parece abrev. de
+      - con-,
+      - foreign[lg=por-Latn]: a segunda, mais dificil de identificar, talvez um
+      - -t-,
+      - foreign[lg=por-Latn]: a terceira um
+      - -m
+      - foreign[lg=por-Latn]: ; JJN
+      - deos (que) dizem que tu és.
+    - ë-
+    - lb[n=6,break=no]
+    - quanto era moça avya meu padre e minha ma-
+    - lb[n=7,break=no]
+    - dre que eram de desvayradas vidas.
+    - milestone[unit=part,n=3,type=inline]
+    - Meu padre
+    - lb[n=8]
+    - era manso e homildoso e fallava mui poucas
+    - lb[n=9]
+    - vezes. E bem cuidavom, os que o nom conhoç-
+    - note:
+      - 'iam conhoçiam:'
+      - foreign[lg=por-Latn]: JJN
+      - 'conhociam '
+      - foreign[lg=por-Latn]: (comportamento sistemático em Nunes, que deixo de anotar).
+    - lb[n=10]
+    - que era mudo tam pouca era a ssa fala e
+    - lb[n=11]
+    - elle fraco e doente, ë tal guysa, que poucas vezes
+    - lb[n=12]
+    - sse podya erger do leyto e quando se alçar p-
+    - lb[n=13,break=no]:
+      - odia, hya pera ssa terra e pera  sas
+    - vinhas. E alá
+    - note:
+      - 'E alá: Eeala,'
+      - foreign[lg=por-Latn]: JJN
+      - E alá.
+    - lb[n=14]
+    - poinha todos seus dias, ë synplinzidade.
+    - milestone[unit=part,n=4,type=inline]
+    - E
+    - lb[n=15]
+    - minha madre era mui coriosa sem maneira.
+    - lb[n=16]: E era de muita fala, cõ quantos hyã e viinham,
+    - lb[n=17]
+    - em tal guisa que ssemelhava o sseu
+    - note:
+      - 'sseu:'
+      - foreign[lg=por-Latn]: JJN
+      - seu.
+    - corpo todo
+    - lb[n=18]: de lyngoa. E ella cometya muitas vezes ba-
+    - lb[n=19,break=no]
+    - ralha cõ todas sas vizinhas e bevia do vinho
+    - lb[n=20]
+    - mais que lhe conpria
+    - note:
+      - 'conpria:'
+      - foreign[lg=por-Latn]: JJN
+      - compria.
+    - E era mui luxuriosa. E m-
+    - lb[n=21,break=no]:
+      - uito estragadeyra do que tiinha. E nunca foy
+    - lb[n=22]
+    - doente de pee nem de maão
+    - note:
+      - 'maão:'
+      - foreign[lg=por-Latn]: JJN
+      - 'mãao '
+      - foreign[lg=por-Latn]: (comportamento sistemático em Nunes, que deixo de anotar).
+    - mais ë toda ssa
+    - lb[n=23]
+    - vyda foy ssaao
+    - note:
+      - 'ssaao:'
+      - foreign[lg=por-Latn]: JJN
+      - sãao.
+    - seu corpo.
+    - milestone[unit=part,n=5,type=inline]
+    - E morreo meu padre.
+    - lb[n=24]
+    - E tamanhas forã as chuvas ë aquel tenpo
+    - lb[n=25]
+    - que morreo e tamanha foy a tenpestade, que seus
+    - lb[n=26]: vizinhos, per  tres dias, o nom poderõ soterar
+    - note:
+      - 'soterar:'
+      - foreign[lg=por-Latn]: JJN
+      - soterrar.
+    - lb[n=27]
+    - atee que lhe o corpo apodreçeo e delle lhe comerõ
+    - lb[n=28]
+    - os caaes
+    - note:
+      - 'caaes:'
+      - foreign[lg=por-Latn]: JJN
+      - cãaes.
+    - e diziam os vizinhos que ë como lhe
+    - lb[n=29]: na vida fora mal, que assy lhe ffora mal em na
+    - pb[n=74r]
+    - lb[n=1]:
+      - morte.
+      - milestone[unit=part,n=6,type=inline]
+    - E despois desto, morreu minha madre
+    - lb[n=2]
+    - a poucos dias, em seu huso de ssa vida ë como
+    - lb[n=3]
+    - soia de viver. E ao tenpo de ssa morte, ffez tam
+    - lb[n=4]
+    - boo tenpo que todos seus amigos a ssoterrarom
+    - lb[n=5]: mui honrradamente. E eu que depois fiquey da mor-
+    - lb[n=6,break=no]:
+      - te delles, começey de cuidar quaes  das vidas filh-
+    - lb[n=7,break=no]:
+      - arya, sse a de minha madre ou a de meu padre.
+    - lb[n=8]: E cõsiirey de filhar a de minha madre, que viveo ë
+    - lb[n=9]
+    - sua vida avondada e aa sua morte muito honrra-
+    - lb[n=10,break=no]
+    - milestone[unit=part,n=7,type=inline]
+    - da. E eu ? esto estando çarrou-se a nocte. E veo a mi
+    - note:
+      - 'mi:'
+      - foreign[lg=por-Latn]: JJN
+      - mym.
+    - lb[n=11]: hũũ homë mui grande  de corpo e espantoso de sua
+    - lb[n=12]: 'cara e de sua fala e disse-me: - Que estás coidando? O que'
+    - lb[n=13]
+    - tu estás coidando? Vem ë pos
+    - note:
+      - '? pos:'
+      - foreign[lg=por-Latn]: JJN
+      - em pós.
+    - mÿ e sigui-me e eu
+    - lb[n=14]: te mostrarey teu padre e tua madre. E o que cada hũu
+    - lb[n=15]
+    - ha polla vida que fez.
+    - milestone[unit=part,n=8,type=inline]
+    - E foy-me cõ elle e levou-me
+    - lb[n=16]
+    - a hũũ canpo
+    - note:
+      - 'canpo:'
+      - foreign[lg=por-Latn]: JJN
+      - campo.
+    - ë no
+    - note:
+      - '? no:'
+      - foreign[lg=por-Latn]: JJN
+      - em no.
+    - qual avia mui desvairadas
+    - lb[n=17]
+    - arvores de desvairados fructos. E ervas muy
+    - lb[n=18]: verdes de desvairadas frores e aves que cantavã
+    - lb[n=19]: ë desvairadas maneyras. E muy fremosas, qual
+    - lb[n=20]
+    - lyngua d'homë nom poderia dizer.
+    - milestone[unit=part,n=9,type=inline]
+    - E ally vy eu
+    - lb[n=21]
+    - estar meu padre que veo a mÿ. E abraçou-me. E eu
+    - lb[n=22]
+    - lhe rrogava
+    - note:
+      - 'rrogava: Rogava,'
+      - foreign[lg=por-Latn]: JJN
+      - rogava.
+    - 'que me leixasse ficar cõsigo. E el me disse:'
+    - lb[n=23]
+    - '- Nõ he ainda tenpo, mais se o meu caminho seg-'
+    - lb[n=24,break=no]
+    - uires, çedo verras
+    - note:
+      - 'verras:'
+      - foreign[lg=por-Latn]: JJN
+      - verrás.
+    - aqui. E aquel que me ally trouvera
+    - note:
+      - 'trouvera:tuuera:'
+      - foreign[lg=por-Latn]:
+        - o
+        - foreign[lg=und-Latn-x-glpt]: entrel. sobre
+        - tu.
+    - lb[n=25]
+    - "me disse: - Anda e hir-t'ey mostrar tua madre, e fui a-"
+    - lb[n=26,break=no]
+    - diante a hũũ vale, e vy hũa cova mui negra e mui
+    - lb[n=27]: espantosa e tamanho era hy o bater dos dentes e
+    - lb[n=28]
+    - o choro e os braados que se nom podiam hi ouvir
+    - lb[n=29]
+    - huũs cõ os outros.
+    - milestone[unit=part,n=10,type=inline]
+    - E vi minha madre jazer a-
+    - lb[n=30,break=no]
+    - tolada ë fogo, atee os olhos, e desvairados verm-
+    - lb[n=31,break=no]:
+      - ëës que a
+    - pb[n=74v]
+    - lb[n=1]: comiam de cada parte.  E ella começou
+    - lb[n=2]: 'a braadar e dizer: -Filha minha nenbra-te da cria-'
+    - lb[n=3,break=no]
+    - çom que fiz em ty e a door que ouve contigo e da-
+    - lb[n=4,break=no]
+    - me a maão e tira-me deste logar, ca atormenta-
+    - lb[n=5,break=no]
+    - da soo
+    - note:
+      - 'soo:'
+      - foreign[lg=por-Latn]: JJN
+      - sõo.
+    - assy como vees. E eu chorava do que via.
+    - lb[n=6]
+    - milestone[unit=part,n=11,type=inline]
+    - E em esto estando espertey-me e achey-me em
+    - lb[n=7]
+    - meu logar e cuidey em mÿ pera escolher a vi-
+    - lb[n=8,break=no]:
+      - da de meu padre. E per este emxenplo pode-
+    - lb[n=9,break=no]:
+      - mos ëtender que aquelles
+    - que em este mundo sofrë
+    - lb[n=10]
+    - pena e tribulaçom com paciençia, que melhor
+    - lb[n=11]: baratam que aquelles que se lançam ao prazer da carne, e a vyver em
+        luxuria...
