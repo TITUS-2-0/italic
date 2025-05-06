@@ -1,45 +1,42 @@
 text:
 - body:
-  - item[n=r.]:
-    - p:
-      - lb[n=1]:
-        - In Ch(risti) n(omi)ne, am(en). Eu Eluira Sanchiz offeyro o
-        - meu corpo aas virtudes de Sam Saluador do mo(c)n(steyro) de Vayram
-        - (e)
-        - note[lg=por-Latn]:
-          - Substituí o sinal tironiano 7 por (e), porque foi a copulativa
-          - foreign[lg=und-Latn-x-glpt]: e
-          - 'que o notário usou na segunda linha: «e as tres...»'
-        - ' offeyro com o meu corpo'
-      - lb[n=2]:
-        - todo o h(er)damento que eu ey en Centegãus e as tres quartas
-        - do padroadigo dessa eygleyga (e) todo hu h(er)dam(en)to d(e)
-        - Crexe-
-        - mil
-        - assy
-      - lb[n=3]:
-        - us das Sestas como todo u outro h(er)dam(en)to que uaia
-        - note[lg=por-Latn]:
-          - Deve ser
-          - foreign[lg=und-Latn-x-glpt]: uala
-          - '(= valha para o mosteiro...), porque no«Auto de partilhas» de 1192 há
-            uma expressão equivalente: «'
-          - foreign[lg=und-Latn-x-glpt]: que uallam por en secula seculorum, amen
-          - », ou, então, «que vão para o mosteiro».
-        - 
-        - u moensteyro de Vayram por en s(e)c(u)la s(e)c(u)lor(um), am(en).
-        - foreign[lg=lat-Latn]: F(a)c(t)a karta m(en)se S(ep)t(em)b(e)r E(ra)
-      - lb[n=4,lg=lat-Latn]:
-        - M
-        - foreign[lg=lat-Latn]: a
-        - CC
-        - foreign[lg=lat-Latn]: a
-        - XXX. I.
-        - foreign[lg=lat-Latn]: a
-        - . M(e)n(en)d(us) Sanchiz ts., Steph(a)m
-        - Suariz ts., Vermuíí Ordoniz ts.,
-        - note[lg=por-Latn]: As duas últimas testemunhas subscreveram também o «Auto
-            de partilhas» de 1192.
-        - ' Sancho Diaz ts., Gonsaluu Diaz'
-        - testes. Ego
-      - lb[n=5,lg=lat-Latn]: Gonsalu(us) Pet(ri) p(res)b(iter)r notauit.
+  - pb[n=r.]
+  - p:
+    - lb[n=1]: In Ch(risti) n(omi)ne, am(en). Eu Eluira Sanchiz offeyro o meu corpo
+        aas virtudes de Sam Saluador do mo(c)n(steyro) de Vayram
+    - (e)
+    - note[lg=por-Latn]:
+      - Substituí o sinal tironiano 7 por (e), porque foi a copulativa
+      - foreign[lg=und-Latn-x-glpt]: e
+      - 'que o notário usou na segunda linha: «e as tres...»'
+    - offeyro com o meu corpo
+    - lb[n=2]: todo o h(er)damento que eu ey en Centegãus e as tres quartas do padroadigo
+        dessa eygleyga (e) todo hu h(er)dam(en)to d(e) Crexe- mil assy
+    - lb[n=3]
+    - us das Sestas como todo u outro h(er)dam(en)to que uaia
+    - note[lg=por-Latn]:
+      - Deve ser
+      - foreign[lg=und-Latn-x-glpt]: uala
+      - '(= valha para o mosteiro...), porque no«Auto de partilhas» de 1192 há uma
+        expressão equivalente: «'
+      - foreign[lg=und-Latn-x-glpt]: que uallam por en secula seculorum, amen
+      - », ou, então, «que vão para o mosteiro».
+    - u moensteyro de Vayram por en s(e)c(u)la s(e)c(u)lor(um), am(en).
+    - foreign[lg=lat-Latn]: F(a)c(t)a karta m(en)se S(ep)t(em)b(e)r E(ra)
+    - lb[n=4,lg=lat-Latn]:
+      - M
+      - foreign[lg=lat-Latn]: a
+      - CC
+      - foreign[lg=lat-Latn]: a
+      - XXX. I.
+      - foreign[lg=lat-Latn]: a
+      - . M(e)n(en)d(us) Sanchiz ts., Steph(a)m
+      - Suariz ts., Vermuíí Ordoniz ts.,
+      - note[lg=por-Latn]: As duas últimas testemunhas subscreveram também o «Auto
+          de partilhas» de 1192.
+      - 3 Sancho Diaz ts., Gonsaluu Diaz
+      - testes. Ego
+    - lb[n=5,lg=lat-Latn]: Gonsalu(us) Pet(ri) p(res)b(iter)r notauit.
+    - pb[n=n.]
+    - lb[n=1]
+    - lb[n=2]
