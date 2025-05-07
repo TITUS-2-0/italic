@@ -2,8 +2,8 @@ text:
 - body:
   - pb[n=66r]
   - p:
-    - lb[n=1]:
-      - milestone[unit=part,n=1]
+    - lb[n=1]
+    - milestone[unit=part,n=1,type=inline]
     - Aquy se começa a vida de Tarssis molher que
     - lb[n=2]
     - foy muyto peccatriz
@@ -12,8 +12,8 @@ text:
       - foreign[lg=por-Latn]: JJN
       - peccatrix.
     - pb[n=66v]
-    - lb[n=1]:
-      - milestone[unit=part,n=2]
+    - lb[n=1]
+    - milestone[unit=part,n=2,type=inline]
     - Hũa mançeba
     - note:
       - 'mançeba:'
@@ -77,8 +77,7 @@ text:
       - 'contigo '
       - foreign[lg=por-Latn]: (comportamento sistemático em Nunes, que deixo de anotar).
     - fazer minha vontade.
-  - milestone[unit=part,n=3]
-  - p:
+    - milestone[unit=part,n=3,type=inline]
     - E ella lhe disse que
     - lb[n=11]: entrasse pera dentro e ëtrou na primeira casa e a-
     - lb[n=12,break=no]:
@@ -90,8 +89,7 @@ text:
       - ahy.
     - lb[n=14]
     - outra casa mais escusada e ascondida?
-  - milestone[unit=part,n=E]
-  - p:
+    - milestone[unit=part,n=E,type=inline]
     - ella
     - lb[n=15]
     - dise
@@ -111,17 +109,13 @@ text:
     - lb[n=17,break=no]:
       - ça aqui te nom veerá nehuũ. E sse de Deos has
     - lb[n=18]: vergonça, nom ha logar hu sse o homë ascõ-
-    - lb[n=19,break=no]:
-      - da ante os seus olhos.
-      - foreign[lg=por-Latn]:
-        - milestone[unit=part,n=4.]
-        - E
-      - quando
-    - o velho esto
+    - lb[n=19,break=no]
+    - da ante os seus olhos. E
+    - milestone[unit=part,n=4,type=inline]
+    - quando o velho esto
     - lb[n=20]
     - 'ouvio, dise-lhe: -Sabes quem he Deos?'
-  - milestone[unit=part,n=E]
-  - p:
+    - milestone[unit=part,n=E,type=inline]
     - 'ella disse:'
     - lb[n=21]
     - '- Ssey. E o sseu rreygno'
@@ -137,8 +131,7 @@ text:
     - a-
     - lb[n=22,break=no]
     - quelles que mal fezerë?
-  - milestone[unit=part,n=E]
-  - p:
+    - milestone[unit=part,n=E,type=inline]
     - 'ella disse: - Ssy'
     - note:
       - 'ssy:'
@@ -162,9 +155,9 @@ text:
       - foreign[lg=por-Latn]: JJN
       - darás.
     - conto e rrazom a Deos. \
-    - lb[n=27]:
-      - milestone[unit=part,n=5]
-      - E ella quando esto ouvio, começou de chorar
+    - lb[n=27]
+    - milestone[unit=part,n=5,type=inline]
+    - E ella quando esto ouvio, começou de chorar
     - lb[n=28]
     - fortemëte e cayo-lhe
     - note:
@@ -184,8 +177,7 @@ text:
     - de tres
     - lb[n=3]
     - dias faria qualquer cousa que lhe el mandasse.
-  - milestone[unit=part,n=6]
-  - p:
+    - milestone[unit=part,n=6,type=inline]
     - E
     - lb[n=4]
     - filhou cem marcos d'ouro e de prata e muito
@@ -275,8 +267,7 @@ text:
     - lb[n=22]: 'e pide assy: - Senhor Deos que me fezeste amerçea-te'
     - lb[n=23]
     - de mÿ.
-  - milestone[unit=part,n=7]
-  - p:
+    - milestone[unit=part,n=7,type=inline]
     - E ella esteve em aquella casa per tres
     - lb[n=24]
     - annos
@@ -301,8 +292,7 @@ text:
     - que crassem a Deos sse perdoara os pecados aaquela
     - lb[n=30]
     - molher.
-  - milestone[unit=part,n=8]
-  - p:
+    - milestone[unit=part,n=8,type=inline]
     - E Paullo o Sinprez o mayor dos diçi-
     - lb[n=31,break=no]
     - pollos do abbade Antonio vyo viir pello çeeo
@@ -313,8 +303,7 @@ text:
     - lb[n=2]: e ires virgees que o guardavã e Paulo coidou que
     - lb[n=3]
     - era o lleyto do abbade Antonio.
-  - milestone[unit=part,n=9]
-  - p:
+    - milestone[unit=part,n=9,type=inline]
     - E hũa voz veo
     - lb[n=4]
     - 'do çeeo que lhe disse: - Nom he do abbade Antonio,'
@@ -331,8 +320,7 @@ text:
       - unçio. E o abbade Panunçio foy hu ella jazia
     - lb[n=8]: 'e disse-lhe: - Perdoado te tem Deos os teus pecados.'
     - lb[n=9]
-  - milestone[unit=part,n=E]
-  - p:
+    - milestone[unit=part,n=E,type=inline]
     - 'ella lhe disse: - Despoys que aqui jaço de todolos'
     - lb[n=10]: meus pecados fige hũa carrega e pugy-a ant(e)
     - note:
@@ -340,9 +328,9 @@ text:
       - foreign[lg=por-Latn]:
         - foreign[lg=por-Latn]: em letra diferente
         - .
-    - lb[n=11]:
-      - os meus olhos e senpre me deles doy.
-      - milestone[unit=part,n=10]
+    - lb[n=11]
+    - os meus olhos e senpre me deles doy.
+    - milestone[unit=part,n=10,type=inline]
     - E o
     - lb[n=12]
     - 'abbade lhe disse: - Nom te perdoou Deos pella tua'
