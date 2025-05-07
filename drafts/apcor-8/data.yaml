@@ -1,0 +1,386 @@
+text:
+- body:
+  - pb[n=66r]
+  - p:
+    - lb[n=1]:
+      - milestone[unit=part,n=1]
+    - Aquy se começa a vida de Tarssis molher que
+    - lb[n=2]
+    - foy muyto peccatriz
+    - note:
+      - 'peccatriz:'
+      - foreign[lg=por-Latn]: JJN
+      - peccatrix.
+    - pb[n=66v]
+    - lb[n=1]:
+      - milestone[unit=part,n=2]
+    - Hũa mançeba
+    - note:
+      - 'mançeba:'
+      - foreign[lg=por-Latn]: JJN
+      - 'manceba '
+      - foreign[lg=por-Latn]: (comportamento sistemático em Nunes, que deixo de anotar).
+    - foy do mundo que chamavã
+    - note:
+      - 'chamavã:'
+      - foreign[lg=por-Latn]: JJN
+      - 'chamavam '
+      - foreign[lg=por-Latn]: (comportamento sistemático em Nunes, que deixo de anotar).
+    - lb[n=2]
+    - Tarsis e era de tamanha fremosura que muitos
+    - lb[n=3]
+    - venderõ os beës
+    - note:
+      - 'beës:'
+      - foreign[lg=por-Latn]: JJN
+      - 'bëes '
+      - foreign[lg=por-Latn]: (comportamento sistemático em Nunes, que deixo de anotar).
+    - que avyam por ella e veerom a
+    - lb[n=4]
+    - mui
+    - note:
+      - 'mui: muj,'
+      - foreign[lg=por-Latn]: JJN
+      - muy.
+    - gram pobreza e (e)ram
+    - note:
+      - '(e)ram: aram.'
+    - tantos amadores que ha
+    - lb[n=5]
+    - amavom que muitos moryam por ella e faziam
+    - lb[n=6]
+    - grandes pellegas
+    - note:
+      - 'pellegas:'
+      - foreign[lg=por-Latn]: JJN
+      - pellejas.
+    - Quando esto soube o abbade
+    - lb[n=7]
+    - Paunucio
+    - note:
+      - 'Paunucio:'
+      - foreign[lg=por-Latn]: JJN
+      - Panuncio.
+    - ouve grande doo ë seu coraçõ
+    - note:
+      - 'coraçõ:'
+      - foreign[lg=por-Latn]: JJN
+      - coraçon.
+    - della
+    - lb[n=8]: e filhou panos de sagral por prezo de seu peca-
+    - lb[n=9,break=no]:
+      - 'do e chegou aa porta della e disse-lhe: - Quero cõti-'
+    - lb[n=10,break=no]
+    - note:
+      - 'go cõtigo:'
+      - foreign[lg=por-Latn]: JJN
+      - 'contigo '
+      - foreign[lg=por-Latn]: (comportamento sistemático em Nunes, que deixo de anotar).
+    - fazer minha vontade.
+  - milestone[unit=part,n=3]
+  - p:
+    - E ella lhe disse que
+    - lb[n=11]: entrasse pera dentro e ëtrou na primeira casa e a-
+    - lb[n=12,break=no]:
+      - charom hũũ leyto mui boo de muitos panos
+    - lb[n=13]: 'de grande vallor. E o abbade lhe disse: - A hy'
+    - note:
+      - 'A hy: ahy,'
+      - foreign[lg=por-Latn]: JJN
+      - ahy.
+    - lb[n=14]
+    - outra casa mais escusada e ascondida?
+  - milestone[unit=part,n=E]
+  - p:
+    - ella
+    - lb[n=15]
+    - dise
+    - note:
+      - 'diese:'
+      - foreign[lg=por-Latn]: JJN
+      - disse.
+    - '- Ha, e queres que nos vaamos pera ella? E el di-'
+    - lb[n=16,break=no]:
+      - 'sse: - Ssy.'
+    - 'E ella dise: - Sse dos homeës as'
+    - note:
+      - 'as:'
+      - foreign[lg=por-Latn]: JJN
+      - ás.
+    - vergon-
+    - lb[n=17,break=no]:
+      - ça aqui te nom veerá nehuũ. E sse de Deos has
+    - lb[n=18]: vergonça, nom ha logar hu sse o homë ascõ-
+    - lb[n=19,break=no]:
+      - da ante os seus olhos.
+      - foreign[lg=por-Latn]:
+        - milestone[unit=part,n=4.]
+        - E
+      - quando
+    - o velho esto
+    - lb[n=20]
+    - 'ouvio, dise-lhe: -Sabes quem he Deos?'
+  - milestone[unit=part,n=E]
+  - p:
+    - 'ella disse:'
+    - lb[n=21]
+    - '- Ssey. E o sseu rreygno'
+    - note:
+      - 'rreygno: Reygno,'
+      - foreign[lg=por-Latn]: JJN
+      - reyno.
+    - e o tormento que averam
+    - note:
+      - 'averam:'
+      - foreign[lg=por-Latn]: JJN
+      - àverám.
+    - a-
+    - lb[n=22,break=no]
+    - quelles que mal fezerë?
+  - milestone[unit=part,n=E]
+  - p:
+    - 'ella disse: - Ssy'
+    - note:
+      - 'ssy:'
+      - foreign[lg=por-Latn]: JJN
+      - sy.
+    - E o velho
+    - lb[n=23]: 'lhe disse: -Se esto sabes porque fezeste perder tan-'
+    - lb[n=24,break=no]
+    - tas almas? Que nam tam soomente pella tu-
+    - lb[n=25,break=no]:
+      - a, mais pellas de muitos que fezeste perder,
+    - lb[n=26]
+    - porq
+    - note:
+      - porque:por q?,
+      - foreign[lg=por-Latn]: JJN
+      - por que.
+    - por todas daras
+    - note:
+      - 'daras:'
+      - foreign[lg=por-Latn]: JJN
+      - darás.
+    - conto e rrazom a Deos. \
+    - lb[n=27]:
+      - milestone[unit=part,n=5]
+      - E ella quando esto ouvio, começou de chorar
+    - lb[n=28]
+    - fortemëte e cayo-lhe
+    - note:
+      - 'cayo-lhe: cayolhe,'
+      - foreign[lg=por-Latn]: JJN
+      - cayo-lhe.
+    - aos pees e disse-lhe que lhe
+    - lb[n=29]: desse peendença, e que orasse a Deos por
+    - pb[n=67r]
+    - lb[n=1]: ella e pe-
+    - lb[n=2,break=no]
+    - dio-lhe espaço de tres dias e que a cabo
+    - note:
+      - 'a cabo:'
+      - foreign[lg=por-Latn]: JJN
+      - acabo.
+    - de tres
+    - lb[n=3]
+    - dias faria qualquer cousa que lhe el mandasse.
+  - milestone[unit=part,n=6]
+  - p:
+    - E
+    - lb[n=4]
+    - filhou cem marcos d'ouro e de prata e muito
+    - lb[n=5]: aljofar e muitas outras doas e panos de sirg-
+    - lb[n=6,break=no]:
+      - o que tiinha e veo-sse cõ elle aa praça da vila
+    - lb[n=7]: 'e começou de braadar e dizer: - Vinde veer amado-'
+    - lb[n=8,break=no]:
+      - res do mundo o que eu convosco gaanhey como ho
+    - lb[n=9]
+    - eu aquy queymo e desy po-sse-lhe
+    - note:
+      - 'po-sse-lhe: posselhe,'
+      - foreign[lg=por-Latn]: JJN
+      - posse-lhe.
+    - o ffogo
+    - note:
+      - 'ffogo:'
+      - foreign[lg=por-Latn]: JJN
+      - fogo.
+    - e que-
+    - lb[n=10,break=no]:
+      - ymou-o e esto acabado foi-se pera o abbade e o abb-
+    - lb[n=11,break=no]:
+      - ade lhe mandou fazer huũa çella pequena.
+    - a par
+    - note:
+      - 'a par:'
+      - foreign[lg=por-Latn]: JJN
+      - apar.
+    - lb[n=12]
+    - d'hũũ mosteyro de donas e mandou-lha muito
+    - lb[n=13]
+    - bem çarrar que lhe nom leixou sse nom
+    - note:
+      - 'sse nom:'
+      - foreign[lg=por-Latn]: JJN
+      - senom.
+    - hũa jane-
+    - lb[n=14,break=no]:
+      - lla pequena per que
+    - visse e mandou-lhe que comesse
+    - note:
+      - 'comesse: comesse.'
+    - lb[n=15]
+    - hũu pouco de pom
+    - note:
+      - 'pom:'
+      - foreign[lg=por-Latn]: JJN
+      - 'pam '
+      - foreign[lg=por-Latn]: (mas em nota de rodapé registra a forma do ms.).
+    - e d'auga cada dia e mais nõ
+    - lb[n=16]
+    - 'e ësynou-lhe como orasse e dise-lhe: -Tu nom es'
+    - lb[n=17]: digna de nomear o nome de Deos në es digna
+    - lb[n=18]
+    - de alçar as maaos
+    - note:
+      - 'maaos:'
+      - foreign[lg=por-Latn]: JJN
+      - 'mãaos '
+      - foreign[lg=por-Latn]: (comportamento sistemático em Nunes, que deixo de anotar).
+    - contra o çeeo porque
+    - note:
+      - 'porque: por q?,'
+      - foreign[lg=por-Latn]: JJN
+      - por que.
+    - os teuos
+    - note:
+      - 'teuos:'
+      - foreign[lg=por-Latn]: JJN
+      - teus
+      - foreign[lg=por-Latn]:
+        - (
+        - foreign[lg=por-Latn]: mas em nota de rodapé regista a forma do ms
+        - .).
+    - lb[n=19]: olhcs e os teus beyços e as tuas maaos ou-
+    - lb[n=20,break=no]
+    - verom grandes
+    - note:
+      - 'grandes:'
+      - foreign[lg=por-Latn]: JJN
+      - gramdes.
+    - maldades e grandes pecados,
+    - lb[n=21]
+    - mais tam ssoomente olha contra ho ouryente
+    - lb[n=22]: 'e pide assy: - Senhor Deos que me fezeste amerçea-te'
+    - lb[n=23]
+    - de mÿ.
+  - milestone[unit=part,n=7]
+  - p:
+    - E ella esteve em aquella casa per tres
+    - lb[n=24]
+    - annos
+    - note:
+      - annos:años,
+      - foreign[lg=por-Latn]: JJN
+      - años.
+    - E o abbade Panunçio doeu-sse della e foy-
+    - lb[n=25,break=no]:
+      - sse pera o abbade Antonio e cõtou-lhe todo o feyto
+    - lb[n=26]
+    - e rrogou-lhe
+    - note:
+      - 'rrogou-lhe: Rogoulhe,'
+      - foreign[lg=por-Latn]: JJN
+      - rogou-lhe.
+    - que orasse a Deos que lhe mostrasse sse lhe
+    - lb[n=27]: perdoara os sseus pecados. E o abbade Anton-
+    - lb[n=28,break=no]
+    - io chamou todos os seus disçipolos e disse-lhes
+    - lb[n=29]
+    - que crassem a Deos sse perdoara os pecados aaquela
+    - lb[n=30]
+    - molher.
+  - milestone[unit=part,n=8]
+  - p:
+    - E Paullo o Sinprez o mayor dos diçi-
+    - lb[n=31,break=no]
+    - pollos do abbade Antonio vyo viir pello çeeo
+    - lb[n=32]
+    - hũu
+    - pb[n=67v]
+    - lb[n=1]: leyto mui bem afeytado de panos preçiosos
+    - lb[n=2]: e ires virgees que o guardavã e Paulo coidou que
+    - lb[n=3]
+    - era o lleyto do abbade Antonio.
+  - milestone[unit=part,n=9]
+  - p:
+    - E hũa voz veo
+    - lb[n=4]
+    - 'do çeeo que lhe disse: - Nom he do abbade Antonio,'
+    - lb[n=5]
+    - mais he de
+    - note:
+      - 'de:'
+      - foreign[lg=por-Latn]: JJN
+      - do.
+    - Tarsys aquella molher que jaz emçarra-
+    - lb[n=6,break=no]:
+      - da. E Paullo o cõtou ë outro dia ao abbade Pan-
+    - lb[n=7,break=no]:
+      - unçio. E o abbade Panunçio foy hu ella jazia
+    - lb[n=8]: 'e disse-lhe: - Perdoado te tem Deos os teus pecados.'
+    - lb[n=9]
+  - milestone[unit=part,n=E]
+  - p:
+    - 'ella lhe disse: - Despoys que aqui jaço de todolos'
+    - lb[n=10]: meus pecados fige hũa carrega e pugy-a ant(e)
+    - note:
+      - 'ant(e): e'
+      - foreign[lg=por-Latn]:
+        - foreign[lg=por-Latn]: em letra diferente
+        - .
+    - lb[n=11]:
+      - os meus olhos e senpre me deles doy.
+      - milestone[unit=part,n=10]
+    - E o
+    - lb[n=12]
+    - 'abbade lhe disse: - Nom te perdoou Deos pella tua'
+    - lb[n=13]: peen- dença, mais pello teu arrepeendimëto. E ella nom viveo mais
+        XV días
+    - note:
+      - 'E ella nom viveo mais XV días: Eella nom viveo mais XV días(dias'
+      - foreign[lg=por-Latn]:
+        - foreign[lg=por-Latn]: em letra e tinta diferentes, sobre rasura ilegível
+        - ), JJN E ella nom viveo mais de XV dias.
+    - E o abba-
+    - lb[n=14,break=no]:
+      - de vyo hyr a sua alma pera
+    - o çeeo cõ gram cõ-
+    - lb[n=15,break=no]
+    - panha d'angos
+    - note:
+      - "d'angos: dangos,"
+      - foreign[lg=por-Latn]: JJN
+      - danjos.
+    - que faziam grande allegria cõ
+    - lb[n=16]
+    - ella. O Ssenhor
+    - note:
+      - 'Ssenhor: ssenhor,'
+      - foreign[lg=por-Latn]: JJN
+      - senhor.
+    - Deos que a ella per- doou os sseus
+    - note:
+      - 'sseus:'
+      - foreign[lg=por-Latn]: JJN
+      - seus.
+    - pe-
+    - lb[n=17,break=no]:
+      - cados, perdoe
+    - a nos
+    - note:
+      - 'nos:'
+      - foreign[lg=por-Latn]: JJN
+      - nós.
+    - os nossos amë. Deo gracias.

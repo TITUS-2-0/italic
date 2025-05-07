@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>VIDA DE TARSIS</title>
+				<author>Unknown</author>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Goethe University</publisher>
+				<pubPlace>Frankfurt</pubPlace>
+				<date when="2025-05-01">2025-05-01</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
+					<p>Preferred citation: <note type="citation">Digital version of VIDA DE TARSIS by Unknown (draft version). 2025-05-01. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+					</p>
+				</availability>
+				<idno type="version">unreleased</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Missing metadata</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="und-Latn-x-glpt" ana="primary">Galician–Portuguese</language>
+				<language ident="por-Latn" ana="meta">Portuguese</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="und-Latn-x-glpt">
+		<body>
+			<pb n="66r" />
+			<p xml:id="p-1">
+				<lb n="1" />
+				<milestone unit="part" n="1" xml:id="p-1-milestone-1" />Aquy se começa a vida de Tarssis molher que<lb n="2" />foy muyto peccatriz<note xml:id="p-1-note-1">peccatriz: <foreign xml:lang="por-Latn">JJN</foreign> peccatrix.</note>
+				<pb n="66v" />
+				<lb n="1" />
+				<milestone unit="part" n="2" xml:id="p-1-milestone-2" />Hũa mançeba<note xml:id="p-1-note-2">mançeba: <foreign xml:lang="por-Latn">JJN</foreign> manceba  <foreign xml:lang="por-Latn">(comportamento sistemático em Nunes, que deixo de anotar).</foreign>
+				</note> foy do mundo que chamavã<note xml:id="p-1-note-3">chamavã: <foreign xml:lang="por-Latn">JJN</foreign> chamavam  <foreign xml:lang="por-Latn">(comportamento sistemático em Nunes, que deixo de anotar).</foreign>
+				</note>
+				<lb n="2" />Tarsis e era de tamanha fremosura que muitos<lb n="3" />venderõ os beës<note xml:id="p-1-note-4">beës: <foreign xml:lang="por-Latn">JJN</foreign> bëes  <foreign xml:lang="por-Latn">(comportamento sistemático em Nunes, que deixo de anotar).</foreign>
+				</note> que avyam por ella e veerom a<lb n="4" />mui<note xml:id="p-1-note-5">mui: muj, <foreign xml:lang="por-Latn">JJN</foreign> muy.</note> gram pobreza e (e)ram<note xml:id="p-1-note-6">(e)ram: aram.</note> tantos amadores que ha<lb n="5" />amavom que muitos moryam por ella e faziam<lb n="6" />grandes pellegas<note xml:id="p-1-note-7">pellegas: <foreign xml:lang="por-Latn">JJN</foreign> pellejas.</note> Quando esto soube o abbade<lb n="7" />Paunucio<note xml:id="p-1-note-8">Paunucio: <foreign xml:lang="por-Latn">JJN</foreign> Panuncio.</note> ouve grande doo ë seu coraçõ<note xml:id="p-1-note-9">coraçõ: <foreign xml:lang="por-Latn">JJN</foreign> coraçon.</note> della<lb n="8" />e filhou panos de sagral por prezo de seu peca-<lb n="9" break="no" />do e chegou aa porta della e disse-lhe: - Quero cõti-<lb n="10" break="no" />
+				<note xml:id="p-1-note-10">go cõtigo: <foreign xml:lang="por-Latn">JJN</foreign> contigo  <foreign xml:lang="por-Latn">(comportamento sistemático em Nunes, que deixo de anotar).</foreign>
+				</note> fazer minha vontade.</p>
+			<milestone unit="part" n="3" xml:id="milestone-3" />
+			<p xml:id="p-2">E ella lhe disse que<lb n="11" />entrasse pera dentro e ëtrou na primeira casa e a-<lb n="12" break="no" />charom hũũ leyto mui boo de muitos panos<lb n="13" />de grande vallor. E o abbade lhe disse: - A hy<note xml:id="p-2-note-11">A hy: ahy, <foreign xml:lang="por-Latn">JJN</foreign> ahy.</note>
+				<lb n="14" />outra casa mais escusada e ascondida?</p>
+			<milestone unit="part" n="E" xml:id="milestone-4" />
+			<p xml:id="p-3">ella<lb n="15" />dise<note xml:id="p-3-note-12">diese: <foreign xml:lang="por-Latn">JJN</foreign> disse.</note> - Ha, e queres que nos vaamos pera ella? E el di-<lb n="16" break="no" />sse: - Ssy.E ella dise: - Sse dos homeës as<note xml:id="p-3-note-13">as: <foreign xml:lang="por-Latn">JJN</foreign> ás.</note> vergon-<lb n="17" break="no" />ça aqui te nom veerá nehuũ. E sse de Deos has<lb n="18" />vergonça, nom ha logar hu sse o homë ascõ-<lb n="19" break="no" />da ante os seus olhos. <foreign xml:lang="por-Latn">
+					<milestone unit="part" n="4." xml:id="p-3-milestone-5" />E</foreign> quandoo velho esto<lb n="20" />ouvio, dise-lhe: -Sabes quem he Deos?</p>
+			<milestone unit="part" n="E" xml:id="milestone-6" />
+			<p xml:id="p-4">ella disse:<lb n="21" />- Ssey. E o sseu rreygno<note xml:id="p-4-note-14">rreygno: Reygno, <foreign xml:lang="por-Latn">JJN</foreign> reyno.</note> e o tormento que averam<note xml:id="p-4-note-15">averam: <foreign xml:lang="por-Latn">JJN</foreign> àverám.</note> a-<lb n="22" break="no" />quelles que mal fezerë?</p>
+			<milestone unit="part" n="E" xml:id="milestone-7" />
+			<p xml:id="p-5">ella disse: - Ssy<note xml:id="p-5-note-16">ssy: <foreign xml:lang="por-Latn">JJN</foreign> sy.</note> E o velho<lb n="23" />lhe disse: -Se esto sabes porque fezeste perder tan-<lb n="24" break="no" />tas almas? Que nam tam soomente pella tu-<lb n="25" break="no" />a, mais pellas de muitos que fezeste perder,<lb n="26" />porq<note xml:id="p-5-note-17">porque:por q?, <foreign xml:lang="por-Latn">JJN</foreign> por que.</note> por todas daras<note xml:id="p-5-note-18">daras: <foreign xml:lang="por-Latn">JJN</foreign> darás.</note> conto e rrazom a Deos. \<lb n="27" />
+				<milestone unit="part" n="5" xml:id="p-5-milestone-8" />E ella quando esto ouvio, começou de chorar<lb n="28" />fortemëte e cayo-lhe<note xml:id="p-5-note-19">cayo-lhe: cayolhe, <foreign xml:lang="por-Latn">JJN</foreign> cayo-lhe.</note> aos pees e disse-lhe que lhe<lb n="29" />desse peendença, e que orasse a Deos por<pb n="67r" />
+				<lb n="1" />ella e pe-<lb n="2" break="no" />dio-lhe espaço de tres dias e que a cabo<note xml:id="p-5-note-20">a cabo: <foreign xml:lang="por-Latn">JJN</foreign> acabo.</note> de tres<lb n="3" />dias faria qualquer cousa que lhe el mandasse.</p>
+			<milestone unit="part" n="6" xml:id="milestone-9" />
+			<p xml:id="p-6">E<lb n="4" />filhou cem marcos d'ouro e de prata e muito<lb n="5" />aljofar e muitas outras doas e panos de sirg-<lb n="6" break="no" />o que tiinha e veo-sse cõ elle aa praça da vila<lb n="7" />e começou de braadar e dizer: - Vinde veer amado-<lb n="8" break="no" />res do mundo o que eu convosco gaanhey como ho<lb n="9" />eu aquy queymo e desy po-sse-lhe<note xml:id="p-6-note-21">po-sse-lhe: posselhe, <foreign xml:lang="por-Latn">JJN</foreign> posse-lhe.</note> o ffogo<note xml:id="p-6-note-22">ffogo: <foreign xml:lang="por-Latn">JJN</foreign> fogo.</note> e que-<lb n="10" break="no" />ymou-o e esto acabado foi-se pera o abbade e o abb-<lb n="11" break="no" />ade lhe mandou fazer huũa çella pequena.a par<note xml:id="p-6-note-23">a par: <foreign xml:lang="por-Latn">JJN</foreign> apar.</note>
+				<lb n="12" />d'hũũ mosteyro de donas e mandou-lha muito<lb n="13" />bem çarrar que lhe nom leixou sse nom<note xml:id="p-6-note-24">sse nom: <foreign xml:lang="por-Latn">JJN</foreign> senom.</note> hũa jane-<lb n="14" break="no" />lla pequena per quevisse e mandou-lhe que comesse<note xml:id="p-6-note-25">comesse: comesse.</note>
+				<lb n="15" />hũu pouco de pom<note xml:id="p-6-note-26">pom: <foreign xml:lang="por-Latn">JJN</foreign> pam  <foreign xml:lang="por-Latn">(mas em nota de rodapé registra a forma do ms.).</foreign>
+				</note> e d'auga cada dia e mais nõ<lb n="16" />e ësynou-lhe como orasse e dise-lhe: -Tu nom es<lb n="17" />digna de nomear o nome de Deos në es digna<lb n="18" />de alçar as maaos<note xml:id="p-6-note-27">maaos: <foreign xml:lang="por-Latn">JJN</foreign> mãaos  <foreign xml:lang="por-Latn">(comportamento sistemático em Nunes, que deixo de anotar).</foreign>
+				</note> contra o çeeo porque<note xml:id="p-6-note-28">porque: por q?, <foreign xml:lang="por-Latn">JJN</foreign> por que.</note> os teuos<note xml:id="p-6-note-29">teuos: <foreign xml:lang="por-Latn">JJN</foreign> teus <foreign xml:lang="por-Latn">( <foreign xml:lang="por-Latn">mas em nota de rodapé regista a forma do ms</foreign> .).</foreign>
+				</note>
+				<lb n="19" />olhcs e os teus beyços e as tuas maaos ou-<lb n="20" break="no" />verom grandes<note xml:id="p-6-note-30">grandes: <foreign xml:lang="por-Latn">JJN</foreign> gramdes.</note> maldades e grandes pecados,<lb n="21" />mais tam ssoomente olha contra ho ouryente<lb n="22" />e pide assy: - Senhor Deos que me fezeste amerçea-te<lb n="23" />de mÿ.</p>
+			<milestone unit="part" n="7" xml:id="milestone-10" />
+			<p xml:id="p-7">E ella esteve em aquella casa per tres<lb n="24" />annos<note xml:id="p-7-note-31">annos:años, <foreign xml:lang="por-Latn">JJN</foreign> años.</note> E o abbade Panunçio doeu-sse della e foy-<lb n="25" break="no" />sse pera o abbade Antonio e cõtou-lhe todo o feyto<lb n="26" />e rrogou-lhe<note xml:id="p-7-note-32">rrogou-lhe: Rogoulhe, <foreign xml:lang="por-Latn">JJN</foreign> rogou-lhe.</note> que orasse a Deos que lhe mostrasse sse lhe<lb n="27" />perdoara os sseus pecados. E o abbade Anton-<lb n="28" break="no" />io chamou todos os seus disçipolos e disse-lhes<lb n="29" />que crassem a Deos sse perdoara os pecados aaquela<lb n="30" />molher.</p>
+			<milestone unit="part" n="8" xml:id="milestone-11" />
+			<p xml:id="p-8">E Paullo o Sinprez o mayor dos diçi-<lb n="31" break="no" />pollos do abbade Antonio vyo viir pello çeeo<lb n="32" />hũu<pb n="67v" />
+				<lb n="1" />leyto mui bem afeytado de panos preçiosos<lb n="2" />e ires virgees que o guardavã e Paulo coidou que<lb n="3" />era o lleyto do abbade Antonio.</p>
+			<milestone unit="part" n="9" xml:id="milestone-12" />
+			<p xml:id="p-9">E hũa voz veo<lb n="4" />do çeeo que lhe disse: - Nom he do abbade Antonio,<lb n="5" />mais he de<note xml:id="p-9-note-33">de: <foreign xml:lang="por-Latn">JJN</foreign> do.</note> Tarsys aquella molher que jaz emçarra-<lb n="6" break="no" />da. E Paullo o cõtou ë outro dia ao abbade Pan-<lb n="7" break="no" />unçio. E o abbade Panunçio foy hu ella jazia<lb n="8" />e disse-lhe: - Perdoado te tem Deos os teus pecados.<lb n="9" />
+			</p>
+			<milestone unit="part" n="E" xml:id="milestone-13" />
+			<p xml:id="p-10">ella lhe disse: - Despoys que aqui jaço de todolos<lb n="10" />meus pecados fige hũa carrega e pugy-a ant(e)<note xml:id="p-10-note-34">ant(e): e <foreign xml:lang="por-Latn">
+						<foreign xml:lang="por-Latn">em letra diferente</foreign> .</foreign>
+				</note>
+				<lb n="11" />os meus olhos e senpre me deles doy.<milestone unit="part" n="10" xml:id="p-10-milestone-14" />E o<lb n="12" />abbade lhe disse: - Nom te perdoou Deos pella tua<lb n="13" />peen- dença, mais pello teu arrepeendimëto. E ella nom viveo mais XV días<note xml:id="p-10-note-35">E ella nom viveo mais XV días: Eella nom viveo mais XV días(dias <foreign xml:lang="por-Latn">
+						<foreign xml:lang="por-Latn">em letra e tinta diferentes, sobre rasura ilegível</foreign> ), JJN E ella nom viveo mais de XV dias.</foreign>
+				</note> E o abba-<lb n="14" break="no" />de vyo hyr a sua alma perao çeeo cõ gram cõ-<lb n="15" break="no" />panha d'angos<note xml:id="p-10-note-36">d'angos: dangos, <foreign xml:lang="por-Latn">JJN</foreign> danjos.</note> que faziam grande allegria cõ<lb n="16" />ella. O Ssenhor<note xml:id="p-10-note-37">Ssenhor: ssenhor, <foreign xml:lang="por-Latn">JJN</foreign> senhor.</note> Deos que a ella per- doou os sseus<note xml:id="p-10-note-38">sseus: <foreign xml:lang="por-Latn">JJN</foreign> seus.</note> pe-<lb n="17" break="no" />cados, perdoea nos<note xml:id="p-10-note-39">nos: <foreign xml:lang="por-Latn">JJN</foreign> nós.</note> os nossos amë. Deo gracias.</p>
+		</body>
+	</text>
+</TEI>
