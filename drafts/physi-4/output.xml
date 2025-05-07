@@ -42,7 +42,7 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="lat-Latn">Latin</language>
+				<language ident="lat-Latn" ana="primary">Latin</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>

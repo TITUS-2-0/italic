@@ -43,7 +43,7 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="ita-Latn">Old Italian</language>
+				<language ident="ita-Latn" ana="primary">Old Italian</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
