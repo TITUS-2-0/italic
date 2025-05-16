@@ -1,327 +1,338 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Physiologus</title>
-				<title type="sub">The Latin Version</title>
-				<respStmt>
-					<resp>digitization</resp>
-					<name>Thomas Klein</name>
-					<note>Bonn, 2005-2006</note>
-				</respStmt>
-				<respStmt>
-					<resp>TITUS version</resp>
-					<name>Jost Gippert</name>
-					<note>Frankfurt a/M, 29.4.2006</note>
-				</respStmt>
-				<respStmt>
-					<resp>TEI version</resp>
-					<name>Florian Matter</name>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<publisher>Goethe University</publisher>
-				<pubPlace>Frankfurt</pubPlace>
-				<date when="2025-01-13">2025-01-13</date>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
-					<p>Preferred citation: <note type="citation">Digital version of Physiologus: The Latin Version (draft version). 2025-01-13. By: Jost Gippert, Thomas Klein, Florian Matter. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
-					</p>
-				</availability>
-				<idno type="version">unreleased</idno>
-			</publicationStmt>
-			<notesStmt>
-				<note>Extract parallel to the OHG version</note>
-			</notesStmt>
-			<sourceDesc>
-				<bibl xml:id="stein-ahd">
-					<author>
-						<name>Steinmeyer, Emil</name>
-					</author>. n.d.. <title level="m">Die Kleineren Althochdeutschen Sprachdenkmäler</title>. <pubPlace>Berlin</pubPlace>: <publisher>Weidmann</publisher>.</bibl>
-			</sourceDesc>
-		</fileDesc>
-		<profileDesc>
-			<langUsage>
-				<language ident="lat-Latn" ana="primary">Latin</language>
-			</langUsage>
-		</profileDesc>
-	</teiHeader>
-	<text xml:lang="lat-Latn">
-		<body>
-			<div n="1" xml:id="text-1" type="text" data-level="1">
-				<pb type="edition" n="124" />
-				<head>De leone.</head>
-				<p xml:id="text-1-p-1">
-					<lb n="1" />* Igitur Jacob benedicens filium suum Juda dicebat »Catulus leonis<lb n="2" />Juda filius ....« Tres naturas habet leo: prima, cum ambulat in
-<lb n="3" />montibus vel silvis, si evenerit, ut queratur a venatoribus, et veniet
-<lb n="4" />ei odor venatoris ad nares, statim cum cauda delet post se vestigia sua
-<lb n="5" />quocumque ierit, ut non secutus venator vestigia capiat eum. Sic et
-<lb n="6" />dominus noster ... missus a sempiterno patre cooperuit intelligibilia
-<lb n="7" />deitatis sue vestigia. ... Cum dormierit leo, vigilant oculi ejus.
-<lb n="8" />In aperiendo * sicut et in cantico canticorum testatur sponsus de se
-<lb n="9" />ipso »Ego dormio et cor meum vigilat«.... Caro enim domini
-<lb n="10" />quievit, divinitas autem semper ad dexteram patris vigilat. ...
-<lb n="11" />Cum leena peperit catulum, mortuum<choice>
-						<corr>eum</corr>
-						<sic>cum</sic>
-					</choice> generans, custodit
-<lb n="12" />tribus diebus, donec veniens pater ejus die tertio sufflat in faciem ejus
-<lb n="13" />et vivificat eum. Sic et deus omnipotens pater filium suum dominum
-<lb n="14" />nostrum tertia die suscitavit a mortuis ...</p>
-			</div>
-			<div n="2" xml:id="text-2" type="text" data-level="1">
-				<head>De panthera.</head>
-				<p xml:id="text-2-p-2">
-					<lb n="15" />Est et animal, quod dicitur panthera, vario quidem colore, sed<lb n="16" />speciosum nimis et mansuetum valde. Physiologus dicit, quod inimicum<pb type="edition" n="125" />
-					<lb n="1" />sit solis draconibus. Cum [commederit] consaciaverit se diversis
-<lb n="2" />venationibus, recipitur in speluncam suam ponensque se dormit
-<lb n="3" />per triduum. Surgens autem a somno statim emittit rugitum peraltum
-<lb n="4" />simulque odorem nimie suavitatis emittit cum rugitu, ita ut odor
-<lb n="5" />istius modo precellat omnia aromata et pigmenta. Cum ergo audierint
-<lb n="6" />vocem ejus omnes bestie, quae prope sunt vel longe, congregantes
-<lb n="7" />se omnes nimiam suavitatem illius secuntur. Solus autem draco, cum
-<lb n="8" />audierit vocem ejus, abscondit se in subterraneis speluncis; ibi autem ...
-<lb n="9" />obstupescit immobilis inanisque velut mortuus. ... Sic et dominus
-<lb n="10" />noster ... omne genus humanum ... per incarnationem suam ad
-<lb n="11" />se trahens ... dedit dona hominibus. ... Quia panthera varium
-<lb n="12" />est animal, significat Christum, qui est inconprehensibilis sapientia ...
-<lb n="13" />et preciosum animal est panthera : ita et Christus, veluti David dicit ...
-<lb n="14" />»Speciosus forma pre filiis hominum«. Ergo et mansuetum est animal,
-<lb n="15" />sicut Isayas de Christo »Gaude et letare, filia Syon, quoniam rex tuus
-<lb n="16" />veniet tibi mansuetus et salvans«. ... dominus noster Jesus Christus,
-<lb n="17" />postquam satiatus est a judaicis illusionibus, ad ultimum cruce
-<lb n="18" />suspensus ... dormivit ac requievit in sepulchro; in infernum religavit
-<lb n="19" />illum draconem magnum, generis humani maximum antiquum
-<lb n="20" />inimicum. ... tertia die surgens a mortuis ... statim exclamat
-<lb n="21" />ita, ut in omnem terram audiretur vox ...</p>
-			</div>
-			<div n="3" xml:id="text-3" type="text" data-level="1">
-				<pb type="edition" n="126" />
-				<head>Monoceros.</head>
-				<p xml:id="text-3-p-3">
-					<lb n="1" />Est aliud animal, quod graece dicitur monoceros, latine vero unicornis.<lb n="2" />Phisiologus dicit, ... quod sit pusillum animal ... acerrimumque
-<lb n="3" />habet in capite unum cornu atque nullus venatorum eum
-<lb n="4" />capere potest. Sed hoc argumento capiunt illum, ducunt puellam
-<lb n="5" />virginem in illum locum, ubi moratur; ... ille autem mox, ut viderit
-<lb n="6" />eam, salit in sinum virginis et complectitur eam, sicque comprehenditur ...
-<lb n="7" />Quod autem unum cornu habet, significat hoc, quod
-<lb n="8" />Christus dicit »Ego et pater unus sumus«. Capud autem Christi deus ...
-<lb n="9" />Pusillum est animal propter incarnationis ejus humilitatem ... Qui
-<lb n="10" />in tantum est acerrimus, ut subtilissimus diabolus intelligere et investigare
-<lb n="11" />incarnationis ejus misterium non valet, sed sola voluntate
-<lb n="12" />patris descendit in uterum virginis et verbum caro factum est.</p>
-			</div>
-			<div n="4" xml:id="text-4" type="text" data-level="1">
-				<head>De ydro.</head>
-				<p xml:id="text-4-p-4">
-					<lb n="13" />Est et aliud animal, quod est in Nilo flumine et vocatur hydrus. ...<lb n="14" />satis hoc animal inimicum est corcodrillo. ... Cum viderit corcodrillum
-<lb n="15" />in litore fluminis dormientem ore aperto, vadit et<choice>
-						<corr>volutat</corr>
-						<sic>volitat</sic>
-					</choice> se in luto ... veniensque insiliet in os corcodrilli, qui subito<pb type="edition" n="127" />
-					<lb n="1" />vivum transgluciet. Hydrus autem dilanians omnia viscera ejus, exiet
-<lb n="2" />vivus de visceribus ejus, corcodrillo jam mortuo ... et significat
-<lb n="3" />mortem et infernum vel unumquemque inimicum salvatoris, qui tamen
-<lb n="4" />assumta mortali natura carne descendit in infernum ... eduxitque
-<lb n="5" />pene omnes, qui ab eo devorati tenebantur in morte ...</p>
-			</div>
-			<div n="5" xml:id="text-5" type="text" data-level="1">
-				<head>De sirenis et onocenthauris.</head>
-				<p xml:id="text-5-p-5">
-					<lb n="6" />... Sirene ... animalia sunt mortifera, que [a capite] usque ad<lb n="7" />umbilicum figuram femine habent. Extrema<choice>
-						<corr>parte</corr>
-						<sic>pars</sic>
-					</choice> [usque
-<lb n="8" />ad pedes] volatilis imaginem tenent atque musicum quoddam dulcissimum
-<lb n="9" />melodie carmen<choice>
-						<corr>canunt</corr>
-						<sic>canant</sic>
-					</choice> ,
-<lb n="10" />per quod homines navigantes
-<lb n="11" />decipiuntur, ita ut<choice>
-						<corr>per auditum demulcentem?</corr>
-						<sic>persepe auditum demulcentes</sic>
-					</choice> sensumque<choice>
-						<corr>delenientem?</corr>
-						<sic>delimentes</sic>
-					</choice> in
-<lb n="12" />soporem<choice>
-						<corr>vertantur</corr>
-						<sic>vertuntur</sic>
-					</choice> .
-<lb n="13" />Et tunc ille videntes,<choice>
-						<corr>eos</corr>
-						<sic>eo</sic>
-					</choice> esse sopitos, invadunt et laniant carnes eorum. Sic igitur decipiuntur
-<lb n="14" />illi, qui diabolicis pompis et theatralibus voluptatibus<choice>
-						<corr>delectari</corr>
-						<sic>delectari</sic>
-					</choice> ... efficiuntur ad<choice>
-						<corr>adversarii avidissimi ?</corr>
-						<sic>adverse virtutis avidissima</sic>
-					</choice> preda. Eo modo onocenthaurus duabus naturis
-<lb n="15" />constat ... Nam superior pars homini similis est posteriorque asino
-<lb n="16" />similis. ... Per hunc assimilantur vecordes et bilingues homines,
-<lb n="17" />moribus informes, habentes speciem pietatis, virtutem ejus
-<lb n="18" />abnegantes ...</p>
-			</div>
-			<div n="6" xml:id="text-6" type="text" data-level="1">
-				<pb type="edition" n="128" />
-				<head>De hiena.</head>
-				<p xml:id="text-6-p-6">
-					<lb n="1" />Est et aliud animal, quod graece<choice>
-						<corr>dicitur</corr>
-						<sic>dicunt</sic>
-					</choice> hiena ...
-<lb n="2" />aliquando quidem masculus, aliquando quidem femina est et ideo inmundum
-<lb n="3" />animal est. Cui similes estimati sunt filii Israal, qui primum
-<lb n="4" />dominum suum coluere, postea ... idola coluerunt. ... id
-<lb n="5" />est nec fidelis nec perfidus, sed sicut Salemon dicit »Vir duplex corde
-<lb n="6" />inconstans est in omnibus viis suis«.</p>
-			</div>
-			<div n="7" xml:id="text-7" type="text" data-level="1">
-				<head>De onagro.</head>
-				<p xml:id="text-7-p-7">
-					<lb n="7" />Est et animal aliud, quod dicitur onager ... XXV. die mensis<lb n="8" />faminoltt, qui est<choice>
-						<corr>martii</corr>
-						<sic>martus</sic>
-					</choice>
-					<choice>
-						<corr>duodecimus ?</corr>
-						<sic>duodecies</sic>
-					</choice> ,
-<lb n="9" />in
-<lb n="10" />nocte<choice>
-						<corr>rugiet</corr>
-						<sic>ruget</sic>
-					</choice> ,
-<lb n="11" />similiter et die, tunc quia cognoscitur, quod
-<lb n="12" />equinoctium sit et dies noctesque ex numero horarum adequantur.
-<lb n="13" />Onager igitur figuram diaboli gerit ... Neque rugiet aliquando, nisi
-<lb n="14" />quando escam querit ...</p>
-			</div>
-			<div n="8" xml:id="text-8" type="text" data-level="1">
-				<head>De elephante.</head>
-				<p xml:id="text-8-p-8">
-					<lb n="15" />Item est bestia, elephans nomine ... intellectum magnum habet<lb n="16" />in se, concupiscentiam vero carnis minime in se habere dicitur. Tempore
-<lb n="17" />autem suo, cum voluerit filios procreare, vadit in orientem cum<pb type="edition" n="129" />
-					<lb n="1" />femina sua usque in proximum paradisi. Est autem ibidem herba
-<lb n="2" />mandragora nomine. De cujus fructu femina prior degustet et tunc
-<lb n="3" />masculum illuc deducet, ut persuasus manducet. Postquam vero manducaverint
-<lb n="4" />ambo, conveniunt sibi statimque concipit. Cum autem
-<lb n="5" />venerit tempus pariendi, pergit ad lacum magnum et ingreditur usque
-<lb n="6" />ad ubera ejus et ibidem parturit super aquam et hoc propter
-<lb n="7" />draconem facit, qui insidiatur pullis ejus et illi ipsi. ... Isti ergo
-<lb n="8" />duo elephantes masculus et femina figuram habent Adam et Eve,
-<lb n="9" />qui erant in paradiso dei ante prevaricationem gloria circumdati,
-<lb n="10" />nescientes ullum malum, non concupiscencie desideria nec commixtionis<choice>
-						<corr>coitum</corr>
-						<sic>cogitum</sic>
-					</choice> .
-<lb n="11" />Cum ergo de interdicta arbore gustavit
-<lb n="12" />mulier, ... tunc precipitati sunt de paradiso in hunc mundum,
-<lb n="13" />quasi in stagnum aquarum multarum. Quod aliquando aque presens
-<lb n="14" />seculum<choice>
-						<corr>significant</corr>
-						<sic>significat</sic>
-					</choice> ,
-<lb n="15" />... David insinuat, cum dicit
-<lb n="16" />»Salvum me fac, deus ...«.</p>
-			</div>
-			<div n="9" xml:id="text-9" type="text" data-level="1">
-				<head>De autula.</head>
-				<p xml:id="text-9-p-9">
-					<lb n="17" />Est et animal autula nomine, acerrimum nimis, ita ut nec ullus<lb n="18" />venatorum ei potest appropinquare. Habet enim cornua longa in
-<lb n="19" />similitudine serre, quibus secare potest maximas quercus; condensa
-<lb n="20" />et superflua queque arborum incidendo secat, in nullo resistens.
-<lb n="21" />Quando vero sitierit, venit ad flumen magnum Eufraten et bibit:
-<lb n="22" />sunt autem ibi virge viticee subtiles et molles. Incipit autem et animal
-<lb n="23" />illud ludere cum virgulis istis et in ludendo obligat semet ipsum120   cornu, obligatusque ambis cornibus vociferat[que] cum rugitu, quia<pb type="edition" n="130" />
-					<lb n="1" />evadere non potest, gracilibus virgulis circumseptus. Et tunc quilibet
-<lb n="2" />venatorum absconditus, audiens vocem ejus, currit et ligatum inveniens
-<lb n="3" />occidit. ... et tu, homo, qui<choice>
-						<corr>profiteris</corr>
-						<sic>profeceris</sic>
-					</choice> abstinentiam,...
-<lb n="4" />abscidisti<choice>
-						<corr>forte?</corr>
-						<sic>fore</sic>
-					</choice> detractiones,<choice>
-						<corr>cupiditates</corr>
-						<sic>cupitidates</sic>
-					</choice> ,
-<lb n="5" />libidines, silvam secularem et pompam diaboli ... Sed
-<lb n="6" />noli ludere cum vino, in quo est luxuria, nec te obliges et incidas in
-<lb n="7" />muscipulam adversarii ... vir autem sapiens et prudens a vino et
-<lb n="8" />muliere se avertit. ...</p>
-			</div>
-			<div n="10" xml:id="text-10" type="text" data-level="1">
-				<head>De Serra.</head>
-				<p xml:id="text-10-p-10">
-					<lb n="9" />Est et animal in mari, quod dicitur serra, spinas habens prope se<lb n="10" />longiores; et cum viderit naves velificantes enatat ad eas erigensque
-<lb n="11" />pennas et caudam velificat sicut navis et contendit econtra. Cum
-<lb n="12" />diu fecerit talia, pennas ad se revocat, quia et lassitudine et unda
-<lb n="13" />revocatur in pristinum locum. Mare significat hunc mundum. Naves
-<lb n="14" />sunt prophete et apostoli, qui transierunt hunc mundum et vicerunt
-<lb n="15" />adversarias<choice>
-						<corr>potestates?</corr>
-						<sic>potestas</sic>
-					</choice>
-					<choice>
-						<corr>aevi</corr>
-						<sic>aeris</sic>
-					</choice> hujus. Serra vero,
-<lb n="16" />que non potuit perseverare cum navibus, significat eos, qui temporaliter
-<lb n="17" />profitentur abstinentiam, sed non perseverant usque in
-<lb n="18" />finem ...</p>
-			</div>
-			<div n="11" xml:id="text-11" type="text" data-level="1">
-				<pb type="edition" n="131" />
-				<head>De vipera.</head>
-				<p xml:id="text-11-p-11">
-					<lb n="1" />... Phisiologus dicit de vipera sua. Quando coitum facit, masculus<lb n="2" />infert os ejus in feminam, et illa degluciens semen abscidit virilia
-<lb n="3" />ejusdem masculi, et moritur statim. ... Cum autem creverint catuli
-<lb n="4" />in ventre, viperam perforant, mordentes latus ejus et exeunt
-<lb n="5" />mortua matre. Vipere comparati sunt pharisei, obscenis operibus
-<lb n="6" />et desideriis servientes. Occiderunt parentem Christum et matrem
-<lb n="7" />ecclesiam persecuti sunt. Item in evangelio dicit »Estote prudentes
-<lb n="8" />sicut serpentes«. ... Tria sunt genera viperarum nocencium. Primum,
-<lb n="9" />quando senuerit, inpedimentum habet oculorum, ut non videat;
-<lb n="10" />sed vide quod faciat. Jeiunat enim XL diebus et XL noctibus, donec
-<lb n="11" />laxetur pellis ejus, tuncque vadens querit excissum petre et per ipsum
-<lb n="12" />transitum facit sicque exspoliatur et juvenis fit. ... Secunda
-<lb n="13" />natura draconis est, quando pergit ad bibendum, evomit omne prius
-<lb n="14" />venenum suum ... Imitemus et nos hujuscemodi draconem, ut,
-<lb n="15" />quando veniamus aquam bibere, id est sermones divinos in ecclesia
-<lb n="16" />dei audire, non afferamus nobiscum pulvereas et maculosas secularesque
-<lb n="17" />concupiscentias. ... Tertia vero natura draconis talis est,
-<lb n="18" />ut, cum viderit nudum hominem, timens<choice>
-						<corr>fugiat</corr>
-						<sic>fugiet</sic>
-					</choice> eum, si
-<lb n="19" />autem vestitum prospexerit,<choice>
-						<corr>insiliat</corr>
-						<sic>insiliet</sic>
-					</choice> super eum. Et nos<pb type="edition" n="132" />
-					<lb n="1" />prudenter intelligamus, quando pater noster erat in paradiso nudus,
-<lb n="2" />non prevalebat adversus eum diabolus serpens antiquus.</p>
-			</div>
-			<div n="12" xml:id="text-12" type="text" data-level="1">
-				<head>De lacerta id est saura.</head>
-				<p xml:id="text-12-p-12">
-					<lb n="3" />Est<choice>
-						<corr>volatile</corr>
-						<sic>aquatite</sic>
-					</choice> animal, quod lacerta dicitur, clarum ut
-<lb n="4" />sol. ... quando senuerit, utrisque oculis impeditur, ita ut nec solis
-<lb n="5" />lumen videat ... Inquirit parietem, adtendentem contra ori[g]entem
-<lb n="6" />solis et per foramen exit et apertis oculis renovatur. Sic et tu,
-<lb n="7" />homo, ... quando oculi tui cordis caligentur, quere locum intelligibilem
-<lb n="8" />orientem versus et ad solem justicie, Christum dominum nostrum
-<lb n="9" />Jhesum te converte, cujus nomen oriens dicitur, quatenus ...
-<lb n="10" />lucem misericordie sue ostendat tibi, qui illuminat omnem hominem
-<lb n="11" />in hunc mundum venientem.</p>
-			</div>
-		</body>
-	</text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Physiologus</title>
+        <title type="sub">The Latin Version</title>
+        <respStmt>
+          <resp>digitization</resp>
+          <name>Thomas Klein</name>
+          <note>Bonn, 2005-2006</note>
+        </respStmt>
+        <respStmt>
+          <resp>TITUS version</resp>
+          <name>Jost Gippert</name>
+          <note>Frankfurt a/M, 29.4.2006</note>
+        </respStmt>
+        <respStmt>
+          <resp>TEI version</resp>
+          <name>Florian Matter</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Goethe University</publisher>
+        <pubPlace>Frankfurt</pubPlace>
+        <date when="2025-01-13">2025-01-13</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
+          <p>
+            Preferred citation:
+            <note type="citation">Digital version of Physiologus: The Latin Version (draft version). 2025-01-13. By: Jost Gippert, Thomas Klein, Florian Matter. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+          </p>
+        </availability>
+        <idno type="version">unreleased</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Extract parallel to the OHG version</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl xml:id="stein-ahd">
+          <author>
+            <name>Steinmeyer, Emil</name>
+          </author>
+          . n.d..
+          <title level="m">Die Kleineren Althochdeutschen Sprachdenkmäler</title>
+          .
+          <pubPlace>Berlin</pubPlace>
+          :
+          <publisher>Weidmann</publisher>
+          .
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="lat-Latn" ana="primary">Latin</language>
+        <language ident="und-Latn-x-general" ana="meta">General</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="lat-Latn">
+    <body>
+      <div n="1" xml:id="text-1" type="text" data-level="1">
+        <pb type="edition" n="124"/>
+        <head n="1">De leone.</head>
+        <p xml:id="text-1-p-1">
+          <lb n="2"/>* Igitur Jacob benedicens filium suum Juda dicebat »Catulus leonis
+          <lb n="3"/>Juda filius ....« Tres naturas habet leo: prima, cum ambulat in
+          <lb n="4"/>montibus vel silvis, si evenerit, ut queratur a venatoribus, et veniet
+          <lb n="5"/>ei odor venatoris ad nares, statim cum cauda delet post se vestigia sua
+          <lb n="6"/>quocumque ierit, ut non secutus venator vestigia capiat eum. Sic et
+          <lb n="7"/>dominus noster ... missus a sempiterno patre cooperuit intelligibilia
+          <lb n="8"/>deitatis sue vestigia. ... Cum dormierit leo, vigilant oculi ejus.
+          <lb n="9"/>In aperiendo * sicut et in cantico canticorum testatur sponsus de se
+          <lb n="10"/>ipso »Ego dormio et cor meum vigilat«.... Caro enim domini
+          <lb n="11"/>quievit, divinitas autem semper ad dexteram patris vigilat. ...
+          <lb n="12"/>Cum leena peperit catulum, mortuum cum
+          <foreign xml:lang="und-Latn-x-general">(l.</foreign>
+          eum) generans, custodit
+          <lb n="13"/>tribus diebus, donec veniens pater ejus die tertio sufflat in faciem ejus
+          <lb n="14"/>et vivificat eum. Sic et deus omnipotens pater filium suum dominum
+          <lb n="15"/>nostrum tertia die suscitavit a mortuis ...
+        </p>
+      </div>
+      <div n="2" xml:id="text-2" type="text" data-level="1">
+        <head n="16">De panthera.</head>
+        <p xml:id="text-2-p-2">
+          <lb n="17"/>Est et animal, quod dicitur panthera, vario quidem colore, sed
+          <lb n="18"/>speciosum nimis et mansuetum valde. Physiologus dicit, quod inimicum
+          <pb type="edition" n="125"/>
+          <lb n="19"/>sit solis draconibus. Cum [commederit] consaciaverit se diversis
+          <lb n="20"/>venationibus, recipitur in speluncam suam ponensque se dormit
+          <lb n="21"/>per triduum. Surgens autem a somno statim emittit rugitum peraltum
+          <lb n="22"/>simulque odorem nimie suavitatis emittit cum rugitu, ita ut odor
+          <lb n="23"/>istius modo precellat omnia aromata et pigmenta. Cum ergo audierint
+          <lb n="24"/>vocem ejus omnes bestie, quae prope sunt vel longe, congregantes
+          <lb n="25"/>se omnes nimiam suavitatem illius secuntur. Solus autem draco, cum
+          <lb n="26"/>audierit vocem ejus, abscondit se in subterraneis speluncis; ibi autem ...
+          <lb n="27"/>obstupescit immobilis inanisque velut mortuus. ... Sic et dominus
+          <lb n="28"/>noster ... omne genus humanum ... per incarnationem suam ad
+          <lb n="29"/>se trahens ... dedit dona hominibus. ... Quia panthera varium
+          <lb n="30"/>est animal, significat Christum, qui est inconprehensibilis sapientia ...
+          <lb n="31"/>et preciosum animal est panthera : ita et Christus, veluti David dicit ...
+          <lb n="32"/>»Speciosus forma pre filiis hominum«. Ergo et mansuetum est animal,
+          <lb n="33"/>sicut Isayas de Christo »Gaude et letare, filia Syon, quoniam rex tuus
+          <lb n="34"/>veniet tibi mansuetus et salvans«. ... dominus noster Jesus Christus,
+          <lb n="35"/>postquam satiatus est a judaicis illusionibus, ad ultimum cruce
+          <lb n="36"/>suspensus ... dormivit ac requievit in sepulchro; in infernum religavit
+          <lb n="37"/>illum draconem magnum, generis humani maximum antiquum
+          <lb n="38"/>inimicum. ... tertia die surgens a mortuis ... statim exclamat
+          <lb n="39"/>ita, ut in omnem terram audiretur vox ...
+        </p>
+      </div>
+      <div n="3" xml:id="text-3" type="text" data-level="1">
+        <pb type="edition" n="126"/>
+        <head n="40">Monoceros.</head>
+        <p xml:id="text-3-p-3">
+          <lb n="41"/>Est aliud animal, quod graece dicitur monoceros, latine vero unicornis.
+          <lb n="42"/>Phisiologus dicit, ... quod sit pusillum animal ... acerrimumque
+          <lb n="43"/>habet in capite unum cornu atque nullus venatorum eum
+          <lb n="44"/>capere potest. Sed hoc argumento capiunt illum, ducunt puellam
+          <lb n="45"/>virginem in illum locum, ubi moratur; ... ille autem mox, ut viderit
+          <lb n="46"/>eam, salit in sinum virginis et complectitur eam, sicque comprehenditur ...
+          <lb n="47"/>Quod autem unum cornu habet, significat hoc, quod
+          <lb n="48"/>Christus dicit »Ego et pater unus sumus«. Capud autem Christi deus ...
+          <lb n="49"/>Pusillum est animal propter incarnationis ejus humilitatem ... Qui
+          <lb n="50"/>in tantum est acerrimus, ut subtilissimus diabolus intelligere et investigare
+          <lb n="51"/>incarnationis ejus misterium non valet, sed sola voluntate
+          <lb n="52"/>patris descendit in uterum virginis et verbum caro factum est.
+        </p>
+      </div>
+      <div n="4" xml:id="text-4" type="text" data-level="1">
+        <head n="53">De ydro.</head>
+        <p xml:id="text-4-p-4">
+          <lb n="54"/>Est et aliud animal, quod est in Nilo flumine et vocatur hydrus. ...
+          <lb n="55"/>satis hoc animal inimicum est corcodrillo. ... Cum viderit corcodrillum
+          <lb n="56"/>in litore fluminis dormientem ore aperto, vadit et volitat
+          <lb n="57"/>
+          <foreign xml:lang="und-Latn-x-general">(l.</foreign>
+          volutat) se in luto ... veniensque insiliet in os corcodrilli, qui subito
+          <pb type="edition" n="127"/>
+          <lb n="58"/>vivum transgluciet. Hydrus autem dilanians omnia viscera ejus, exiet
+          <lb n="59"/>vivus de visceribus ejus, corcodrillo jam mortuo ... et significat
+          <lb n="60"/>mortem et infernum vel unumquemque inimicum salvatoris, qui tamen
+          <lb n="61"/>assumta mortali natura carne descendit in infernum ... eduxitque
+          <lb n="62"/>pene omnes, qui ab eo devorati tenebantur in morte ...
+        </p>
+      </div>
+      <div n="5" xml:id="text-5" type="text" data-level="1">
+        <head n="63">De sirenis et onocenthauris.</head>
+        <p xml:id="text-5-p-5">
+          <lb n="64"/>... Sirene ... animalia sunt mortifera, que [a capite] usque ad
+          <lb n="65"/>umbilicum figuram femine habent. Extrema pars
+          <foreign xml:lang="und-Latn-x-general">(l.</foreign>
+          parte) [usque
+          <lb n="66"/>ad pedes] volatilis imaginem tenent atque musicum quoddam dulcissimum
+          <lb n="67"/>melodie carmen canant
+          <foreign xml:lang="und-Latn-x-general">(l.</foreign>
+          canunt), per quod homines navigantes
+          <lb n="68"/>decipiuntur, ita ut persepe auditum demulcentes
+          <foreign xml:lang="und-Latn-x-general">(l.</foreign>
+          per
+          <lb n="69"/>auditum demulcentem?) sensumque delimentes
+          <foreign xml:lang="und-Latn-x-general">(l.</foreign>
+          delenientem?) in
+          <lb n="70"/>soporem vertuntur
+          <foreign xml:lang="und-Latn-x-general">(l.</foreign>
+          vertantur). Et tunc ille videntes, eo
+          <foreign xml:lang="und-Latn-x-general">(l.</foreign>
+          eos)
+          <lb n="71"/>esse sopitos, invadunt et laniant carnes eorum. Sic igitur decipiuntur
+          <lb n="72"/>illi, qui diabolicis pompis et theatralibus voluptatibus delectari
+          <lb n="73"/>
+          <foreign xml:lang="und-Latn-x-general">(l.</foreign>
+          delectari) ... efficiuntur ad adverse virtutis avidissima
+          <foreign xml:lang="und-Latn-x-general">(l.</foreign>
+          adversarii
+          <lb n="74"/>avidissimi ?) preda. Eo modo onocenthaurus duabus naturis
+          <lb n="75"/>constat ... Nam superior pars homini similis est posteriorque asino
+          <lb n="76"/>similis. ... Per hunc assimilantur vecordes et bilingues homines,
+          <lb n="77"/>moribus informes, habentes speciem pietatis, virtutem ejus
+          <lb n="78"/>abnegantes ...
+        </p>
+      </div>
+      <div n="6" xml:id="text-6" type="text" data-level="1">
+        <pb type="edition" n="128"/>
+        <head n="79">De hiena.</head>
+        <p xml:id="text-6-p-6">
+          <lb n="80"/>Est et aliud animal, quod graece dicunt
+          <foreign xml:lang="und-Latn-x-general">(l.</foreign>
+          dicitur) hiena ...
+          <lb n="81"/>aliquando quidem masculus, aliquando quidem femina est et ideo inmundum
+          <lb n="82"/>animal est. Cui similes estimati sunt filii Israal, qui primum
+          <lb n="83"/>dominum suum coluere, postea ... idola coluerunt. ... id
+          <lb n="84"/>est nec fidelis nec perfidus, sed sicut Salemon dicit »Vir duplex corde
+          <lb n="85"/>inconstans est in omnibus viis suis«.
+        </p>
+      </div>
+      <div n="7" xml:id="text-7" type="text" data-level="1">
+        <head n="86">De onagro.</head>
+        <p xml:id="text-7-p-7">
+          <lb n="87"/>Est et animal aliud, quod dicitur onager ... XXV. die mensis
+          <lb n="88"/>faminoltt, qui est martus
+          <foreign xml:lang="und-Latn-x-general">(l.</foreign>
+          martii) duodecies
+          <foreign xml:lang="und-Latn-x-general">(l.</foreign>
+          duodecimus ?), in
+          <lb n="89"/>nocte ruget
+          <foreign xml:lang="und-Latn-x-general">(l.</foreign>
+          rugiet), similiter et die, tunc quia cognoscitur, quod
+          <lb n="90"/>equinoctium sit et dies noctesque ex numero horarum adequantur.
+          <lb n="91"/>Onager igitur figuram diaboli gerit ... Neque rugiet aliquando, nisi
+          <lb n="92"/>quando escam querit ...
+        </p>
+      </div>
+      <div n="8" xml:id="text-8" type="text" data-level="1">
+        <head n="93">De elephante.</head>
+        <p xml:id="text-8-p-8">
+          <lb n="94"/>Item est bestia, elephans nomine ... intellectum magnum habet
+          <lb n="95"/>in se, concupiscentiam vero carnis minime in se habere dicitur. Tempore
+          <lb n="96"/>autem suo, cum voluerit filios procreare, vadit in orientem cum
+          <pb type="edition" n="129"/>
+          <lb n="97"/>femina sua usque in proximum paradisi. Est autem ibidem herba
+          <lb n="98"/>mandragora nomine. De cujus fructu femina prior degustet et tunc
+          <lb n="99"/>masculum illuc deducet, ut persuasus manducet. Postquam vero manducaverint
+          <lb n="100"/>ambo, conveniunt sibi statimque concipit. Cum autem
+          <lb n="101"/>venerit tempus pariendi, pergit ad lacum magnum et ingreditur usque
+          <lb n="102"/>ad ubera ejus et ibidem parturit super aquam et hoc propter
+          <lb n="103"/>draconem facit, qui insidiatur pullis ejus et illi ipsi. ... Isti ergo
+          <lb n="104"/>duo elephantes masculus et femina figuram habent Adam et Eve,
+          <lb n="105"/>qui erant in paradiso dei ante prevaricationem gloria circumdati,
+          <lb n="106"/>nescientes ullum malum, non concupiscencie desideria nec commixtionis
+          <lb n="107"/>cogitum
+          <foreign xml:lang="und-Latn-x-general">(l.</foreign>
+          coitum). Cum ergo de interdicta arbore gustavit
+          <lb n="108"/>mulier, ... tunc precipitati sunt de paradiso in hunc mundum,
+          <lb n="109"/>quasi in stagnum aquarum multarum. Quod aliquando aque presens
+          <lb n="110"/>seculum significat
+          <foreign xml:lang="und-Latn-x-general">(l.</foreign>
+          significant), ... David insinuat, cum dicit
+          <lb n="111"/>»Salvum me fac, deus ...«.
+        </p>
+      </div>
+      <div n="9" xml:id="text-9" type="text" data-level="1">
+        <head n="112">De autula.</head>
+        <p xml:id="text-9-p-9">
+          <lb n="113"/>Est et animal autula nomine, acerrimum nimis, ita ut nec ullus
+          <lb n="114"/>venatorum ei potest appropinquare. Habet enim cornua longa in
+          <lb n="115"/>similitudine serre, quibus secare potest maximas quercus; condensa
+          <lb n="116"/>et superflua queque arborum incidendo secat, in nullo resistens.
+          <lb n="117"/>Quando vero sitierit, venit ad flumen magnum Eufraten et bibit:
+          <lb n="118"/>sunt autem ibi virge viticee subtiles et molles. Incipit autem et animal
+          <lb n="119"/>illud ludere cum virgulis istis et in ludendo obligat semet ipsum120   cornu, obligatusque ambis cornibus vociferat[que] cum rugitu, quia
+          <pb type="edition" n="130"/>
+          <lb n="121"/>evadere non potest, gracilibus virgulis circumseptus. Et tunc quilibet
+          <lb n="122"/>venatorum absconditus, audiens vocem ejus, currit et ligatum inveniens
+          <lb n="123"/>occidit. ... et tu, homo, qui profeceris
+          <foreign xml:lang="und-Latn-x-general">(l.</foreign>
+          profiteris) abstinentiam,...
+          <lb n="124"/>abscidisti fore
+          <foreign xml:lang="und-Latn-x-general">(l.</foreign>
+          forte?) detractiones, cupitidates
+          <foreign xml:lang="und-Latn-x-general">(l.</foreign>
+          <lb n="125"/>cupiditates), libidines, silvam secularem et pompam diaboli ... Sed
+          <lb n="126"/>noli ludere cum vino, in quo est luxuria, nec te obliges et incidas in
+          <lb n="127"/>muscipulam adversarii ... vir autem sapiens et prudens a vino et
+          <lb n="128"/>muliere se avertit. ...
+        </p>
+      </div>
+      <div n="10" xml:id="text-10" type="text" data-level="1">
+        <head n="129">De Serra.</head>
+        <p xml:id="text-10-p-10">
+          <lb n="130"/>Est et animal in mari, quod dicitur serra, spinas habens prope se
+          <lb n="131"/>longiores; et cum viderit naves velificantes enatat ad eas erigensque
+          <lb n="132"/>pennas et caudam velificat sicut navis et contendit econtra. Cum
+          <lb n="133"/>diu fecerit talia, pennas ad se revocat, quia et lassitudine et unda
+          <lb n="134"/>revocatur in pristinum locum. Mare significat hunc mundum. Naves
+          <lb n="135"/>sunt prophete et apostoli, qui transierunt hunc mundum et vicerunt
+          <lb n="136"/>adversarias potestas
+          <foreign xml:lang="und-Latn-x-general">(l.</foreign>
+          potestates?) aeris
+          <foreign xml:lang="und-Latn-x-general">(l.</foreign>
+          aevi) hujus. Serra vero,
+          <lb n="137"/>que non potuit perseverare cum navibus, significat eos, qui temporaliter
+          <lb n="138"/>profitentur abstinentiam, sed non perseverant usque in
+          <lb n="139"/>finem ...
+        </p>
+      </div>
+      <div n="11" xml:id="text-11" type="text" data-level="1">
+        <pb type="edition" n="131"/>
+        <head n="140">De vipera.</head>
+        <p xml:id="text-11-p-11">
+          <lb n="141"/>... Phisiologus dicit de vipera sua. Quando coitum facit, masculus
+          <lb n="142"/>infert os ejus in feminam, et illa degluciens semen abscidit virilia
+          <lb n="143"/>ejusdem masculi, et moritur statim. ... Cum autem creverint catuli
+          <lb n="144"/>in ventre, viperam perforant, mordentes latus ejus et exeunt
+          <lb n="145"/>mortua matre. Vipere comparati sunt pharisei, obscenis operibus
+          <lb n="146"/>et desideriis servientes. Occiderunt parentem Christum et matrem
+          <lb n="147"/>ecclesiam persecuti sunt. Item in evangelio dicit »Estote prudentes
+          <lb n="148"/>sicut serpentes«. ... Tria sunt genera viperarum nocencium. Primum,
+          <lb n="149"/>quando senuerit, inpedimentum habet oculorum, ut non videat;
+          <lb n="150"/>sed vide quod faciat. Jeiunat enim XL diebus et XL noctibus, donec
+          <lb n="151"/>laxetur pellis ejus, tuncque vadens querit excissum petre et per ipsum
+          <lb n="152"/>transitum facit sicque exspoliatur et juvenis fit. ... Secunda
+          <lb n="153"/>natura draconis est, quando pergit ad bibendum, evomit omne prius
+          <lb n="154"/>venenum suum ... Imitemus et nos hujuscemodi draconem, ut,
+          <lb n="155"/>quando veniamus aquam bibere, id est sermones divinos in ecclesia
+          <lb n="156"/>dei audire, non afferamus nobiscum pulvereas et maculosas secularesque
+          <lb n="157"/>concupiscentias. ... Tertia vero natura draconis talis est,
+          <lb n="158"/>ut, cum viderit nudum hominem, timens fugiet
+          <foreign xml:lang="und-Latn-x-general">(l.</foreign>
+          fugiat) eum, si
+          <lb n="159"/>autem vestitum prospexerit, insiliet
+          <foreign xml:lang="und-Latn-x-general">(l.</foreign>
+          insiliat) super eum. Et nos
+          <pb type="edition" n="132"/>
+          <lb n="160"/>prudenter intelligamus, quando pater noster erat in paradiso nudus,
+          <lb n="161"/>non prevalebat adversus eum diabolus serpens antiquus.
+        </p>
+      </div>
+      <div n="12" xml:id="text-12" type="text" data-level="1">
+        <head n="162">De lacerta id est saura.</head>
+        <p xml:id="text-12-p-12">
+          <lb n="163"/>Est aquatite
+          <foreign xml:lang="und-Latn-x-general">(l.</foreign>
+          volatile) animal, quod lacerta dicitur, clarum ut
+          <lb n="164"/>sol. ... quando senuerit, utrisque oculis impeditur, ita ut nec solis
+          <lb n="165"/>lumen videat ... Inquirit parietem, adtendentem contra ori[g]entem
+          <lb n="166"/>solis et per foramen exit et apertis oculis renovatur. Sic et tu,
+          <lb n="167"/>homo, ... quando oculi tui cordis caligentur, quere locum intelligibilem
+          <lb n="168"/>orientem versus et ad solem justicie, Christum dominum nostrum
+          <lb n="169"/>Jhesum te converte, cujus nomen oriens dicitur, quatenus ...
+          <lb n="170"/>lucem misericordie sue ostendat tibi, qui illuminat omnem hominem
+          <lb n="171"/>in hunc mundum venientem.
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

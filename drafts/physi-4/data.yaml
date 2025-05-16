@@ -2,299 +2,315 @@ text:
 - body:
   - text[n=1]:
     - pb[type=edition,n=124]
-    - head: De leone.
+    - head[n=1]: De leone.
     - p:
-      - '* Igitur Jacob benedicens filium suum Juda dicebat »Catulus leonis'
-      - 'Juda filius ....« Tres naturas habet leo: prima, cum ambulat in'
-      - montibus vel silvis, si evenerit, ut queratur a venatoribus, et veniet
-      - ei odor venatoris ad nares, statim cum cauda delet post se vestigia sua
-      - quocumque ierit, ut non secutus venator vestigia capiat eum. Sic et
-      - dominus noster ... missus a sempiterno patre cooperuit intelligibilia
-      - deitatis sue vestigia. ... Cum dormierit leo, vigilant oculi ejus.
-      - In aperiendo * sicut et in cantico canticorum testatur sponsus de se
-      - ipso »Ego dormio et cor meum vigilat«.... Caro enim domini
-      - quievit, divinitas autem semper ad dexteram patris vigilat. ...
-      - Cum leena peperit catulum, mortuum
-      - choice:
-        - corr: eum
-        - sic: cum
-      - generans, custodit
-      - tribus diebus, donec veniens pater ejus die tertio sufflat in faciem ejus
-      - et vivificat eum. Sic et deus omnipotens pater filium suum dominum
-      - nostrum tertia die suscitavit a mortuis ...
+      - lb[n=2]: '* Igitur Jacob benedicens filium suum Juda dicebat »Catulus leonis'
+      - lb[n=3]: 'Juda filius ....« Tres naturas habet leo: prima, cum ambulat in'
+      - lb[n=4]: montibus vel silvis, si evenerit, ut queratur a venatoribus, et veniet
+      - lb[n=5]: ei odor venatoris ad nares, statim cum cauda delet post se vestigia
+          sua
+      - lb[n=6]: quocumque ierit, ut non secutus venator vestigia capiat eum. Sic
+          et
+      - lb[n=7]: dominus noster ... missus a sempiterno patre cooperuit intelligibilia
+      - lb[n=8]: deitatis sue vestigia. ... Cum dormierit leo, vigilant oculi ejus.
+      - lb[n=9]: In aperiendo * sicut et in cantico canticorum testatur sponsus de
+          se
+      - lb[n=10]: ipso »Ego dormio et cor meum vigilat«.... Caro enim domini
+      - lb[n=11]: quievit, divinitas autem semper ad dexteram patris vigilat. ...
+      - lb[n=12]:
+        - Cum leena peperit catulum, mortuum cum
+        - foreign[lg=und-Latn-x-general]: (l.
+        - eum)
+        - generans, custodit
+      - lb[n=13]: tribus diebus, donec veniens pater ejus die tertio sufflat in faciem
+          ejus
+      - lb[n=14]: et vivificat eum. Sic et deus omnipotens pater filium suum dominum
+      - lb[n=15]: nostrum tertia die suscitavit a mortuis ...
   - text[n=2]:
-    - head: De panthera.
+    - head[n=16]: De panthera.
     - p:
-      - Est et animal, quod dicitur panthera, vario quidem colore, sed
-      - speciosum nimis et mansuetum valde. Physiologus dicit, quod inimicum
-      - pb[type=edition,n=125]
-      - sit solis draconibus. Cum [commederit] consaciaverit se diversis
-      - venationibus, recipitur in speluncam suam ponensque se dormit
-      - per triduum. Surgens autem a somno statim emittit rugitum peraltum
-      - simulque odorem nimie suavitatis emittit cum rugitu, ita ut odor
-      - istius modo precellat omnia aromata et pigmenta. Cum ergo audierint
-      - vocem ejus omnes bestie, quae prope sunt vel longe, congregantes
-      - se omnes nimiam suavitatem illius secuntur. Solus autem draco, cum
-      - audierit vocem ejus, abscondit se in subterraneis speluncis; ibi autem ...
-      - obstupescit immobilis inanisque velut mortuus. ... Sic et dominus
-      - noster ... omne genus humanum ... per incarnationem suam ad
-      - se trahens ... dedit dona hominibus. ... Quia panthera varium
-      - est animal, significat Christum, qui est inconprehensibilis sapientia ...
-      - 'et preciosum animal est panthera : ita et Christus, veluti David dicit ...'
-      - »Speciosus forma pre filiis hominum«. Ergo et mansuetum est animal,
-      - sicut Isayas de Christo »Gaude et letare, filia Syon, quoniam rex tuus
-      - veniet tibi mansuetus et salvans«. ... dominus noster Jesus Christus,
-      - postquam satiatus est a judaicis illusionibus, ad ultimum cruce
-      - suspensus ... dormivit ac requievit in sepulchro; in infernum religavit
-      - illum draconem magnum, generis humani maximum antiquum
-      - inimicum. ... tertia die surgens a mortuis ... statim exclamat
-      - ita, ut in omnem terram audiretur vox ...
+      - lb[n=17]: Est et animal, quod dicitur panthera, vario quidem colore, sed
+      - lb[n=18]:
+        - speciosum nimis et mansuetum valde. Physiologus dicit, quod inimicum
+        - pb[type=edition,n=125]
+      - lb[n=19]: sit solis draconibus. Cum [commederit] consaciaverit se diversis
+      - lb[n=20]: venationibus, recipitur in speluncam suam ponensque se dormit
+      - lb[n=21]: per triduum. Surgens autem a somno statim emittit rugitum peraltum
+      - lb[n=22]: simulque odorem nimie suavitatis emittit cum rugitu, ita ut odor
+      - lb[n=23]: istius modo precellat omnia aromata et pigmenta. Cum ergo audierint
+      - lb[n=24]: vocem ejus omnes bestie, quae prope sunt vel longe, congregantes
+      - lb[n=25]: se omnes nimiam suavitatem illius secuntur. Solus autem draco, cum
+      - lb[n=26]: audierit vocem ejus, abscondit se in subterraneis speluncis; ibi
+          autem ...
+      - lb[n=27]: obstupescit immobilis inanisque velut mortuus. ... Sic et dominus
+      - lb[n=28]: noster ... omne genus humanum ... per incarnationem suam ad
+      - lb[n=29]: se trahens ... dedit dona hominibus. ... Quia panthera varium
+      - lb[n=30]: est animal, significat Christum, qui est inconprehensibilis sapientia
+          ...
+      - lb[n=31]: 'et preciosum animal est panthera : ita et Christus, veluti David
+          dicit ...'
+      - lb[n=32]: »Speciosus forma pre filiis hominum«. Ergo et mansuetum est animal,
+      - lb[n=33]: sicut Isayas de Christo »Gaude et letare, filia Syon, quoniam rex
+          tuus
+      - lb[n=34]: veniet tibi mansuetus et salvans«. ... dominus noster Jesus Christus,
+      - lb[n=35]: postquam satiatus est a judaicis illusionibus, ad ultimum cruce
+      - lb[n=36]: suspensus ... dormivit ac requievit in sepulchro; in infernum religavit
+      - lb[n=37]: illum draconem magnum, generis humani maximum antiquum
+      - lb[n=38]: inimicum. ... tertia die surgens a mortuis ... statim exclamat
+      - lb[n=39]: ita, ut in omnem terram audiretur vox ...
   - text[n=3]:
     - pb[type=edition,n=126]
-    - head: Monoceros.
+    - head[n=40]: Monoceros.
     - p:
-      - Est aliud animal, quod graece dicitur monoceros, latine vero unicornis.
-      - Phisiologus dicit, ... quod sit pusillum animal ... acerrimumque
-      - habet in capite unum cornu atque nullus venatorum eum
-      - capere potest. Sed hoc argumento capiunt illum, ducunt puellam
-      - virginem in illum locum, ubi moratur; ... ille autem mox, ut viderit
-      - eam, salit in sinum virginis et complectitur eam, sicque comprehenditur ...
-      - Quod autem unum cornu habet, significat hoc, quod
-      - Christus dicit »Ego et pater unus sumus«. Capud autem Christi deus ...
-      - Pusillum est animal propter incarnationis ejus humilitatem ... Qui
-      - in tantum est acerrimus, ut subtilissimus diabolus intelligere et investigare
-      - incarnationis ejus misterium non valet, sed sola voluntate
-      - patris descendit in uterum virginis et verbum caro factum est.
+      - lb[n=41]: Est aliud animal, quod graece dicitur monoceros, latine vero unicornis.
+      - lb[n=42]: Phisiologus dicit, ... quod sit pusillum animal ... acerrimumque
+      - lb[n=43]: habet in capite unum cornu atque nullus venatorum eum
+      - lb[n=44]: capere potest. Sed hoc argumento capiunt illum, ducunt puellam
+      - lb[n=45]: virginem in illum locum, ubi moratur; ... ille autem mox, ut viderit
+      - lb[n=46]: eam, salit in sinum virginis et complectitur eam, sicque comprehenditur
+          ...
+      - lb[n=47]: Quod autem unum cornu habet, significat hoc, quod
+      - lb[n=48]: Christus dicit »Ego et pater unus sumus«. Capud autem Christi deus
+          ...
+      - lb[n=49]: Pusillum est animal propter incarnationis ejus humilitatem ... Qui
+      - lb[n=50]: in tantum est acerrimus, ut subtilissimus diabolus intelligere et
+          investigare
+      - lb[n=51]: incarnationis ejus misterium non valet, sed sola voluntate
+      - lb[n=52]: patris descendit in uterum virginis et verbum caro factum est.
   - text[n=4]:
-    - head: De ydro.
+    - head[n=53]: De ydro.
     - p:
-      - Est et aliud animal, quod est in Nilo flumine et vocatur hydrus. ...
-      - satis hoc animal inimicum est corcodrillo. ... Cum viderit corcodrillum
-      - in litore fluminis dormientem ore aperto, vadit et
-      - choice:
-        - corr: volutat
-        - sic: volitat
-      - se in luto ... veniensque insiliet in os corcodrilli, qui subito
-      - pb[type=edition,n=127]
-      - vivum transgluciet. Hydrus autem dilanians omnia viscera ejus, exiet
-      - vivus de visceribus ejus, corcodrillo jam mortuo ... et significat
-      - mortem et infernum vel unumquemque inimicum salvatoris, qui tamen
-      - assumta mortali natura carne descendit in infernum ... eduxitque
-      - pene omnes, qui ab eo devorati tenebantur in morte ...
+      - lb[n=54]: Est et aliud animal, quod est in Nilo flumine et vocatur hydrus.
+          ...
+      - lb[n=55]: satis hoc animal inimicum est corcodrillo. ... Cum viderit corcodrillum
+      - lb[n=56]: in litore fluminis dormientem ore aperto, vadit et volitat
+      - lb[n=57]:
+        - foreign[lg=und-Latn-x-general]: (l.
+        - volutat)
+        - se in luto ... veniensque insiliet in os corcodrilli, qui subito
+        - pb[type=edition,n=127]
+      - lb[n=58]: vivum transgluciet. Hydrus autem dilanians omnia viscera ejus, exiet
+      - lb[n=59]: vivus de visceribus ejus, corcodrillo jam mortuo ... et significat
+      - lb[n=60]: mortem et infernum vel unumquemque inimicum salvatoris, qui tamen
+      - lb[n=61]: assumta mortali natura carne descendit in infernum ... eduxitque
+      - lb[n=62]: pene omnes, qui ab eo devorati tenebantur in morte ...
   - text[n=5]:
-    - head: De sirenis et onocenthauris.
+    - head[n=63]: De sirenis et onocenthauris.
     - p:
-      - '... Sirene ... animalia sunt mortifera, que [a capite] usque ad'
-      - umbilicum figuram femine habent. Extrema
-      - choice:
-        - corr: parte
-        - sic: pars
-      - '[usque'
-      - ad pedes] volatilis imaginem tenent atque musicum quoddam dulcissimum
-      - melodie carmen
-      - choice:
-        - corr: canunt
-        - sic: canant
-      - ','
-      - per quod homines navigantes
-      - decipiuntur, ita ut
-      - choice:
-        - corr: per auditum demulcentem?
-        - sic: persepe auditum demulcentes
-      - sensumque
-      - choice:
-        - corr: delenientem?
-        - sic: delimentes
-      - in
-      - soporem
-      - choice:
-        - corr: vertantur
-        - sic: vertuntur
-      - .
-      - Et tunc ille videntes,
-      - choice:
-        - corr: eos
-        - sic: eo
-      - esse sopitos, invadunt et laniant carnes eorum. Sic igitur decipiuntur
-      - illi, qui diabolicis pompis et theatralibus voluptatibus
-      - choice:
-        - corr: delectari
-        - sic: delectari
-      - '... efficiuntur ad'
-      - choice:
-        - corr: adversarii avidissimi ?
-        - sic: adverse virtutis avidissima
-      - preda. Eo modo onocenthaurus duabus naturis
-      - constat ... Nam superior pars homini similis est posteriorque asino
-      - similis. ... Per hunc assimilantur vecordes et bilingues homines,
-      - moribus informes, habentes speciem pietatis, virtutem ejus
-      - abnegantes ...
+      - lb[n=64]: '... Sirene ... animalia sunt mortifera, que [a capite] usque ad'
+      - lb[n=65]:
+        - umbilicum figuram femine habent. Extrema pars
+        - foreign[lg=und-Latn-x-general]: (l.
+        - parte)
+        - '[usque'
+      - lb[n=66]: ad pedes] volatilis imaginem tenent atque musicum quoddam dulcissimum
+      - lb[n=67]:
+        - melodie carmen canant
+        - foreign[lg=und-Latn-x-general]: (l.
+        - canunt),
+        - per quod homines navigantes
+      - lb[n=68]:
+        - decipiuntur, ita ut persepe auditum demulcentes
+        - foreign[lg=und-Latn-x-general]: (l.
+        - per
+      - lb[n=69]:
+        - auditum demulcentem?) sensumque delimentes
+        - foreign[lg=und-Latn-x-general]: (l.
+        - delenientem?)
+        - in
+      - lb[n=70]:
+        - soporem vertuntur
+        - foreign[lg=und-Latn-x-general]: (l.
+        - vertantur).
+        - Et tunc ille videntes, eo
+        - foreign[lg=und-Latn-x-general]: (l.
+        - eos)
+      - lb[n=71]: esse sopitos, invadunt et laniant carnes eorum. Sic igitur decipiuntur
+      - lb[n=72]: illi, qui diabolicis pompis et theatralibus voluptatibus delectari
+      - lb[n=73]:
+        - foreign[lg=und-Latn-x-general]: (l.
+        - delectari)
+        - '... efficiuntur ad adverse virtutis avidissima'
+        - foreign[lg=und-Latn-x-general]: (l.
+        - adversarii
+      - lb[n=74]: avidissimi ?) preda. Eo modo onocenthaurus duabus naturis
+      - lb[n=75]: constat ... Nam superior pars homini similis est posteriorque asino
+      - lb[n=76]: similis. ... Per hunc assimilantur vecordes et bilingues homines,
+      - lb[n=77]: moribus informes, habentes speciem pietatis, virtutem ejus
+      - lb[n=78]: abnegantes ...
   - text[n=6]:
     - pb[type=edition,n=128]
-    - head: De hiena.
+    - head[n=79]: De hiena.
     - p:
-      - Est et aliud animal, quod graece
-      - choice:
-        - corr: dicitur
-        - sic: dicunt
-      - hiena ...
-      - aliquando quidem masculus, aliquando quidem femina est et ideo inmundum
-      - animal est. Cui similes estimati sunt filii Israal, qui primum
-      - dominum suum coluere, postea ... idola coluerunt. ... id
-      - est nec fidelis nec perfidus, sed sicut Salemon dicit »Vir duplex corde
-      - inconstans est in omnibus viis suis«.
+      - lb[n=80]:
+        - Est et aliud animal, quod graece dicunt
+        - foreign[lg=und-Latn-x-general]: (l.
+        - dicitur)
+        - hiena ...
+      - lb[n=81]: aliquando quidem masculus, aliquando quidem femina est et ideo inmundum
+      - lb[n=82]: animal est. Cui similes estimati sunt filii Israal, qui primum
+      - lb[n=83]: dominum suum coluere, postea ... idola coluerunt. ... id
+      - lb[n=84]: est nec fidelis nec perfidus, sed sicut Salemon dicit »Vir duplex
+          corde
+      - lb[n=85]: inconstans est in omnibus viis suis«.
   - text[n=7]:
-    - head: De onagro.
+    - head[n=86]: De onagro.
     - p:
-      - Est et animal aliud, quod dicitur onager ... XXV. die mensis
-      - faminoltt, qui est
-      - choice:
-        - corr: martii
-        - sic: martus
-      - choice:
-        - corr: duodecimus ?
-        - sic: duodecies
-      - ','
-      - in
-      - nocte
-      - choice:
-        - corr: rugiet
-        - sic: ruget
-      - ','
-      - similiter et die, tunc quia cognoscitur, quod
-      - equinoctium sit et dies noctesque ex numero horarum adequantur.
-      - Onager igitur figuram diaboli gerit ... Neque rugiet aliquando, nisi
-      - quando escam querit ...
+      - lb[n=87]: Est et animal aliud, quod dicitur onager ... XXV. die mensis
+      - lb[n=88]:
+        - faminoltt, qui est martus
+        - foreign[lg=und-Latn-x-general]: (l.
+        - martii)
+        - duodecies
+        - foreign[lg=und-Latn-x-general]: (l.
+        - duodecimus ?),
+        - in
+      - lb[n=89]:
+        - nocte ruget
+        - foreign[lg=und-Latn-x-general]: (l.
+        - rugiet),
+        - similiter et die, tunc quia cognoscitur, quod
+      - lb[n=90]: equinoctium sit et dies noctesque ex numero horarum adequantur.
+      - lb[n=91]: Onager igitur figuram diaboli gerit ... Neque rugiet aliquando,
+          nisi
+      - lb[n=92]: quando escam querit ...
   - text[n=8]:
-    - head: De elephante.
+    - head[n=93]: De elephante.
     - p:
-      - Item est bestia, elephans nomine ... intellectum magnum habet
-      - in se, concupiscentiam vero carnis minime in se habere dicitur. Tempore
-      - autem suo, cum voluerit filios procreare, vadit in orientem cum
-      - pb[type=edition,n=129]
-      - femina sua usque in proximum paradisi. Est autem ibidem herba
-      - mandragora nomine. De cujus fructu femina prior degustet et tunc
-      - masculum illuc deducet, ut persuasus manducet. Postquam vero manducaverint
-      - ambo, conveniunt sibi statimque concipit. Cum autem
-      - venerit tempus pariendi, pergit ad lacum magnum et ingreditur usque
-      - ad ubera ejus et ibidem parturit super aquam et hoc propter
-      - draconem facit, qui insidiatur pullis ejus et illi ipsi. ... Isti ergo
-      - duo elephantes masculus et femina figuram habent Adam et Eve,
-      - qui erant in paradiso dei ante prevaricationem gloria circumdati,
-      - nescientes ullum malum, non concupiscencie desideria nec commixtionis
-      - choice:
-        - corr: coitum
-        - sic: cogitum
-      - .
-      - Cum ergo de interdicta arbore gustavit
-      - mulier, ... tunc precipitati sunt de paradiso in hunc mundum,
-      - quasi in stagnum aquarum multarum. Quod aliquando aque presens
-      - seculum
-      - choice:
-        - corr: significant
-        - sic: significat
-      - ','
-      - '... David insinuat, cum dicit'
-      - »Salvum me fac, deus ...«.
+      - lb[n=94]: Item est bestia, elephans nomine ... intellectum magnum habet
+      - lb[n=95]: in se, concupiscentiam vero carnis minime in se habere dicitur.
+          Tempore
+      - lb[n=96]:
+        - autem suo, cum voluerit filios procreare, vadit in orientem cum
+        - pb[type=edition,n=129]
+      - lb[n=97]: femina sua usque in proximum paradisi. Est autem ibidem herba
+      - lb[n=98]: mandragora nomine. De cujus fructu femina prior degustet et tunc
+      - lb[n=99]: masculum illuc deducet, ut persuasus manducet. Postquam vero manducaverint
+      - lb[n=100]: ambo, conveniunt sibi statimque concipit. Cum autem
+      - lb[n=101]: venerit tempus pariendi, pergit ad lacum magnum et ingreditur usque
+      - lb[n=102]: ad ubera ejus et ibidem parturit super aquam et hoc propter
+      - lb[n=103]: draconem facit, qui insidiatur pullis ejus et illi ipsi. ... Isti
+          ergo
+      - lb[n=104]: duo elephantes masculus et femina figuram habent Adam et Eve,
+      - lb[n=105]: qui erant in paradiso dei ante prevaricationem gloria circumdati,
+      - lb[n=106]: nescientes ullum malum, non concupiscencie desideria nec commixtionis
+      - lb[n=107]:
+        - cogitum
+        - foreign[lg=und-Latn-x-general]: (l.
+        - coitum).
+        - Cum ergo de interdicta arbore gustavit
+      - lb[n=108]: mulier, ... tunc precipitati sunt de paradiso in hunc mundum,
+      - lb[n=109]: quasi in stagnum aquarum multarum. Quod aliquando aque presens
+      - lb[n=110]:
+        - seculum significat
+        - foreign[lg=und-Latn-x-general]: (l.
+        - significant),
+        - '... David insinuat, cum dicit'
+      - lb[n=111]: »Salvum me fac, deus ...«.
   - text[n=9]:
-    - head: De autula.
+    - head[n=112]: De autula.
     - p:
-      - Est et animal autula nomine, acerrimum nimis, ita ut nec ullus
-      - venatorum ei potest appropinquare. Habet enim cornua longa in
-      - similitudine serre, quibus secare potest maximas quercus; condensa
-      - et superflua queque arborum incidendo secat, in nullo resistens.
-      - 'Quando vero sitierit, venit ad flumen magnum Eufraten et bibit:'
-      - sunt autem ibi virge viticee subtiles et molles. Incipit autem et animal
-      - illud ludere cum virgulis istis et in ludendo obligat semet ipsum120   cornu,
-        obligatusque ambis cornibus vociferat[que] cum rugitu, quia
-      - pb[type=edition,n=130]
-      - evadere non potest, gracilibus virgulis circumseptus. Et tunc quilibet
-      - venatorum absconditus, audiens vocem ejus, currit et ligatum inveniens
-      - occidit. ... et tu, homo, qui
-      - choice:
-        - corr: profiteris
-        - sic: profeceris
-      - abstinentiam,...
-      - abscidisti
-      - choice:
-        - corr: forte?
-        - sic: fore
-      - detractiones,
-      - choice:
-        - corr: cupiditates
-        - sic: cupitidates
-      - ','
-      - libidines, silvam secularem et pompam diaboli ... Sed
-      - noli ludere cum vino, in quo est luxuria, nec te obliges et incidas in
-      - muscipulam adversarii ... vir autem sapiens et prudens a vino et
-      - muliere se avertit. ...
+      - lb[n=113]: Est et animal autula nomine, acerrimum nimis, ita ut nec ullus
+      - lb[n=114]: venatorum ei potest appropinquare. Habet enim cornua longa in
+      - lb[n=115]: similitudine serre, quibus secare potest maximas quercus; condensa
+      - lb[n=116]: et superflua queque arborum incidendo secat, in nullo resistens.
+      - lb[n=117]: 'Quando vero sitierit, venit ad flumen magnum Eufraten et bibit:'
+      - lb[n=118]: sunt autem ibi virge viticee subtiles et molles. Incipit autem
+          et animal
+      - lb[n=119]:
+        - illud ludere cum virgulis istis et in ludendo obligat semet ipsum120   cornu,
+          obligatusque ambis cornibus vociferat[que] cum rugitu, quia
+        - pb[type=edition,n=130]
+      - lb[n=121]: evadere non potest, gracilibus virgulis circumseptus. Et tunc quilibet
+      - lb[n=122]: venatorum absconditus, audiens vocem ejus, currit et ligatum inveniens
+      - lb[n=123]:
+        - occidit. ... et tu, homo, qui profeceris
+        - foreign[lg=und-Latn-x-general]: (l.
+        - profiteris)
+        - abstinentiam,...
+      - lb[n=124]:
+        - abscidisti fore
+        - foreign[lg=und-Latn-x-general]: (l.
+        - forte?)
+        - detractiones, cupitidates
+        - foreign[lg=und-Latn-x-general]: (l.
+      - lb[n=125]: cupiditates), libidines, silvam secularem et pompam diaboli ...
+          Sed
+      - lb[n=126]: noli ludere cum vino, in quo est luxuria, nec te obliges et incidas
+          in
+      - lb[n=127]: muscipulam adversarii ... vir autem sapiens et prudens a vino et
+      - lb[n=128]: muliere se avertit. ...
   - text[n=10]:
-    - head: De Serra.
+    - head[n=129]: De Serra.
     - p:
-      - Est et animal in mari, quod dicitur serra, spinas habens prope se
-      - longiores; et cum viderit naves velificantes enatat ad eas erigensque
-      - pennas et caudam velificat sicut navis et contendit econtra. Cum
-      - diu fecerit talia, pennas ad se revocat, quia et lassitudine et unda
-      - revocatur in pristinum locum. Mare significat hunc mundum. Naves
-      - sunt prophete et apostoli, qui transierunt hunc mundum et vicerunt
-      - adversarias
-      - choice:
-        - corr: potestates?
-        - sic: potestas
-      - choice:
-        - corr: aevi
-        - sic: aeris
-      - hujus. Serra vero,
-      - que non potuit perseverare cum navibus, significat eos, qui temporaliter
-      - profitentur abstinentiam, sed non perseverant usque in
-      - finem ...
+      - lb[n=130]: Est et animal in mari, quod dicitur serra, spinas habens prope
+          se
+      - lb[n=131]: longiores; et cum viderit naves velificantes enatat ad eas erigensque
+      - lb[n=132]: pennas et caudam velificat sicut navis et contendit econtra. Cum
+      - lb[n=133]: diu fecerit talia, pennas ad se revocat, quia et lassitudine et
+          unda
+      - lb[n=134]: revocatur in pristinum locum. Mare significat hunc mundum. Naves
+      - lb[n=135]: sunt prophete et apostoli, qui transierunt hunc mundum et vicerunt
+      - lb[n=136]:
+        - adversarias potestas
+        - foreign[lg=und-Latn-x-general]: (l.
+        - potestates?)
+        - aeris
+        - foreign[lg=und-Latn-x-general]: (l.
+        - aevi)
+        - hujus. Serra vero,
+      - lb[n=137]: que non potuit perseverare cum navibus, significat eos, qui temporaliter
+      - lb[n=138]: profitentur abstinentiam, sed non perseverant usque in
+      - lb[n=139]: finem ...
   - text[n=11]:
     - pb[type=edition,n=131]
-    - head: De vipera.
+    - head[n=140]: De vipera.
     - p:
-      - '... Phisiologus dicit de vipera sua. Quando coitum facit, masculus'
-      - infert os ejus in feminam, et illa degluciens semen abscidit virilia
-      - ejusdem masculi, et moritur statim. ... Cum autem creverint catuli
-      - in ventre, viperam perforant, mordentes latus ejus et exeunt
-      - mortua matre. Vipere comparati sunt pharisei, obscenis operibus
-      - et desideriis servientes. Occiderunt parentem Christum et matrem
-      - ecclesiam persecuti sunt. Item in evangelio dicit »Estote prudentes
-      - sicut serpentes«. ... Tria sunt genera viperarum nocencium. Primum,
-      - quando senuerit, inpedimentum habet oculorum, ut non videat;
-      - sed vide quod faciat. Jeiunat enim XL diebus et XL noctibus, donec
-      - laxetur pellis ejus, tuncque vadens querit excissum petre et per ipsum
-      - transitum facit sicque exspoliatur et juvenis fit. ... Secunda
-      - natura draconis est, quando pergit ad bibendum, evomit omne prius
-      - venenum suum ... Imitemus et nos hujuscemodi draconem, ut,
-      - quando veniamus aquam bibere, id est sermones divinos in ecclesia
-      - dei audire, non afferamus nobiscum pulvereas et maculosas secularesque
-      - concupiscentias. ... Tertia vero natura draconis talis est,
-      - ut, cum viderit nudum hominem, timens
-      - choice:
-        - corr: fugiat
-        - sic: fugiet
-      - eum, si
-      - autem vestitum prospexerit,
-      - choice:
-        - corr: insiliat
-        - sic: insiliet
-      - super eum. Et nos
-      - pb[type=edition,n=132]
-      - prudenter intelligamus, quando pater noster erat in paradiso nudus,
-      - non prevalebat adversus eum diabolus serpens antiquus.
+      - lb[n=141]: '... Phisiologus dicit de vipera sua. Quando coitum facit, masculus'
+      - lb[n=142]: infert os ejus in feminam, et illa degluciens semen abscidit virilia
+      - lb[n=143]: ejusdem masculi, et moritur statim. ... Cum autem creverint catuli
+      - lb[n=144]: in ventre, viperam perforant, mordentes latus ejus et exeunt
+      - lb[n=145]: mortua matre. Vipere comparati sunt pharisei, obscenis operibus
+      - lb[n=146]: et desideriis servientes. Occiderunt parentem Christum et matrem
+      - lb[n=147]: ecclesiam persecuti sunt. Item in evangelio dicit »Estote prudentes
+      - lb[n=148]: sicut serpentes«. ... Tria sunt genera viperarum nocencium. Primum,
+      - lb[n=149]: quando senuerit, inpedimentum habet oculorum, ut non videat;
+      - lb[n=150]: sed vide quod faciat. Jeiunat enim XL diebus et XL noctibus, donec
+      - lb[n=151]: laxetur pellis ejus, tuncque vadens querit excissum petre et per
+          ipsum
+      - lb[n=152]: transitum facit sicque exspoliatur et juvenis fit. ... Secunda
+      - lb[n=153]: natura draconis est, quando pergit ad bibendum, evomit omne prius
+      - lb[n=154]: venenum suum ... Imitemus et nos hujuscemodi draconem, ut,
+      - lb[n=155]: quando veniamus aquam bibere, id est sermones divinos in ecclesia
+      - lb[n=156]: dei audire, non afferamus nobiscum pulvereas et maculosas secularesque
+      - lb[n=157]: concupiscentias. ... Tertia vero natura draconis talis est,
+      - lb[n=158]:
+        - ut, cum viderit nudum hominem, timens fugiet
+        - foreign[lg=und-Latn-x-general]: (l.
+        - fugiat)
+        - eum, si
+      - lb[n=159]:
+        - autem vestitum prospexerit, insiliet
+        - foreign[lg=und-Latn-x-general]: (l.
+        - insiliat)
+        - super eum. Et nos
+        - pb[type=edition,n=132]
+      - lb[n=160]: prudenter intelligamus, quando pater noster erat in paradiso nudus,
+      - lb[n=161]: non prevalebat adversus eum diabolus serpens antiquus.
   - text[n=12]:
-    - head: De lacerta id est saura.
+    - head[n=162]: De lacerta id est saura.
     - p:
-      - Est
-      - choice:
-        - corr: volatile
-        - sic: aquatite
-      - animal, quod lacerta dicitur, clarum ut
-      - sol. ... quando senuerit, utrisque oculis impeditur, ita ut nec solis
-      - lumen videat ... Inquirit parietem, adtendentem contra ori[g]entem
-      - solis et per foramen exit et apertis oculis renovatur. Sic et tu,
-      - homo, ... quando oculi tui cordis caligentur, quere locum intelligibilem
-      - orientem versus et ad solem justicie, Christum dominum nostrum
-      - Jhesum te converte, cujus nomen oriens dicitur, quatenus ...
-      - lucem misericordie sue ostendat tibi, qui illuminat omnem hominem
-      - in hunc mundum venientem.
+      - lb[n=163]:
+        - Est aquatite
+        - foreign[lg=und-Latn-x-general]: (l.
+        - volatile)
+        - animal, quod lacerta dicitur, clarum ut
+      - lb[n=164]: sol. ... quando senuerit, utrisque oculis impeditur, ita ut nec
+          solis
+      - lb[n=165]: lumen videat ... Inquirit parietem, adtendentem contra ori[g]entem
+      - lb[n=166]: solis et per foramen exit et apertis oculis renovatur. Sic et tu,
+      - lb[n=167]: homo, ... quando oculi tui cordis caligentur, quere locum intelligibilem
+      - lb[n=168]: orientem versus et ad solem justicie, Christum dominum nostrum
+      - lb[n=169]: Jhesum te converte, cujus nomen oriens dicitur, quatenus ...
+      - lb[n=170]: lucem misericordie sue ostendat tibi, qui illuminat omnem hominem
+      - lb[n=171]: in hunc mundum venientem.
