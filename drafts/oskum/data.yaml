@@ -10369,3 +10369,16 @@ text:
             - orig:
               - foreign[lg=osc-Ital-x-origscr]: ARR(Ú)N(TIIS)
             - reg: ARR(Ú)N(TIIS)
+facsimiles:
+- facsimile:
+  - surface[id=facs-1]:
+    - graphic[url=https://titus.uni-frankfurt.de/texte/etcs/ital/oskumb/tb1.jpg]:
+- facsimile:
+  - surface[id=facs-2]:
+    - graphic[url=https://titus.uni-frankfurt.de/texte/etcs/ital/oskumb/mfritz01.jpg]:
+- facsimile:
+  - surface[id=facs-3]:
+    - graphic[url=https://titus.uni-frankfurt.de/texte/etcs/ital/oskumb/iguv6a.jpg]:
+- facsimile:
+  - surface[id=facs-4]:
+    - graphic[url=https://titus.uni-frankfurt.de/texte/etcs/ital/oskumb/iguv1a.jpg]:

@@ -34,6 +34,26 @@
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
+	<facsimile>
+		<surface xml:id="facs-1">
+			<graphic url="https://titus.uni-frankfurt.de/texte/etcs/ital/oskumb/tb1.jpg" />
+		</surface>
+	</facsimile>
+	<facsimile>
+		<surface xml:id="facs-2">
+			<graphic url="https://titus.uni-frankfurt.de/texte/etcs/ital/oskumb/mfritz01.jpg" />
+		</surface>
+	</facsimile>
+	<facsimile>
+		<surface xml:id="facs-3">
+			<graphic url="https://titus.uni-frankfurt.de/texte/etcs/ital/oskumb/iguv6a.jpg" />
+		</surface>
+	</facsimile>
+	<facsimile>
+		<surface xml:id="facs-4">
+			<graphic url="https://titus.uni-frankfurt.de/texte/etcs/ital/oskumb/iguv1a.jpg" />
+		</surface>
+	</facsimile>
 	<text xml:lang="osc-Ital">
 		<body>
 			<div n="IT" xml:id="inscription-group-1" type="inscription-group" data-level="1">
