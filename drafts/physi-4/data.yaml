@@ -17,11 +17,12 @@ text:
           se
       - lb[n=10]: ipso »Ego dormio et cor meum vigilat«.... Caro enim domini
       - lb[n=11]: quievit, divinitas autem semper ad dexteram patris vigilat. ...
-      - lb[n=12]:
-        - Cum leena peperit catulum, mortuum cum
-        - foreign[lg=und-Latn-x-general]: (l.
-        - eum)
-        - generans, custodit
+      - lb[n=12]
+      - Cum leena peperit catulum, mortuum
+      - choice:
+        - corr: eum
+        - sic: cum
+      - generans, custodit
       - lb[n=13]: tribus diebus, donec veniens pater ejus die tertio sufflat in faciem
           ejus
       - lb[n=14]: et vivificat eum. Sic et deus omnipotens pater filium suum dominum
@@ -30,9 +31,9 @@ text:
     - head[n=16]: De panthera.
     - p:
       - lb[n=17]: Est et animal, quod dicitur panthera, vario quidem colore, sed
-      - lb[n=18]:
-        - speciosum nimis et mansuetum valde. Physiologus dicit, quod inimicum
-        - pb[type=edition,n=125]
+      - lb[n=18]
+      - speciosum nimis et mansuetum valde. Physiologus dicit, quod inimicum
+      - pb[type=edition,n=125]
       - lb[n=19]: sit solis draconibus. Cum [commederit] consaciaverit se diversis
       - lb[n=20]: venationibus, recipitur in speluncam suam ponensque se dormit
       - lb[n=21]: per triduum. Surgens autem a somno statim emittit rugitum peraltum
@@ -84,11 +85,12 @@ text:
           ...
       - lb[n=55]: satis hoc animal inimicum est corcodrillo. ... Cum viderit corcodrillum
       - lb[n=56]: in litore fluminis dormientem ore aperto, vadit et volitat
-      - lb[n=57]:
-        - foreign[lg=und-Latn-x-general]: (l.
-        - volutat)
-        - se in luto ... veniensque insiliet in os corcodrilli, qui subito
-        - pb[type=edition,n=127]
+      - in litore fluminis dormientem ore aperto, vadit et
+      - choice:
+        - corr: volutat
+        - sic: volitat
+      - se in luto ... veniensque insiliet in os corcodrilli, qui subito
+      - pb[type=edition,n=127]
       - lb[n=58]: vivum transgluciet. Hydrus autem dilanians omnia viscera ejus, exiet
       - lb[n=59]: vivus de visceribus ejus, corcodrillo jam mortuo ... et significat
       - lb[n=60]: mortem et infernum vel unumquemque inimicum salvatoris, qui tamen
@@ -98,41 +100,46 @@ text:
     - head[n=63]: De sirenis et onocenthauris.
     - p:
       - lb[n=64]: '... Sirene ... animalia sunt mortifera, que [a capite] usque ad'
-      - lb[n=65]:
-        - umbilicum figuram femine habent. Extrema pars
-        - foreign[lg=und-Latn-x-general]: (l.
-        - parte)
-        - '[usque'
+      - lb[n=65]
+      - umbilicum figuram femine habent. Extrema
+      - choice:
+        - corr: parte
+        - sic: pars
+      - '[usque'
       - lb[n=66]: ad pedes] volatilis imaginem tenent atque musicum quoddam dulcissimum
-      - lb[n=67]:
-        - melodie carmen canant
-        - foreign[lg=und-Latn-x-general]: (l.
-        - canunt),
-        - per quod homines navigantes
-      - lb[n=68]:
-        - decipiuntur, ita ut persepe auditum demulcentes
-        - foreign[lg=und-Latn-x-general]: (l.
-        - per
-      - lb[n=69]:
-        - auditum demulcentem?) sensumque delimentes
-        - foreign[lg=und-Latn-x-general]: (l.
-        - delenientem?)
-        - in
-      - lb[n=70]:
-        - soporem vertuntur
-        - foreign[lg=und-Latn-x-general]: (l.
-        - vertantur).
-        - Et tunc ille videntes, eo
-        - foreign[lg=und-Latn-x-general]: (l.
-        - eos)
+      - lb[n=67]
+      - melodie carmen
+      - choice:
+        - corr: canunt
+        - sic: canant
+      - ','
+      - per quod homines navigantes
+      - lb[n=68]
+      - decipiuntur, ita ut persepe auditum demulcentes
+      - foreign[lg=und-Latn-x-general]: (l.
+      - auditum demulcentem?) sensumque
+      - choice:
+        - corr: delenientem?
+        - sic: delimentes
+      - in
+      - lb[n=70]
+      - soporem
+      - choice:
+        - corr: vertantur
+        - sic: vertuntur
+      - .
+      - Et tunc ille videntes,
+      - choice:
+        - corr: eos
+        - sic: eo
       - lb[n=71]: esse sopitos, invadunt et laniant carnes eorum. Sic igitur decipiuntur
       - lb[n=72]: illi, qui diabolicis pompis et theatralibus voluptatibus delectari
-      - lb[n=73]:
-        - foreign[lg=und-Latn-x-general]: (l.
-        - delectari)
-        - '... efficiuntur ad adverse virtutis avidissima'
-        - foreign[lg=und-Latn-x-general]: (l.
-        - adversarii
+      - illi, qui diabolicis pompis et theatralibus voluptatibus
+      - choice:
+        - corr: delectari
+        - sic: delectari
+      - '... efficiuntur ad adverse virtutis avidissima'
+      - foreign[lg=und-Latn-x-general]: (l.
       - lb[n=74]: avidissimi ?) preda. Eo modo onocenthaurus duabus naturis
       - lb[n=75]: constat ... Nam superior pars homini similis est posteriorque asino
       - lb[n=76]: similis. ... Per hunc assimilantur vecordes et bilingues homines,
@@ -142,11 +149,12 @@ text:
     - pb[type=edition,n=128]
     - head[n=79]: De hiena.
     - p:
-      - lb[n=80]:
-        - Est et aliud animal, quod graece dicunt
-        - foreign[lg=und-Latn-x-general]: (l.
-        - dicitur)
-        - hiena ...
+      - lb[n=80]
+      - Est et aliud animal, quod graece
+      - choice:
+        - corr: dicitur
+        - sic: dicunt
+      - hiena ...
       - lb[n=81]: aliquando quidem masculus, aliquando quidem femina est et ideo inmundum
       - lb[n=82]: animal est. Cui similes estimati sunt filii Israal, qui primum
       - lb[n=83]: dominum suum coluere, postea ... idola coluerunt. ... id
@@ -157,19 +165,23 @@ text:
     - head[n=86]: De onagro.
     - p:
       - lb[n=87]: Est et animal aliud, quod dicitur onager ... XXV. die mensis
-      - lb[n=88]:
-        - faminoltt, qui est martus
-        - foreign[lg=und-Latn-x-general]: (l.
-        - martii)
-        - duodecies
-        - foreign[lg=und-Latn-x-general]: (l.
-        - duodecimus ?),
-        - in
-      - lb[n=89]:
-        - nocte ruget
-        - foreign[lg=und-Latn-x-general]: (l.
-        - rugiet),
-        - similiter et die, tunc quia cognoscitur, quod
+      - lb[n=88]
+      - faminoltt, qui est
+      - choice:
+        - corr: martii
+        - sic: martus
+      - choice:
+        - corr: duodecimus ?
+        - sic: duodecies
+      - ','
+      - in
+      - lb[n=89]
+      - nocte
+      - choice:
+        - corr: rugiet
+        - sic: ruget
+      - ','
+      - similiter et die, tunc quia cognoscitur, quod
       - lb[n=90]: equinoctium sit et dies noctesque ex numero horarum adequantur.
       - lb[n=91]: Onager igitur figuram diaboli gerit ... Neque rugiet aliquando,
           nisi
@@ -180,9 +192,9 @@ text:
       - lb[n=94]: Item est bestia, elephans nomine ... intellectum magnum habet
       - lb[n=95]: in se, concupiscentiam vero carnis minime in se habere dicitur.
           Tempore
-      - lb[n=96]:
-        - autem suo, cum voluerit filios procreare, vadit in orientem cum
-        - pb[type=edition,n=129]
+      - lb[n=96]
+      - autem suo, cum voluerit filios procreare, vadit in orientem cum
+      - pb[type=edition,n=129]
       - lb[n=97]: femina sua usque in proximum paradisi. Est autem ibidem herba
       - lb[n=98]: mandragora nomine. De cujus fructu femina prior degustet et tunc
       - lb[n=99]: masculum illuc deducet, ut persuasus manducet. Postquam vero manducaverint
@@ -194,18 +206,21 @@ text:
       - lb[n=104]: duo elephantes masculus et femina figuram habent Adam et Eve,
       - lb[n=105]: qui erant in paradiso dei ante prevaricationem gloria circumdati,
       - lb[n=106]: nescientes ullum malum, non concupiscencie desideria nec commixtionis
-      - lb[n=107]:
-        - cogitum
-        - foreign[lg=und-Latn-x-general]: (l.
-        - coitum).
-        - Cum ergo de interdicta arbore gustavit
+      - lb[n=107]
+      - choice:
+        - corr: coitum
+        - sic: cogitum
+      - .
+      - Cum ergo de interdicta arbore gustavit
       - lb[n=108]: mulier, ... tunc precipitati sunt de paradiso in hunc mundum,
       - lb[n=109]: quasi in stagnum aquarum multarum. Quod aliquando aque presens
-      - lb[n=110]:
-        - seculum significat
-        - foreign[lg=und-Latn-x-general]: (l.
-        - significant),
-        - '... David insinuat, cum dicit'
+      - lb[n=110]
+      - seculum
+      - choice:
+        - corr: significant
+        - sic: significat
+      - ','
+      - '... David insinuat, cum dicit'
       - lb[n=111]: »Salvum me fac, deus ...«.
   - text[n=9]:
     - head[n=112]: De autula.
@@ -217,23 +232,25 @@ text:
       - lb[n=117]: 'Quando vero sitierit, venit ad flumen magnum Eufraten et bibit:'
       - lb[n=118]: sunt autem ibi virge viticee subtiles et molles. Incipit autem
           et animal
-      - lb[n=119]:
-        - illud ludere cum virgulis istis et in ludendo obligat semet ipsum120   cornu,
-          obligatusque ambis cornibus vociferat[que] cum rugitu, quia
-        - pb[type=edition,n=130]
+      - lb[n=119]
+      - illud ludere cum virgulis istis et in ludendo obligat semet ipsum120   cornu,
+        obligatusque ambis cornibus vociferat[que] cum rugitu, quia
+      - pb[type=edition,n=130]
       - lb[n=121]: evadere non potest, gracilibus virgulis circumseptus. Et tunc quilibet
       - lb[n=122]: venatorum absconditus, audiens vocem ejus, currit et ligatum inveniens
-      - lb[n=123]:
-        - occidit. ... et tu, homo, qui profeceris
-        - foreign[lg=und-Latn-x-general]: (l.
-        - profiteris)
-        - abstinentiam,...
-      - lb[n=124]:
-        - abscidisti fore
-        - foreign[lg=und-Latn-x-general]: (l.
-        - forte?)
-        - detractiones, cupitidates
-        - foreign[lg=und-Latn-x-general]: (l.
+      - lb[n=123]
+      - occidit. ... et tu, homo, qui
+      - choice:
+        - corr: profiteris
+        - sic: profeceris
+      - abstinentiam,...
+      - lb[n=124]
+      - abscidisti
+      - choice:
+        - corr: forte?
+        - sic: fore
+      - detractiones, cupitidates
+      - foreign[lg=und-Latn-x-general]: (l.
       - lb[n=125]: cupiditates), libidines, silvam secularem et pompam diaboli ...
           Sed
       - lb[n=126]: noli ludere cum vino, in quo est luxuria, nec te obliges et incidas
@@ -251,14 +268,15 @@ text:
           unda
       - lb[n=134]: revocatur in pristinum locum. Mare significat hunc mundum. Naves
       - lb[n=135]: sunt prophete et apostoli, qui transierunt hunc mundum et vicerunt
-      - lb[n=136]:
-        - adversarias potestas
-        - foreign[lg=und-Latn-x-general]: (l.
-        - potestates?)
-        - aeris
-        - foreign[lg=und-Latn-x-general]: (l.
-        - aevi)
-        - hujus. Serra vero,
+      - lb[n=136]
+      - adversarias
+      - choice:
+        - corr: potestates?
+        - sic: potestas
+      - choice:
+        - corr: aevi
+        - sic: aeris
+      - hujus. Serra vero,
       - lb[n=137]: que non potuit perseverare cum navibus, significat eos, qui temporaliter
       - lb[n=138]: profitentur abstinentiam, sed non perseverant usque in
       - lb[n=139]: finem ...
@@ -284,27 +302,30 @@ text:
       - lb[n=155]: quando veniamus aquam bibere, id est sermones divinos in ecclesia
       - lb[n=156]: dei audire, non afferamus nobiscum pulvereas et maculosas secularesque
       - lb[n=157]: concupiscentias. ... Tertia vero natura draconis talis est,
-      - lb[n=158]:
-        - ut, cum viderit nudum hominem, timens fugiet
-        - foreign[lg=und-Latn-x-general]: (l.
-        - fugiat)
-        - eum, si
-      - lb[n=159]:
-        - autem vestitum prospexerit, insiliet
-        - foreign[lg=und-Latn-x-general]: (l.
-        - insiliat)
-        - super eum. Et nos
-        - pb[type=edition,n=132]
+      - lb[n=158]
+      - ut, cum viderit nudum hominem, timens
+      - choice:
+        - corr: fugiat
+        - sic: fugiet
+      - eum, si
+      - lb[n=159]
+      - autem vestitum prospexerit,
+      - choice:
+        - corr: insiliat
+        - sic: insiliet
+      - super eum. Et nos
+      - pb[type=edition,n=132]
       - lb[n=160]: prudenter intelligamus, quando pater noster erat in paradiso nudus,
       - lb[n=161]: non prevalebat adversus eum diabolus serpens antiquus.
   - text[n=12]:
     - head[n=162]: De lacerta id est saura.
     - p:
-      - lb[n=163]:
-        - Est aquatite
-        - foreign[lg=und-Latn-x-general]: (l.
-        - volatile)
-        - animal, quod lacerta dicitur, clarum ut
+      - lb[n=163]
+      - Est
+      - choice:
+        - corr: volatile
+        - sic: aquatite
+      - animal, quod lacerta dicitur, clarum ut
       - lb[n=164]: sol. ... quando senuerit, utrisque oculis impeditur, ita ut nec
           solis
       - lb[n=165]: lumen videat ... Inquirit parietem, adtendentem contra ori[g]entem
