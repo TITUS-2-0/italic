@@ -14,16 +14,21 @@ Digital version of Physiologus: The Latin Version (draft version). By: Jost Gipp
 ```
 
 ## TEI encoding
+* hardcoded text numbers are removed from titles, as they are encoded in the `head@n` attribute
+* inline corrections/readings are transformed into <choice> elements with <corr> and <sic> sub-elements
+* everything is wrapped in <p> elements
 
+* fixes:
+    * duplicate <pb> elements are removed
 
 ### Unit Mapping
 The TITUS 1 structural units are mapped onto TEI as follows:
 
 | Source Unit | TEI Mapping | Notes |
 |-------------|-------------|-------|
-| Text | `div@text` | Automatically translated into named div |
-| Page of ed. | `pb@edition` |  |
-| Line | `lb` |  |
+| `Text` (hierarchical) | `div@text` (hierarchical) | Automatically translated into named div |
+| `Page of ed.` (hierarchical) | `pb@edition` (linear) |  |
+| `Line` (hierarchical) | `lb` (linear) |  |
 
 ### Structural overview
 ```text

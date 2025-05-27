@@ -14,16 +14,20 @@ Digital version of [Untitled Dataset] (draft version). In: Carling, Gerd & Jost 
 ```
 
 ## TEI encoding
-
+* the unified latin transliteration is encoded as a `choice` with `orig` and `reg`
+* lines are wrapped in `ab` elements with `type=line-wrapper`
+* a `gap` element is inserted for missing text
+* sources inside the text are deleted for now
+* titles are removed, as they are encoded in the preceding `head@n`
 
 ### Unit Mapping
 The TITUS 1 structural units are mapped onto TEI as follows:
 
 | Source Unit | TEI Mapping | Notes |
 |-------------|-------------|-------|
-| Inscription | `div@inscription` | Automatically translated into named div |
-| Part | `div@part` | Automatically translated into named div |
-| Line | `lb` |  |
+| `Inscription` (hierarchical) | `div@inscription` (hierarchical) | Automatically translated into named div |
+| `Part` (hierarchical) | `div@part` (hierarchical) | Automatically translated into named div |
+| `Line` (hierarchical) | `lb` (hierarchical) |  |
 
 ### Structural overview
 ```text

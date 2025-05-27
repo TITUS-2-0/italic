@@ -14,15 +14,15 @@ Digital version of [Untitled Dataset] (draft version). In: Carling, Gerd & Jost 
 ```
 
 ## TEI encoding
-
+* no modifications were necessary
 
 ### Unit Mapping
 The TITUS 1 structural units are mapped onto TEI as follows:
 
 | Source Unit | TEI Mapping | Notes |
 |-------------|-------------|-------|
-| Paragraph | `p` |  |
-| Sentence | `s` |  |
+| `Paragraph` (hierarchical) | `p` (hierarchical) |  |
+| `Sentence` (hierarchical) | `s` (hierarchical) |  |
 
 ### Structural overview
 ```text

@@ -14,18 +14,19 @@ Digital version of La Rettorica (1261) by Brunetto Latini (v0.1.0). By: Gisella 
 ```
 
 ## TEI encoding
-
+* the body of the original dataset is split into a ``<front>`` and a ``<body>``
+* there are numbered ``<p>`` from TITUS, as well as unnumbered ones to satisfy TEI requirements
 
 ### Unit Mapping
 The TITUS 1 structural units are mapped onto TEI as follows:
 
 | Source Unit | TEI Mapping | Notes |
 |-------------|-------------|-------|
-| Section | `part` | a more neutral term |
-| Paragraph | `p` |  |
-| Chapter | `milestone@chapter` | The chapters of Tullio's original are represented linearly, not hierarchically. |
-| Page | `pb` |  |
-| Line | `lb` |  |
+| `Section` (hierarchical) | `part` (hierarchical) | a more neutral term |
+| `Paragraph` (hierarchical) | `p` (hierarchical) |  |
+| `Chapter` (linear) | `milestone@chapter` (linear) | The chapters of Tullio's original are represented linearly, not hierarchically. |
+| `Page` (linear) | `pb` (linear) |  |
+| `Line` (linear) | `lb` (linear) |  |
 
 ### Structural overview
 ```text

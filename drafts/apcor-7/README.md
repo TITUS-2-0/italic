@@ -14,17 +14,26 @@ Digital version of [Untitled Dataset] (draft version). In: Carling, Gerd & Jost 
 ```
 
 ## TEI encoding
+* footnotes are moved into inline `note` elements (for now)
+* all content is wrapped in `p` elements
+* linebreaks marked with "/" are translated into "-" + `lb@break="no"`
 
+* fixes:
+
+    * remove footnote numbers
+    * fix language tags
+    * brackets are removed from line breaks
+    * various wrong encodings in the notes
 
 ### Unit Mapping
 The TITUS 1 structural units are mapped onto TEI as follows:
 
 | Source Unit | TEI Mapping | Notes |
 |-------------|-------------|-------|
-| Text | `div@text` | Automatically translated into named div |
-| Part | `milestone@part` |  |
-| Item | `pb` |  |
-| Line | `lb` |  |
+| `Text` (hierarchical) | `div@text` (hierarchical) | Automatically translated into named div |
+| `Part` (linear) | `milestone@part` (linear) |  |
+| `Item` (hierarchical) | `pb` (linear) |  |
+| `Line` (hierarchical) | `lb` (linear) |  |
 
 ### Structural overview
 ```text
