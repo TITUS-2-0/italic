@@ -14,7 +14,14 @@ Digital version of 1192 MARÇO -- Auto de partilhas entre Rodrigo Sanches e seus
 ```
 
 ## TEI encoding
+.. _apcor_1: <http://titus.uni-frankfurt.de/texte/etcs/ital/aport/apcorp/apcor.htm?apcor001.htm>`_  (Italic) .
 
+* footnotes are moved into inline `note` elements (for now)
+* all content is wrapped in `p` elements
+* various fixes
+
+    * remove footnote numbers
+    * fix language tags
 
 ### Unit Mapping
 The TITUS 1 structural units are mapped onto TEI as follows:
