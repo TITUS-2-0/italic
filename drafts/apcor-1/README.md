@@ -26,10 +26,10 @@ The TITUS 1 structural units are mapped onto TEI as follows:
 
 | Source Unit | TEI Mapping | Notes |
 |-------------|-------------|-------|
-| Text (hierarchical) | `div@text (hierarchical)` | Automatically translated into named div |
-| Part (linear) | `milestone@part (linear)` |  |
-| Item (hierarchical) | `pb (linear)` |  |
-| Line (hierarchical) | `lb (linear)` |  |
+| `Text` (hierarchical) | `div@text` (hierarchical) | Automatically translated into named div |
+| `Part` (linear) | `milestone@part` (linear) |  |
+| `Item` (hierarchical) | `pb` (linear) |  |
+| `Line` (hierarchical) | `lb` (linear) |  |
 
 ### Structural overview
 ```text
