@@ -1,42 +1,68 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Testamento de D. Afonso II</title>
-				<author>Unknown</author>
-			</titleStmt>
-			<publicationStmt>
-				<publisher>Goethe University</publisher>
-				<pubPlace>Frankfurt</pubPlace>
-				<date when="2025-05-01">2025-05-01</date>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
-					<p>Preferred citation: <note type="citation">Digital version of Testamento de D. Afonso II by Unknown (draft version). 2025-05-01. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
-					</p>
-				</availability>
-				<idno type="version">unreleased</idno>
-			</publicationStmt>
-			<sourceDesc>
-				<p>Missing metadata</p>
-			</sourceDesc>
-		</fileDesc>
-		<profileDesc>
-			<langUsage>
-				<language ident="und-Latn-x-glpt" ana="primary">Galician–Portuguese</language>
-				<language ident="lat-Latn" ana="secondary">Latin</language>
-				<language ident="por-Latn" ana="meta">Portuguese</language>
-			</langUsage>
-		</profileDesc>
-	</teiHeader>
-	<text xml:lang="und-Latn-x-glpt">
-		<body>
-			<pb n="r." />
-			<p xml:id="p-1">
-				<lb n="1" />En'o<note xml:id="p-1-note-1" xml:lang="por-Latn">Só resta a parte inferior do <foreign xml:lang="und-Latn-x-glpt">E.</foreign>
-				</note> nome de Deus. Eu rei don Afonso pela gracia de Deus rei de Portugal, seendo sano e saluo, temëte o dia de mia morte, a saude de mia alma e a proe de mia molier raina dona Orraca e de me(us) filios e de me(us) uassalos e de todo meu reino fiz mia mãda p(er) q(ue) de-<lb n="2" />pos mia morte mia molier e me(us) filios e meu reino e me(us) uassalos e todas aq(ue)las cousas q(ue) De(us) mi deu en poder sten en paz e en folgãcia. P(ri)meiram(en)te mãdo q(ue) meu filio infante don Sancho q(ue) ei da raina dona Orraca agia meu reino enteg(ra)- m(en)te e en paz. E ssi este for<lb n="3" />morto sen semmel, o maior filio q(ue) ouuer da raina dona Orraca agia o reino entegram(en)te e en paz. E ssi filio barõ nõ ouuer- mos, a maior filia q(ue) ouuermos agia'o. E ssi no tëpo de mia morte meu filio ou mia filia q(ue) deuier a reinar nõ ouuer reuora, segia en poder<lb n="4" />da raina sa madre e meu reino segia en poder da raina e de me(us) uassalos ata q(uan)do agia reuora. E ssi eu for morto, rogoo apostoligo<note xml:id="p-1-note-2" xml:lang="por-Latn">O papa.</note> come padre e senior e beigio a t(er)ra ante seus pees q(ue) el recebia en sa comëda e so seu difindemëto a raina e me(us) filios e o reino. E ssi eu<lb n="5" />e a raina formos mortos, rogoli e pregoli q(ue) os me(us) filios e o reino segiã en sa comëda. E mãdo da dezima dos morauidiis e dos dieiros q(ue) mi remaserũ de parte de meu padre q(ue) sũ en Alcobaza e do outr'auer mouil q(ue) i posermos pora esta dezima q(ue) segia partido pelas manus<lb n="6" />do arcebispo de Bragaa e do arcebispo de Santiago e do bispo do Portu e de Lixbona e de Coibria e de Uiseu e de Lamego e da Idania e d'Euora e de Tui e do tesoureiro de Bragaa. E out(ro)ssi mãdo das dezimas das luctosas e das armas e dout(ra)s dezimas q(ue) eu tenio apartadas en te-<lb n="7" />souros per meu reino, q(ue) eles as departiã assi como uirë por derecto. E mãdo q(ue) o abade d'Alcobaza lis de aq(ue)sta dezima q(ue) el ten ou teiuer e eles as departiã segũdo De(us) como uirë por derecto. E mãdo q(ue) a raina dona Orraca agia a meiadade de todas aq(ue)lias cousas mouils q(ue) eu ouuer<lb n="8" />a mia morte, exetes aq(ue)stas dezimas q(ue) mãdo dar por mia alma e as out(ra)s q(ue) tenio en uoontade por dar por mia alma e non'as uiier a dar. Et mãdo q(ue) si a raina morrer en mia uida q(ue) de todo meu auer mouil agia ende a meiadade. Da out(ra) meiadade solten ende p(ri)meiram(en)te<lb n="9" />todas mias devidas e do q(ue) remaser fazam en[de]  t(re)s partes e as duas partes agiã me(us) filios e mias filias e departiãse ent(r'e)les igualm(en)te. Da t(er)ceira o arcebispo de Bragaa e o arce- bispo de Santiago e o bispo do Portu e o de Lixbona e o de Coibria e o de Uiseu e o d'Euora fazã desta<lb n="10" />guisa: q(ue) u q(ue)r q(ue) eu moira q(ue)r en meu reino q(ue)r fora de meu regno fazam aduzer meu corpo p(er) mias custasa Alcobaza. E mãdo q(ue) den a meu senior o papa III m(o)r(auidiis)<note xml:id="p-1-note-3" xml:lang="por-Latn">Desdobrei a abreviatura mr. em <foreign xml:lang="und-Latn-x-glpt">morauidiis</foreign> e não em <foreign xml:lang="und-Latn-x-glpt">morabitnos,</foreign> por ser a primeira forma a que vem por extenso em A e em A', respectivamente, nas linhas 5 e 6. Nos casos seguintes mantive a abreviatura, por o desdobramento ser o mesmo.</note> a Alcobaza II mr. por meu añiu(er)sario, a Santa Maria de Rocamador II mr. por meu añiu(er)sario<lb n="11" />a Santiago de Galicia II CCC mr. por rneu añiu(er)sario, ao cabidoo da Séé da Idania mill(e) mr. por meu añiu(er)sario, ao moes- teirode San Gurge<note xml:id="p-1-note-4" xml:lang="por-Latn">S. Jorge.</note> D mr. por meu añiu(er)sario, ao moesteiro de San Uicëte de Lixbona D mr. por meu añiu(er)sario, aos caonigos de Tui mill(e)<lb n="12" />mr. por meu añiu(er)sario. E rogo q(ue) cada un destes añiu(er)sarios fazam sëp(re) no dia de mia morte e fazam t(re)s come- morazones en t(re)s partes do ano e cada dia fazam cantar una missa por mia alma por sëpre. E ssi eu en mia uida der estes añiu(er)sarios, mãdo q(ue) orem por mi co-<lb n="13" />me por uiuo ata en mia morte e depos mia morte fazam estes añiu(er)sarios e estas comemorazones assi como suso e nomeado, assi como fazem en'osout(ro) slogares u ia die meus añiu(er)sarios. E mãdo q(ue) den ao maestre e aos freires d'Euora D mr. por mia alma, ao comen-<lb n="14" />dador e aos freires de Palmela D mr. por mia alma. E mãdo q(ue) o q(ue) eu der daq(ue)sta mãda en mia vida q(ue) non'o busque nenguu depos mia morte. E o q(ue) remaser daq(ue)sta mia t(er)cia mãdo q(ue) segia partido igualmëte en cinq(ue) partes das quaes una den a Alcobaza u<lb n="15" />mando geitar meu corpo. A out(ra) ao moesteiro de Santa Cruz, a t(er)ceira aos Tëpleiros, a q(ua)rta aos Espitaleiros, a q(ui)nta den por mia alma o arcebispo de Bragaa e o arcebispo de Santiago e os cinque bispos q(ue) suso nomeamos segũdo Deus. E den ende aos omees d'ordin<lb n="16" />de mia casa e aos leigos &lt;a&gt; q(ue) eu nõ galardoei seu servizo assi com'eles uirem por guisado. E as out(ra)s duas partesde toda mia meiadade segiã departidas igualm(en)te ent(re)<note xml:id="p-1-note-5" xml:lang="por-Latn">Aqui e nas linhas 18 e 19, parece mais <foreign xml:lang="und-Latn-x-glpt">entre</foreign> que <foreign xml:lang="und-Latn-x-glpt">entre.</foreign>
-				</note> me(us) filios e naias filias q(ue) ouuer da raina dona Orraca assi como suso e dito. E mãdo q(ue) aq(ue)ste auer<lb n="17" />dos me(us) filios q(ue) o teniã aq(ue)stes dous arcebispos cũ aq(ue)stes cinq(ue) bispos ata q(uan)do agiã reuora. E a dia de mia morte se alguus de me(us) filios ouuerë reuora, agiã seu auer. E dos q(ue) reuora nõ ouuerë mãdo q(ue) lis teniã seu auer ata q(uan)do agiã reuora. E mãdo q(ue) q(ue)n q(ue)r que<lb n="18" />tenia meu tesouro ou me(us) tesouros a dia de mia morte q(ue) os de a departir aq(ue)stes dous arcebispos e aq(ue)stes cinq(ue) bispos, assi como suso e nomeado. E mãdo ainda q(ue) se s'asunar todos nõ poderem ou nõ q(ui)serë ou descordia for ent(r'a)q(ue)stes a q(ue) eu mãdo departir aq(ue)stas dezimas<lb n="19" />suso nomeadas, ualia aq(ui)lo q(ue) mãdarë os chus muitos p(er) nõbro. Out(ro)ssi mãdo daq(ue)les q(ue) mia mãda an a departir ou todas aq(ue)lias cousas q(ue) suso sũ nomeadas q(ue) si todos nõ se poderë assunar ou nõ q(ui)serem ou descordia for ent(r'e)les ualia aq(ui)lo q(ue) mãdarë os chus muitos p(er)<lb n="20" />nõbro. Mando ainda q(ue) a raina e meu filio ou mia filia q(ue) no meu logar ouuer a reinar se a mia morte ouuer reuora e meus uassalos e o abade d'Alcobaza sen demorancia e sen (con)t(ra)dita lis den toda mia meiadade e todas as dezimas e as out(ra)s cousas suso nomeadas<lb n="21" />e eles as departiã assi como suso e nomeado. E ssi a mia morte meu filio ou mia filia q(ue) no meu logar ouuer a reinar nõ ouuer reuora, mãdo empero q(ue) aq(ue)stes arcebispos e aq(ue)stes bispos departiã todas aq(ue)stas dezimas e todas aq(ue)stas out(ra)s cousas assi como suso e no-<lb n="22" />meado. E a raina e me(us) uassalos e o abade sen demorãcia e sen (con)t(ra)dita lis den toda mia meiadade e todas as dezimas e as out(ra)s cousas q(ue) teiuerë, assi como suso e dito. E ssi dar nõli as q(ui)serem, rogo [o]s<note xml:id="p-1-note-6" xml:lang="por-Latn">O <foreign xml:lang="und-Latn-x-glpt">o</foreign> desapareceu devido a um furo do pergaminho.</note> arcebispos e os bispos com'eu en eles (con)fio q(ue) eles o demãdeni pe-<lb n="23" />lo apostoligo e p(er) si. E rogo e prego meu senior o apos- toligo e beigio a t(er)ra ante seus pees q(ue) pela sa santa piadade faza aq(ue)sta mia mãda seer (con)p(ri)da e aguardada, q(ue) nenguu nõ agia poder de uinir (con)t(ra) ela. E ssi a dia de mia morte meu filio ou mia filia q(ue) no<lb n="24" />meu logar ouuer a reinar nõ ouuer reuora, mãdo aq(ue)les caualeiros q(ue) os castelos teen de mi en' as t(er)ras q(ue) de mi teem os me(us) riquos omees q(tie) os den a esses meus riq(uo)s omees q(ue) essas t(er)ras teiuerë. E os meus riquos omees den'os a meu filio ou a mia filia q(ue) no<lb n="25" />meu logar ouuer a reinar q(uan)do ouuer reuora, assi como os dariã a mi. E mandei fazer treze cartas cũ aq(ues)ta tal una come outra, q(ue) p(er) elas toda mia mãda segia (con)p(ri)da, das quaes ten una o arcebispo d(e) Bragaa, a out(ra) o arcebispo de Santiago, a t(er)ceira o arcebispo<lb n="26" />de Toledo, a q(ua)rta o bispo do Portu, a q(ui)nta o de Lixbona, a sexta o de Coib(ri)a, a septima o d'Evora, a octaua o de Uiseu, a nouea o maestre do Tëplo, a dezima o p(ri)or do Espital, a undezima o p(ri)or de Santa Cruz, a duodecima o abade d'Alcobaza, a t(er)cia dezimafacer<note xml:id="p-1-note-7" xml:lang="por-Latn">On <foreign xml:lang="und-Latn-x-glpt">facei</foreign>
-				</note> guarda[r] en<lb n="27" />mia reposte. E forũ feitas en Coinbria IIII.or dias por andar de Junio. <foreign xml:lang="lat-Latn">E(ra) M. <foreign xml:lang="lat-Latn">a</foreign> CC. <foreign xml:lang="lat-Latn">a</foreign> L <foreign xml:lang="lat-Latn">a</foreign> Il. <foreign xml:lang="lat-Latn">a</foreign> .</foreign>
-			</p>
-		</body>
-	</text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Testamento de D. Afonso II</title>
+        <author>Unknown</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Goethe University</publisher>
+        <pubPlace>Frankfurt</pubPlace>
+        <date when="2025-05-01">2025-05-01</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
+          <p>Preferred citation: <note type="citation">Digital version of Testamento de D. Afonso II by Unknown (draft version). 2025-05-01. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+          </p>
+        </availability>
+        <idno type="version">unreleased</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Missing metadata</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="und-Latn-x-glpt" ana="primary">Galician–Portuguese</language>
+        <language ident="lat-Latn" ana="secondary">Latin</language>
+        <language ident="por-Latn" ana="meta">Portuguese</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="und-Latn-x-glpt">
+    <body>
+      <pb n="r." />
+      <p xml:id="p-1">
+        <lb n="1" />En'o<note xml:id="p-1-note-1" xml:lang="por-Latn">Só resta a parte inferior do <foreign xml:lang="und-Latn-x-glpt">E.</foreign>
+        </note> nome de Deus. Eu rei don Afonso pela gracia de Deus rei de Portugal, seendo sano e saluo, temëte o dia de mia morte, a saude de mia alma e a proe de mia molier raina dona Orraca e de me(us) filios e de me(us) uassalos e de todo meu reino fiz mia mãda p(er) q(ue) de-
+<lb n="2" />pos mia morte mia molier e me(us) filios e meu reino e me(us) uassalos e todas aq(ue)las cousas q(ue) De(us) mi deu en poder sten en paz e en folgãcia. P(ri)meiram(en)te mãdo q(ue) meu filio infante don Sancho q(ue) ei da raina dona Orraca agia meu reino enteg(ra)- m(en)te e en paz. E ssi este for
+<lb n="3" />morto sen semmel, o maior filio q(ue) ouuer da raina dona Orraca agia o reino entegram(en)te e en paz. E ssi filio barõ nõ ouuer- mos, a maior filia q(ue) ouuermos agia'o. E ssi no tëpo de mia morte meu filio ou mia filia q(ue) deuier a reinar nõ ouuer reuora, segia en poder
+<lb n="4" />da raina sa madre e meu reino segia en poder da raina e de me(us) uassalos ata q(uan)do agia reuora. E ssi eu for morto, rogoo apostoligo<note xml:id="p-1-note-2" xml:lang="por-Latn">O papa.</note> come padre e senior e beigio a t(er)ra ante seus pees q(ue) el recebia en sa comëda e so seu difindemëto a raina e me(us) filios e o reino. E ssi eu
+<lb n="5" />e a raina formos mortos, rogoli e pregoli q(ue) os me(us) filios e o reino segiã en sa comëda. E mãdo da dezima dos morauidiis e dos dieiros q(ue) mi remaserũ de parte de meu padre q(ue) sũ en Alcobaza e do outr'auer mouil q(ue) i posermos pora esta dezima q(ue) segia partido pelas manus
+<lb n="6" />do arcebispo de Bragaa e do arcebispo de Santiago e do bispo do Portu e de Lixbona e de Coibria e de Uiseu e de Lamego e da Idania e d'Euora e de Tui e do tesoureiro de Bragaa. E out(ro)ssi mãdo das dezimas das luctosas e das armas e dout(ra)s dezimas q(ue) eu tenio apartadas en te-
+<lb n="7" />souros per meu reino, q(ue) eles as departiã assi como uirë por derecto. E mãdo q(ue) o abade d'Alcobaza lis de aq(ue)sta dezima q(ue) el ten ou teiuer e eles as departiã segũdo De(us) como uirë por derecto. E mãdo q(ue) a raina dona Orraca agia a meiadade de todas aq(ue)lias cousas mouils q(ue) eu ouuer
+<lb n="8" />a mia morte, exetes aq(ue)stas dezimas q(ue) mãdo dar por mia alma e as out(ra)s q(ue) tenio en uoontade por dar por mia alma e non'as uiier a dar. Et mãdo q(ue) si a raina morrer en mia uida q(ue) de todo meu auer mouil agia ende a meiadade. Da out(ra) meiadade solten ende p(ri)meiram(en)te
+<lb n="9" />todas mias devidas e do q(ue) remaser fazam en[de]  t(re)s partes e as duas partes agiã me(us) filios e mias filias e departiãse ent(r'e)les igualm(en)te. Da t(er)ceira o arcebispo de Bragaa e o arce- bispo de Santiago e o bispo do Portu e o de Lixbona e o de Coibria e o de Uiseu e o d'Euora fazã desta
+<lb n="10" />guisa: q(ue) u q(ue)r q(ue) eu moira q(ue)r en meu reino q(ue)r fora de meu regno fazam aduzer meu corpo p(er) mias custasa Alcobaza. E mãdo q(ue) den a meu senior o papa III m(o)r(auidiis)<note xml:id="p-1-note-3" xml:lang="por-Latn">Desdobrei a abreviatura mr. em <foreign xml:lang="und-Latn-x-glpt">morauidiis</foreign> e não em <foreign xml:lang="und-Latn-x-glpt">morabitnos,</foreign> por ser a primeira forma a que vem por extenso em A e em A', respectivamente, nas linhas 5 e 6. Nos casos seguintes mantive a abreviatura, por o desdobramento ser o mesmo.</note> a Alcobaza II mr. por meu añiu(er)sario, a Santa Maria de Rocamador II mr. por meu añiu(er)sario
+<lb n="11" />a Santiago de Galicia II CCC mr. por rneu añiu(er)sario, ao cabidoo da Séé da Idania mill(e) mr. por meu añiu(er)sario, ao moes- teirode San Gurge<note xml:id="p-1-note-4" xml:lang="por-Latn">S. Jorge.</note> D mr. por meu añiu(er)sario, ao moesteiro de San Uicëte de Lixbona D mr. por meu añiu(er)sario, aos caonigos de Tui mill(e)
+<lb n="12" />mr. por meu añiu(er)sario. E rogo q(ue) cada un destes añiu(er)sarios fazam sëp(re) no dia de mia morte e fazam t(re)s come- morazones en t(re)s partes do ano e cada dia fazam cantar una missa por mia alma por sëpre. E ssi eu en mia uida der estes añiu(er)sarios, mãdo q(ue) orem por mi co-
+<lb n="13" />me por uiuo ata en mia morte e depos mia morte fazam estes añiu(er)sarios e estas comemorazones assi como suso e nomeado, assi como fazem en'osout(ro) slogares u ia die meus añiu(er)sarios. E mãdo q(ue) den ao maestre e aos freires d'Euora D mr. por mia alma, ao comen-
+<lb n="14" />dador e aos freires de Palmela D mr. por mia alma. E mãdo q(ue) o q(ue) eu der daq(ue)sta mãda en mia vida q(ue) non'o busque nenguu depos mia morte. E o q(ue) remaser daq(ue)sta mia t(er)cia mãdo q(ue) segia partido igualmëte en cinq(ue) partes das quaes una den a Alcobaza u
+<lb n="15" />mando geitar meu corpo. A out(ra) ao moesteiro de Santa Cruz, a t(er)ceira aos Tëpleiros, a q(ua)rta aos Espitaleiros, a q(ui)nta den por mia alma o arcebispo de Bragaa e o arcebispo de Santiago e os cinque bispos q(ue) suso nomeamos segũdo Deus. E den ende aos omees d'ordin
+<lb n="16" />de mia casa e aos leigos &lt;a&gt; q(ue) eu nõ galardoei seu servizo assi com'eles uirem por guisado. E as out(ra)s duas partesde toda mia meiadade segiã departidas igualm(en)te ent(re)<note xml:id="p-1-note-5" xml:lang="por-Latn">Aqui e nas linhas 18 e 19, parece mais <foreign xml:lang="und-Latn-x-glpt">entre</foreign> que <foreign xml:lang="und-Latn-x-glpt">entre.</foreign>
+        </note> me(us) filios e naias filias q(ue) ouuer da raina dona Orraca assi como suso e dito. E mãdo q(ue) aq(ue)ste auer
+<lb n="17" />dos me(us) filios q(ue) o teniã aq(ue)stes dous arcebispos cũ aq(ue)stes cinq(ue) bispos ata q(uan)do agiã reuora. E a dia de mia morte se alguus de me(us) filios ouuerë reuora, agiã seu auer. E dos q(ue) reuora nõ ouuerë mãdo q(ue) lis teniã seu auer ata q(uan)do agiã reuora. E mãdo q(ue) q(ue)n q(ue)r que
+<lb n="18" />tenia meu tesouro ou me(us) tesouros a dia de mia morte q(ue) os de a departir aq(ue)stes dous arcebispos e aq(ue)stes cinq(ue) bispos, assi como suso e nomeado. E mãdo ainda q(ue) se s'asunar todos nõ poderem ou nõ q(ui)serë ou descordia for ent(r'a)q(ue)stes a q(ue) eu mãdo departir aq(ue)stas dezimas
+<lb n="19" />suso nomeadas, ualia aq(ui)lo q(ue) mãdarë os chus muitos p(er) nõbro. Out(ro)ssi mãdo daq(ue)les q(ue) mia mãda an a departir ou todas aq(ue)lias cousas q(ue) suso sũ nomeadas q(ue) si todos nõ se poderë assunar ou nõ q(ui)serem ou descordia for ent(r'e)les ualia aq(ui)lo q(ue) mãdarë os chus muitos p(er)
+<lb n="20" />nõbro. Mando ainda q(ue) a raina e meu filio ou mia filia q(ue) no meu logar ouuer a reinar se a mia morte ouuer reuora e meus uassalos e o abade d'Alcobaza sen demorancia e sen (con)t(ra)dita lis den toda mia meiadade e todas as dezimas e as out(ra)s cousas suso nomeadas
+<lb n="21" />e eles as departiã assi como suso e nomeado. E ssi a mia morte meu filio ou mia filia q(ue) no meu logar ouuer a reinar nõ ouuer reuora, mãdo empero q(ue) aq(ue)stes arcebispos e aq(ue)stes bispos departiã todas aq(ue)stas dezimas e todas aq(ue)stas out(ra)s cousas assi como suso e no-
+<lb n="22" />meado. E a raina e me(us) uassalos e o abade sen demorãcia e sen (con)t(ra)dita lis den toda mia meiadade e todas as dezimas e as out(ra)s cousas q(ue) teiuerë, assi como suso e dito. E ssi dar nõli as q(ui)serem, rogo [o]s<note xml:id="p-1-note-6" xml:lang="por-Latn">O <foreign xml:lang="und-Latn-x-glpt">o</foreign> desapareceu devido a um furo do pergaminho.</note> arcebispos e os bispos com'eu en eles (con)fio q(ue) eles o demãdeni pe-
+<lb n="23" />lo apostoligo e p(er) si. E rogo e prego meu senior o apos- toligo e beigio a t(er)ra ante seus pees q(ue) pela sa santa piadade faza aq(ue)sta mia mãda seer (con)p(ri)da e aguardada, q(ue) nenguu nõ agia poder de uinir (con)t(ra) ela. E ssi a dia de mia morte meu filio ou mia filia q(ue) no
+<lb n="24" />meu logar ouuer a reinar nõ ouuer reuora, mãdo aq(ue)les caualeiros q(ue) os castelos teen de mi en' as t(er)ras q(ue) de mi teem os me(us) riquos omees q(tie) os den a esses meus riq(uo)s omees q(ue) essas t(er)ras teiuerë. E os meus riquos omees den'os a meu filio ou a mia filia q(ue) no
+<lb n="25" />meu logar ouuer a reinar q(uan)do ouuer reuora, assi como os dariã a mi. E mandei fazer treze cartas cũ aq(ues)ta tal una come outra, q(ue) p(er) elas toda mia mãda segia (con)p(ri)da, das quaes ten una o arcebispo d(e) Bragaa, a out(ra) o arcebispo de Santiago, a t(er)ceira o arcebispo
+<lb n="26" />de Toledo, a q(ua)rta o bispo do Portu, a q(ui)nta o de Lixbona, a sexta o de Coib(ri)a, a septima o d'Evora, a octaua o de Uiseu, a nouea o maestre do Tëplo, a dezima o p(ri)or do Espital, a undezima o p(ri)or de Santa Cruz, a duodecima o abade d'Alcobaza, a t(er)cia dezimafacer<note xml:id="p-1-note-7" xml:lang="por-Latn">On <foreign xml:lang="und-Latn-x-glpt">facei</foreign>
+        </note> guarda[r] en
+<lb n="27" />mia reposte. E forũ feitas en Coinbria IIII.or dias por andar de Junio. <foreign xml:lang="lat-Latn">E(ra) M. <foreign xml:lang="lat-Latn">a</foreign> CC. <foreign xml:lang="lat-Latn">a</foreign> L <foreign xml:lang="lat-Latn">a</foreign> Il. <foreign xml:lang="lat-Latn">a</foreign> .</foreign>
+      </p>
+    </body>
+  </text>
 </TEI>

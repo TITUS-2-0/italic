@@ -39,12 +39,12 @@ text (@xml:lang=fro-Latn)
 
 ```xml
 <p xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="p-1">
-				<s n="1" xml:id="p-1-s-1">Seigneur sachiez que mil anz et cent et quatre vinz et XVII anz Aprés l'incarnacion jhesucrist.</s>
-				<s n="2" xml:id="p-1-s-2">Au tans innocent apostele de ronme.</s>
-				<s n="3" xml:id="p-1-s-3">et phelippe roy de france. et richart roy d'engleterre ot I saint home qui ot a non forques de nuelli.</s>
-				<s n="4" xml:id="p-1-s-4">Ce nuelli siet entre laigni sus marne et paris.</s>
-				<s n="5" xml:id="p-1-s-5">Et il iert prestres et tenoit la parroisse de la vile.</s>
-				<s n="6" xml:id="p-1-s-6">et cil fourques dont je vous di comenca a parler de dieu par france et par les autres pais d'entour.</s>
-				<s n="7" xml:id="p-1-s-7">Et sachiez que nostre sires fist maintes miracles pour lui.</s>
-			</p>
+        <s n="1" xml:id="p-1-s-1">Seigneur sachiez que mil anz et cent et quatre vinz et XVII anz Aprés l'incarnacion jhesucrist.</s>
+        <s n="2" xml:id="p-1-s-2">Au tans innocent apostele de ronme.</s>
+        <s n="3" xml:id="p-1-s-3">et phelippe roy de france. et richart roy d'engleterre ot I saint home qui ot a non forques de nuelli.</s>
+        <s n="4" xml:id="p-1-s-4">Ce nuelli siet entre laigni sus marne et paris.</s>
+        <s n="5" xml:id="p-1-s-5">Et il iert prestres et tenoit la parroisse de la vile.</s>
+        <s n="6" xml:id="p-1-s-6">et cil fourques dont je vous di comenca a parler de dieu par france et par les autres pais d'entour.</s>
+        <s n="7" xml:id="p-1-s-7">Et sachiez que nostre sires fist maintes miracles pour lui.</s>
+      </p>
 ```

@@ -14,8 +14,7 @@ Digital version of La Rettorica (1261) by Brunetto Latini (v0.1.0). By: Gisella 
 ```
 
 ## TEI encoding
-* the body of the original dataset is split into a ``<front>`` and a ``<body>``
-* there are numbered ``<p>`` from TITUS, as well as unnumbered ones to satisfy TEI requirements
+
 
 ### Unit Mapping
 The TITUS 1 structural units are mapped onto TEI as follows:
@@ -30,7 +29,7 @@ The TITUS 1 structural units are mapped onto TEI as follows:
 
 ### Structural overview
 ```text
-text (@xml:lang=ita-Latn)
+text (@xml:lang=ita-Latn-x-old)
   front (@xml:id)
     p (@xml:id)
       [pb (@n)]
@@ -51,16 +50,16 @@ text (@xml:lang=ita-Latn)
 
 ```xml
 <div xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="part-1" type="part" data-level="1">
-				<milestone unit="chapter" n="I" xml:id="part-1-milestone-1"/>
-				<p xml:id="part-1-p-2">
-					<lb n="6"/>Sovente e molto ò io pensato in me medesimo<lb n="7"/>se lla copia del dicere e lo sommo studio della
-<lb n="8"/>eloquenzia àe fatto più bene o più male agli uomini
-<lb n="9"/>et alle cittadi; però che quando io considero li dannaggii
-<lb n="10"/>del nostro comune e raccolgo nell' animo l' antiche
-<lb n="11"/>aversitadi delle grandissime cittadi, veggio che
-<lb n="12"/>non picciola parte di danni v' è messa per uomini
-<lb n="13"/>molto parlanti sanza sapienza.
-<lb n="14"/>Qui parla lo sponitore.</p>
-				<p n="1" xml:id="part-1-p-3">
+        <milestone unit="chapter" n="I" xml:id="part-1-milestone-1"/>
+        <p xml:id="part-1-p-2">
+          <lb n="6"/>Sovente e molto ò io pensato in me medesimo
+          <lb n="7"/>se lla copia del dicere e lo sommo studio della
+          <lb n="8"/>eloquenzia àe fatto più bene o più male agli uomini
+          <lb n="9"/>et alle cittadi; però che quando io considero li dannaggii
+          <lb n="10"/>del nostro comune e raccolgo nell' animo l' antiche
+          <lb n="11"/>aversitadi delle grandissime cittadi, veggio che
+          <lb n="12"/>non picciola parte di danni v' è messa per uomini
+          <lb n="13"/>molto parlanti sanza sapienza.
+          <lb n="14"/>Qui parla lo sponitore.</p>
   ...
 ```

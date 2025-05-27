@@ -30,13 +30,14 @@ The TITUS 1 structural units are mapped onto TEI as follows:
 text (@xml:lang=lat-Latn)
   body
     div (@data-level=1, @n, @type=text, @xml:id) (multiple)
-      head (multiple)
+      head (@n) (multiple)
       p (@xml:id) (multiple)
         choice (multiple)
           corr (multiple)
           sic (multiple)
         [lb (@n) (multiple)]
         [pb (@n, @type=edition) (multiple)]
+        [foreign (@xml:lang=und-Latn-x-general) (multiple)]
       p (@xml:id) (multiple)
         [lb (@n) (multiple)]
         [pb (@n, @type=edition)]
@@ -47,16 +48,16 @@ text (@xml:lang=lat-Latn)
 
 ```xml
 <div xmlns="http://www.tei-c.org/ns/1.0" n="1" xml:id="text-1" type="text" data-level="1">
-				<pb type="edition" n="124"/>
-				<head>De leone.</head>
-				<p xml:id="text-1-p-1">
-					<lb n="1"/>* Igitur Jacob benedicens filium suum Juda dicebat »Catulus leonis<lb n="2"/>Juda filius ....« Tres naturas habet leo: prima, cum ambulat in
-<lb n="3"/>montibus vel silvis, si evenerit, ut queratur a venatoribus, et veniet
-<lb n="4"/>ei odor venatoris ad nares, statim cum cauda delet post se vestigia sua
-<lb n="5"/>quocumque ierit, ut non secutus venator vestigia capiat eum. Sic et
-<lb n="6"/>dominus noster ... missus a sempiterno patre cooperuit intelligibilia
-<lb n="7"/>deitatis sue vestigia. ... Cum dormierit leo, vigilant oculi ejus.
-<lb n="8"/>In aperiendo * sicut et in cantico canticorum testatur sponsus de se
-<lb n="9"/>ipso »Ego dormio et cor meum vigilat«.... Caro enim domini
+        <pb type="edition" n="124"/>
+        <head n="1">De leone.</head>
+        <p xml:id="text-1-p-1">
+          <lb n="2"/>* Igitur Jacob benedicens filium suum Juda dicebat »Catulus leonis
+          <lb n="3"/>Juda filius ....« Tres naturas habet leo: prima, cum ambulat in
+          <lb n="4"/>montibus vel silvis, si evenerit, ut queratur a venatoribus, et veniet
+          <lb n="5"/>ei odor venatoris ad nares, statim cum cauda delet post se vestigia sua
+          <lb n="6"/>quocumque ierit, ut non secutus venator vestigia capiat eum. Sic et
+          <lb n="7"/>dominus noster ... missus a sempiterno patre cooperuit intelligibilia
+          <lb n="8"/>deitatis sue vestigia. ... Cum dormierit leo, vigilant oculi ejus.
+          <lb n="9"/>In aperiendo * sicut et in cantico canticorum testatur sponsus de se
   ...
 ```

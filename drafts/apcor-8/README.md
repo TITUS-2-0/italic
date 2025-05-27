@@ -2,7 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/TEI_validation-passing-green)
 
-This is a TEI port of a [TITUS dataset](http://titus.uni-frankfurt.de/texte/etcs/ital/aport/apcorp/apcor.htm).
+This is a TEI port of a [TITUS dataset](http://titus.uni-frankfurt.de/texte/etcs/ital/aport/apcorp/apcor.htm?apcor008.htmapcor.htm).
 
 * URL: https://github.com/TITUS-2-0/italic/tree/main/drafts/apcor-8/
 * version: unreleased
@@ -47,14 +47,14 @@ text (@xml:lang=und-Latn-x-glpt)
 <p xmlns="http://www.tei-c.org/ns/1.0" xml:id="p-1">
         <lb n="1"/>
         <milestone unit="part" n="1" type="inline" xml:id="p-1-milestone-1"/>Aquy se começa a vida de Tarssis molher que
-        <lb n="2"/>foy muyto peccatriz
-        <note xml:id="p-1-note-1">
-          peccatriz:
-          <foreign xml:lang="por-Latn">JJN</foreign>
-          peccatrix.
-        </note>
+        <lb n="2"/>foy muyto peccatriz<note xml:id="p-1-note-1">peccatriz: <foreign xml:lang="por-Latn">JJN</foreign> peccatrix.</note>
         <pb n="66v"/>
         <lb n="1"/>
-        <milestone unit="part" n="2" type="inline" xml:id="p-1-milestone-2"/>Hũa mançeba
+        <milestone unit="part" n="2" type="inline" xml:id="p-1-milestone-2"/>Hũa mançeba<note xml:id="p-1-note-2">mançeba: <foreign xml:lang="por-Latn">JJN</foreign> manceba  <foreign xml:lang="por-Latn">(comportamento sistemático em Nunes, que deixo de anotar).</foreign>
+        </note> foy do mundo que chamavã<note xml:id="p-1-note-3">chamavã: <foreign xml:lang="por-Latn">JJN</foreign> chamavam  <foreign xml:lang="por-Latn">(comportamento sistemático em Nunes, que deixo de anotar).</foreign>
+        </note>
+        <lb n="2"/>Tarsis e era de tamanha fremosura que muitos
+        <lb n="3"/>venderõ os beës<note xml:id="p-1-note-4">beës: <foreign xml:lang="por-Latn">JJN</foreign> bëes  <foreign xml:lang="por-Latn">(comportamento sistemático em Nunes, que deixo de anotar).</foreign>
+        </note> que avyam por ella e veerom a
   ...
 ```
