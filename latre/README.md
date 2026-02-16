@@ -4,13 +4,13 @@
 
 This is a TEI port of a [TITUS dataset](http://titus.uni-frankfurt.de/texte/etcs/ital/aital/latrett/latre.htm).
 
-* URL: https://titus2.uni-frankfurt.de/dataset/latre
+* URL: https://github.com/TITUS-2-0/italic/tree/main/drafts/latre
 * version: 0.1.0
 * date: 2025-04-23
 
 ## Citation
 ```text
-Digital version of La Rettorica (1261) by Brunetto Latini (v0.1.0). By: Gisella Ferraresi, Jost Gippert, Maria Goldbach, Florian Matter, Esther Rinke. In: Carling, Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University. (URL: https://titus2.uni-frankfurt.de/dataset/latre, visited on <insert date>)
+Digital version of La Rettorica (1261) by Brunetto Latini (v0.1.0). By: Gisella Ferraresi, Jost Gippert, Maria Goldbach, Florian Matter, Esther Rinke. In: Carling, Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University. (URL: https://github.com/TITUS-2-0/italic/tree/main/drafts/latre, visited on <insert date>)
 ```
 
 ## TEI encoding
