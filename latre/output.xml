@@ -43,7 +43,7 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="ita-Latn-x-old" ana="primary">Old Italian</language>
+        <language ana="primary" ident="ita-Latn-x-old">Old Italian</language>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -58,8 +58,8 @@
         <lb n="5" />lo sponitore. Incomincia il prologo.</p>
     </front>
     <body>
-      <div n="1" xml:id="part-1" type="part" data-level="1">
-        <milestone unit="chapter" n="I" xml:id="part-1-milestone-1" />
+      <div data-level="1" n="1" type="part" xml:id="part-1">
+        <milestone n="I" unit="chapter" xml:id="part-1-milestone-1" />
         <p xml:id="part-1-p-2">
           <lb n="6" />Sovente e molto ò io pensato in me medesimo
           <lb n="7" />se lla copia del dicere e lo sommo studio della
@@ -283,7 +283,7 @@
 <lb n="14" />et àe detto li mali avenuti, e ritorna alla seconda parte
 <lb n="15" />nella quale dimostra de' beni che sono pervenuti per eloquenzia.</p>
       </div>
-      <div n="2" xml:id="part-2" type="part" data-level="1">
+      <div data-level="1" n="2" type="part" xml:id="part-2">
         <p xml:id="part-2-p-22">
           <lb n="16" />Tullio.
           <lb n="17" />Sì come quando ordino di ritrarre dell' antiche
@@ -350,7 +350,7 @@
           <lb n="5" />Che è eloquenzia.- Eloquenzia è sapere dire addorne
           <lb n="6" />parole guernite di buone sentenzie.</p>
       </div>
-      <div n="3" xml:id="part-3" type="part" data-level="1">
+      <div data-level="1" n="3" type="part" xml:id="part-3">
         <p xml:id="part-3-p-31">
           <lb n="7" />Tullio.
           <lb n="8" />Et così me lungamente pensante la ragione stessa
@@ -420,7 +420,7 @@
           <lb n="1" />di Tulio in lettera grossa, e poi seguisce la disposta in
           <lb n="2" />lettera sottile secondo la forma del libro.</p>
       </div>
-      <div n="4" xml:id="part-4" type="part" data-level="1">
+      <div data-level="1" n="4" type="part" xml:id="part-4">
         <p xml:id="part-4-p-38">
           <lb n="3" />Tullio.
           <lb n="4" />Dunque se noi volemo considerare il principio
@@ -428,7 +428,7 @@
           <lb n="6" />o per studio o per usanza o per forza di natura, noi
           <lb n="7" />troveremo che sia nato d' onestissime cagioni e che ssia
           <lb n="8" />mosso d' ottima ragione.
-          <milestone unit="chapter" n="II" xml:id="part-4-p-38-milestone-2" />Acciò che fue un
+          <milestone n="II" unit="chapter" xml:id="part-4-p-38-milestone-2" />Acciò che fue un
           <lb n="9" />tempo che in tutte parti isvagavano gli uomini per
           <lb n="10" />li campi in guisa di bestie e conduceano lor vita in
           <lb n="11" />modo di fiere, e facea ciascuno quasi tutte cose per
@@ -529,7 +529,7 @@
 <lb n="8" />cominciò a parere. Omai dicerae in che modo
 <lb n="9" />appario e come si trasse innanzi.</p>
       </div>
-      <div n="5" xml:id="part-5" type="part" data-level="1">
+      <div data-level="1" n="5" type="part" xml:id="part-5">
         <p xml:id="part-5-p-54">
           <lb n="10" />Tullio.
           <lb n="11" />Nel quale tempo fue uno uomo grande e savio,
@@ -596,7 +596,7 @@
           <lb n="2" />e come; or dicerà per che ragione, sanza la quale non
           <lb n="3" />potea ciò fare.</p>
       </div>
-      <div n="6" xml:id="part-6" type="part" data-level="1">
+      <div data-level="1" n="6" type="part" xml:id="part-6">
         <p xml:id="part-6-p-60">
           <lb n="4" />Tullio.
           <lb n="5" />Per la qual cosa pare a me che lla sapienzia
@@ -625,7 +625,7 @@
           <lb n="1" />diverse ragioni di vita» intendo che uno fece cavalieri, un
           <lb n="2" />altro fece cherico, e così fece d' altri mistieri.</p>
       </div>
-      <div n="7" xml:id="part-7" type="part" data-level="1">
+      <div data-level="1" n="7" type="part" xml:id="part-7">
         <p xml:id="part-7-p-63">
           <lb n="3" />Tullio.
           <lb n="4" />Et così, poi che lle cittadi e le ville fuoron fatte,
@@ -675,7 +675,7 @@
           <lb n="4" />bisogna la nostra rettorica sì al postutto, che sanza lei
           <lb n="5" />non si potrebbono mantenere.</p>
       </div>
-      <div n="9" xml:id="part-8" type="part" data-level="1">
+      <div data-level="1" n="9" type="part" xml:id="part-8">
         <p xml:id="part-8-p-67">
           <lb n="6" />Tullio.
           <lb n="7" />Ma poi che lli uomini, malamente seguendo la
@@ -683,7 +683,7 @@
           <lb n="9" />usaro et inforzaro tutto loro ingegno in malizia,
           <lb n="10" />per che convenne che lle cittadi sine guastassero e li
           <lb n="11" />uomini si comprendessero di quella ruggine.
-          <milestone unit="chapter" n="III" xml:id="part-8-p-67-milestone-3" />Et
+          <milestone n="III" unit="chapter" xml:id="part-8-p-67-milestone-3" />Et
           <lb n="12" />poi che detto avemo la cumincianza del bene, contiamo
           <lb n="13" />come cuminciò questo male.</p>
         <p n="1" xml:id="part-8-p-68">
@@ -719,7 +719,7 @@
 <lb n="18" />in conto la 'ncumincianza del male che 'nde seguitò.
 <lb n="19" />Et dice in questo modo nel testo:</p>
       </div>
-      <div n="10" xml:id="part-9" type="part" data-level="1">
+      <div data-level="1" n="10" type="part" xml:id="part-9">
         <pb n="29" />
         <p xml:id="part-9-p-72">
           <lb n="1" />Tullio tratta della comincianza del male
@@ -737,7 +737,7 @@
           <lb n="13" />la verità, imperseveramento di parlare nutricò
           <lb n="14" />arditanza.</p>
       </div>
-      <div n="11" xml:id="part-10" type="part" data-level="1">
+      <div data-level="1" n="11" type="part" xml:id="part-10">
         <p xml:id="part-10-p-73">
           <lb n="15" />Sì che per le 'ngiurie de' cittadini convenne per
           <lb n="16" />necessitade che' maggiori si contraparassono agli arditi
@@ -750,7 +750,7 @@
           <lb n="3" />gente e di sé medesimo, paresse essere degno di reggiere
           <lb n="4" />le publiche cose.</p>
       </div>
-      <div n="12" xml:id="part-11" type="part" data-level="1">
+      <div data-level="1" n="12" type="part" xml:id="part-11">
         <p xml:id="part-11-p-74">
           <lb n="5" />E certo non ingiustamente, poi che' folli arditi
           <lb n="6" />impronti pervennero ad avere reggimenti delle comunanze,
@@ -763,7 +763,7 @@
           <lb n="13" />la qual cosa pare che per la loro posa li altri dritti
           <lb n="14" />et onesti studii molto perseverati vennero in onore.</p>
       </div>
-      <div n="13" xml:id="part-12" type="part" data-level="1">
+      <div data-level="1" n="13" type="part" xml:id="part-12">
         <p xml:id="part-12-p-75">
           <lb n="15" />Ma questo studio di rettorica fue abandonato quasi
           <lb n="16" />da tutti loro, e perciò tornò a neente, in tal tempo
@@ -774,7 +774,7 @@
           <lb n="3" />manimettea e guastava la cosa onestissima e dirittissima
           <lb n="4" />con troppo gravoso danno del comune, allora
           <lb n="5" />era più degna cosa contrastare e consigliare la cosa publica.
-          <milestone unit="chapter" n="IV" xml:id="part-12-p-75-milestone-4" />
+          <milestone n="IV" unit="chapter" xml:id="part-12-p-75-milestone-4" />
           <lb n="6" />Della qual cosa non fugìo il nostro Catone
           <lb n="7" />né Lelius né, al ver dire, il loro discepolo Affricano,
           <lb n="8" />né i Gracchi nepoti d' Affricano, ne' quali uomini
@@ -894,7 +894,7 @@
 <lb n="11" />possibili e necessare che dovemo studiare in eloquenzia,
 <lb n="12" />e lodala in molte guise.</p>
       </div>
-      <div n="14" xml:id="part-13" type="part" data-level="1">
+      <div data-level="1" n="14" type="part" xml:id="part-13">
         <p xml:id="part-13-p-88">
           <lb n="13" />Tullio conclude che sia da studiare in rettorica.
           <lb n="14" />Per la qual cosa, al mio animo, non perciò meno
@@ -948,7 +948,7 @@
 <lb n="16" />né per prezzo né per altra simile cosa. Et qui si parte il
 <lb n="17" />conto e fae un' ultima conclusione in questo modo:</p>
       </div>
-      <div n="15" xml:id="part-14" type="part" data-level="1">
+      <div data-level="1" n="15" type="part" xml:id="part-14">
         <p xml:id="part-14-p-93">
           <lb n="18" />Tullio conclude in somma.
           <lb n="19" />Et però pare a me che gli uomini, i quali in molte
@@ -976,7 +976,7 @@
           <lb n="16" />acquista bene la sovrana cosa di tutte le buone, che di
           <lb n="17" />ben parlare soprastae alli altri uomini.</p>
       </div>
-      <div n="16" xml:id="part-15" type="part" data-level="1">
+      <div data-level="1" n="16" type="part" xml:id="part-15">
         <p xml:id="part-15-p-96">
           <lb n="18" />Tullio dice di che elli tratterà.
           <lb n="19" />Et questa altissima cosa, cioè eloquenzia, non
@@ -1001,8 +1001,8 @@
           <lb n="16" />che seguirà, e così pone fine al suo prolago e viene al
           <lb n="17" />fatto in questo modo:</p>
       </div>
-      <div n="17" xml:id="part-16" type="part" data-level="1">
-        <milestone unit="chapter" n="V" xml:id="part-16-milestone-5" />
+      <div data-level="1" n="17" type="part" xml:id="part-16">
+        <milestone n="V" unit="chapter" xml:id="part-16-milestone-5" />
         <p xml:id="part-16-p-98">
           <lb n="18" />Tullio àe finito il prolago, e comincia a dire di eloquenzia.
           <lb n="19" />Una ragione è delle cittadi la quale richiede
@@ -1237,7 +1237,7 @@
 <lb n="18" />Or è detto del genere; omai dicerà Tulio dello offizio di
 <lb n="19" />rettorica e del fine.</p>
       </div>
-      <div n="18" xml:id="part-17" type="part" data-level="1">
+      <div data-level="1" n="18" type="part" xml:id="part-17">
         <pb n="51" />
         <p xml:id="part-17-p-121">
           <lb n="1" />Tullio dice che è l' ufficio di questa arte.
@@ -1298,7 +1298,7 @@
           <lb n="6" />Già è detto sofficientemente dell' officio e della fine di
           <lb n="7" />rettorica; omai procederàe il conto a dire della materia.</p>
       </div>
-      <div n="19" xml:id="part-18" type="part" data-level="1">
+      <div data-level="1" n="19" type="part" xml:id="part-18">
         <p xml:id="part-18-p-127">
           <lb n="8" />Della materia.
           <lb n="9" />Materia di questa arte dicemo che ssia quella
@@ -1382,7 +1382,7 @@
 <lb n="18" />altrimenti non potrebbe intendere quello che viene innanzi;
 <lb n="19" />e dicerà prima del dimostrativo.</p>
       </div>
-      <div n="20" xml:id="part-19" type="part" data-level="1">
+      <div data-level="1" n="20" type="part" xml:id="part-19">
         <pb n="57" />
         <p xml:id="part-19-p-134">
           <lb n="1" />Del dimostramento.
@@ -1459,7 +1459,7 @@
 <lb n="15" />non era degna. E già è ben detto della causa dimostrativa;
 <lb n="16" />sì dicerà il maestro della causa deliberativa.</p>
       </div>
-      <div n="21" xml:id="part-20" type="part" data-level="1">
+      <div data-level="1" n="21" type="part" xml:id="part-20">
         <p xml:id="part-20-p-144">
           <lb n="17" />Del diliberamento.
           <lb n="18" />Diliberativo è quello il quale, messo a contendere
@@ -1512,7 +1512,7 @@
 <lb n="16" />la loro sentenza, e talvolta si ne prendea un' altra
 <lb n="17" />migliore.</p>
       </div>
-      <div n="22" xml:id="part-21" type="part" data-level="1">
+      <div data-level="1" n="22" type="part" xml:id="part-21">
         <p xml:id="part-21-p-152">
           <lb n="18" />Del iudiciale.
           <lb n="19" />Judiciale è quello il quale, posto in iudicio, à
@@ -1556,14 +1556,14 @@
 <lb n="6" />considerano sopra 'l tempo preterito, perciò che di ciò
 <lb n="7" />che ll' uomo à fatto in arrietro è guidardonato o punito.</p>
       </div>
-      <div n="23" xml:id="part-22" type="part" data-level="1">
+      <div data-level="1" n="23" type="part" xml:id="part-22">
         <p xml:id="part-22-p-158">
           <lb n="8" />Tullio dice la sua sentenzia della materia di rettorica,
           <lb n="9" />riprende quella d' Ermagoras.
           <lb n="10" />Et sì come porta la nostra oppinione, l' arte del
           <lb n="11" />parliere e la sua scienzia è di questa materia partita
           <lb n="12" />in tre.
-          <milestone unit="chapter" n="VI" xml:id="part-22-p-158-milestone-6" />Ché certo non pare che Ermagoras
+          <milestone n="VI" unit="chapter" xml:id="part-22-p-158-milestone-6" />Ché certo non pare che Ermagoras
           <lb n="13" />attenda quello che dice né attenda ciò che promette,
           <lb n="14" />acciò che dovide la materia di questa arte in causa
           <lb n="15" />et in questione.</p>
@@ -1634,7 +1634,7 @@
 <lb n="11" />e questioni proverebbe per rettorica. Or dicerà Tulio le
 <lb n="12" />riprensioni d' Ermagoras sopra causa e sopra questione.</p>
       </div>
-      <div n="24" xml:id="part-23" type="part" data-level="1">
+      <div data-level="1" n="24" type="part" xml:id="part-23">
         <p xml:id="part-23-p-166">
           <lb n="13" />Tullio seguita Ermagoras della causa, etc..
           <lb n="14" />Causa dice che ssia quella cosa nella quale abbia
@@ -1660,7 +1660,7 @@
 <lb n="8" />co llui, ché ciò àe elli detto davanti per sé e per
 <lb n="9" />Aristotile; ma dicerà omai com' elli errò in questione.</p>
       </div>
-      <div n="25" xml:id="part-24" type="part" data-level="1">
+      <div data-level="1" n="25" type="part" xml:id="part-24">
         <p xml:id="part-24-p-170">
           <lb n="10" />Qui riprende Tullio Ermagoras.
           <lb n="11" />Questione apella quella che àe in sé controversia
@@ -1725,7 +1725,7 @@
 <lb n="24" />la sua sapienzia; e sopr' a cciò ecco 'l testo
 <lb n="25" />di Tulio.</p>
       </div>
-      <div n="26" xml:id="part-25" type="part" data-level="1">
+      <div data-level="1" n="26" type="part" xml:id="part-25">
         <pb n="70" />
         <p xml:id="part-25-p-179">
           <lb n="1" />Tullio dice in somma ciò ch' elli avea detto davanti.
@@ -1781,7 +1781,7 @@
           <lb n="4" />dicerà il conto delle sue parti, sì come Tulio promise
           <lb n="5" />nel suo testo qua indietro.</p>
       </div>
-      <div n="27" xml:id="part-26" type="part" data-level="1">
+      <div data-level="1" n="27" type="part" xml:id="part-26">
         <p xml:id="part-26-p-185">
           <lb n="6" />Tullio dice le parti di rettorica.
           <lb n="7" />Le parti sono queste, sì come i più dicono: Inventio,
@@ -1813,7 +1813,7 @@
 <lb n="8" />e veramente è più degna, però ch' ella puote essere e
 <lb n="9" />stare sanza l' altre, ma l' altre non possono essere sanza lei.</p>
       </div>
-      <div n="28" xml:id="part-27" type="part" data-level="1">
+      <div data-level="1" n="28" type="part" xml:id="part-27">
         <p xml:id="part-27-p-190">
           <lb n="10" />Tullio dice della invenzione.
           <lb n="11" />Inventio è apensamento a trovare cose vere o
@@ -1852,7 +1852,7 @@
 <lb n="18" />quello che è inventio. Ora procederà il conto a dire quello
 <lb n="19" />che è dispositio.</p>
       </div>
-      <div n="29" xml:id="part-28" type="part" data-level="1">
+      <div data-level="1" n="29" type="part" xml:id="part-28">
         <p xml:id="part-28-p-195">
           <lb n="20" />Dice Tullio de dispositio.
           <lb n="21" />Dispositio èe assettamento delle cose trovate
@@ -1878,7 +1878,7 @@
         <p n="4" xml:id="part-28-p-199">Già
 <lb n="15" />è detto che è dispositio; or dicerà il conto che è elocutio.</p>
       </div>
-      <div n="30" xml:id="part-29" type="part" data-level="1">
+      <div data-level="1" n="30" type="part" xml:id="part-29">
         <p xml:id="part-29-p-200">
           <lb n="16" />Tullio dice della locuzione.
           <lb n="17" />Elocutio è aconciamento di parole e di sentenzie
@@ -1911,7 +1911,7 @@
 <lb n="17" />parole e di sentenzie. Omai procederà il conto alla quarta
 <lb n="18" />parte di rettorica, cioè memoria.</p>
       </div>
-      <div n="31" xml:id="part-30" type="part" data-level="1">
+      <div data-level="1" n="31" type="part" xml:id="part-30">
         <p xml:id="part-30-p-205">
           <lb n="19" />Dice Tulio della memoria.
           <lb n="20" />Memoria è fermo ricevimento nell' animo delle
@@ -1940,7 +1940,7 @@
           <lb n="17" />siemo a dire. Et già è detto che è memoria; sì dicerà il
           <lb n="18" />conto la quinta et ultima parte di rettorica, cioè pronuntiatio.</p>
       </div>
-      <div n="32" xml:id="part-31" type="part" data-level="1">
+      <div data-level="1" n="32" type="part" xml:id="part-31">
         <p xml:id="part-31-p-210">
           <lb n="19" />Dice Tullio della pronunziagione.
           <lb n="20" />Pronuntiatio è avenimento della persona e della
@@ -1995,7 +1995,7 @@
 <lb n="16" />sia genere et officio e fine di rettorica sì com' elli àe fatto
 <lb n="17" />della materia e delle parti, e dice in questo modo.</p>
       </div>
-      <div n="33" xml:id="part-32" type="part" data-level="1">
+      <div data-level="1" n="33" type="part" xml:id="part-32">
         <p xml:id="part-32-p-217">
           <lb n="18" />Tullio dice che tratterà della materia e delle parti.
           <lb n="19" />Oramai dette brievemente queste cose, atermineremo
@@ -2044,8 +2044,8 @@
 <lb n="11" />secondo lo 'nsegnamento dell' arte, il libro e lo sponitore
 <lb n="12" />ne riceveranno perpetua laude.</p>
       </div>
-      <div n="34" xml:id="part-33" type="part" data-level="1">
-        <milestone unit="chapter" n="VIII" xml:id="part-33-milestone-7" />
+      <div data-level="1" n="34" type="part" xml:id="part-33">
+        <milestone n="VIII" unit="chapter" xml:id="part-33-milestone-7" />
         <p xml:id="part-33-p-221">
           <lb n="13" />Della constituzione e delle quattro sue parti.
           <lb n="14" />Ogne cosa la quale àe alcuna controversia
@@ -2187,7 +2187,7 @@
 <lb n="13" />lle divisioni e lle proprietadi e lle cagioni di tutte le dette
 <lb n="14" />questioni.</p>
       </div>
-      <div n="35" xml:id="part-34" type="part" data-level="1">
+      <div data-level="1" n="35" type="part" xml:id="part-34">
         <p xml:id="part-34-p-242">
           <lb n="15" />Del fatto, et è detto congetturale.
           <lb n="16" />Quando la controversia è di fatto, perciò che
@@ -2210,7 +2210,7 @@
 <lb n="8" />constituzione di fatto, sì dicerà Tulio di quella ch' è di
 <lb n="9" />nome.</p>
       </div>
-      <div n="36" xml:id="part-35" type="part" data-level="1">
+      <div data-level="1" n="36" type="part" xml:id="part-35">
         <p xml:id="part-35-p-245">
           <lb n="10" />Del nome, et è appellata diffinitiva.
           <lb n="11" />Quando è la controversia del nome, perciò che
@@ -2240,7 +2240,7 @@
 <lb n="8" />ponga a quel fatto. Et poi ch' è detto del nome, sì dicerà
 <lb n="9" />Tulio del genere.</p>
       </div>
-      <div n="37" xml:id="part-36" type="part" data-level="1">
+      <div data-level="1" n="37" type="part" xml:id="part-36">
         <p xml:id="part-36-p-249">
           <lb n="10" />Dice Tullio del genere, et è appellato generale.
           <lb n="11" />Quando è quistione della cosa qual sia, perciò
@@ -2267,7 +2267,7 @@
           <lb n="5" />sì come davanti fue messo l' exemplo, cioè se colui che fece
           <lb n="6" />il fatto fece iustamente o iniustamente.</p>
       </div>
-      <div n="38" xml:id="part-37" type="part" data-level="1">
+      <div data-level="1" n="38" type="part" xml:id="part-37">
         <p xml:id="part-37-p-254">
           <lb n="7" />Dice Tullio dell' azione, et è appellata translativa.
           <lb n="8" />Ma quando la causa pende di ciò che non pare
@@ -2333,7 +2333,7 @@
 <lb n="15" />in altro fatto e stato, tal fiata in tutto e tal fiata in parte,
 <lb n="16" />sì come appare nelli exempli di sopra.</p>
       </div>
-      <div n="39" xml:id="part-38" type="part" data-level="1">
+      <div data-level="1" n="39" type="part" xml:id="part-38">
         <p xml:id="part-38-p-264">
           <lb n="17" />Dice Tullio se l' una delle dette quattro cose non fosse
           <lb n="18" />non sarebbe causa.
@@ -2365,7 +2365,7 @@
 <lb n="19" />omai perseverrà Tulio sua materia per dicere di ciascuna
 <lb n="20" />parte per sé.</p>
       </div>
-      <div n="40" xml:id="part-39" type="part" data-level="1">
+      <div data-level="1" n="40" type="part" xml:id="part-39">
         <p xml:id="part-39-p-267">
           <lb n="21" />Del fatto.
           <lb n="22" />La contraversia del fatto si puote distribuire in
@@ -2438,7 +2438,7 @@
 <lb n="10" />del fatto, sì dicerà di quella del nome in questo
 <lb n="11" />modo.</p>
       </div>
-      <div n="41" xml:id="part-40" type="part" data-level="1">
+      <div data-level="1" n="41" type="part" xml:id="part-40">
         <p xml:id="part-40-p-276">
           <lb n="12" />Del nome.
           <lb n="13" />Controversia del nome è quando lo fatto è conceduto,
@@ -2484,8 +2484,8 @@
           <lb n="2" />Et è detto della controversia del nome; omai dicerà Tulio
           <lb n="3" />di quella del genere, in questo modo:</p>
       </div>
-      <div n="42" xml:id="part-41" type="part" data-level="1">
-        <milestone unit="chapter" n="IX" xml:id="part-41-milestone-8" />
+      <div data-level="1" n="42" type="part" xml:id="part-41">
+        <milestone n="IX" unit="chapter" xml:id="part-41-milestone-8" />
         <p xml:id="part-41-p-280">
           <lb n="4" />Del genere.
           <lb n="5" />Controversia del genere è quando il
@@ -2535,7 +2535,7 @@
 <lb n="19" />suo parimento, sì procede immantenente a riprendere
 <lb n="20" />Ermagoras dell' errore suo in questa controversia del genere.</p>
       </div>
-      <div n="43" xml:id="part-42" type="part" data-level="1">
+      <div data-level="1" n="43" type="part" xml:id="part-42">
         <p xml:id="part-42-p-287">
           <lb n="21" />Dell' errore d' Ermagoras.
           <lb n="22" />A questo genere Ermagoras sottopuose quattro
@@ -2548,7 +2548,7 @@
           <lb n="4" />in ciò, paia che noi facessimo dimoro et impedimento
           <lb n="5" />agli altri insegnamenti.</p>
       </div>
-      <div n="44" xml:id="part-43" type="part" data-level="1">
+      <div data-level="1" n="44" type="part" xml:id="part-43">
         <p xml:id="part-43-p-288">Se deliberamento
 <lb n="6" />e dimostramento sono generi delle cause, non possono
 <lb n="7" />essere diritte parti d' alcuno genere di causa, perciò che
@@ -2571,8 +2571,8 @@
 <pb n="100" />
           <lb n="1" />ch' elli fossero parte della constituzione del genere.</p>
       </div>
-      <div n="45" xml:id="part-44" type="part" data-level="1">
-        <milestone unit="chapter" n="X" xml:id="part-44-milestone-9" />
+      <div data-level="1" n="45" type="part" xml:id="part-44">
+        <milestone n="X" unit="chapter" xml:id="part-44-milestone-9" />
         <p xml:id="part-44-p-289">
           <lb n="2" />Et s' elle non possono essere tenute diritte
           <lb n="3" />parti della causa del genere, molto meno fien tenute
@@ -2584,7 +2584,7 @@
           <lb n="9" />sono generi: donque molto meno debbono essere tenuti
           <lb n="10" />parte di quello ch' esso dice.</p>
       </div>
-      <div n="46" xml:id="part-45" type="part" data-level="1">
+      <div data-level="1" n="46" type="part" xml:id="part-45">
         <p xml:id="part-45-p-290">Appresso ciò se lla
 <lb n="11" />constituzione et essa e ciascuna parte della constituzione
 <lb n="12" />è difensione contra quello ch' è apposto, conviene
@@ -2602,7 +2602,7 @@
 <pb n="101" />
           <lb n="1" />seguiranno lui tutti questi sconvenevoli.</p>
       </div>
-      <div n="47" xml:id="part-46" type="part" data-level="1">
+      <div data-level="1" n="47" type="part" xml:id="part-46">
         <p xml:id="part-46-p-291">Appresso
 <lb n="2" />ciò, la causa congetturale, cioè di fatto, non puote
 <lb n="3" />d' una medesima parte inn un medesimo genere essere
@@ -2645,8 +2645,8 @@
 <lb n="14" />sì come qui dinanzi fue detto. Et in ciò incomincia la
 <lb n="15" />sentenzia di Tullio in questo modo:</p>
       </div>
-      <div n="48" xml:id="part-47" type="part" data-level="1">
-        <milestone unit="chapter" n="XI" xml:id="part-47-milestone-10" />
+      <div data-level="1" n="48" type="part" xml:id="part-47">
+        <milestone n="XI" unit="chapter" xml:id="part-47-milestone-10" />
         <p xml:id="part-47-p-294">
           <lb n="16" />Le parti della constituzione generale.
           <lb n="17" />Questa constituzione del genere pare a
@@ -2662,7 +2662,7 @@
           <lb n="2" />dice e dimostra che è iudiciale e che è negoziale, in questo
           <lb n="3" />modo:</p>
       </div>
-      <div n="49" xml:id="part-48" type="part" data-level="1">
+      <div data-level="1" n="49" type="part" xml:id="part-48">
         <p xml:id="part-48-p-296">
           <lb n="4" />Di Iudiciale.
           <lb n="5" />Iudiciale è quella nella quale si questiona la natura
@@ -2688,7 +2688,7 @@
 <lb n="6" />poi che à detto Tulio del iudiciale, sì dicerà dell' altra
 <lb n="7" />parte, cioè della negoziale.</p>
       </div>
-      <div n="50" xml:id="part-49" type="part" data-level="1">
+      <div data-level="1" n="50" type="part" xml:id="part-49">
         <p xml:id="part-49-p-300">
           <lb n="8" />Di negoziale.
           <lb n="9" />Negoziale è quella nella quale si considera
@@ -2720,7 +2720,7 @@
 <lb n="10" />per meglio dimostrare lo 'ntendimento di ciascuno
 <lb n="11" />capitolo dell' Arte.</p>
       </div>
-      <div n="51" xml:id="part-50" type="part" data-level="1">
+      <div data-level="1" n="51" type="part" xml:id="part-50">
         <p xml:id="part-50-p-305">
           <lb n="12" />Di due parti di Iudiciale.
           <lb n="13" />La iudiciale dividesi in due parti, ciò sono assoluta
@@ -2733,7 +2733,7 @@
           <lb n="1" />parti: una ch' è appellata assoluta e l' altra la quale è appellata
           <lb n="2" />assuntiva; e dicerà di catuna per sé.</p>
       </div>
-      <div n="52" xml:id="part-51" type="part" data-level="1">
+      <div data-level="1" n="52" type="part" xml:id="part-51">
         <p xml:id="part-51-p-307">
           <lb n="3" />Dell' asoluta.
           <lb n="4" />Assoluta è quella che in sé stessa contiene questione
@@ -2756,7 +2756,7 @@
           <lb n="3" />piace per sé sanza neuna giunta et in sé contiene forza
           <lb n="4" />della pruova, perciò ch' era cotale usanza.</p>
       </div>
-      <div n="53" xml:id="part-52" type="part" data-level="1">
+      <div data-level="1" n="53" type="part" xml:id="part-52">
         <p xml:id="part-52-p-310">
           <lb n="5" />Asuntiva.
           <lb n="6" />Assuntiva è quella che per sé non dà alcuna
@@ -2782,7 +2782,7 @@
           <lb n="8" />Et questa cotale questione assuntiva à quattro parti,
           <lb n="9" />delle quali il testo dicerà di catuna perfettamente per sé.</p>
       </div>
-      <div n="54" xml:id="part-53" type="part" data-level="1">
+      <div data-level="1" n="54" type="part" xml:id="part-53">
         <p xml:id="part-53-p-313">
           <lb n="10" />Di concedere.
           <lb n="11" />Concedere e concessione è quando l' accusato
@@ -2804,7 +2804,7 @@
           <lb n="2" />e di ciascuna di queste dirà Tulio partitamente, e prima
           <lb n="3" />della purgazione.</p>
       </div>
-      <div n="55" xml:id="part-54" type="part" data-level="1">
+      <div data-level="1" n="55" type="part" xml:id="part-54">
         <p xml:id="part-54-p-316">
           <lb n="4" />Di purgazione.
           <lb n="5" />Purgazione è quando il fatto si concede ma la
@@ -2867,7 +2867,7 @@
 <lb n="16" />che Tullio àe detto della purgazione e delle sue parti, sì
 <lb n="17" />dicerà della preghiera.</p>
       </div>
-      <div n="56" xml:id="part-55" type="part" data-level="1">
+      <div data-level="1" n="56" type="part" xml:id="part-55">
         <p xml:id="part-55-p-322">
           <lb n="18" />Della preghiera.
           <lb n="19" />Preghiera è quando l' accusato confessa ch' elli àe
@@ -2908,7 +2908,7 @@
 <lb n="6" />e di preghiera, sì dicerà della seconda parte, cioè
 <lb n="7" />rimuovere lo peccato.</p>
       </div>
-      <div n="57" xml:id="part-56" type="part" data-level="1">
+      <div data-level="1" n="57" type="part" xml:id="part-56">
         <p xml:id="part-56-p-327">
           <lb n="8" />Di rimuovere.
           <lb n="9" />Rimuovere lo peccato è quando l' accusato si
@@ -2977,7 +2977,7 @@
 <lb n="2" />che Tulio àe insegnato rimuovere lo peccato, sì insegnerà
 <lb n="3" />in questa altra partita riferire il peccato.</p>
       </div>
-      <div n="58" xml:id="part-57" type="part" data-level="1">
+      <div data-level="1" n="58" type="part" xml:id="part-57">
         <p xml:id="part-57-p-332">
           <lb n="4" />Tullio dice che è riferire il peccato.
           <lb n="5" />Riferire il peccato è quando si dice che ssia
@@ -2998,7 +2998,7 @@
         <p n="2" xml:id="part-57-p-334">Et poi che Tullio àe insegnato riferire lo peccato,
 <lb n="19" />sì insegnerà omai che è comparazione.</p>
       </div>
-      <div n="59" xml:id="part-58" type="part" data-level="1">
+      <div data-level="1" n="59" type="part" xml:id="part-58">
         <pb n="117" />
         <p xml:id="part-58-p-335">
           <lb n="1" />Tullio dice che è comparazione.
@@ -3036,7 +3036,7 @@
 <lb n="5" />sopra la questione traslativa, della quale fue assai detto
 <lb n="6" />in adietro, per dire alcuna cosa che là fue intralasciata.</p>
       </div>
-      <div n="60" xml:id="part-59" type="part" data-level="1">
+      <div data-level="1" n="60" type="part" xml:id="part-59">
         <p xml:id="part-59-p-339">
           <lb n="7" />Come Ermagoras fue trovatore della questione translativa.
           <lb n="8" />Nella quarta questione, la quale noi appelliamo
@@ -3083,11 +3083,11 @@
           <lb n="4" />Nota che invidia è dolore dell' altrui bene, e maltrattamento
           <lb n="5" />è dicere male d' altrui.</p>
       </div>
-      <div n="61" xml:id="part-60" type="part" data-level="1">
+      <div data-level="1" n="61" type="part" xml:id="part-60">
         <p xml:id="part-60-p-343">
           <lb n="6" />Tullio dice che davanti dicerà
           <lb n="7" />exempli in ciascuna maniera di constituzioni.
-          <milestone unit="chapter" n="XII" xml:id="part-60-p-343-milestone-11" />
+          <milestone n="XII" unit="chapter" xml:id="part-60-p-343-milestone-11" />
           <lb n="8" />Già avemo disposte le constituzioni e
           <lb n="9" />le loro parti; ma li axempli di ciascuna maniera parrà
           <lb n="10" />che noi possiamo meglio divisare quando noi daremo
@@ -3108,7 +3108,7 @@
           <lb n="1" />che ssi conviene all' ordine del libro per insegnamento
           <lb n="2" />dell' arte.</p>
       </div>
-      <div n="62" xml:id="part-61" type="part" data-level="1">
+      <div data-level="1" n="62" type="part" xml:id="part-61">
         <p xml:id="part-61-p-345">
           <lb n="3" />Qual causa sia simpla e quale congiunta.
           <lb n="4" />Poi ch' è trovata la constituzione della causa,
@@ -3125,7 +3125,7 @@
           <lb n="14" />d' alcuna comparazione, e di ciascuna dice exemplo in
           <lb n="15" />questo modo:</p>
       </div>
-      <div n="63" xml:id="part-62" type="part" data-level="1">
+      <div data-level="1" n="63" type="part" xml:id="part-62">
         <p xml:id="part-62-p-347">
           <lb n="16" />Della causa simpla.
           <lb n="17" />Simpla è quella la quale contiene in sé una
@@ -3142,7 +3142,7 @@
           <lb n="7" />o no. Et così vedi che causa simpla è pur d' una questione
           <lb n="8" />del sì o del no.</p>
       </div>
-      <div n="64" xml:id="part-63" type="part" data-level="1">
+      <div data-level="1" n="64" type="part" xml:id="part-63">
         <p xml:id="part-63-p-349">
           <lb n="9" />Della causa congiunta.
           <lb n="10" />Congiunta di piusori questioni è quella nella
@@ -3163,7 +3163,7 @@
           <lb n="6" />altra parte. E così vedi che questa causa è congiunta
           <lb n="7" />di tre questioni che sono dette.</p>
       </div>
-      <div n="65" xml:id="part-64" type="part" data-level="1">
+      <div data-level="1" n="65" type="part" xml:id="part-64">
         <p xml:id="part-64-p-351">
           <lb n="8" />Della causa congiunta di comparazione.
           <lb n="9" />Di comparazione è quella nella quale contendendo
@@ -3194,7 +3194,7 @@
 <lb n="10" />il migliore o 'l finissimo partito: o tenere o mandare la
 <lb n="11" />gente.</p>
       </div>
-      <div n="66" xml:id="part-65" type="part" data-level="1">
+      <div data-level="1" n="66" type="part" xml:id="part-65">
         <p xml:id="part-65-p-354">
           <lb n="12" />Della contraversia inn iscritto et in ragionamento.
           <lb n="13" />Poi è da pensare se lla controversia è in scritta
@@ -3213,12 +3213,12 @@
           <lb n="3" />e del ragionamento per sé, e di ciascuno partitamente
           <lb n="4" />in questo modo:</p>
       </div>
-      <div n="67" xml:id="part-66" type="part" data-level="1">
+      <div data-level="1" n="67" type="part" xml:id="part-66">
         <p xml:id="part-66-p-356">
           <lb n="5" />Della contraversia che nasce di cose scritte.
           <lb n="6" />Contraversia inn iscritta è quella che nasce d' alcuna
           <lb n="7" />qualitade di scrittura.
-          <milestone unit="chapter" n="XIII" xml:id="part-66-p-356-milestone-12" />Et certo le maniere
+          <milestone n="XIII" unit="chapter" xml:id="part-66-p-356-milestone-12" />Et certo le maniere
           <lb n="8" />di questa che sono partite delle constituzioni
           <lb n="9" />sono cinque: Che talvolta pare che lle parole medesimo
           <lb n="10" />siano discordanti dalla sentenzia dello scrittore;
@@ -3320,7 +3320,7 @@
           <lb n="2" />sue cinque parti. Omai dicerà di quella contraversia ch' è
           <lb n="3" />in ragionamento.</p>
       </div>
-      <div n="68" xml:id="part-67" type="part" data-level="1">
+      <div data-level="1" n="68" type="part" xml:id="part-67">
         <p xml:id="part-67-p-364">
           <lb n="4" />Della contraversia la quale nasce di ragionamento.
           <lb n="5" />Ragionamento è quando tutta la questione è
@@ -3337,7 +3337,7 @@
           <lb n="15" />per mostrare che nne dee essere, e questo senza scritta
           <lb n="16" />acciò che sopra questo no è legge né scrittura.</p>
       </div>
-      <div n="69" xml:id="part-68" type="part" data-level="1">
+      <div data-level="1" n="69" type="part" xml:id="part-68">
         <p xml:id="part-68-p-366">
           <lb n="17" />Delle quattro parti della causa.
           <lb n="18" />Adunque, poi che considerato è il genere della
@@ -3366,7 +3366,7 @@
           <lb n="20" />tutte muovono e nascono della constituzione, ciò viene a
           <lb n="21" />dire che la constituzione è il cominciamento di queste cose.</p>
       </div>
-      <div n="70" xml:id="part-69" type="part" data-level="1">
+      <div data-level="1" n="70" type="part" xml:id="part-69">
         <pb n="131" />
         <p xml:id="part-69-p-368">
           <lb n="1" />Della questione.
@@ -3409,7 +3409,7 @@
 <lb n="16" />neente se non ne mostra ragione per che e come, insegnerà
 <lb n="17" />Tullio immantenente che ragione sia.</p>
       </div>
-      <div n="71" xml:id="part-70" type="part" data-level="1">
+      <div data-level="1" n="71" type="part" xml:id="part-70">
         <p xml:id="part-70-p-372">
           <lb n="18" />Di ragione.
           <lb n="19" />Ragione è quella che contiene la causa, la quale
@@ -3444,7 +3444,7 @@
 <lb n="22" />matricidio. Et poi che Tullio à dimostrato che è questione
 <lb n="23" />e che ragione, sì dimosterrà che è giudicamento.</p>
       </div>
-      <div n="72" xml:id="part-71" type="part" data-level="1">
+      <div data-level="1" n="72" type="part" xml:id="part-71">
         <pb n="134" />
         <p xml:id="part-71-p-376">
           <lb n="1" />Del giudicamento.
@@ -3455,7 +3455,7 @@
           <lb n="6" />padre». Dice il savio: «Sanza te figliuolo convenia
           <lb n="7" />ch' essa madre fosse uccisa; perciò che 'l suo fatto si
           <lb n="8" />potea bene punire sanza tuo perverso adoperamento».
-          <milestone unit="chapter" n="XIV" xml:id="part-71-p-376-milestone-13" />
+          <milestone n="XIV" unit="chapter" xml:id="part-71-p-376-milestone-13" />
           <lb n="9" />Di questo mostramento della ragione nasce
           <lb n="10" />quella somma controversia la quale noi appelliamo
           <lb n="11" />giudicamento, la quale è cotale: se fosse diritta cosa
@@ -3491,7 +3491,7 @@
           <lb n="17" />Et omai à detto Tullio che è questione e che è ragione
           <lb n="18" />e che è giudicamento; sì dicerà che è fermamento.</p>
       </div>
-      <div n="73" xml:id="part-72" type="part" data-level="1">
+      <div data-level="1" n="73" type="part" xml:id="part-72">
         <p xml:id="part-72-p-380">
           <lb n="19" />Del fermamento.
           <lb n="20" />Fermamento è il firmissimo et appostissimo argomento
@@ -3556,7 +3556,7 @@
 <lb n="5" />per confermare le sue ragioni et incontra lo 'ndebolimento
 <lb n="6" />che facea l' aversario, sì è appellato fermamento.</p>
       </div>
-      <div n="74" xml:id="part-73" type="part" data-level="1">
+      <div data-level="1" n="74" type="part" xml:id="part-73">
         <p xml:id="part-73-p-386">
           <lb n="7" />In quale constituzione non à giudicamento.
           <lb n="8" />Et certo nell' altre constituzioni si truovano giudicamenti
@@ -3594,7 +3594,7 @@
 <lb n="14" />dice Tullio che quante constituzioni à una causa, altrettante
 <lb n="15" />v' à questioni e ragioni e giudicamenti e fermamenti.</p>
       </div>
-      <div n="75" xml:id="part-74" type="part" data-level="1">
+      <div data-level="1" n="75" type="part" xml:id="part-74">
         <p xml:id="part-74-p-390">
           <lb n="16" />Dell' altre parti della causa.
           <lb n="17" />Trovate nella causa tutte queste cose, son poi
@@ -3629,7 +3629,7 @@
           <lb n="2" />di tutte cose che sono mistieri, e poi comincia e fae il
           <lb n="3" />drappo.</p>
       </div>
-      <div n="76" xml:id="part-75" type="part" data-level="1">
+      <div data-level="1" n="76" type="part" xml:id="part-75">
         <p xml:id="part-75-p-393">
           <lb n="4" />Di sei parti della diceria.
           <lb n="5" />Per la qual cosa, quando il giudicamento e
@@ -4052,7 +4052,7 @@
           <lb n="9" />una medesima diceria, oltre quello che porta il testo
           <lb n="10" />di Tullio.</p>
       </div>
-      <div n="77" xml:id="part-76" type="part" data-level="1">
+      <div data-level="1" n="77" type="part" xml:id="part-76">
         <p xml:id="part-76-p-427">
           <lb n="11" />Exordio.
           <lb n="12" />Et perciò che exordio dee essere principe di
@@ -4069,8 +4069,8 @@
           <lb n="2" />l' animo dell' uditore ad intendere tutto ciò che noi volemo
           <lb n="3" />dire di poi.</p>
       </div>
-      <div n="78" xml:id="part-77" type="part" data-level="1">
-        <milestone unit="chapter" n="XV" xml:id="part-77-milestone-14" />
+      <div data-level="1" n="78" type="part" xml:id="part-77">
+        <milestone n="XV" unit="chapter" xml:id="part-77-milestone-14" />
         <p xml:id="part-77-p-429">
           <lb n="4" />Dell' exordio.
           <lb n="5" />Exordio è un detto el quale acquista
@@ -4129,7 +4129,7 @@
           <lb n="1" />Tullio quante e quali sono le generazioni delle cause, in
           <lb n="2" />questo modo:</p>
       </div>
-      <div n="79" xml:id="part-78" type="part" data-level="1">
+      <div data-level="1" n="79" type="part" xml:id="part-78">
         <p xml:id="part-78-p-437">
           <lb n="3" />Qualitadi delle cause.
           <lb n="4" />Le qualitadi delle cause sono cinque: onesto,
@@ -4155,7 +4155,7 @@
           <lb n="22" />essere e non essere; ma le prime tre sono substanziali
           <lb n="23" />che non si possono mutare.</p>
       </div>
-      <div n="80" xml:id="part-79" type="part" data-level="1">
+      <div data-level="1" n="80" type="part" xml:id="part-79">
         <pb n="162" />
         <p xml:id="part-79-p-440">
           <lb n="1" />Dell' onesta.
@@ -4174,7 +4174,7 @@
           <lb n="13" />accusa il furo o che difende il padre o l' orfano o le vedove
           <lb n="14" />o le chiese.</p>
       </div>
-      <div n="81" xml:id="part-80" type="part" data-level="1">
+      <div data-level="1" n="81" type="part" xml:id="part-80">
         <p xml:id="part-80-p-442">
           <lb n="15" />Mirabile.
           <lb n="16" />Mirabile è quello dal quale è straniato l' animo
@@ -4196,7 +4196,7 @@
 <lb n="7" />che è contra la sua madre propia. E di questo
 <lb n="8" />uno exemplo si puote intendere tutti i somiglianti.</p>
       </div>
-      <div n="82" xml:id="part-81" type="part" data-level="1">
+      <div data-level="1" n="82" type="part" xml:id="part-81">
         <p xml:id="part-81-p-445">
           <lb n="9" />Del vile.
           <lb n="10" />Vile è quello del quale non cura l' uditore e non
@@ -4210,7 +4210,7 @@
           <lb n="17" />Et in questa causa dovemo noi procacciare di fare
           <lb n="18" />sì che ll' uditore sia intento alle nostre parole.</p>
       </div>
-      <div n="83" xml:id="part-82" type="part" data-level="1">
+      <div data-level="1" n="83" type="part" xml:id="part-82">
         <p xml:id="part-82-p-447">
           <lb n="19" />Dubitoso.
           <lb n="20" />Dubitoso è quello nel quale o la sentenzia è
@@ -4235,7 +4235,7 @@
 <lb n="14" />Certo la causa era onesta quanto in difender lo padre, ma
 <lb n="15" />era disonesta quanto in difendere lo furo.</p>
       </div>
-      <div n="84" xml:id="part-83" type="part" data-level="1">
+      <div data-level="1" n="84" type="part" xml:id="part-83">
         <p xml:id="part-83-p-450">
           <lb n="16" />Dell' oscuro.
           <lb n="17" />Oscuro è quello nel quale l' uditore è tardo, o
@@ -4252,7 +4252,7 @@
           <lb n="7" />o per aventura la causa è impigliata di cose e di
           <lb n="8" />ragioni che sono oscure e malagevoli ad intendere.</p>
       </div>
-      <div n="85" xml:id="part-84" type="part" data-level="1">
+      <div data-level="1" n="85" type="part" xml:id="part-84">
         <p xml:id="part-84-p-452">
           <lb n="9" />Della divisione dell' exordio.
           <lb n="10" />Et perciò che lle qualitadi delle cause sono
@@ -4281,7 +4281,7 @@
           <lb n="12" />apare in adietro. Et sopra tutte qualitadi sono due modi
           <lb n="13" />de exordio e non più, cioè principio et «insinuatio».</p>
       </div>
-      <div n="86" xml:id="part-85" type="part" data-level="1">
+      <div data-level="1" n="86" type="part" xml:id="part-85">
         <p xml:id="part-85-p-455">
           <lb n="14" />Del principio.
           <lb n="15" />Principio è un detto il quale apertamente et in
@@ -4302,7 +4302,7 @@
           <lb n="8" />dovemo noi avere sicura speranza che li dii saranno in
           <lb n="9" />nostro adiuto».</p>
       </div>
-      <div n="87" xml:id="part-86" type="part" data-level="1">
+      <div data-level="1" n="87" type="part" xml:id="part-86">
         <p xml:id="part-86-p-457">
           <lb n="10" />Dell' insinuatio.
           <lb n="11" />Insinuatio è un detto il quale, con infingimento
@@ -4331,7 +4331,7 @@
 <lb n="13" />cioè nell' onesto, nel vile, nel mirabile, nel dubitoso e
 <lb n="14" />nell' oscuro.</p>
       </div>
-      <div n="88" xml:id="part-87" type="part" data-level="1">
+      <div data-level="1" n="88" type="part" xml:id="part-87">
         <p xml:id="part-87-p-460">
           <lb n="15" />Della mirabile.
           <lb n="16" />Nella mirabile generazione di causa, se ll' uditore
@@ -4365,7 +4365,7 @@
 <lb n="19" />l' odio; e perciò dee andare dintorno et entrarli
 <lb n="20" />sotto covertamente.</p>
       </div>
-      <div n="89" xml:id="part-88" type="part" data-level="1">
+      <div data-level="1" n="89" type="part" xml:id="part-88">
         <pb n="170" />
         <p xml:id="part-88-p-463">
           <lb n="1" />Della causa vile.
@@ -4382,7 +4382,7 @@
           <lb n="11" />sì come fece Virgilio volendo trattare de l' api: «Io
           <lb n="12" />dicerò cose molto meravigliose e grandi delle picciole api».</p>
       </div>
-      <div n="90" xml:id="part-89" type="part" data-level="1">
+      <div data-level="1" n="90" type="part" xml:id="part-89">
         <p xml:id="part-89-p-465">
           <lb n="13" />Della dubbiosa qualità.
           <lb n="14" />Nella dubbiosa qualità di causa, se lla sentenza
@@ -4407,7 +4407,7 @@
           <lb n="11" />parlieri nell' exordio acquistare la benivolenzia dell' uditore
           <lb n="12" />per principio, sicché tutta la causa paia che sia onesta.</p>
       </div>
-      <div n="91" xml:id="part-90" type="part" data-level="1">
+      <div data-level="1" n="91" type="part" xml:id="part-90">
         <p xml:id="part-90-p-468">
           <lb n="13" />La causa onesta.
           <lb n="14" />Quando la causa fie onesta, o potemo intralasciare
@@ -4435,8 +4435,8 @@
 <lb n="17" />perciò in detto caso il nostro principio dee essere in parole
 <lb n="18" />apropiate a benivolenza.</p>
       </div>
-      <div n="92" xml:id="part-91" type="part" data-level="1">
-        <milestone unit="chapter" n="XVI" xml:id="part-91-milestone-15" />
+      <div data-level="1" n="92" type="part" xml:id="part-91">
+        <milestone n="XVI" unit="chapter" xml:id="part-91-milestone-15" />
         <pb n="173" />
         <p xml:id="part-91-p-471">
           <lb n="1" />Della causa obscura.
@@ -4457,7 +4457,7 @@
           <lb n="15" />d' intendere il fatto, noi andremo innanzi a dire la nostra
           <lb n="16" />ragione sì come si conviene al fatto.</p>
       </div>
-      <div n="93" xml:id="part-92" type="part" data-level="1">
+      <div data-level="1" n="93" type="part" xml:id="part-92">
         <pb n="174" />
         <p xml:id="part-92-p-473">
           <lb n="1" />Le ragioni delle cose.
@@ -4473,7 +4473,7 @@
           <lb n="10" />qui innanzi mostrare le ragioni come si puote ciò fare;
           <lb n="11" />e questo insegnamento fa bene di sapere.</p>
       </div>
-      <div n="94" xml:id="part-93" type="part" data-level="1">
+      <div data-level="1" n="94" type="part" xml:id="part-93">
         <p xml:id="part-93-p-475">
           <lb n="12" />De' quattro luoghi della temperanza.
           <lb n="13" />Benivolenza s' acquista di quatro luogora: dalla
@@ -4494,7 +4494,7 @@
           <lb n="7" />e 'l convenente sopra 'l quale noi dicemo. E di ciascuno
           <lb n="8" />di questi dicerà il conto ordinatamente e sofficientemente.</p>
       </div>
-      <div n="95" xml:id="part-94" type="part" data-level="1">
+      <div data-level="1" n="95" type="part" xml:id="part-94">
         <p xml:id="part-94-p-477">
           <lb n="9" />Tullio sopra lo prolago.
           <lb n="10" />Dalla nostra persona se noi dicemo sanza superbia
@@ -4606,7 +4606,7 @@
           <lb n="15" />sono a noi; omai dirà il secondo luogo, cioè della persona
           <lb n="16" />delli adversarii e di coloro contra cui noi dicemo.</p>
       </div>
-      <div n="96" xml:id="part-95" type="part" data-level="1">
+      <div data-level="1" n="96" type="part" xml:id="part-95">
         <pb n="180" />
         <p xml:id="part-95-p-487">
           <lb n="1" />Sopra il secondo prolago.
@@ -4623,7 +4623,7 @@
           <lb n="11" />loro invidia; il terzo che siano in loro dispetto; e di ciascuno
           <lb n="12" />di questi tre modi dirà il testo bene et interamente.</p>
       </div>
-      <div n="97" xml:id="part-96" type="part" data-level="1">
+      <div data-level="1" n="97" type="part" xml:id="part-96">
         <p xml:id="part-96-p-489">
           <lb n="13" />Tullio.
           <lb n="14" />Inn odio saranno messi dicendo com' ellino ànno
@@ -4656,7 +4656,7 @@
 <lb n="17" />in odio et in malavoglienza dell' uditore. Da quinci innanzi
 <lb n="18" />dicerà come noi li potemo mettere in loro invidia.</p>
       </div>
-      <div n="98" xml:id="part-97" type="part" data-level="1">
+      <div data-level="1" n="98" type="part" xml:id="part-97">
         <pb n="182" />
         <p xml:id="part-97-p-493">
           <lb n="1" />Tullio.
@@ -4687,7 +4687,7 @@
           <lb n="2" />adversarii; sì dicerà il conto come noi li potemo mettere
           <lb n="3" />in dispetto.</p>
       </div>
-      <div n="99" xml:id="part-98" type="part" data-level="1">
+      <div data-level="1" n="99" type="part" xml:id="part-98">
         <p xml:id="part-98-p-496">
           <lb n="4" />Tullio.
           <lb n="5" />In dispetto degli uditori saranno messi dicendo
@@ -4714,7 +4714,7 @@
           <lb n="4" />per dire come s' acquista benivolenzia dalla persona
           <lb n="5" />dell' uditore, e questo è il terzo luogo.</p>
       </div>
-      <div n="100" xml:id="part-99" type="part" data-level="1">
+      <div data-level="1" n="100" type="part" xml:id="part-99">
         <p xml:id="part-99-p-499">
           <lb n="6" />La benivolenza dell' uditore.
           <lb n="7" />Dalla persona dell' uditori s' acquista benivolenza
@@ -4766,7 +4766,7 @@
 <lb n="5" />è detto come s' acquista benivolenzia dalle persone delli
 <lb n="6" />uditori; sì dirà Tullio com' ella s' acquista dalle cose.</p>
       </div>
-      <div n="101" xml:id="part-100" type="part" data-level="1">
+      <div data-level="1" n="101" type="part" xml:id="part-100">
         <p xml:id="part-100-p-507">
           <lb n="7" />La benivolenza delle cose.
           <lb n="8" />Da esse cose se noi per lode innalzeremo la
@@ -4789,7 +4789,7 @@
 <lb n="4" />sì ritornerà a dire come noi potemo fare l' uditore
 <lb n="5" />intento.</p>
       </div>
-      <div n="102" xml:id="part-101" type="part" data-level="1">
+      <div data-level="1" n="102" type="part" xml:id="part-101">
         <p xml:id="part-101-p-510">
           <lb n="6" />Di fare l' uditore intento.
           <lb n="7" />Intenti li faremo dimostrando che in ciò che
@@ -4886,7 +4886,7 @@
           <lb n="17" />potemo fare intento l' uditore, sì dirà come noi il potemo
           <lb n="18" />fare docile.</p>
       </div>
-      <div n="103" xml:id="part-102" type="part" data-level="1">
+      <div data-level="1" n="103" type="part" xml:id="part-102">
         <pb n="192" />
         <p xml:id="part-102-p-521">
           <lb n="1" />Come l' uditore sia docile.
@@ -4919,8 +4919,8 @@
           <lb n="7" />docile et intento, sì dirà lo 'nsegnamento della insinuazione
           <lb n="8" />in questo modo:</p>
       </div>
-      <div n="104" xml:id="part-103" type="part" data-level="1">
-        <milestone unit="chapter" n="XVII" xml:id="part-103-milestone-16" />
+      <div data-level="1" n="104" type="part" xml:id="part-103">
+        <milestone n="XVII" unit="chapter" xml:id="part-103-milestone-16" />
         <p xml:id="part-103-p-524">
           <lb n="9" />Lo 'nsegnamento della Insinuazione.
           <lb n="10" />Oramai pare che sia a dire come
@@ -4985,7 +4985,7 @@
 <lb n="20" />rimedi di parole incontra ciascuno caso contrario, secondo
 <lb n="21" />lo 'nsegnamento di Tulio.</p>
       </div>
-      <div n="105" xml:id="part-104" type="part" data-level="1">
+      <div data-level="1" n="105" type="part" xml:id="part-104">
         <pb n="196" />
         <p xml:id="part-104-p-531">
           <lb n="1" />Della laidezza della causa.
