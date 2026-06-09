@@ -1,7 +1,7 @@
 text:
 - front:
   - p:
-    - pb[n=3]
+    - pb: 3
     - lb[n=1]: Qui comincia lo 'nsegnamento di rettorica, lo quale è
     - lb[n=2]: ritratto in vulgare de' libri di Tullio e di molti filosofi per
     - lb[n=3]: ser Burnetto Latino da Firenze. Là dove è la lettera grossa
@@ -9,7 +9,7 @@ text:
     - lb[n=5]: lo sponitore. Incomincia il prologo.
 - body:
   - part[n=1]:
-    - milestone[unit=chapter,n=I]
+    - milestone@chapter: I
     - p:
       - lb[n=6]: Sovente e molto ò io pensato in me medesimo
       - lb[n=7]: se lla copia del dicere e lo sommo studio della
@@ -23,7 +23,7 @@ text:
     - p[n=1]:
       - lb[n=15]: 'Rettorica èe scienzia di due maniere: una la quale'
       - lb[n=16]: insegna dire, e di questa tratta Tulio nel suo libro; l' altra
-      - pb[n=4]
+      - pb: 4
       - lb[n=1]: insegna dittare, e di questa, perciò che esso non ne trattò
       - lb[n=2]: così del tutto apertamente, sì nne tratterà lo sponitore nel
       - lb[n=3]: processo del libro, in suo luogo e tempo come si converrà.
@@ -49,7 +49,7 @@ text:
       - lb[n=19]: quella scienzia per la quale noi sapemo ornatamente
       - lb[n=20]: 'dire e dittare. Inn altra guisa è così diffinita: Rettorica è'
       - lb[n=21]: scienzia di ben dire sopra la causa proposta, cioè per la
-      - pb[n=5]
+      - pb: 5
       - lb[n=1]: quale noi sapemo ornatamente dire sopra la quistione
       - lb[n=2]: 'aposta. Anco àe una più piena diffinizione in questo modo:'
       - lb[n=3]: Rettorica è scienza d' usare piena e perfetta eloquenzia nelle
@@ -77,7 +77,7 @@ text:
       - lb[n=24]: dalle Vigne, il quale perciò fue agozetto di Federigo secondo
       - lb[n=25]: imperadore di Roma e tutto sire di lui e dello 'mperio.
       - lb[n=26]: Onde dice Vittorino che orator, cioè lo parlatore,
-      - pb[n=6]
+      - pb: 6
       - lb[n=1]: è uomo buono e bene insegnato di dire, lo quale usa piena
       - lb[n=2]: e perfetta eloquenzia nelle cause publiche e private.
     - p[n=6]:
@@ -105,7 +105,7 @@ text:
       - lb[n=22]: a colui per cui amore e' si mette a ffare questo
       - lb[n=23]: trattato de parlare ornatamente sopra ciascuna quistione
       - lb[n=24]: proposta.
-    - pb[n=7]
+    - pb: 7
     - p[n=9]:
       - lb[n=1]: Et e' tratta secondo la forma del libro di Tulio di
       - lb[n=2]: 'tutte e V le parti generali di rettorica. Verbigrazia: Inventio,'
@@ -136,7 +136,7 @@ text:
       - lb[n=25]: L' utilitade di questo libro è grandissima, però che
       - lb[n=26]: ciascuno che saprà bene ciò che comanda lo libro e l' arte,
       - lb[n=27]: sì saprà dire interamente sopra la quistione apposta.
-    - pb[n=8]
+    - pb: 8
     - p[n=12]:
       - lb[n=1]: Il titolo di questo libro, sì come davanti appare nel
       - lb[n=2]: "cominciamento, si è cotale: Qui comincia lo 'nsegnamento"
@@ -171,7 +171,7 @@ text:
       - lb[n=27]: e a' divisi.
     - p[n=14]:
       - Onde Tulio purgando questi tre gravi
-      - pb[n=9]
+      - pb: 9
       - lb[n=1]: 'articoli procede in questo modo: Che in prima dice che'
       - lb[n=2]: sovente e molto àe pensato che effetto proviene d' eloquenzia.
       - lb[n=3]: Nella seconda parte pruova lo bene e 'l male che 'nde
@@ -198,7 +198,7 @@ text:
       - lb[n=21]: nel testo di sopra potemo intendere apertamente che in
       - lb[n=22]: queste medesime parole ove dice che i mali che per eloquenzia
       - lb[n=23]: sono advenuti e che non si possono celare, in quelle
-      - pb[n=10]
+      - pb: 10
       - lb[n=1]: medesime la difende abassando e menimando la malizia.
       - lb[n=2]: Ché là dove dice «dannaggi» sì suona che siano lievi danni
       - lb[n=3]: de' quali poco cura la gente.
@@ -221,7 +221,7 @@ text:
       - lb[n=18]: come dice il buono poeta Lucano, nonn è conceduto alle
       - lb[n=19]: grandissime cose durare lungamente; e l' altro dice che lle
       - lb[n=20]: grandissime cose rovinano per lo peso di sé medesime.
-      - pb[n=11]
+      - pb: 11
       - lb[n=1]: Et così non pare che eloquenzia sia la cagione del male
       - lb[n=2]: che viene alle grandissime cittadi. Et là dove dice che
       - lb[n=3]: danni sono advenuti per uomini molto parlanti sanza sapienzia,
@@ -245,7 +245,7 @@ text:
       - lb[n=17]: Sì come quando ordino di ritrarre dell' antiche
       - lb[n=18]: scritte le cose che sono fatte lontane dalla nostra ricordança
       - lb[n=19]: per loro antichezza, intendo che eloquenzia
-      - pb[n=12]
+      - pb: 12
       - lb[n=1]: congiunta con ragione d' animo, cioè con sapienzia,
       - lb[n=2]: piùe agevolemente àe potuto conquistare e mettere inn
       - lb[n=3]: opera ad hedifficare cittadi, a stutare molte battaglie,
@@ -266,7 +266,7 @@ text:
       - lb[n=16]: tra lloro invidia e per la 'nvidia le guerre e le battaglie.
       - lb[n=17]: Poi li savi parladori astutaro le battaglie, et apresso gli
       - lb[n=18]: uomini fecero compagnie usando e mercatando insieme; e
-      - pb[n=13]
+      - pb: 13
       - lb[n=1]: di queste compagnie cuminciaro a ffare ferme amicizie per
       - lb[n=2]: eloquenzia e per sapienzia.
     - p[n=3]:
@@ -297,7 +297,7 @@ text:
       - lb[n=23]: amore» perché non sia per guadagneria o solo per utilitade,
       - lb[n=24]: ma sia per constante vertude. Et così pare manifestamente
       - lb[n=25]: che quella amistade ch' è per utilitade e per dilettamento
-      - pb[n=14]
+      - pb: 14
       - lb[n=1]: nonn è verace, ma partesi da che 'l diletto e
       - lb[n=2]: l' uttilitade menoma.
     - p[n=7]:
@@ -323,7 +323,7 @@ text:
       - lb[n=19]: uomo e cittadino utilissimo ed amicissimo alle sue et
       - lb[n=20]: alle publiche ragioni.
     - p[n=1]:
-      - pb[n=15]
+      - pb: 15
       - lb[n=1]: Lo sponitore.
       - lb[n=2]: Poi che Tulio avea dette le prime due parti del suo
       - lb[n=3]: prologo, sì comincia la terza parte, nella quale dice tre
@@ -351,7 +351,7 @@ text:
       - lb[n=22]: in opera che noi siamo discreti e giusti e bene costumati.
     - p[n=4]:
       - lb[n=23]: Et però chi ssi parte da sapienzia e da le vertudi e studia
-      - pb[n=16]
+      - pb: 16
       - lb[n=1]: pure in dire le parole, di lui adviene cotale frutto che,
       - lb[n=2]: però che non sente quel medesimo che dice, conviene che
       - lb[n=3]: di lui avegna male e danno a ssé et al paese, però che
@@ -375,7 +375,7 @@ text:
       - lb[n=17]: Tulio molti argomenti, li quali debbono e possono così
       - lb[n=18]: essere, e tali che conviene che sia pur così e di tali ch' è
       - lb[n=19]: onesta cosa pur di così essere; e sopra ciò ecco il testo
-      - pb[n=17]
+      - pb: 17
       - lb[n=1]: di Tulio in lettera grossa, e poi seguisce la disposta in
       - lb[n=2]: lettera sottile secondo la forma del libro.
   - part[n=4]:
@@ -387,7 +387,7 @@ text:
       - lb[n=7]: troveremo che sia nato d' onestissime cagioni e che ssia
       - lb[n=8]:
         - mosso d' ottima ragione.
-        - milestone[unit=chapter,n=II]
+        - milestone@chapter: II
         - Acciò che fue un
       - lb[n=9]: tempo che in tutte parti isvagavano gli uomini per
       - lb[n=10]: li campi in guisa di bestie e conduceano lor vita in
@@ -402,7 +402,7 @@ text:
       - lb[n=19]: cioè la cupiditade, per mettere in opera sé medesima
       - lb[n=20]: misusava le forze del corpo con aiuto di pessimi seguitatori.
     - p[n=1]:
-      - pb[n=18]
+      - pb: 18
       - lb[n=1]: Lo sponitore.
       - lb[n=2]: In questa quarta parte del prologo vogliendo Tulio
       - lb[n=3]: dimostrare che eloquenzia nasce e muove per cagione e
@@ -422,7 +422,7 @@ text:
       - lb[n=15]: delle cose, sì che appena puote discernere bene da
       - lb[n=16]: male, sì come in tempo passato nell' anime di molti le
       - lb[n=17]: quali erano agravate de' pesi de' corpi, e però quelli uomini
-      - pb[n=19]
+      - pb: 19
       - lb[n=1]: erano sì falsi et indiscreti che non conosceano Dio né lloro
       - lb[n=2]: medesimi. Onde misusavano le forze del corpo uccidendo
       - lb[n=3]: l' uno l' altro, tolliendo le cose per forza e per furto, luxuriando
@@ -452,7 +452,7 @@ text:
       - lb[n=20]: Et là dove dice «tutte cose quasi faceano per forza e
       - lb[n=21]: non per ragione» intendo che dice «quasi» ché non faceano
       - lb[n=22]: però tutte cose per forza, ma alquante ne faceano
-      - pb[n=20]
+      - pb: 20
       - lb[n=1]: per ragione e per senno, cioè favellare, disiderare et altre
       - lb[n=2]: cose che ssi muovono dall' animo.
     - p[n=7]:
@@ -487,7 +487,7 @@ text:
       - lb[n=20]: conosce il prode e 'l danno.
     - p[n=13]:
       - Et là dove dice «folle
-      - pb[n=21]
+      - pb: 21
       - lb[n=1]: ardita» intendo che folli arditi sono uomini matti e
       - lb[n=2]: ratti a ffare cose che non sono da ffare.
     - p[n=14]:
@@ -516,7 +516,7 @@ text:
       - lb[n=20]: la ragione e per bel dire; e ssì lli arecò umili e mansueti
       - lb[n=21]: dalla fierezza e dalla crudeltà che aveano.
     - p[n=1]:
-      - pb[n=22]
+      - pb: 22
       - lb[n=1]: Lo sponitore.
       - lb[n=2]: In questa parte vuole Tulio dimostrare da cui e come
       - lb[n=3]: 'cominciò eloquenzia et in che cose; et è la tema cotale:'
@@ -539,7 +539,7 @@ text:
       - lb[n=18]: modo ch' è detto.
     - p[n=3]:
       - Donde questo savio costrinse - e dice
-      - pb[n=23]
+      - pb: 23
       - lb[n=1]: che i «costrinse» però che non si voleano raunare - e
       - lb[n=2]: raunò - e dice «raunò» poi che elli volloro. Che 'l savio
       - lb[n=3]: uomo fece tanto per senno e per eloquenzia, mostrando
@@ -565,7 +565,7 @@ text:
       - lb[n=22]: uccidea l' uno l' altro - e feceli umili e mansueti, cioè volontarosi
       - lb[n=23]: di ragioni e di virtudi e partitori dal male.
     - p[n=5]:
-      - pb[n=24]
+      - pb: 24
       - lb[n=1]: Ora à detto Tulio chi cominciò eloquenzia et intra cui
       - lb[n=2]: e come; or dicerà per che ragione, sanza la quale non
       - lb[n=3]: potea ciò fare.
@@ -594,7 +594,7 @@ text:
       - lb[n=22]: savio uomo arebbe bene potuto fare queste cose per sapienzia,
       - lb[n=23]: ma non così avaccio né così subitamente come
       - lb[n=24]: fece abiendo eloquenzia e sapienzia. Et là dove dice «in
-      - pb[n=25]
+      - pb: 25
       - lb[n=1]: diverse ragioni di vita» intendo che uno fece cavalieri, un
       - lb[n=2]: altro fece cherico, e così fece d' altri mistieri.
   - part[n=7]:
@@ -614,7 +614,7 @@ text:
       - lb[n=15]: e soave parladura; tanto era loro allegra la primiera
       - lb[n=16]: usanza, la quale era tanto durata lungamente
       - lb[n=17]: che parea et era in loro convertita in natura. Donde
-      - pb[n=26]
+      - pb: 26
       - lb[n=1]: pare a me che così anticamente e da prima nasceo e
       - lb[n=2]: mosse eloquenzia, e poi s' innalzò in altissime utilitadi
       - lb[n=3]: delli uomini nelle vicende di pace e di guerra.
@@ -642,7 +642,7 @@ text:
       - lb[n=20]: loda Tulio eloquenzia con sapienzia congiunta, che
       - lb[n=21]: sanza ciò le grandissime cose non s' arebbono potute mettere
       - lb[n=22]: in compimento, e dice che poi àe molto de ben fatto
-      - pb[n=27]
+      - pb: 27
       - lb[n=1]: in guerra et in pace. Et per questa parola intendo che tutti
       - lb[n=2]: i convenenti de' comuni e delle speciali persone corrono
       - lb[n=3]: per due stati o di pace o di guerra, e nell' uno e nell' altro
@@ -657,7 +657,7 @@ text:
       - lb[n=10]: per che convenne che lle cittadi sine guastassero e li
       - lb[n=11]:
         - uomini si comprendessero di quella ruggine.
-        - milestone[unit=chapter,n=III]
+        - milestone@chapter: III
         - Et
       - lb[n=12]: poi che detto avemo la cumincianza del bene, contiamo
       - lb[n=13]: come cuminciò questo male.
@@ -672,7 +672,7 @@ text:
       - Et sopra ciò la
       - lb[n=20]: 'tema è cotale: Furono uomini folli sanza discrezione, li'
       - lb[n=21]: quali, veggendo che alquanti erano in grande onoranza e
-      - pb[n=28]
+      - pb: 28
       - lb[n=1]: montati in alto stato per lo bello parlare ch' usavano secondo
       - lb[n=2]: li comandamenti di questa arte, sì studiaro solo
       - lb[n=3]: in parlare e tralasciaro lo studio di sapienzia, e divennero
@@ -697,7 +697,7 @@ text:
       - lb[n=18]: in conto la 'ncumincianza del male che 'nde seguitò.
       - lb[n=19]: 'Et dice in questo modo nel testo:'
   - part[n=10]:
-    - pb[n=29]
+    - pb: 29
     - p:
       - lb[n=1]: Tullio tratta della comincianza del male
       - lb[n=2]: advenuto per eloquenzia.
@@ -720,7 +720,7 @@ text:
       - lb[n=17]: e che ciascuno atoriasse le sue bisogne; e così,
       - lb[n=18]: parendo molte fiate che quello ch' avea impresa sola
       - lb[n=19]: eloquenzia sanza sapienzia fosse pare o talora più innanzi
-      - pb[n=30]
+      - pb: 30
       - lb[n=1]: che quello che avea eloquenzia congiunta con
       - lb[n=2]: sapienzia, avenìa che, per giudicio di moltitudine di
       - lb[n=3]: gente e di sé medesimo, paresse essere degno di reggiere
@@ -742,14 +742,14 @@ text:
       - lb[n=15]: Ma questo studio di rettorica fue abandonato quasi
       - lb[n=16]: da tutti loro, e perciò tornò a neente, in tal tempo
       - lb[n=17]: quando più inforzatamente si dovea mantenere e più
-      - pb[n=31]
+      - pb: 31
       - lb[n=1]: studiosamente crescere; perciò che quando più indegnamente
       - lb[n=2]: la presumptione e l' ardire de' folli impronti
       - lb[n=3]: manimettea e guastava la cosa onestissima e dirittissima
       - lb[n=4]: con troppo gravoso danno del comune, allora
       - lb[n=5]:
         - era più degna cosa contrastare e consigliare la cosa publica.
-        - milestone[unit=chapter,n=IV]
+        - milestone@chapter: IV
       - lb[n=6]: Della qual cosa non fugìo il nostro Catone
       - lb[n=7]: né Lelius né, al ver dire, il loro discepolo Affricano,
       - lb[n=8]: né i Gracchi nepoti d' Affricano, ne' quali uomini
@@ -772,7 +772,7 @@ text:
       - lb[n=22]: e le comunanze e le cose publiche, avendo le signorie
       - lb[n=23]: e li officii e li onori e le grandi cose, e non si trametteano
       - lb[n=24]: delle cause private, cioè delle vicende delli
-      - pb[n=32]
+      - pb: 32
       - lb[n=1]: uomini speciali, né di fare lavoriere né altre picciole
       - lb[n=2]: "cose. Ma erano altri uomini di due maniere: l' una che"
       - lb[n=3]: non erano parlatori, l' autra che non aveano sapienzia, ma
@@ -800,7 +800,7 @@ text:
       - lb[n=21]: l' una che pigliano a ffare di grandi cose con provedimento
       - lb[n=22]: di ragione, e questi sono savi; li altri che pigliano
       - lb[n=23]: a ffare le grandi cose sanza provedenza di ragione,
-      - pb[n=33]
+      - pb: 33
       - lb[n=1]: e questi sono folli arditi.
     - p[n=5]:
       - Donde in questo contrastare
@@ -829,7 +829,7 @@ text:
     - p[n=7]:
       - «Per
       - lb[n=22]: la qual cosa eloquenzia cadde in tanto odio et invidia»....
-      - pb[n=34]
+      - pb: 34
       - lb[n=1]: Et nota che odio non è altro se nno ira invecchiata; e
       - lb[n=2]: così i buoni savi erano stati lungamente irosi, veggiendo
       - lb[n=3]: i folli arditi segnoreggiare le cittadi. Et invidia è aflizione
@@ -862,7 +862,7 @@ text:
       - lb[n=24]: a quel tempo che eloquenzia avea più grande bisogno
       - lb[n=25]: per lo male che faceano i folli arditi nelle cittadi, e perché
       - lb[n=26]: guastavano la cosa onestissima e dirittissima, cioè
-      - pb[n=35]
+      - pb: 35
       - lb[n=1]: eloquenzia che ssi pertiene alle cose oneste e diritte.
     - p[n=11]:
       - lb[n=2]: Dalla qual cosa non fugìo il nostro Catone né quelli
@@ -890,7 +890,7 @@ text:
       - lb[n=20]: cosa la quale molto s' appartiene a tutte cose, e publiche
       - lb[n=21]: e private, e per essa diviene la vita sicura,
       - lb[n=22]: onesta, inlustre e iocunda; e per essa medesima molte
-      - pb[n=36]
+      - pb: 36
       - lb[n=1]: utilitadi avengono in comune se fia presta la modonatrice
       - lb[n=2]: di tutte cose, cioè sapienzia; e per lei medesima
       - lb[n=3]: abonda a coloro che ll' acquistano lode, onore, dignitade;
@@ -911,7 +911,7 @@ text:
       - lb[n=16]: al comune et al diviso, e come per lei diviene l' uomo sicuro,
       - lb[n=17]: cioè che sicuramente puote gire a trattare le cause,
       - lb[n=18]: et appena troverai chi 'l sappia contradiare; e dice
-      - pb[n=37]
+      - pb: 37
       - lb[n=1]: che 'nde diviene la vita «onesta», cioè laudato intra coloro
       - lb[n=2]: che 'l cognoscono; e dice «illustre», cioè laudato intra
       - lb[n=3]: li strani; e dice «ioconda», cioè vita piacevole, però che'
@@ -940,7 +940,7 @@ text:
       - lb[n=20]: cose sono minori e più fievoli che lle bestie, in questa
       - lb[n=21]: una cosa l' avanzano, che possono parlare; e donque
       - lb[n=22]: pare che colui conquista cosa nobile et altissima
-      - pb[n=38]
+      - pb: 38
       - lb[n=1]: il quale sormonta li altri uomini in quella medesima
       - lb[n=2]: cosa per la quale gli uomini avanzano le bestie.
     - p[n=1]:
@@ -965,7 +965,7 @@ text:
       - lb[n=18]: Tullio dice di che elli tratterà.
       - lb[n=19]: Et questa altissima cosa, cioè eloquenzia, non
       - lb[n=20]: si acquista solamente per natura né solamente per
-      - pb[n=39]
+      - pb: 39
       - lb[n=1]: usanza, ma per insegnamento d' arte altressì. Donque
       - lb[n=2]: non è disavenante di vedere ciò che dicono coloro i
       - lb[n=3]: quali sopra ciò ne lasciaro alquanti comandamenti.
@@ -985,14 +985,14 @@ text:
       - lb[n=16]: che seguirà, e così pone fine al suo prolago e viene al
       - lb[n=17]: 'fatto in questo modo:'
   - part[n=17]:
-    - milestone[unit=chapter,n=V]
+    - milestone@chapter: V
     - p:
       - lb[n=18]: Tullio àe finito il prolago, e comincia a dire di eloquenzia.
       - lb[n=19]: Una ragione è delle cittadi la quale richiede
       - lb[n=20]: et è di molte cose e di grandi, intra lle quali è una
       - lb[n=21]: grande et ampia parte l' artificiosa eloquenzia, la quale
       - lb[n=22]: è appellata Rettorica. Ché al ver dire né cci acordiamo
-      - pb[n=40]
+      - pb: 40
       - lb[n=1]: con quelli che non credono che lla scienzia delle cittadi
       - lb[n=2]: abbia bisogno d' eloquenzia, e molto ne discordiamo
       - lb[n=3]: da coloro che pensano ch' ella del tutto si tegna
@@ -1022,7 +1022,7 @@ text:
     - p[n=3]:
       - Onde Tulio dice di rettorica sotto
       - lb[n=24]: quale genere si comprende, per meglio mostrare il fondamento
-      - pb[n=41]
+      - pb: 41
       - lb[n=1]: e lla natura sua. Et dice così che lla ragione
       - lb[n=2]: delle cittadi, cioè il reggimento e lla vita del comune e
       - lb[n=3]: delle speciali persone, richiede molte e grandi cose, in
@@ -1049,7 +1049,7 @@ text:
       - lb[n=21]: tanto vale a dire come «amore della sapienzia»; per la
       - lb[n=22]: qual cosa neuno puote essere filosofo se non ama la sapienzia
       - lb[n=23]: tanto ch' elli intralasci tutte altre cose e dia ogne studio
-      - pb[n=42]
+      - pb: 42
       - lb[n=1]: et opera ad avere intera sapienzia. Onde dice uno
       - lb[n=2]: "savio cotale diffinizione di filosofia: ch' ella è inquisizione"
       - lb[n=3]: delle naturali cose e connoscimento delle divine et umane
@@ -1072,7 +1072,7 @@ text:
     - p[n=8]:
       - Or
       - lb[n=18]: è vero che anticamente per nescietà delli uomini furon
-      - pb[n=43]
+      - pb: 43
       - lb[n=1]: mosse tre quistioni delle quali dubitavano, e non senza
       - lb[n=2]: cagione, però che sopr' esse tre questioni si girano tutte
       - lb[n=3]: le scienzie. La prima quistione era che dovesse l' uomo
@@ -1087,7 +1087,7 @@ text:
       - lb[n=11]: dimostrare la prima questione, cioè che debbia uomo fare
       - lb[n=12]: e che lasciare. La seconda scienzia, cioè logica, è per dimostrare
       - lb[n=13]: la seconda quistione, cioè per che ragione dovesse
-      - pb[n=44]
+      - pb: 44
       - lb[n=1]: quel fare e quello altro lasciare.
     - p[n=10]:
       - Et questa
@@ -1106,7 +1106,7 @@ text:
       - lb[n=13]: teorica, sia partita in tre scienzie, ciò sono Teologia,
       - lb[n=14]: 'Fisica e Matematica, sì come dimostra questo arbore:'
     - p[n=12]:
-      - pb[n=45]
+      - pb: 45
       - lb[n=1]: Onde la prima di queste tre scienze, cioè teologia,
       - lb[n=2]: la quale è appellata divinitade, sì tratta la natura delle
       - lb[n=3]: cose incorporali le quali non conversano intra lle corpora,
@@ -1123,7 +1123,7 @@ text:
       - lb[n=14]: musica, geometria et astronomia, sì come appare
       - lb[n=15]: 'in questo arbore:'
     - p[n=13]:
-      - pb[n=46]
+      - pb: 46
       - lb[n=1]: La prima scienzia, cioè arismetrica, tratta de' conti
       - lb[n=2]: e de' nomeri, sì come l' abaco e più fondatamente. La seconda
       - lb[n=3]: scienza, cioè musica, tratta di concordare voci e
@@ -1143,7 +1143,7 @@ text:
     - p[n=15]:
       - lb[n=16]: La prima di queste, cioè etica, sì è insegnamento
       - lb[n=17]: di bene vivere e costumatamente, e dà connoscimento delle
-      - pb[n=47]
+      - pb: 47
       - lb[n=1]: cose oneste e dell' utili e del lor contrario; e questo fa per
       - lb[n=2]: assennamento di quatro vertudi, ciò sono prudenzia, iustizia,
       - lb[n=3]: fortitudo e temperanza, e per divieto de' vizi, ciò sono
@@ -1164,7 +1164,7 @@ text:
       - lb[n=13]: Quella maniera ch' è in fatti sì sono l' arti e' magisterii
       - lb[n=14]: che in cittadi si fanno, come fabbri e drappieri e
       - lb[n=15]: li altri artieri, sanza i quali la cittade non potrebbe durare.
-      - pb[n=48]
+      - pb: 48
       - lb[n=1]: Quella ch' è in detti è quella scienzia che ss' adopera
       - lb[n=2]: colla lingua solamente; et in questa si contiene tre scienze,
       - lb[n=3]: ciò sono Gramatica, Dialettica, Rettorica, sì come dimostra
@@ -1180,7 +1180,7 @@ text:
       - lb[n=12]: sue parole; e certo chi vuole bene dire e bene dittare
       - lb[n=13]: conviene che mostri ragioni per che, sicché le sue parole
       - lb[n=14]: abbiano provanza in tal guisa che lli uditori le credano
-      - pb[n=49]
+      - pb: 49
       - lb[n=1]: e diano fede a cciò che dice. La terza scienza ciò è Rettorica,
       - lb[n=2]: la quale truova et adorna le parole avenanti alla
       - lb[n=3]: materia, per le quali l' uditore s' accheta e crede e sta
@@ -1209,7 +1209,7 @@ text:
       - lb[n=22]: a ben fare.
     - p[n=22]:
       - Altressì quella civile scienzia ch' è con
-      - pb[n=50]
+      - pb: 50
       - lb[n=1]: lite è di due maniere, ch' è ll' una artificiosa, l' altra non
       - lb[n=2]: artificiosa. Artificiosa è quella nella quale il parliere che
       - lb[n=3]: connosce bene la natura e llo stato della materia, vi reca
@@ -1232,7 +1232,7 @@ text:
       - lb[n=18]: Or è detto del genere; omai dicerà Tulio dello offizio di
       - lb[n=19]: rettorica e del fine.
   - part[n=18]:
-    - pb[n=51]
+    - pb: 51
     - p:
       - lb[n=1]: Tullio dice che è l' ufficio di questa arte.
       - lb[n=2]: Officio di questa arte pare che sia dicere appostatamente
@@ -1256,7 +1256,7 @@ text:
       - lb[n=19]: parole di buone sentenze dette secondo che comanda quest'
       - lb[n=20]: arte; e questo dice per divisare il parlare di questo dicitore
       - lb[n=21]: dal parlare de' gramatici, che non curano d' ornare
-      - pb[n=52]
+      - pb: 52
       - lb[n=1]: parole. E dice «per far credere», cioè dicere sì compostamente
       - lb[n=2]: che ll' uditore creda ciò che ssi dice. Et questo dice
       - lb[n=3]: per divisare il detto de' poeti, che curano più di dire belle
@@ -1284,7 +1284,7 @@ text:
       - lb[n=20]: dice Tulio che officio è quello che 'l parliere de' fare nel
       - lb[n=21]: suo parlamento secondo lo 'nsegnamento di questa arte.
       - lb[n=22]: Ma fine è quello per cui cagione il parlieri dice compostamente;
-      - pb[n=53]
+      - pb: 53
       - lb[n=1]: e certo questa cagione e questo fine nonn è
       - lb[n=2]: altro se non fare credere ciò che dice. Et di ciò pone
       - lb[n=3]: exemplo del medico, e dice che llo officio del medico è
@@ -1308,7 +1308,7 @@ text:
       - lb[n=18]: rettorico, fue in oppinione che el parladore possa molto
       - lb[n=19]: bene dire di tutte cose. Et questi pare che dea a questa
       - lb[n=20]: arte grandissima materia sanza fine. Ma Aristotile, il
-      - pb[n=54]
+      - pb: 54
       - lb[n=1]: quale diede a questa arte molti aiuti et adornamenti,
       - lb[n=2]: extimò che ll' officio del parlatore sia sopra tre generazioni
       - lb[n=3]: di cose, ciò sono dimostrativo, diliberativo e giudiciale.
@@ -1336,7 +1336,7 @@ text:
       - lb[n=21]: Ma Aristotile, a cui è molto da credere, perciò che
       - lb[n=22]: diede molti aiuti et adornamenti a questa arte in perciò
       - lb[n=23]: che fece uno libro d' invenzione et un altro della parladura,
-      - pb[n=55]
+      - pb: 55
       - lb[n=1]: dice che rettorica èe sopra tre maniere di cose, e catuna
       - lb[n=2]: maniera èe generale delle sue parti; e queste sono dimostrativo,
       - lb[n=3]: diliberativo e iudiciale, come in questi cercoletti
@@ -1358,7 +1358,7 @@ text:
     - p[n=5]:
       - Et ecco
       - lb[n=17]: l' exemplo in questa diceria che fie proposta in questo
-      - pb[n=56]
+      - pb: 56
       - lb[n=1]: 'modo: «È da sbandire in exilio Marco Tulio Cicero o no,'
       - lb[n=2]: che davanti al popolo di Roma fece anegare molti romani
       - lb[n=3]: a tempo che 'l comune era in dubbio?» In questa
@@ -1381,7 +1381,7 @@ text:
       - lb[n=18]: altrimenti non potrebbe intendere quello che viene innanzi;
       - lb[n=19]: e dicerà prima del dimostrativo.
   - part[n=20]:
-    - pb[n=57]
+    - pb: 57
     - p:
       - lb[n=1]: Del dimostramento.
       - lb[n=2]: Dimostrativo è quello che ssi reca in laude o
@@ -1408,7 +1408,7 @@ text:
       - Il fatto
       - lb[n=19]: della causa è quel detto o quel fatto per lo quale alcuno
       - lb[n=20]: 'viene in causa e questione; et in ciò sia cotale exemplo:'
-      - pb[n=58]
+      - pb: 58
       - lb[n=1]: 'Dice Pompeio a Catellina: «Tu fai tradimento nel comune'
       - lb[n=2]: 'di Roma». Et Catellina risponde: «Non fo». In questo'
       - lb[n=3]: convenente Pompeio e Catellina sono le persone de' parlieri;
@@ -1443,7 +1443,7 @@ text:
       - lb[n=24]: "è da laudare». Dice l' altro: «Non è, anzi è da vituperare»."
       - lb[n=25]: E di questo nasce quistione, se 'l forte è degno
       - lb[n=26]: di lode o di vituperio, e perciò èe dimostrativa, ma non
-      - pb[n=59]
+      - pb: 59
       - lb[n=1]: nomina certa persona, e perciò è speciale.
     - p[n=8]:
       - La causa
@@ -1471,7 +1471,7 @@ text:
       - lb[n=19]: et a dimandare tra' cittadini, riceve detto per
       - lb[n=20]: sentenzia.
     - p[n=1]:
-      - pb[n=60]
+      - pb: 60
       - lb[n=1]: Lo sponitore.
       - lb[n=2]: In questa parte dice Tulio che causa diliberativa
       - lb[n=3]: è quella ch' è messa e detta a' cittadini a contendere il lor
@@ -1500,7 +1500,7 @@ text:
     - p[n=5]:
       - Speciale è quella nella quale si considera
       - lb[n=20]: d' alcuna cosa s' ella è utile o s' ell' è dannosa, non
-      - pb[n=61]
+      - pb: 61
       - lb[n=1]: "nominando alcuna certa persona. Et ecco l' exemplo: Dice"
       - lb[n=2]: "uno: «Pace è da tenere intra cristiani». Dice l' altro:"
       - lb[n=3]: «Non è». Et di ciò nasce causa diliberativa speciale, se
@@ -1528,7 +1528,7 @@ text:
       - lb[n=19]: Judiciale è quello il quale, posto in iudicio, à
       - lb[n=20]: in sé accusazione e difensione o petizione e recusazione.
     - p[n=1]:
-      - pb[n=62]
+      - pb: 62
       - lb[n=1]: Lo sponitore.
       - lb[n=2]: La natura di iudicamento si è una forma la quale
       - lb[n=3]: si conviene al parladore per cagione di mostrare la iustizia
@@ -1559,7 +1559,7 @@ text:
       - lb[n=24]: «Non è».
     - p[n=4]:
       - Quella che non si puote partire è quella
-      - pb[n=63]
+      - pb: 63
       - lb[n=1]: nella quale il parliere si sforza di mostrare una cosa essere
       - lb[n=2]: iusta o no, nominando certa persona; in questo
       - lb[n=3]: "modo: «È da impendere Guido ch' à fatto furto, o no?»."
@@ -1577,13 +1577,13 @@ text:
       - lb[n=11]: parliere e la sua scienzia è di questa materia partita
       - lb[n=12]:
         - in tre.
-        - milestone[unit=chapter,n=VI]
+        - milestone@chapter: VI
         - Ché certo non pare che Ermagoras
       - lb[n=13]: attenda quello che dice né attenda ciò che promette,
       - lb[n=14]: acciò che dovide la materia di questa arte in causa
       - lb[n=15]: et in questione.
     - p[n=1]:
-      - pb[n=64]
+      - pb: 64
       - lb[n=1]: Lo sponitore.
       - lb[n=2]: Poi che Tulio àe detto davanti le tre partite della
       - lb[n=3]: materia di rettorica sì come fue oppinione d' Aristotile, in
@@ -1610,7 +1610,7 @@ text:
       - lb[n=20]: il vero, e' troverà che confortamento e disconfortamento
       - lb[n=21]: sono solamente sopra quelle cose che già sono pervenute
       - lb[n=22]: "all' anima. Verbigrazia: Lo sponitore avea propensato di"
-      - pb[n=65]
+      - pb: 65
       - lb[n=1]: fare questo libro, ma per negligenzia lo intralasciava;
       - lb[n=2]: onde da questa negligenzia il potea bene alcuno ritrattare
       - lb[n=3]: per confortamento, e questo conforto viene sopra
@@ -1638,7 +1638,7 @@ text:
       - lb[n=20]: dimostrazione non era materia di questa arte, anzi era
       - lb[n=21]: materia di poete, però ch' a' poete s' apartiene di lodare e
       - lb[n=22]: di vituperare altrui. Et avegna che Tulio no lli riprenda
-      - pb[n=66]
+      - pb: 66
       - lb[n=1]: nominatamente, assai si puote intendere la riprensione di
       - lb[n=2]: loro in ciò ch' e' conferma la sentenza d' Aristotile che disse
       - lb[n=3]: che dimostrazione e deliberazione e iudicazione sono materia
@@ -1666,7 +1666,7 @@ text:
       - lb[n=20]: Poi che Tulio avea detto che Ermagoras non intese
       - lb[n=21]: se stesso dicendo che causa e questione sono materia di
       - lb[n=22]: questa scienzia, sì dice in questa parte che Ermagoras
-      - pb[n=67]
+      - pb: 67
       - lb[n=1]: dicea che fosse causa.
     - p[n=2]:
       - Et causa appella una cosa della
@@ -1694,7 +1694,7 @@ text:
       - lb[n=19]: nelle quali noi troviamo essere consumata la somma
       - lb[n=20]: dello 'ngegno de' filosofi con grandissima fatica.
     - p[n=1]:
-      - pb[n=68]
+      - pb: 68
       - lb[n=1]: Sponitore.
       - lb[n=2]: Ora dice Tulio che Ermagoras appellava questione
       - lb[n=3]: quella cosa sopra la quale era controversia intra molti,
@@ -1718,7 +1718,7 @@ text:
       - lb[n=16]: dicono ch' è lungo, o otangolo, o quadrato.
     - p[n=5]:
       - Altressì
-      - pb[n=69]
+      - pb: 69
       - lb[n=1]: era questione della grandezza del sole, ché alcuni dicono
       - lb[n=2]: che 'l sole è otto tanti che lla terra, altri più et altri meno.
       - lb[n=3]: Et questa misura si sforzavano di cogliere i maestri di
@@ -1750,7 +1750,7 @@ text:
       - lb[n=24]: la sua sapienzia; e sopr' a cciò ecco 'l testo
       - lb[n=25]: di Tulio.
   - part[n=26]:
-    - pb[n=70]
+    - pb: 70
     - p:
       - lb[n=1]: Tullio dice in somma ciò ch' elli avea detto davanti.
       - lb[n=2]: Che se Ermagoras avesse in queste cose avuto
@@ -1773,7 +1773,7 @@ text:
       - lb[n=18]: Lo sponitore.
       - lb[n=19]: In questa parte dice Tulio che se Ermagoras fosse
       - lb[n=20]: stato bene savio, sicché potesse trattare le quistioni e le
-      - pb[n=71]
+      - pb: 71
       - lb[n=1]: cause, parrebbe ch' avesse detto falso, cioè che avesse dato
       - lb[n=2]: al parliere quello officio che nonn è suo; e così non avrebbe
       - lb[n=3]: mostrata la forza dell' arte, ma averebbe mostrata la sua.
@@ -1801,7 +1801,7 @@ text:
     - p[n=5]:
       - Adonque è da tenere
       - lb[n=20]: la sentenzia d' Aristotile, che dice che materia di questa
-      - pb[n=72]
+      - pb: 72
       - lb[n=1]: arte è dimostrativo, deliberativo e iudiciale. Et omai è
       - lb[n=2]: detto sofficientemente e diligentemente del genere, cioè
       - lb[n=3]: generalmente, dell' officio e della fine di rettorica; or sì
@@ -1827,7 +1827,7 @@ text:
       - lb[n=18]: esse la 'nformano et ordinano e la fanno tutta essere,
       - lb[n=19]: altressì come 'l fondamento, la parete e 'l tetto sono
       - lb[n=20]: parti d' una casa sì che la fanno essere, e s' alcuna ne
-      - pb[n=73]
+      - pb: 73
       - lb[n=1]: fallisse non sarebbe la casa compiuta.
     - p[n=3]:
       - Et dice Tulio
@@ -1858,7 +1858,7 @@ text:
       - lb[n=21]: o che dica incontro ad un' altra.
     - p[n=2]:
       - E questo puote
-      - pb[n=74]
+      - pb: 74
       - lb[n=1]: 'così intendere il porto dello sponitore. Verbigrazia:'
       - lb[n=2]: Aviene una materia sopra la quale conviene dire parole,
       - lb[n=3]: o difendendo l' una parte o dicendo contra l' altra; o per
@@ -1888,7 +1888,7 @@ text:
       - lb[n=21]: Dispositio èe assettamento delle cose trovate
       - lb[n=22]: per ordine.
     - p[n=1]:
-      - pb[n=75]
+      - pb: 75
       - lb[n=1]: Sponitore.
       - lb[n=2]: Perciò che trovare argomenti per provare e far credere
       - lb[n=3]: il suo dire non vale neente chi no· lli sae asettare per
@@ -1920,7 +1920,7 @@ text:
       - lb[n=20]: Perciò che neente vale trovare od ordinare chi non
       - lb[n=21]: sae ornare lo suo dire e mettere parole piacevoli e piene
       - lb[n=22]: di buone sentenze secondo che ssi conviene alla materia
-      - pb[n=76]
+      - pb: 76
       - lb[n=1]: trovata, sì dice Tulio che è elocutio. Et dice che è quella
       - lb[n=2]: scienzia per la quale noi sapemo giungere ornamento di
       - lb[n=3]: parole e di sentenze a quello che noi avemo trovato et
@@ -1951,7 +1951,7 @@ text:
       - lb[n=20]: Memoria è fermo ricevimento nell' animo delle
       - lb[n=21]: cose e delle parole e dell' ordinamento d' esse.
     - p[n=1]:
-      - pb[n=77]
+      - pb: 77
       - lb[n=1]: Sponitore.
       - lb[n=2]: Et perciò che neente vale trovare, ordinare o aconciare
       - lb[n=3]: le parole, se noi no· lle ritenemo nella memoria sicché
@@ -1981,7 +1981,7 @@ text:
       - lb[n=20]: Pronuntiatio è avenimento della persona e della
       - lb[n=21]: voce secondo la dignitade delle cose e delle parole.
     - p[n=1]:
-      - pb[n=78]
+      - pb: 78
       - lb[n=1]: Sponitore.
       - lb[n=2]: Et al ver dire poco vale trovare, ordinare, ornare
       - lb[n=3]: parole et avere memoria chi non sae profferere e dicere le
@@ -2012,7 +2012,7 @@ text:
     - p[n=4]:
       - Tutto altrimenti dee in fatto
       - lb[n=24]: di pace avere umile advenimento del corpo, la ciera amorevole,
-      - pb[n=79]
+      - pb: 79
       - lb[n=1]: la voce soave, la parola paceffica, le mani chete;
       - lb[n=2]: e 'l suo cavallo dee essere chetissimo e pieno di tanta
       - lb[n=3]: posa e sì guernito di soavitade che sopr' a llui non si
@@ -2042,7 +2042,7 @@ text:
       - lb[n=21]: dimostrare il genere e ll' officio e lla fine di
       - lb[n=22]: quest' arte, però che bisognano di molte parole e non
       - lb[n=23]: sono di tanta opera a mostrare la propietade e lle
-      - pb[n=80]
+      - pb: 80
       - lb[n=1]: comandamenta dell' arte. Ma colui che scrive l' arte rettorica
       - lb[n=2]: pare a noi che 'l convenga scrivere dell' altre due,
       - lb[n=3]: cioè della materia e delle parti. E io perciò voglio
@@ -2068,7 +2068,7 @@ text:
       - lb[n=21]: causa dimostrativa, e quando sia deliberativa, e quando
       - lb[n=22]: sia iudiciale; e tratterà sì comunemente che mosterrà
       - lb[n=23]: come sia da trovare in catuna di queste cause, e come
-      - pb[n=81]
+      - pb: 81
       - lb[n=1]: ordinare e come ornare la diceria, e come tenere a memoria
       - lb[n=2]: e come profferere le sue parole.
       - lb[n=3]: Lo sponitore parla all' amico suo. -
@@ -2084,7 +2084,7 @@ text:
       - lb[n=11]: secondo lo 'nsegnamento dell' arte, il libro e lo sponitore
       - lb[n=12]: ne riceveranno perpetua laude.
   - part[n=34]:
-    - milestone[unit=chapter,n=VIII]
+    - milestone@chapter: VIII
     - p:
       - lb[n=13]: Della constituzione e delle quattro sue parti.
       - lb[n=14]: Ogne cosa la quale àe alcuna controversia
@@ -2096,7 +2096,7 @@ text:
       - lb[n=20]: 'intenzione in questo modo: «Facesti »-«Non feci»'
       - lb[n=21]: o «Feci per ragione».
     - p[n=1]:
-      - pb[n=82]
+      - pb: 82
       - lb[n=1]: Sponitore.
       - lb[n=2]: Poi che Tulio àe detto di mostrare e trattare della
       - lb[n=3]: invenzione e della materia insieme, sì mostra lo sponitore
@@ -2126,7 +2126,7 @@ text:
       - Constituzione si prende et intende in
       - lb[n=21]: quelle medesime significazioni che sono dette davanti.
     - p[n=6]:
-      - pb[n=83]
+      - pb: 83
       - lb[n=1]: Stato è appellato il detto e 'l fatto dell' aversario,
       - lb[n=2]: però che' parliere stanno a provare quel detto o quel
       - lb[n=3]: fatto; e questo medesimo è appellato constituzione perciò
@@ -2160,7 +2160,7 @@ text:
     - p[n=12]:
       - Nel sesto
       - lb[n=23]: luogo mostra quante sono esse parti e quali e che sia da
-      - pb[n=84]
+      - pb: 84
       - lb[n=1]: ffare in ciascuna.
     - p[n=13]:
       - Et disponesi così il testo di Tulio
@@ -2189,7 +2189,7 @@ text:
       - lb[n=20]: molto peggiore che furto, perciò che colui commette
       - lb[n=21]: sacrilegio che fura cosa sacrata di luogo sacrato. Donde
       - lb[n=22]: di questo nasce una questione del nome di quel fatto,
-      - pb[n=85]
+      - pb: 85
       - lb[n=1]: cioè se dee avere nome furto o sacrilegio, e però è appellata
       - lb[n=2]: questione del nome.
     - p[n=16]:
@@ -2221,7 +2221,7 @@ text:
       - lb[n=23]: questo nome. Et dice che constituzione è la prima pugna
       - lb[n=24]: delle cause, cioè quello sopra che da prima contendono
       - lb[n=25]: i parlieri, cioè il detto dell' uno e 'l detto dell' altro, e
-      - pb[n=86]
+      - pb: 86
       - lb[n=1]: questo sopra che de prima contendono i parlieri si è il
       - lb[n=2]: nascimento, cioè che muove del contrastamento della
       - lb[n=3]: intenzione, cioè del detto di colui che ssi difende contra
@@ -2251,7 +2251,7 @@ text:
       - lb[n=20]: In questa parte dice Tulio che quando la contenzione
       - lb[n=21]: è per alcuno fatto che sia apposto ad altrui, sì come
       - lb[n=22]: davanti si dice, sì conviene ch' ella sia provata per congetture,
-      - pb[n=87]
+      - pb: 87
       - lb[n=1]: 'cioè per suspezioni e per presunzioni. Verbigrazia:'
       - lb[n=2]: 'Dice uno contra un altro: «Veramente tu uccidesti'
       - lb[n=3]: Aiaces, ch' io ti trovai e vidi traiere il coltello del
@@ -2282,7 +2282,7 @@ text:
       - 'Verbigrazia:'
       - lb[n=22]: Un uomo è accusato che tolse uno calice d' uno luogo sacrato
       - lb[n=23]: et è lli apposto che sia sacrilegio, et esso si difende
-      - pb[n=88]
+      - pb: 88
       - lb[n=1]: dicendo che non è sacrilegio ma furto. Or sopra questa
       - lb[n=2]: controversia si è tutta la questione per lo nome di questo
       - lb[n=3]: 'fatto: è sacrilegio o furto?'
@@ -2314,7 +2314,7 @@ text:
       - lb[n=22]: servito al comune di Roma quanto Catone.
     - p[n=3]:
       - La comparazione
-      - pb[n=89]
+      - pb: 89
       - lb[n=1]: 'del fatto si è cotale: di due partiti qual sia'
       - lb[n=2]: migliore, sì come fue questione quando i Romani presono
       - lb[n=3]: Cartagine qual era il meglio tra disfarla o lasciarla.
@@ -2338,7 +2338,7 @@ text:
       - lb[n=17]: In questa parte dice Tulio della controversia dell'
       - lb[n=18]: azione, che quando sopr' a cciò è lla questione e' si
       - lb[n=19]: conviene che ll' azione si tramuti in tutto o in parte, e
-      - pb[n=90]
+      - pb: 90
       - lb[n=1]: perciò à nome translativa, cioè tramutativa. Et questo
       - lb[n=2]: è o puote essere per sette maniere, le quali sono nominate
       - lb[n=3]: 'nel testo, cioè:'
@@ -2372,7 +2372,7 @@ text:
       - lb[n=23]: tempo d' attendere a cotali convenenti».
     - p[n=6]:
       - O non muove
-      - pb[n=91]
+      - pb: 91
       - lb[n=1]: 'questione a quella lege che ssi conviene. Verbigrazia: Uno'
       - lb[n=2]: cittadino di Roma era in Parigi e volea piatire contra
       - lb[n=3]: uno francesco secondo la legge di Roma; ma quel francesco
@@ -2404,7 +2404,7 @@ text:
       - lb[n=21]: fosse alcuna, certo in quella non porrebbe avere contraversia,
       - lb[n=22]: e perciò conviene che non sia tenuta causa.
     - p[n=1]:
-      - pb[n=92]
+      - pb: 92
       - lb[n=1]: Lo sponitore.
       - lb[n=2]: Poi che Tulio àe divisate le parti della constituzione
       - lb[n=3]: et àe detto che e come è ciascuna di quelle parti
@@ -2432,7 +2432,7 @@ text:
       - lb[n=21]: Del fatto.
       - lb[n=22]: La contraversia del fatto si puote distribuire in
       - lb[n=23]: 'tutti tempi: ché ssi puote fare quistione che è essuto'
-      - pb[n=93]
+      - pb: 93
       - lb[n=1]: 'fatto, in questo modo: «Ulixes uccise Aiace o no?».'
       - lb[n=2]: Et puotesi fare questione che ssi fa ora, in questo
       - lb[n=3]: 'modo: «Sono i Fregelliani in buono animo verso lo'
@@ -2460,7 +2460,7 @@ text:
       - lb[n=20]: vicende, alle quali altre non sapea pervenire, e perciò
       - lb[n=21]: adoperò e' più di male contra' Troiani per lo suo senno
       - lb[n=22]: che non fecero quasi tutta l' oste per arme, et alla fine
-      - pb[n=94]
+      - pb: 94
       - lb[n=1]: si parve manifestamente, ch' elli fue trovatore del cavallo
       - lb[n=2]: per lo quale fue Troia perduta e tradita; ma veramente
       - lb[n=3]: in guerra non si fatigava molto con arme e non era di
@@ -2489,7 +2489,7 @@ text:
       - lb[n=23]: di buono animo o no.
     - p[n=7]:
       - Nel futuro mette Tulio
-      - pb[n=95]
+      - pb: 95
       - lb[n=1]: l' exemplo di Cartagine, la quale fue una delle più nobili
       - lb[n=2]: cittadi e delle più poderose del mondo, e tenne guerra
       - lb[n=3]: contro a Roma, sì ch' alla fine i Romani vinsero e presero
@@ -2517,7 +2517,7 @@ text:
       - lb[n=21]: parole e brevemente discritta, come se alcuno à tolta
       - lb[n=22]: una cosa sacrata d' uno luogo privato, se dee essere
       - lb[n=23]: giudicato furo o sacrilego, ché certo in essa questione
-      - pb[n=96]
+      - pb: 96
       - lb[n=1]: conviene difinire l' uno e l' altro, che sia furo e che
       - lb[n=2]: sacrilego, e mostrare per sua discrezione che lla cosa
       - lb[n=3]: conviene avere altro nome che quello che dicono li
@@ -2546,12 +2546,12 @@ text:
       - lb[n=21]: di controversia si conviene che 'l parliere che dice sopra
       - lb[n=22]: questa materia diffinisca e faccia conto in brevi parole
       - lb[n=23]: che cosa è sacrilegio e che è furto; e così dee mostrare
-      - pb[n=97]
+      - pb: 97
       - lb[n=1]: come questo fatto non à quel nome che dice l' aversario.
       - lb[n=2]: Et è detto della controversia del nome; omai dicerà Tulio
       - lb[n=3]: 'di quella del genere, in questo modo:'
   - part[n=42]:
-    - milestone[unit=chapter,n=IX]
+    - milestone@chapter: IX
     - p:
       - lb[n=4]: Del genere.
       - lb[n=5]: Controversia del genere è quando il
@@ -2576,7 +2576,7 @@ text:
       - lb[n=21]: città di Roma; l' accusato confessa il fatto e 'l nome del
       - lb[n=22]: "facto. Dice l' accusatore: «Questo è grande danno». Dice"
       - lb[n=23]: "l' accusato: «Non è grande, ma piccolo». Ed è la discordia"
-      - pb[n=98]
+      - pb: 98
       - lb[n=1]: tra lloro della quantità, cioè se quel male è grande o piccolo.
     - p[n=3]:
       - lb[n=2]: O sono in discordia del modo, cioè della comparazione
@@ -2610,7 +2610,7 @@ text:
       - lb[n=22]: A questo genere Ermagoras sottopuose quattro
       - lb[n=23]: parti, ciò sono deliberativo, demostrativo, iudiciale e
       - lb[n=24]: negoziale. Il quale suo fallimento non mezanamente
-      - pb[n=99]
+      - pb: 99
       - lb[n=1]: pare che ssia da riprendere, ma in breve, perciò che sse
       - lb[n=2]: noi ci ne passiamo così tacendo fosse pensato che noi
       - lb[n=3]: lo seguissimo sanza cagione; o se lungamente soprastessimo
@@ -2637,10 +2637,10 @@ text:
       - lb[n=21]: tre son generi delle cause, e così deliberamento e dimostramento
       - lb[n=22]: non possono essere a diritto tenute parti
       - lb[n=23]: d' alcuno genere di causa. Dunque malamente disse
-      - pb[n=100]
+      - pb: 100
       - lb[n=1]: ch' elli fossero parte della constituzione del genere.
   - part[n=45]:
-    - milestone[unit=chapter,n=X]
+    - milestone@chapter: X
     - p:
       - lb[n=2]: Et s' elle non possono essere tenute diritte
       - lb[n=3]: parti della causa del genere, molto meno fien tenute
@@ -2667,7 +2667,7 @@ text:
       - lb[n=21]: Et in altrettale isconvenevile fie condotto, se esso dica
       - lb[n=22]: che constituzione sia la prima confermazione dell' accusatore
       - lb[n=23]: o lla prima preghiera del difenditore; e così
-      - pb[n=101]
+      - pb: 101
       - lb[n=1]: seguiranno lui tutti questi sconvenevoli.
   - part[n=47]:
     - p:
@@ -2695,7 +2695,7 @@ text:
       - lb[n=21]: Lo sponitore.
       - lb[n=22]: In questa parte dice Tulio che Ermagoras dicea che
       - lb[n=23]: lla controversia del genere avea quattro parti sotto sé,
-      - pb[n=102]
+      - pb: 102
       - lb[n=1]: ciò sono deliberativo, demostrativo, iudiciale e negoziale;
       - lb[n=2]: della qual cosa Tulio lo riprende in tutte guise, e mostra
       - lb[n=3]: molte ragioni come Ermagoras errava malamente, e questo
@@ -2714,7 +2714,7 @@ text:
       - lb[n=14]: sì come qui dinanzi fue detto. Et in ciò incomincia la
       - lb[n=15]: 'sentenzia di Tullio in questo modo:'
   - part[n=48]:
-    - milestone[unit=chapter,n=XI]
+    - milestone@chapter: XI
     - p:
       - lb[n=16]: Le parti della constituzione generale.
       - lb[n=17]: Questa constituzione del genere pare a
@@ -2725,7 +2725,7 @@ text:
       - lb[n=21]: delle quattro parti, sì dice la sua sentenza e dice che sono
       - lb[n=22]: 'pur due parti, cioè quelle altre due che dicea Ermagoras:'
       - lb[n=23]: iudiciale e negoziale; et immantenente detta la sua sentenza,
-      - pb[n=103]
+      - pb: 103
       - lb[n=1]: la quale vince quella d' Ermagoras e d' ogn' altro, sì
       - lb[n=2]: dice e dimostra che è iudiciale e che è negoziale, in questo
       - lb[n=3]: 'modo:'
@@ -2746,7 +2746,7 @@ text:
     - p[n=2]:
       - Altressì è iudiciale
       - lb[n=15]: quella nella quale è questione d' alcuno per sapere s' egli
-      - pb[n=104]
+      - pb: 104
       - lb[n=1]: 'è degno di pena o di merito. Verbigrazia: «Alobroges è'
       - lb[n=2]: degno d' avere merito di ciò che manifestò la congiurazione
       - lb[n=3]: di Catellina?», e questionasi del sì o del no. Et
@@ -2774,7 +2774,7 @@ text:
       - Et intra la iudiciale e la negoziale
       - lb[n=19]: 'àe cotale differenzia: che lla iudiciale tratta sopra le cose'
       - lb[n=20]: passate et intorno le leggi scritte e trovate; ma la negoziale
-      - pb[n=105]
+      - pb: 105
       - lb[n=1]: intende intorno le presenti e future et intorno le
       - lb[n=2]: legi et usanze che saranno scritte e trovate.
     - p[n=3]:
@@ -2799,7 +2799,7 @@ text:
       - lb[n=15]: Sponitore.
       - lb[n=16]: In questa parte dice Tulio che quella questione la
       - lb[n=17]: quale è iudiciale, sì come davanti è mostrato, sì à due
-      - pb[n=106]
+      - pb: 106
       - lb[n=1]: "parti: una ch' è appellata assoluta e l' altra la quale è appellata"
       - lb[n=2]: assuntiva; e dicerà di catuna per sé.
   - part[n=52]:
@@ -2820,7 +2820,7 @@ text:
     - p[n=2]:
       - 'Verbigrazia: Fecero quelli da'
       - lb[n=15]: Teba giusto o ingiusto quando per segnale della loro vittoria
-      - pb[n=107]
+      - pb: 107
       - lb[n=1]: fecero un trofeo di metallo? Et certo questo fatto,
       - lb[n=2]: cioè fare un trofeo di metallo per segnale di vittoria,
       - lb[n=3]: piace per sé sanza neuna giunta et in sé contiene forza
@@ -2839,7 +2839,7 @@ text:
       - lb[n=13]: fermezza per difendersi da quello peccato ch' è a llui apposto,
       - lb[n=14]: ma d' un altro fatto di fuori da quello prende argomento
       - lb[n=15]: da difendersi; sì come nella questione d' Orestes,
-      - pb[n=108]
+      - pb: 108
       - lb[n=1]: che fue accusato ch' avea morta la sua madre, et elli
       - lb[n=2]: dicea che ll' avea morta giustamente. Et certo il suo dire
       - lb[n=3]: parea crudel fatto, sì che queste parole per sé non ànno
@@ -2868,7 +2868,7 @@ text:
       - lb[n=20]: e dice che quella constituzione è appellata concessione
       - lb[n=21]: quando l' accusato concede il peccato e confessa d' averlo
       - lb[n=22]: fatto, ma domanda che ssia perdonato; e questo puote
-      - pb[n=109]
+      - pb: 109
       - lb[n=1]: 'essere in due maniere: o per purgazione o per preghiera,'
       - lb[n=2]: e di ciascuna di queste dirà Tulio partitamente, e prima
       - lb[n=3]: della purgazione.
@@ -2891,7 +2891,7 @@ text:
       - lb[n=15]: loro crudel fortuna di tempo che lli mise in pericolosa
       - lb[n=16]: paura, per la quale si botaro che s' elli scampassero
       - lb[n=17]: e pervenissero a porto che elli offerrebboro delle loro
-      - pb[n=110]
+      - pb: 110
       - lb[n=1]: cose a quello deo che là fosse, et e' medesimi l' adorrebbero.
       - lb[n=2]: Alla fine arrivaro ad uno porto nel quale era
       - lb[n=3]: adorato Malcometto ed era tenuto deo. Questi mercatanti
@@ -2917,7 +2917,7 @@ text:
     - p[n=4]:
       - La terza maniera è necessitade, cioè che conviene
       - lb[n=22]: 'che ssia così et altro non potea fare. Verbigrazia:'
-      - pb[n=111]
+      - pb: 111
       - lb[n=1]: Statuto era in Costantinopoli che qualunque nave viniziana
       - lb[n=2]: arrivasse nel porto loro, la nave e ciò che entro
       - lb[n=3]: vi fosse si publicasse al segnore. Avenne che mercatanti
@@ -2942,7 +2942,7 @@ text:
       - lb[n=18]: Della preghiera.
       - lb[n=19]: Preghiera è quando l' accusato confessa ch' elli àe
       - lb[n=20]: commesso quel peccato e confessa che ll' àe fatto pensatamente,
-      - pb[n=112]
+      - pb: 112
       - lb[n=1]: ma sì domanda che lli sia perdonato, la
       - lb[n=2]: qual cosa molte rade fiate puote advenire.
     - p[n=1]:
@@ -2968,7 +2968,7 @@ text:
       - lb[n=20]: giurati a lege sìe che non ànno podere di perdonare. Ben
       - lb[n=21]: puote alcuna fiata lo 'mperadore e 'l sanato avere provedenza
       - lb[n=22]: in perdonare gravi misfatti, sì come poteano li anziani
-      - pb[n=113]
+      - pb: 113
       - lb[n=1]: del popolo di Firenze ch' aveano podere di gravare
       - lb[n=2]: e di disgravare secondo lo loro parimento.
     - p[n=4]:
@@ -2991,7 +2991,7 @@ text:
       - lb[n=16]: mette sopr' altrui dicendo che dovea un altro e potea
       - lb[n=17]: fare quel fatto.
     - p[n=1]:
-      - pb[n=114]
+      - pb: 114
       - lb[n=1]: Sponitore.
       - lb[n=2]: In questo luogo dice Tullio ch' è rimuovere lo peccato
       - lb[n=3]: 'e come si puote fare, et è cotale il caso: Uno è accusato'
@@ -3018,7 +3018,7 @@ text:
       - lb[n=22]: questi ambasciadori fuorono accusati, ma elli si levaro
       - lb[n=23]: la colpa e la cagione e miserla sopra 'l signore e sopra 'l
       - lb[n=24]: camarlingo, i quali aveano la forza e la segnoria e non
-      - pb[n=115]
+      - pb: 115
       - lb[n=1]: fecero lo pagamento.
     - p[n=3]:
       - Mettere il fatto sopr' altrui è
@@ -3043,7 +3043,7 @@ text:
       - lb[n=20]: che no· ll' arebbe potuto fare, perciò ch' elli era malato di
       - lb[n=21]: sua persona. Et così recava il fatto e la colpa sopra Catellina,
       - lb[n=22]: perciò che 'l dovea fare come di suo nemico e
-      - pb[n=116]
+      - pb: 116
       - lb[n=1]: poteal fare, ch' era sano e forte e di reo animo.
     - p[n=4]:
       - Et poi
@@ -3071,7 +3071,7 @@ text:
       - Et poi che Tullio àe insegnato riferire lo peccato,
       - lb[n=19]: sì insegnerà omai che è comparazione.
   - part[n=59]:
-    - pb[n=117]
+    - pb: 117
     - p:
       - lb[n=1]: Tullio dice che è comparazione.
       - lb[n=2]: Comparazione è quando alcuno altro fatto si
@@ -3100,7 +3100,7 @@ text:
       - lb[n=22]: diritto, cioè per scampare la terra di tanta distruzione,
       - lb[n=23]: e quello scampamento non potea fare sanza quella dispesa;
       - lb[n=24]: e così mostra che 'l fatto del quale elli è ripreso
-      - pb[n=118]
+      - pb: 118
       - lb[n=1]: fue fatto per bene.
     - p[n=3]:
       - Et poi che Tullio àe detto delle
@@ -3127,7 +3127,7 @@ text:
       - lb[n=20]: fallito non pur in prudenzia; ché certo manifesta cosa
       - lb[n=21]: è che sono impediti per invidia e per maltrattamento
     - p[n=1]:
-      - pb[n=119]
+      - pb: 119
       - lb[n=1]: Sponitore.
       - lb[n=2]: Questo testo di Tullio è assai aperto in sé medesimo,
       - lb[n=3]: e spezialmente perciò che della questione o constituzione
@@ -3151,7 +3151,7 @@ text:
     - p[n=3]:
       - Et dice Tullio che Ermagoras fue trovatore
       - lb[n=19]: della translativa constituzione, cioè che lla mise nel conto
-      - pb[n=120]
+      - pb: 120
       - lb[n=1]: delle quatro constituzioni sì come detto fue inn adietro.
       - lb[n=2]: Et di ciò fue ripreso da alquanti che non erano bene
       - lb[n=3]: savi e che aveano invidia e maltrattamento contra lui.
@@ -3162,7 +3162,7 @@ text:
       - lb[n=6]: Tullio dice che davanti dicerà
       - lb[n=7]:
         - exempli in ciascuna maniera di constituzioni.
-        - milestone[unit=chapter,n=XII]
+        - milestone@chapter: XII
       - lb[n=8]: Già avemo disposte le constituzioni e
       - lb[n=9]: le loro parti; ma li axempli di ciascuna maniera parrà
       - lb[n=10]: che noi possiamo meglio divisare quando noi daremo
@@ -3179,7 +3179,7 @@ text:
       - lb[n=20]: delle cause, cioè nel deliberativo e nel dimostrativo e nel
       - lb[n=21]: iudiciale, quando tratterà il libro di ciascuno in suo stato.
       - lb[n=22]: E da cciò si parte il conto e torna a trattare secondo
-      - pb[n=121]
+      - pb: 121
       - lb[n=1]: che ssi conviene all' ordine del libro per insegnamento
       - lb[n=2]: dell' arte.
   - part[n=62]:
@@ -3205,7 +3205,7 @@ text:
       - lb[n=18]: 'questione assoluta in questo modo: «Stanzieremo noi'
       - lb[n=19]: battaglia contra coloro di Corinto o non?».
     - p[n=1]:
-      - pb[n=122]
+      - pb: 122
       - lb[n=1]: Lo sponitore.
       - lb[n=2]: Dice Tullio che quella causa è simpla la quale è pur
       - lb[n=3]: d' uno fatto e che non è se non d' una questione solamente.
@@ -3226,7 +3226,7 @@ text:
       - lb[n=15]: Poi che Tullio à detto della causa simpla, sì dice
       - lb[n=16]: della congiunta, dicendo che quella causa è congiunta
       - lb[n=17]: 'nella quale àe due o tre o quattro o più questioni. Verbigrazia:'
-      - pb[n=123]
+      - pb: 123
       - lb[n=1]: I Romani vinsero a forza d' arme la cittade
       - lb[n=2]: di Cartagine, et erano alcuni che diceano che al postutto
       - lb[n=3]: si disfacesse; altri diceano che lla cittade fosse
@@ -3251,7 +3251,7 @@ text:
       - lb[n=19]: di più cose, nella quale si considera qual partito sia il
       - lb[n=20]: migliore de' due o di tre o di più, e se tutti sono buoni e
       - lb[n=21]: l' uno migliore che ll' altro, per sapere qual sia finissimo,
-      - pb[n=124]
+      - pb: 124
       - lb[n=1]: cioè il sovrano di tutti.
     - p[n=2]:
       - 'Verbigrazia: I Romani aveano'
@@ -3278,7 +3278,7 @@ text:
       - lb[n=19]: di cose e di parole scritte, e qual nasce pur di ragionamento,
       - lb[n=20]: cioè di dire parole e di cose che non sono scritte;
       - lb[n=21]: e così vuole Tullio apertamente insegnare per rettorica
-      - pb[n=125]
+      - pb: 125
       - lb[n=1]: ciò c' altre de' dire a ciascun ponto di tutte le cause che
       - lb[n=2]: possano intervenire; e perciò dicerà della scritta per sé
       - lb[n=3]: e del ragionamento per sé, e di ciascuno partitamente
@@ -3289,7 +3289,7 @@ text:
       - lb[n=6]: Contraversia inn iscritta è quella che nasce d' alcuna
       - lb[n=7]:
         - qualitade di scrittura.
-        - milestone[unit=chapter,n=XIII]
+        - milestone@chapter: XIII
         - Et certo le maniere
       - lb[n=8]: di questa che sono partite delle constituzioni
       - lb[n=9]: 'sono cinque: Che talvolta pare che lle parole medesimo'
@@ -3305,7 +3305,7 @@ text:
       - lb[n=19]: la terza apelliamo dubiosa, la quarta appelliamo di ragionevole,
       - lb[n=20]: la quinta apelliamo diffinitiva.
     - p[n=0]:
-      - pb[n=126]
+      - pb: 126
       - lb[n=1]: Lo sponitore.
       - lb[n=2]: Poi che Tullio à dimostrato qual causa sia pur d' un
       - lb[n=3]: fatto o di più, immantenente vuole dimostrare qual contraversia
@@ -3335,7 +3335,7 @@ text:
       - lb[n=23]: leggi, perciò che pare che due leggi o più discordino
       - lb[n=24]: 'intra sé stesse. Verbigrazia: Una legge era cotale, che'
       - lb[n=25]: chiunque uccidesse il tiranno prendesse del senato cheunque
-      - pb[n=127]
+      - pb: 127
       - lb[n=1]: merito volesse. Et nota che tiranno è detto quelli
       - lb[n=2]: che per forza di suo corpo o d' avere o di gente sottomette
       - lb[n=3]: altrui al suo podere. Un' altra legge dice che morto il
@@ -3364,7 +3364,7 @@ text:
       - lb[n=23]: di quello ch' è discritto si truova e se ne ritrae altro che
       - lb[n=24]: 'no è scritto. Verbigrazia: Marcello entrò nella chiesa di'
       - lb[n=25]: Santo Petro di Roma e ruppe il crocifixo, e tagliò le
-      - pb[n=128]
+      - pb: 128
       - lb[n=1]: imagini di là entro. Fue accusato, ma non si truova neuna
       - lb[n=2]: legge scritta sopra così fatto malificio, né convenevole
       - lb[n=3]: non era che nne scampasse sanza pena; e perciò il suo
@@ -3392,7 +3392,7 @@ text:
       - lb[n=23]: e dicasi il proprio intendimento.
     - p[n=6]:
       - Già à detto
-      - pb[n=129]
+      - pb: 129
       - lb[n=1]: Tullio di quella contraversia la quale è in iscritta e delle
       - lb[n=2]: sue cinque parti. Omai dicerà di quella contraversia ch' è
       - lb[n=3]: in ragionamento.
@@ -3417,7 +3417,7 @@ text:
       - lb[n=17]: Delle quattro parti della causa.
       - lb[n=18]: Adunque, poi che considerato è il genere della
       - lb[n=19]: causa e cognosciuta la constituzione et inteso quale è
-      - pb[n=130]
+      - pb: 130
       - lb[n=1]: simpla e quale è congiunta, e veduto quale contraversia
       - lb[n=2]: è di scritto e di ragionamento, omai fie da vedere
       - lb[n=3]: quale è la quistione e quale è la ragione e quale è il
@@ -3441,7 +3441,7 @@ text:
       - lb[n=20]: tutte muovono e nascono della constituzione, ciò viene a
       - lb[n=21]: dire che la constituzione è il cominciamento di queste cose.
   - part[n=70]:
-    - pb[n=131]
+    - pb: 131
     - p:
       - lb[n=1]: Della questione.
       - lb[n=2]: Questione è quella contraversia la quale s' ingenera
@@ -3462,7 +3462,7 @@ text:
       - lb[n=16]: «Tu non ài fatta ragione, ché tu prendesti il mio cavallo»;
       - lb[n=17]: 'e la parte che ssi difende risponde e dice: «Sì, feci ragione».'
       - lb[n=18]: Or è la causa ordinata, cioè che ciascuna parte à
-      - pb[n=132]
+      - pb: 132
       - lb[n=1]: detto, l' una accusando e l' altra difendendo, e questa è appellata
       - lb[n=2]: constituzione.
     - p[n=2]:
@@ -3491,7 +3491,7 @@ text:
       - lb[n=20]: se ne fosse tolta non rimarrebbe alcuna cosa in contraversia.
       - lb[n=21]: In questo modo mosterremo, per cagione
       - lb[n=22]: d' insegnare, un leggieri e manifesto exemplo. Se Orestres
-      - pb[n=133]
+      - pb: 133
       - lb[n=1]: 'fosse accusato di matricidio et elli non dicesse:'
       - lb[n=2]: «Io il feci a ragione, perciò ch' ella avea morto il mio
       - lb[n=3]: padre», non avrebbe difensione; e se non l' avesse non
@@ -3521,7 +3521,7 @@ text:
       - lb[n=22]: matricidio. Et poi che Tullio à dimostrato che è questione
       - lb[n=23]: e che ragione, sì dimosterrà che è giudicamento.
   - part[n=72]:
-    - pb[n=134]
+    - pb: 134
     - p:
       - lb[n=1]: Del giudicamento.
       - lb[n=2]: Giudicamento è quella contraversia la quale
@@ -3532,7 +3532,7 @@ text:
       - lb[n=7]: ch' essa madre fosse uccisa; perciò che 'l suo fatto si
       - lb[n=8]:
         - potea bene punire sanza tuo perverso adoperamento».
-        - milestone[unit=chapter,n=XIV]
+        - milestone@chapter: XIV
       - lb[n=9]: Di questo mostramento della ragione nasce
       - lb[n=10]: quella somma controversia la quale noi appelliamo
       - lb[n=11]: 'giudicamento, la quale è cotale: se fosse diritta cosa'
@@ -3546,7 +3546,7 @@ text:
       - lb[n=18]: "in che luogo sia. Verbigrazia: L' accusato assegna ragione"
       - lb[n=19]: perché fece quel fatto e conferma la sua difensa per quella
       - lb[n=20]: ragione. L' accusatore dice contra questa difensa et indebolisce
-      - pb[n=135]
+      - pb: 135
       - lb[n=1]: la ragione dell' accusato. Unde di ciò che conferma
       - lb[n=2]: l' uno et inforza la sua difensione e l' altro la infievolisce
       - lb[n=3]: e falla debole, sì ne nasce una questione la quale è appellata
@@ -3574,7 +3574,7 @@ text:
       - lb[n=20]: Fermamento è il firmissimo et appostissimo argomento
       - lb[n=21]: al giudicamento, come se Orestres volesse dire
       - lb[n=22]: che ll' animo il quale la madre avea contra il suo padre,
-      - pb[n=136]
+      - pb: 136
       - lb[n=1]: quel medesimo avea contra lui e contra le sue sorelle
       - lb[n=2]: e contra il reame e contra l' alto pregio della sua ingenerazione
       - lb[n=3]: e della sua familia, sicché in tutte guise
@@ -3598,7 +3598,7 @@ text:
       - lb[n=19]: Fermamento.
       - lb[n=20]: Poi che lla questione del giudicamento è nata, sì
       - lb[n=21]: conviene che ll' accusato tragga innanzi i fermissimi argomenti
-      - pb[n=137]
+      - pb: 137
       - lb[n=1]: 'bene apposti contra il giudicamento. Verbigrazia:'
       - lb[n=2]: Orestres à detto che uccise la madre perciò ch' ella avea
       - lb[n=3]: morto il padre, e così assegna la ragione perch' elli l' uccise;
@@ -3626,7 +3626,7 @@ text:
       - lb[n=21]: sì come quella fece uccidendo il re Agamenon. Et
       - lb[n=22]: quello è crudele fatto il quale alcuno adopera contra'
       - lb[n=23]: suoi, sì come quella fece contra la sua famiglia. Et quello
-      - pb[n=138]
+      - pb: 138
       - lb[n=1]: è malizioso fatto il quale è molto fuori d' uso, sì com' è
       - lb[n=2]: contra naturale usanza ch' alcuna femina uccida il suo
       - lb[n=3]: marito e figliuoli e distrugga un alto reame.
@@ -3654,7 +3654,7 @@ text:
       - lb[n=20]: per lui è stato detto davanti, così si possono trovare giudicamenti
       - lb[n=21]: inn ogne constituzione; salvo che nella constituzione
       - lb[n=22]: congetturale, della quale è molto trattato inn
-      - pb[n=139]
+      - pb: 139
       - lb[n=1]: adietro, perciò che in essa l' accusato nonn asegna neuna
       - lb[n=2]: ragione, anzi niega, al postutto non ne puote nascere giudicamento.
     - p[n=2]:
@@ -3680,7 +3680,7 @@ text:
       - lb[n=18]: da considerare ciascuna parte della causa; ch' al ver
       - lb[n=19]: dire non si dee pur pensare prima ciò che ssi dee dicere
       - lb[n=20]: in prima; perciò che se le parole che sono da dire
-      - pb[n=140]
+      - pb: 140
       - lb[n=1]: in prima tu vuoli inforzatamente congiungere et adunare
       - lb[n=2]: colla causa, conviene che d' esse medesime traghe
       - lb[n=3]: quelle che sono da dire poi.
@@ -3704,7 +3704,7 @@ text:
       - lb[n=18]: il mezzo e la fine. Tutto altressì fae il buono drappiere,
       - lb[n=19]: che non pensa prima pur della lana, ma considera
       - lb[n=20]: tutto il drappo insieme anzi che llo cominci, e de' aver
-      - pb[n=141]
+      - pb: 141
       - lb[n=1]: la lana e 'l colore e la grandezza del drappo, e provedesi
       - lb[n=2]: di tutte cose che sono mistieri, e poi comincia e fae il
       - lb[n=3]: drappo.
@@ -3725,7 +3725,7 @@ text:
       - lb[n=15]: innanzi pensi tutte le parti della causa per accordare
       - lb[n=16]: il mezzo e la fine colla comincianza del suo dire,
       - lb[n=17]: sì che sia l' una parola nata dell' altra, sì dice esso medesimo
-      - pb[n=142]
+      - pb: 142
       - lb[n=1]: che poi che tutto questo ch' è fatto, e trovato il
       - lb[n=2]: giudicamento della causa e ciò che vi bisogna secondo i
       - lb[n=3]: comandamenti di rettorica (i quali si convengono trattare
@@ -3750,7 +3750,7 @@ text:
       - lb[n=19]: sono in tencione, et insegna cognoscere le cause e lle questioni,
       - lb[n=20]: e per mettere exempli dice sovente dell' accusato
       - lb[n=21]: e dell' accusatore, penserebbe per aventura un grosso intenditore
-      - pb[n=143]
+      - pb: 143
       - lb[n=1]: che Tullio parlasse delle piatora che sono in
       - lb[n=2]: corte, e non d' altro.
     - p[n=4]:
@@ -3781,7 +3781,7 @@ text:
       - lb[n=22]: di questo non puote nascere questione se non di
       - lb[n=23]: sapere se quella cosa che niega elli l' à fatta o detta o no.
       - lb[n=24]: Ma quando l' uno appone e l' altro difende, sì è la causa
-      - pb[n=144]
+      - pb: 144
       - lb[n=1]: incominciata et ordinata tra lloro. Et questo è la constituzione
       - lb[n=2]: della quale nasce la questione, cioè se lla sua
       - lb[n=3]: difesa è a ragione o no; e poi ciascuno contende come
@@ -3810,7 +3810,7 @@ text:
       - lb[n=23]: no. Et questo è quello che Tullio appella questione.
     - p[n=9]:
       - Et
-      - pb[n=145]
+      - pb: 145
       - lb[n=1]: perciò l' uno, poi ch' elli àe detto e consigliato quello che
       - lb[n=2]: llui ne pare, immantenente assegna la ragione per la
       - lb[n=3]: quale il suo consiglio èe buono e diritto. Et questo è quello
@@ -3842,7 +3842,7 @@ text:
       - lb[n=24]: di tutte e quattro sì come fue dimostrato di sopra.
     - p[n=13]:
       - lb[n=25]: Quest' è la diceria del primo parliere. E poi ch' elli à
-      - pb[n=146]
+      - pb: 146
       - lb[n=1]: consigliato e posto fine al suo dire, immantenente si
       - lb[n=2]: leva un altro consigliere e dice tutto il contrario che àe
       - lb[n=3]: detto colui davanti; e così è fatta la constituzione, cioè
@@ -3865,7 +3865,7 @@ text:
       - lb[n=19]: et indebolisce quelle del pregatore. In questi et in
       - lb[n=20]: molti altri exempli si puote assai bene intendere che lla
       - lb[n=21]: rettorica di Tullio non è pure ad insegnare piategiare
-      - pb[n=147]
+      - pb: 147
       - lb[n=1]: alle corti di ragione, avegna che neuno possa buono advocato
       - lb[n=2]: essere né perfetto se non favella secondo l' arte di
       - lb[n=3]: rettorica.
@@ -3886,7 +3886,7 @@ text:
     - p[n=16]:
       - lb[n=17]: Ma chi volesse bene considerare la propietà d' una
       - lb[n=18]: lettera o d' una canzone, ben potrebbe apertamente vedere
-      - pb[n=148]
+      - pb: 148
       - lb[n=1]: che colui che lla fa o che lla manda intende ad alcuna
       - lb[n=2]: cosa che vuole che sia fatta per colui a cui e' la manda.
       - lb[n=3]: Et questo puote essere o pregando o domandando o comandando
@@ -3915,7 +3915,7 @@ text:
       - Et ecco Tullio che
       - lb[n=23]: incomincia a dire di quelle partite della diceria o d' una
       - lb[n=24]: lettera dittata, delle quali non avea detto neente in
-      - pb[n=149]
+      - pb: 149
       - lb[n=1]: 'adietro: e queste parti sono sei, sì come apare in questo'
       - lb[n=2]: arbore.
       - lb[n=3]: Queste sono le sei parti che Tullio mostra certamente
@@ -3934,7 +3934,7 @@ text:
       - lb[n=14]: manda ad un altro, nel quale la mente favella et è udito
       - lb[n=15]: colui che tace e di lontana terra dimanda et acquista la
       - lb[n=16]: grazia, la grazia ne 'nforza e l' amore ne fiorisce, e molte
-      - pb[n=150]
+      - pb: 150
       - lb[n=1]: cose mette inn iscritta le quali si temerebbe e non saprebbe
       - lb[n=2]: dire a lingua in presenzia; sì dirae lo sponitore
       - lb[n=3]: un poco dell' oppinione de' savi e della sua medesima in
@@ -3967,7 +3967,7 @@ text:
       - lb[n=24]: che, sì come dice Boezio, ogne cosa proposta a dire puote
       - lb[n=25]: essere materia del dittatore; et in questo si divisa dalla
       - lb[n=26]: sentenzia di Tullio, che dice che lla materia del parliere
-      - pb[n=151]
+      - pb: 151
       - lb[n=1]: non è se non in tre cose, ciò sono dimostrativo, deliberativo
       - lb[n=2]: e iudiciale. Et dice «convenevolemente aconcio a
       - lb[n=3]: quella cosa» perciò che conviene al dittatore asettare le
@@ -3996,7 +3996,7 @@ text:
       - lb[n=23]: e contato il fatto et e' sì viene partiendo la sua ragione
       - lb[n=24]: "e quella dell' aversario e dice: «Questo fue così, e"
       - lb[n=25]: quest' altro così»; et in questo modo acoglie quelle partite
-      - pb[n=152]
+      - pb: 152
       - lb[n=1]: che sono a llui più utili e più contrarie all' aversario, et
       - lb[n=2]: afficcale all' animo dell' uditore; et allora pare ch' al tutto
       - lb[n=3]: abbia detto tutto 'l fatto. IV. Et dice che confermamento
@@ -4019,7 +4019,7 @@ text:
       - lb[n=18]: pistola colla diceria, cioè nello exordio, narrazione e
       - lb[n=19]: nella conclusione; ma ll' altre tre, cioè partigione, confermamento
       - lb[n=20]: e reprensione, possono più lievemente rimanere
-      - pb[n=153]
+      - pb: 153
       - lb[n=1]: e non avere luogo nella pistola. Tutto altressì la pistola
       - lb[n=2]: àe cinque parti, delle quali l' una può bene rimanere e
       - lb[n=3]: non avere luogo nella diceria, cioè «salutatio»; l' autra,
@@ -4036,7 +4036,7 @@ text:
       - lb[n=13]: Certa cosa è che Tullio nel suo libro tratta delle dicerie
       - lb[n=14]: che ssi fanno in presenzia, nelle quali non bisogna di
       - lb[n=15]: contare il nome del parlieri né dell' uditore. Ma nella
-      - pb[n=154]
+      - pb: 154
       - lb[n=1]: pistola bisogna di mettere le nomora del mandante e del
       - lb[n=2]: ricevente, c' altrimente non si puote sapere a certo né
       - lb[n=3]: l' uno né l' altro. Apresso ciò, la salutazione pare che sia
@@ -4066,7 +4066,7 @@ text:
     - p[n=28]:
       - Adunque
       - lb[n=25]: pare manifestamente che lla salutazione è così parte della
-      - pb[n=155]
+      - pb: 155
       - lb[n=1]: pistola come l' occhio dell' uomo. Et se l' occhio è nobile
       - lb[n=2]: membro del corpo dell' uomo, dunque la salutazione è
       - lb[n=3]: nobile parte della pistola, c' altressì allumina tutta la lettera
@@ -4086,7 +4086,7 @@ text:
       - lb[n=15]: d' amore, o per solazzo, talora si mandano altre parole
       - lb[n=16]: che portano più incarnamento e giuoco che non fa a dire
       - lb[n=17]: pur salute. Et a' maggiori non dee uomo mandare salute,
-      - pb[n=156]
+      - pb: 156
       - lb[n=1]: ma altre parole che significhino reverenzia e devozione;
       - lb[n=2]: e talvolta no scrivemo a' nemici altro che lle nomora e
       - lb[n=3]: tacemo la salute, o per aventura mettemo alcuna altra
@@ -4111,7 +4111,7 @@ text:
       - lb[n=21]: con parole di sua onoranza e metterlo dinanzi; apresso
       - lb[n=22]: dee nominare sé medesimo e la sua dignitade, e poi dee
       - lb[n=23]: scrivere la sua affezione, cioè quello che desidera che
-      - pb[n=157]
+      - pb: 157
       - lb[n=1]: venga a colui che riceve la lettera, sì come salute o altro
       - lb[n=2]: che sia avenante, tuttavolta guardando che questa affezione
       - lb[n=3]: sia di quella guisa e di quelle parole che ssi convegnono
@@ -4138,7 +4138,7 @@ text:
       - lb[n=21]: si mette nella salutazione, e che 'l nome del mandante
       - lb[n=22]: si mette in terza persona per significamento di maggiore
       - lb[n=23]: umilitade, e che tal fiata si scrive pur la primiera lettera
-      - pb[n=158]
+      - pb: 158
       - lb[n=1]: del nome, par che tocchi più a' dittatori in latino che 'n
       - lb[n=2]: volgare, sene passerà lo sponitore brevemente e seguirà
       - lb[n=3]: la materia di Tullio per dicere dell' altre parti della diceria
@@ -4162,12 +4162,12 @@ text:
       - lb[n=17]: dell' altre parti della diceria, sì ll' apella principe dell' altre
       - lb[n=18]: "parti tutte; e certo è de ragione: l' una perciò che ssi"
       - lb[n=19]: mette e si dice tuttora davanti a l' autre, l' altra perciò che
-      - pb[n=159]
+      - pb: 159
       - lb[n=1]: nel exordio pare che noi aconciamo et apparecchiamo
       - lb[n=2]: l' animo dell' uditore ad intendere tutto ciò che noi volemo
       - lb[n=3]: dire di poi.
   - part[n=78]:
-    - milestone[unit=chapter,n=XV]
+    - milestone@chapter: XV
     - p:
       - lb[n=4]: Dell' exordio.
       - lb[n=5]: Exordio è un detto el quale acquista
@@ -4191,7 +4191,7 @@ text:
     - p[n=2]:
       - lb[n=22]: Nel secondo luogo divide l' exordio in due parti, cioè
       - lb[n=23]: principio et «insinuatio», e mostrane in qual convenentre
-      - pb[n=160]
+      - pb: 160
       - lb[n=1]: noi dovemo usare principio et in quale «insinuatio».
     - p[n=3]:
       - lb[n=2]: Nel terzo luogo ne fa intendere donde noi potemo
@@ -4225,7 +4225,7 @@ text:
       - lb[n=23]: di chente ingenerazione sia la sua causa non puote bene
       - lb[n=24]: advenire alle tre cose che sono dette inn adietro, cioè
       - lb[n=25]: che ll' uditore sia benivolo, intento e docile, sì dicerà
-      - pb[n=161]
+      - pb: 161
       - lb[n=1]: Tullio quante e quali sono le generazioni delle cause, in
       - lb[n=2]: 'questo modo:'
   - part[n=79]:
@@ -4254,7 +4254,7 @@ text:
       - lb[n=22]: essere e non essere; ma le prime tre sono substanziali
       - lb[n=23]: che non si possono mutare.
   - part[n=80]:
-    - pb[n=162]
+    - pb: 162
     - p:
       - lb[n=1]: Dell' onesta.
       - lb[n=2]: Onesta qualitade di causa è quella la quale
@@ -4282,7 +4282,7 @@ text:
       - lb[n=20]: convenente che dispiace all' uditore, perciò ch' è di sozza
       - lb[n=21]: e di crudele operazione. Et perciò l' animo dell' uditore è
       - lb[n=22]: contra noi et è straniato dalla nostra parte; et in questo
-      - pb[n=163]
+      - pb: 163
       - lb[n=1]: abisogna d' acquistare benivolenzia sì che l' uditore intenda,
       - lb[n=2]: sì come nella causa di colui c' avesse morto il suo
       - lb[n=3]: padre o fatto furto o incendio.
@@ -4313,7 +4313,7 @@ text:
       - lb[n=21]: dubia o la causa è in parte onesta et in parte è sozza
       - lb[n=22]: e disonesta, sicché ingenera benivolenzia e offensione.
     - p[n=1]:
-      - pb[n=164]
+      - pb: 164
       - lb[n=1]: Sponitore.
       - lb[n=2]: Quella causa è appellata dubitosa nella quale l' uditore
       - lb[n=3]: non è certo a che la cosa debbia pervenire o a che
@@ -4338,7 +4338,7 @@ text:
       - lb[n=18]: per aventura la causa è impigliata di convenenti troppo
       - lb[n=19]: malagevoli a conoscere.
     - p[n=1]:
-      - pb[n=165]
+      - pb: 165
       - lb[n=1]: Lo sponitore.
       - lb[n=2]: Dice Tullio che quella causa è appellata oscura
       - lb[n=3]: nella quale l' uditore è tardo, cioè che non intende ciò che
@@ -4360,7 +4360,7 @@ text:
       - lb[n=16]: Perciò - dice Tullio - che le generazioni e le qualitadi
       - lb[n=17]: delle cause sono tanto diverse, cioè che sono in
       - lb[n=18]: cinque modi sì come detto è qui di sopra, e l' uno modo
-      - pb[n=166]
+      - pb: 166
       - lb[n=1]: non è accordante all' altro, sì conviene che in ciascuna
       - lb[n=2]: qualità di cause et in catuno de' detti cinque modi abbia
       - lb[n=3]: suo modo di fare exordio, tale che ssi convegna alla qualitade
@@ -4385,7 +4385,7 @@ text:
       - lb[n=18]: Quella maniera de exordio è appellata principio
       - lb[n=19]: quando il parlieri o 'l dittatore quasi incontanente
       - lb[n=20]: alla comincianza del suo dire, sanza molte parole e
-      - pb[n=167]
+      - pb: 167
       - lb[n=1]: sanza neuno infingimento ma parlando tutto fuori et apertamente,
       - lb[n=2]: fa l' animo dell' uditore benvolente a llui et alla
       - lb[n=3]: sua causa, o talora il fa docile o intento, sì come fece
@@ -4407,7 +4407,7 @@ text:
       - lb[n=16]: «insinuatio» quando il parlieri o 'l dittatore fa dinanzi
       - lb[n=17]: un lungo prolago di parole coverte, infingendo di volere
       - lb[n=18]: ciò che non vuole, o di non volere quello che dee volere,
-      - pb[n=168]
+      - pb: 168
       - lb[n=1]: e così va dintorno con molte parole per sorprendere l' animo
       - lb[n=2]: dell' uditore sì che sia benevolo o docile o intento; sì come
       - lb[n=3]: disse Sino parlando a coloro che riteneano la sua persona
@@ -4435,7 +4435,7 @@ text:
       - lb[n=21]: pace e benivoglienza dalle persone adirate non
       - lb[n=22]: solamente non si truova, ma cresce et infiamasi l' odio.
     - p[n=1]:
-      - pb[n=169]
+      - pb: 169
       - lb[n=1]: Lo sponitore.
       - lb[n=2]: Inn adietro è bene detto che quella causa è appellata
       - lb[n=3]: mirabile la quale è di rea operazione, sicché pare che
@@ -4459,7 +4459,7 @@ text:
       - lb[n=19]: l' odio; e perciò dee andare dintorno et entrarli
       - lb[n=20]: sotto covertamente.
   - part[n=89]:
-    - pb[n=170]
+    - pb: 170
     - p:
       - lb[n=1]: Della causa vile.
       - lb[n=2]: Nella causa la quale è di vile convenente, per
@@ -4484,7 +4484,7 @@ text:
       - lb[n=18]: sicché paia che tutta la causa ritorni in onesta
       - lb[n=19]: qualitade.
     - p[n=1]:
-      - pb[n=171]
+      - pb: 171
       - lb[n=1]: Lo sponitore.
       - lb[n=2]: La causa dubitosa, sì come fue detto in adietro, èe
       - lb[n=3]: "in due maniere: l' una che lla sentenzia è dubbia, sì come"
@@ -4504,7 +4504,7 @@ text:
       - lb[n=14]: Quando la causa fie onesta, o potemo intralasciare
       - lb[n=15]: lo principio, o, se ne pare convenevole, comincieremo
       - lb[n=16]: alla narrazione o dalla legge, o d' alcuna fermissima
-      - pb[n=172]
+      - pb: 172
       - lb[n=1]: ragione della nostra diceria. Ma se ne piace usare
       - lb[n=2]: principio, dovemo usare le parti di benivoglienza per
       - lb[n=3]: accrescere quella che è.
@@ -4527,8 +4527,8 @@ text:
       - lb[n=17]: perciò in detto caso il nostro principio dee essere in parole
       - lb[n=18]: apropiate a benivolenza.
   - part[n=92]:
-    - milestone[unit=chapter,n=XVI]
-    - pb[n=173]
+    - milestone@chapter: XVI
+    - pb: 173
     - p:
       - lb[n=1]: Della causa obscura.
       - lb[n=2]: Nella causa la quale è oscura conviene
@@ -4548,7 +4548,7 @@ text:
       - lb[n=15]: d' intendere il fatto, noi andremo innanzi a dire la nostra
       - lb[n=16]: ragione sì come si conviene al fatto.
   - part[n=93]:
-    - pb[n=174]
+    - pb: 174
     - p:
       - lb[n=1]: Le ragioni delle cose.
       - lb[n=2]: Et perciò che infin ad ora noi avemo detto che
@@ -4573,7 +4573,7 @@ text:
       - lb[n=17]: In questa parte insegna Tullio acquistare benivolenza,
       - lb[n=18]: e perciò ch' ella non si puote avere se non per quello
       - lb[n=19]: che ss' apartiene alle persone et al fatto, sì dice che quattro
-      - pb[n=175]
+      - pb: 175
       - lb[n=1]: luogora sono dalle quali muove benivolenza. Il primo
       - lb[n=2]: luogo si è la nostra persona e di coloro per cui noi dicemo.
       - lb[n=3]: Il secondo luogo si è la persona de' nostri adversarii
@@ -4596,7 +4596,7 @@ text:
       - lb[n=17]: Sponitore.
       - lb[n=18]: Conquistare benivolenza dalla nostra persona si è
       - lb[n=19]: dicere della persona nostra, o di coloro per cui noi dicemo,
-      - pb[n=176]
+      - pb: 176
       - lb[n=1]: quelle pertenenze per le quali l' uditore sia benivolo verso
       - lb[n=2]: noi. Et sappie che certe cose s' apartengono alle persone
       - lb[n=3]: e certe alla causa; e di queste pertinenze tratterà il conto
@@ -4625,7 +4625,7 @@ text:
     - p[n=4]:
       - Il secondo modo si
       - lb[n=22]: è se noi ne leviamo da dosso a noi et a' nostri le colpe
-      - pb[n=177]
+      - pb: 177
       - lb[n=1]: e le disoneste sospeccioni che cci sono messe et apposte
       - lb[n=2]: sopra; et intendi che colpe sono appellati que' peccati
       - lb[n=3]: che sono apposti altrui apertamente davanti al viso, sì
@@ -4654,7 +4654,7 @@ text:
       - lb[n=24]: non dovrebbe impaurire l' altrui bellezza».
     - p[n=6]:
       - Il terzo
-      - pb[n=178]
+      - pb: 178
       - lb[n=1]: modo è se noi contiamo i mali che sono advenuti e li
       - lb[n=2]: "'ncrescimenti che sono presenti. Così Boezio, contando"
       - lb[n=3]: ciò ch' avenuto era, acquistò la benivolenza dell' uditore
@@ -4680,7 +4680,7 @@ text:
       - lb[n=21]: ultimi fatti e delli anni della mia fine, perché non mi
       - lb[n=22]: convenga essere servo in vecchiezza, il quale sono usato
       - lb[n=23]: di segnoreggiare in giovane etade». Et queste preghiere
-      - pb[n=179]
+      - pb: 179
       - lb[n=1]: talfiata sono aperte, sì come quelle di Pompeio, talfiata
       - lb[n=2]: sono ascose, sì come quelle di Dido in queste parole ch' ella
       - lb[n=3]: 'mandò ad Eneas: «Io» disse ella «non dico queste parole'
@@ -4700,7 +4700,7 @@ text:
       - lb[n=15]: sono a noi; omai dirà il secondo luogo, cioè della persona
       - lb[n=16]: delli adversarii e di coloro contra cui noi dicemo.
   - part[n=96]:
-    - pb[n=180]
+    - pb: 180
     - p:
       - lb[n=1]: Sopra il secondo prolago.
       - lb[n=2]: Dalla persona delli aversarii se noi li mettemo
@@ -4726,7 +4726,7 @@ text:
       - lb[n=18]: Noi potemo i nostri adversarii mettere inn odio dell'
       - lb[n=19]: uditore se noi dicemo ch' elli ànno alcuna cosa fatta isnaturalmente,
       - lb[n=20]: contra l' ordine di natura, sì come mangiare
-      - pb[n=181]
+      - pb: 181
       - lb[n=1]: carne umana et altre simili cose delle quali lo sponitore
       - lb[n=2]: si tace presentemente. O se noi dicemo ch' elli abian fatto
       - lb[n=3]: superbiamente, cioè non temendo né curando de' signori
@@ -4750,7 +4750,7 @@ text:
       - lb[n=17]: in odio et in malavoglienza dell' uditore. Da quinci innanzi
       - lb[n=18]: dicerà come noi li potemo mettere in loro invidia.
   - part[n=98]:
-    - pb[n=182]
+    - pb: 182
     - p:
       - lb[n=1]: Tullio.
       - lb[n=2]: In invidia dicendo la loro forza, la potenza, le
@@ -4776,7 +4776,7 @@ text:
       - lb[n=19]: usa in tradimenti e distruzioni di terre e di genti». Così
       - lb[n=20]: "disse Catellina contra ' Romani: «Appo loro sono li onori"
       - lb[n=21]: e le potenzie, ma a nnoi ànno lasciati i pericoli e le povertadi».
-      - pb[n=183]
+      - pb: 183
       - lb[n=1]: Et ora è detto della invidia contra i nostri
       - lb[n=2]: adversarii; sì dicerà il conto come noi li potemo mettere
       - lb[n=3]: in dispetto.
@@ -4801,7 +4801,7 @@ text:
     - p[n=2]:
       - Et ora
       - lb[n=19]: à detto il conto come noi potemo acquistare la benivolienza
-      - pb[n=184]
+      - pb: 184
       - lb[n=1]: dell' uditore dalla persona de' nostri adversarii
       - lb[n=2]: mettendoli inn odio et in invidia et in dispetto, et à
       - lb[n=3]: insegnato come si puote ciò fare. Omai tornerà alla materia
@@ -4822,7 +4822,7 @@ text:
       - lb[n=15]: le loro opere per fortezza e per franchezza e per prodezza,
       - lb[n=16]: per senno e per mansuetudine, cioè per misurata umilitade,
       - lb[n=17]: e dicendo come la gente crede di loro tutto bene
-      - pb[n=185]
+      - pb: 185
       - lb[n=1]: et onestade, e come la gente aspetta la loro sentenza
       - lb[n=2]: sopra questo fatto, credendo fermamente che fie sì giusta
       - lb[n=3]: e di tanta autoritade che in perpetuo si debbia così oservare
@@ -4854,7 +4854,7 @@ text:
     - p[n=6]:
       - D' attendere la sua buona sentenza
       - lb[n=22]: 'lodò Tullio Cesare parlando di Marco Marcello:'
-      - pb[n=186]
+      - pb: 186
       - lb[n=1]: «La sentenza ch' è ora attesa da te sopra questo convenente
       - lb[n=2]: non tocca pure ad una cosa, ma à ad convenire
       - lb[n=3]: a tutte le somiglianti, perciò che quello che voi giudicarete
@@ -4878,7 +4878,7 @@ text:
       - lb[n=16]: 'confortando la sua gente alla guerra di Cesare: «La'
       - lb[n=17]: nostra causa piena di diritto e di giustizia, perciò ch' ella
       - lb[n=18]: è migliore che quella de' nemici, ne dà ferma speranza
-      - pb[n=187]
+      - pb: 187
       - lb[n=1]: d' avere Dio in nostro adiuto».
     - p[n=2]:
       - Et omai à divisato
@@ -4901,7 +4901,7 @@ text:
       - lb[n=15]: Sponitore.
       - lb[n=16]: Avendo Tullio dato intero insegnamento d' acquistare
       - lb[n=17]: la benivolenza di quelle persone davante cui noi
-      - pb[n=188]
+      - pb: 188
       - lb[n=1]: proponemo le nostre parole, sì che l' animo s' adirizzi et
       - lb[n=2]: invii in piacere di noi e della nostra causa e che siano
       - lb[n=3]: contrarii e malevoglienti a' nostri adversarii, sì vuole Tullio
@@ -4927,7 +4927,7 @@ text:
       - lb[n=19]: avenuto o puote advenire per le novitadi che fatte sono,
       - lb[n=20]: 'sì come disse Catellina: «Poi che lla forza del comune'
       - lb[n=21]: è divenuta alle mani della minuta gente et in podere
-      - pb[n=189]
+      - pb: 189
       - lb[n=1]: del populo grasso, noi nobili, noi potenti a cui si convengono
       - lb[n=2]: li onori, siemo divenuti vile populo sanza onore
       - lb[n=3]: e sanza grazia e sanza autoritade».
@@ -4946,7 +4946,7 @@ text:
       - lb[n=12]: che 'l convenente sopra 'l quale dee essere il mio parlamento
       - lb[n=13]: a tutti tocca od a coloro che ll' odono, sì come disse
       - lb[n=14]: 'Cato parlando della congiurazione di Catellina: «Congiurato'
-      - pb[n=190]
+      - pb: 190
       - lb[n=1]: ànno i nobilissimi cittadini incendere e distruggere
       - lb[n=2]: la patria nostra, e 'l lor capitano ne sta sopra capo.
       - lb[n=3]: Adunque dovete compensare che voi dovete sentenziare
@@ -4967,7 +4967,7 @@ text:
     - p[n=8]:
       - Altressì fie intento
       - lb[n=15]: s' io dico nel principio di dire la mia causa brevemente
-      - pb[n=191]
+      - pb: 191
       - lb[n=1]: et in poche parole, sì come disse il poeta per contare la storia
       - lb[n=2]: 'di Troia: «Io dirò la somma, come Elena fue rapita'
       - lb[n=3]: per solo inganno e come Troia per solo inganno fue presa
@@ -4990,7 +4990,7 @@ text:
       - lb[n=17]: potemo fare intento l' uditore, sì dirà come noi il potemo
       - lb[n=18]: fare docile.
   - part[n=103]:
-    - pb[n=192]
+    - pb: 192
     - p:
       - lb[n=1]: Come l' uditore sia docile.
       - lb[n=2]: Docili faremo li uditori se noi proporremo
@@ -5013,7 +5013,7 @@ text:
       - lb[n=18]: in mal dire, che tu la perda in mal udire».
     - p[n=2]:
       - Questo
-      - pb[n=193]
+      - pb: 193
       - lb[n=1]: et altri molti exempli potrei io mettere per fare l' uditore
       - lb[n=2]: docile, sì come buono intenditore puote vedere
       - lb[n=3]: e sapere in ciò ch' è detto davanti. Et perciò che 'l conto
@@ -5023,7 +5023,7 @@ text:
       - lb[n=7]: docile et intento, sì dirà lo 'nsegnamento della insinuazione
       - lb[n=8]: 'in questo modo:'
   - part[n=104]:
-    - milestone[unit=chapter,n=XVII]
+    - milestone@chapter: XVII
     - p:
       - lb[n=9]: Lo 'nsegnamento della Insinuazione.
       - lb[n=10]: Oramai pare che sia a dire come
@@ -5039,7 +5039,7 @@ text:
       - lb[n=20]: cosa, non meno che per le due primiere, sovente s' offende
       - lb[n=21]: l' animo dell' uditore.
     - p[n=1]:
-      - pb[n=194]
+      - pb: 194
       - lb[n=1]: Sponitore.
       - lb[n=2]: In adietro è detto sofficientemente come noi potemo
       - lb[n=3]: acquistare la benivolenza dell' uditore e farlo docile et intento
@@ -5064,7 +5064,7 @@ text:
       - lb[n=18]: pare essere in suo odio. Adunque ne conviene vedere in
       - lb[n=19]: quanti e quali casi la nostra causa puote essere mirabile,
       - lb[n=20]: e poi vedere come noi potemo contraparare a ciascuno;
-      - pb[n=195]
+      - pb: 195
       - lb[n=1]: e sono tre casi.
     - p[n=4]:
       - Primo caso si è quando sie nella causa
@@ -5093,7 +5093,7 @@ text:
       - lb[n=20]: rimedi di parole incontra ciascuno caso contrario, secondo
       - lb[n=21]: lo 'nsegnamento di Tulio.
   - part[n=105]:
-    - pb[n=196]
+    - pb: 196
     - p:
       - lb[n=1]: Della laidezza della causa.
       - lb[n=2]: Se la laidezza della causa mette l' offensione,
@@ -5114,7 +5114,7 @@ text:
       - lb[n=17]: oscuramente facciendolo allunghi quanto puoi da lloro
       - lb[n=18]: la volontade dell' uditore; e proferere la sentenzia d' altri
       - lb[n=19]: in somiglianti cose, o altoritade che sia degna d' essere
-      - pb[n=197]
+      - pb: 197
       - lb[n=1]: seguita; et apresso dimostrare che presentemente si
       - lb[n=2]: tratta simile cosa, o maggiore o minore.
     - p[n=1]:
@@ -5140,7 +5140,7 @@ text:
       - lb[n=20]: com' elli era nato di Telamone, il quale altra fiata
       - lb[n=21]: prese Troia al tempo del forte Hercole; e così mettea
       - lb[n=22]: la persona avanti amata e graziosa in luogo di sé
-      - pb[n=198]
+      - pb: 198
       - lb[n=1]: et in suo aiuto, per piacerne alla gente e per avere buona
       - lb[n=2]: causa.
     - p[n=3]:
