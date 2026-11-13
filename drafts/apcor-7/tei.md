@@ -1,0 +1,53 @@
+* footnotes are moved into inline `note` elements (for now)
+* all content is wrapped in `p` elements
+* linebreaks marked with "/" are translated into "-" + `lb@break="no"`
+
+* fixes:
+
+    * remove footnote numbers
+    * fix language tags
+    * brackets are removed from line breaks
+    * various wrong encodings in the notes
+
+### Unit Mapping
+The TITUS 1 structural units are mapped onto TEI as follows:
+
+| Source Unit | TEI Mapping | Notes |
+|-------------|-------------|-------|
+| `Text` (hierarchical) | `div@text` (hierarchical) | Automatically translated into named div |
+| `Part` (linear) | `milestone@part` (linear) |  |
+| `Item` (hierarchical) | `pb` (linear) |  |
+| `Line` (hierarchical) | `lb` (linear) |  |
+
+### Structural overview
+```text
+text (@xml:lang=und-Latn-x-glpt)
+  body
+    p (@xml:id)
+      [lb (@n) (multiple)]
+      [milestone (@n, @type=inline, @unit=part, @xml:id) (multiple)]
+      [note (@xml:id) (multiple)]
+        [foreign (@xml:lang=por-Latn) (multiple)]
+          [foreign (@xml:lang=und-Latn-x-glpt)]
+      [pb (@n) (multiple)]
+      [lb (@break=no, @n) (multiple)]
+    [pb (@n)]
+```
+
+### Structure Example
+
+```xml
+<p xmlns="http://www.tei-c.org/ns/1.0" xml:id="p-1">
+        <lb n="1"/>
+        <milestone unit="part" n="1" type="inline" xml:id="p-1-milestone-1"/>Aquy se comeca<note xml:id="p-1-note-1">comeca: <foreign xml:lang="por-Latn">JJN</foreign> começa.</note> a vida d'hũa<note xml:id="p-1-note-2">d'hüa: dhüa, <foreign xml:lang="por-Latn">JJN</foreign> de hüa.</note> muy sancta mõja<note xml:id="p-1-note-3">mõja: <foreign xml:lang="por-Latn">JJN</foreign> monja <foreign xml:lang="por-Latn">(comportamento sistemático em Nunes, que deixo de anotar).</foreign>
+        </note>
+        <pb n="73v"/>
+        <lb n="1"/>
+        <milestone unit="part" n="2" type="inline" xml:id="p-1-milestone-2"/>Contou hũu padre santo, dizendo que era hũa
+        <lb n="2"/>virgem que aproveytara muito ë no<note xml:id="p-1-note-4">? no: <foreign xml:lang="por-Latn">JJN</foreign> em no.</note> amor
+        <lb n="3"/>de Deos, e em seu temor. E preguntey-a que quem<note xml:id="p-1-note-5">preguntey-a que quem: pgunteya q quem, <foreign xml:lang="por-Latn">JJN</foreign> preguntey-a (que) quem.</note>
+        <lb n="4"/>a trouvera a tam boa conversaçom de vyda. E
+        <lb n="5"/>ella (me) disse<note xml:id="p-1-note-6">ella (me) disse: me <foreign xml:lang="por-Latn">em letra e tinta diferentes, sobre rasura ilegível.</foreign>
+        </note> ? Ô homë<note xml:id="p-1-note-7">hom?: <foreign xml:lang="por-Latn">JJN</foreign> homem <foreign xml:lang="por-Latn">(comportamento sistemático em Nunes, que deixo de anotar).</foreign>
+  ...
+```
