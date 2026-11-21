@@ -22,13 +22,13 @@
       <publicationStmt>
         <publisher>Goethe University</publisher>
         <pubPlace>Frankfurt</pubPlace>
-        <date when="2025-01-13">2025-01-13</date>
+        <date when="2026-11-21">2026-11-21</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
-          <p>Preferred citation: <note type="citation">Digital version of Physiologus: The Latin Version (draft version). 2025-01-13. By: Jost Gippert, Thomas Klein, Florian Matter. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+          <p>Preferred citation: <note type="citation">Digital version of Physiologus: The Latin Version (v0.0.1.draft). 2026-11-21. By: Jost Gippert, Thomas Klein, Florian Matter. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
           </p>
         </availability>
-        <idno type="version">unreleased</idno>
+        <idno type="version">0.0.1.draft</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl xml:id="stein-ahd">
@@ -39,15 +39,15 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="lat-Latn" ana="primary">Latin</language>
-        <language ident="und-Latn-x-general" ana="meta">General</language>
+        <language ana="primary" ident="lat-Latn">Latin</language>
+        <language ana="meta" ident="und-Latn-x-general">General</language>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text xml:lang="lat-Latn">
     <body>
-      <div n="1" xml:id="text-1" type="text" data-level="1">
-        <pb type="edition" n="124" />
+      <div data-level="1" n="1" type="text" xml:id="text-1">
+        <pb n="124" type="edition" />
         <head n="1">De leone.</head>
         <p xml:id="text-1-p-1">
           <lb n="2" />* Igitur Jacob benedicens filium suum Juda dicebat »Catulus leonis
@@ -68,12 +68,12 @@
 <lb n="14" />et vivificat eum. Sic et deus omnipotens pater filium suum dominum
 <lb n="15" />nostrum tertia die suscitavit a mortuis ...</p>
       </div>
-      <div n="2" xml:id="text-2" type="text" data-level="1">
+      <div data-level="1" n="2" type="text" xml:id="text-2">
         <head n="16">De panthera.</head>
         <p xml:id="text-2-p-2">
           <lb n="17" />Est et animal, quod dicitur panthera, vario quidem colore, sed
           <lb n="18" />speciosum nimis et mansuetum valde. Physiologus dicit, quod inimicum
-          <pb type="edition" n="125" />
+          <pb n="125" type="edition" />
           <lb n="19" />sit solis draconibus. Cum [commederit] consaciaverit se diversis
           <lb n="20" />venationibus, recipitur in speluncam suam ponensque se dormit
           <lb n="21" />per triduum. Surgens autem a somno statim emittit rugitum peraltum
@@ -96,8 +96,8 @@
           <lb n="38" />inimicum. ... tertia die surgens a mortuis ... statim exclamat
           <lb n="39" />ita, ut in omnem terram audiretur vox ...</p>
       </div>
-      <div n="3" xml:id="text-3" type="text" data-level="1">
-        <pb type="edition" n="126" />
+      <div data-level="1" n="3" type="text" xml:id="text-3">
+        <pb n="126" type="edition" />
         <head n="40">Monoceros.</head>
         <p xml:id="text-3-p-3">
           <lb n="41" />Est aliud animal, quod graece dicitur monoceros, latine vero unicornis.
@@ -113,23 +113,24 @@
           <lb n="51" />incarnationis ejus misterium non valet, sed sola voluntate
           <lb n="52" />patris descendit in uterum virginis et verbum caro factum est.</p>
       </div>
-      <div n="4" xml:id="text-4" type="text" data-level="1">
+      <div data-level="1" n="4" type="text" xml:id="text-4">
         <head n="53">De ydro.</head>
         <p xml:id="text-4-p-4">
           <lb n="54" />Est et aliud animal, quod est in Nilo flumine et vocatur hydrus. ...
           <lb n="55" />satis hoc animal inimicum est corcodrillo. ... Cum viderit corcodrillum
-          <lb n="56" />in litore fluminis dormientem ore aperto, vadit et volitatin litore fluminis dormientem ore aperto, vadit et<choice>
+          <lb n="56" />in litore fluminis dormientem ore aperto, vadit et<choice>
             <corr>volutat</corr>
             <sic>volitat</sic>
-          </choice>se in luto ... veniensque insiliet in os corcodrilli, qui subito
-<pb type="edition" n="127" />
+          </choice>
+          <lb n="57" />se in luto ... veniensque insiliet in os corcodrilli, qui subito
+          <pb n="127" type="edition" />
           <lb n="58" />vivum transgluciet. Hydrus autem dilanians omnia viscera ejus, exiet
           <lb n="59" />vivus de visceribus ejus, corcodrillo jam mortuo ... et significat
           <lb n="60" />mortem et infernum vel unumquemque inimicum salvatoris, qui tamen
           <lb n="61" />assumta mortali natura carne descendit in infernum ... eduxitque
           <lb n="62" />pene omnes, qui ab eo devorati tenebantur in morte ...</p>
       </div>
-      <div n="5" xml:id="text-5" type="text" data-level="1">
+      <div data-level="1" n="5" type="text" xml:id="text-5">
         <head n="63">De sirenis et onocenthauris.</head>
         <p xml:id="text-5-p-5">
           <lb n="64" />... Sirene ... animalia sunt mortifera, que [a capite] usque ad
@@ -142,7 +143,11 @@
             <corr>canunt</corr>
             <sic>canant</sic>
           </choice>, per quod homines navigantes
-<lb n="68" />decipiuntur, ita ut persepe auditum demulcentes <foreign xml:lang="und-Latn-x-general">(l.</foreign> auditum demulcentem?) sensumque<choice>
+<lb n="68" />decipiuntur, ita ut<choice>
+            <corr>per auditum demulcentem?</corr>
+            <sic>persepe auditum demulcentes</sic>
+          </choice>
+          <lb n="69" />sensumque<choice>
             <corr>delenientem?</corr>
             <sic>delimentes</sic>
           </choice>in
@@ -154,18 +159,19 @@
             <sic>eo</sic>
           </choice>
           <lb n="71" />esse sopitos, invadunt et laniant carnes eorum. Sic igitur decipiuntur
-          <lb n="72" />illi, qui diabolicis pompis et theatralibus voluptatibus delectariilli, qui diabolicis pompis et theatralibus voluptatibus<choice>
+          <lb n="72" />illi, qui diabolicis pompis et theatralibus voluptatibus<choice>
             <corr>delectari</corr>
             <sic>delectari</sic>
-          </choice>... efficiuntur ad adverse virtutis avidissima <foreign xml:lang="und-Latn-x-general">(l.</foreign>
+          </choice>
+          <lb n="73" />... efficiuntur ad adverse virtutis avidissima <foreign xml:lang="und-Latn-x-general">(l. </foreign> adversarii
           <lb n="74" />avidissimi ?) preda. Eo modo onocenthaurus duabus naturis
           <lb n="75" />constat ... Nam superior pars homini similis est posteriorque asino
           <lb n="76" />similis. ... Per hunc assimilantur vecordes et bilingues homines,
           <lb n="77" />moribus informes, habentes speciem pietatis, virtutem ejus
           <lb n="78" />abnegantes ...</p>
       </div>
-      <div n="6" xml:id="text-6" type="text" data-level="1">
-        <pb type="edition" n="128" />
+      <div data-level="1" n="6" type="text" xml:id="text-6">
+        <pb n="128" type="edition" />
         <head n="79">De hiena.</head>
         <p xml:id="text-6-p-6">
           <lb n="80" />Est et aliud animal, quod graece<choice>
@@ -178,7 +184,7 @@
 <lb n="84" />est nec fidelis nec perfidus, sed sicut Salemon dicit »Vir duplex corde
 <lb n="85" />inconstans est in omnibus viis suis«.</p>
       </div>
-      <div n="7" xml:id="text-7" type="text" data-level="1">
+      <div data-level="1" n="7" type="text" xml:id="text-7">
         <head n="86">De onagro.</head>
         <p xml:id="text-7-p-7">
           <lb n="87" />Est et animal aliud, quod dicitur onager ... XXV. die mensis
@@ -198,13 +204,13 @@
 <lb n="91" />Onager igitur figuram diaboli gerit ... Neque rugiet aliquando, nisi
 <lb n="92" />quando escam querit ...</p>
       </div>
-      <div n="8" xml:id="text-8" type="text" data-level="1">
+      <div data-level="1" n="8" type="text" xml:id="text-8">
         <head n="93">De elephante.</head>
         <p xml:id="text-8-p-8">
           <lb n="94" />Item est bestia, elephans nomine ... intellectum magnum habet
           <lb n="95" />in se, concupiscentiam vero carnis minime in se habere dicitur. Tempore
           <lb n="96" />autem suo, cum voluerit filios procreare, vadit in orientem cum
-          <pb type="edition" n="129" />
+          <pb n="129" type="edition" />
           <lb n="97" />femina sua usque in proximum paradisi. Est autem ibidem herba
           <lb n="98" />mandragora nomine. De cujus fructu femina prior degustet et tunc
           <lb n="99" />masculum illuc deducet, ut persuasus manducet. Postquam vero manducaverint
@@ -228,7 +234,7 @@
           </choice>, ... David insinuat, cum dicit
 <lb n="111" />»Salvum me fac, deus ...«.</p>
       </div>
-      <div n="9" xml:id="text-9" type="text" data-level="1">
+      <div data-level="1" n="9" type="text" xml:id="text-9">
         <head n="112">De autula.</head>
         <p xml:id="text-9-p-9">
           <lb n="113" />Est et animal autula nomine, acerrimum nimis, ita ut nec ullus
@@ -238,7 +244,7 @@
           <lb n="117" />Quando vero sitierit, venit ad flumen magnum Eufraten et bibit:
           <lb n="118" />sunt autem ibi virge viticee subtiles et molles. Incipit autem et animal
           <lb n="119" />illud ludere cum virgulis istis et in ludendo obligat semet ipsum120   cornu, obligatusque ambis cornibus vociferat[que] cum rugitu, quia
-          <pb type="edition" n="130" />
+          <pb n="130" type="edition" />
           <lb n="121" />evadere non potest, gracilibus virgulis circumseptus. Et tunc quilibet
           <lb n="122" />venatorum absconditus, audiens vocem ejus, currit et ligatum inveniens
           <lb n="123" />occidit. ... et tu, homo, qui<choice>
@@ -248,13 +254,16 @@
 <lb n="124" />abscidisti<choice>
             <corr>forte?</corr>
             <sic>fore</sic>
-          </choice>detractiones, cupitidates <foreign xml:lang="und-Latn-x-general">(l.</foreign>
-          <lb n="125" />cupiditates), libidines, silvam secularem et pompam diaboli ... Sed
+          </choice>detractiones,<choice>
+            <corr>cupiditates</corr>
+            <sic>cupitidates</sic>
+          </choice>
+          <lb n="125" />, libidines, silvam secularem et pompam diaboli ... Sed
           <lb n="126" />noli ludere cum vino, in quo est luxuria, nec te obliges et incidas in
           <lb n="127" />muscipulam adversarii ... vir autem sapiens et prudens a vino et
           <lb n="128" />muliere se avertit. ...</p>
       </div>
-      <div n="10" xml:id="text-10" type="text" data-level="1">
+      <div data-level="1" n="10" type="text" xml:id="text-10">
         <head n="129">De Serra.</head>
         <p xml:id="text-10-p-10">
           <lb n="130" />Est et animal in mari, quod dicitur serra, spinas habens prope se
@@ -275,8 +284,8 @@
 <lb n="138" />profitentur abstinentiam, sed non perseverant usque in
 <lb n="139" />finem ...</p>
       </div>
-      <div n="11" xml:id="text-11" type="text" data-level="1">
-        <pb type="edition" n="131" />
+      <div data-level="1" n="11" type="text" xml:id="text-11">
+        <pb n="131" type="edition" />
         <head n="140">De vipera.</head>
         <p xml:id="text-11-p-11">
           <lb n="141" />... Phisiologus dicit de vipera sua. Quando coitum facit, masculus
@@ -304,11 +313,11 @@
             <corr>insiliat</corr>
             <sic>insiliet</sic>
           </choice>super eum. Et nos
-<pb type="edition" n="132" />
+<pb n="132" type="edition" />
           <lb n="160" />prudenter intelligamus, quando pater noster erat in paradiso nudus,
           <lb n="161" />non prevalebat adversus eum diabolus serpens antiquus.</p>
       </div>
-      <div n="12" xml:id="text-12" type="text" data-level="1">
+      <div data-level="1" n="12" type="text" xml:id="text-12">
         <head n="162">De lacerta id est saura.</head>
         <p xml:id="text-12-p-12">
           <lb n="163" />Est<choice>
